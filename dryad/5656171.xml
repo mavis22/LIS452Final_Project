@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5656171</identifier><datestamp>2015-06-24T17:25:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7F63M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tuck, Geoffrey N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomson, Robin B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbraud, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delord, Karine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Louzao, Maite</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herrera, Miguel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weimerskirch, Henri</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>IOTC pelagic longline</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>albatross</subject>
+      <subject>bycatch</subject>
+      <subject>longline fishing</subject>
+      <subject>spatial management</subject>
+      <subject>population model</subject>
+      <subject>personality</subject>
+      <subject>genetics</subject>
+      <subject>evolution</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7F63M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2612203 bytes</size>
+      <size>1667 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Indian Ocean longline data from the IOTC (www.iotc.org)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

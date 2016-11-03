@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5568662</identifier><datestamp>2015-07-27T20:40:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.56360.2/2.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Faulks, Leanne Key</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stable Isotope data of N &amp; C</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Biogeography</subject>
+      <subject>Gene flow</subject>
+      <subject>Macroecology</subject>
+      <subject>Metacommunities</subject>
+      <subject>Fish</subject>
+      <subject>Sweden</subject>
+      <subject>Alburnus  alburnus</subject>
+      <subject>Abramis  brama</subject>
+      <subject>Perca fluviatilis</subject>
+      <subject>Rutilus rutilus</subject>
+      <subject>Scardinius erythrophthalmus</subject>
+      <subject>Gymnocephalus cernua</subject>
+      <subject>Osmerus  eperlanus</subject>
+      <subject>Coregonus albula</subject>
+      <subject>Coregonus  megalops</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.56360.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>189435 bytes</size>
+      <size>742 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data of stable isotopes of N and C of all species. Read the README-file for information on abbrevations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

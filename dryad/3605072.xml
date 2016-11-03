@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3605072</identifier><datestamp>2014-05-30T09:41:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MS6C2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Krumhansl, Kira A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheibling, Robert E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Spatial and temporal variation in grazing damage by the gastropod Lacuna vincta in Nova Scotian kelp beds</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Lacuna vincta</subject>
+      <subject>kelp</subject>
+      <subject>mesograzer</subject>
+      <subject>erosion</subject>
+      <subject>detrital production</subject>
+      <subject>blade damage</subject>
+      <subject>Nova Scotia</subject>
+      <subject>St. Margaret's Bay</subject>
+      <subject>Duncan's Cove</subject>
+      <subject>Ketch Harbour</subject>
+      <subject>July 2008-September 2009</subject>
+      <subject>Laminaria digitata</subject>
+      <subject>Saccharina latissima</subject>
+      <subject>Lacuna vincta</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Krumhansl KA, Scheibling RE (2011) Spatial and temporal variation in grazing damage by the gastropod Lacuna vincta in Nova Scotian kelp beds. Aquatic Biology 13: 163-173.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MS6C2/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MS6C2/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3354/AB00366</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

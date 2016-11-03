@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4071213</identifier><datestamp>2014-12-03T21:05:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HC445/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yi, Hui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Breheny, Patrick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iman, Netsanet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Yongmei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoeschele, Ina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PhenotypeReplicate18</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Genome-wide Association Study</subject>
+      <subject>penalized regression</subject>
+      <subject>false discovery rate</subject>
+      <subject>linkage disequilibrium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HC445</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1734 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phenotype for 201 individuals for data replicate 18 corresponding to the genotype matrix for chromosome 21 and the 8-QTL scenario</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

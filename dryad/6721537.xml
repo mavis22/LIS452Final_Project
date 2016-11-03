@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721537</identifier><datestamp>2015-09-03T14:22:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.364MB/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Michel, Nicole L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Adam C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Robert G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Christy A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hobson, Keith A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Appendix 4: Dynamic factor analysis code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>aerial insectivorous birds</subject>
+      <subject>population synchrony</subject>
+      <subject>spatial concordance</subject>
+      <subject>North American Breeding Bird Survey</subject>
+      <subject>North America</subject>
+      <subject>Chaetura pelagica</subject>
+      <subject>Progne subis</subject>
+      <subject>Hirundo rustica</subject>
+      <subject>Tachycineta bicolor</subject>
+      <subject>Stelgidopteryx serripennis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.364MB</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7324 bytes</size>
+      <size>2638 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R script containing code to run dynamic factor analysis. See the ReadMe file for full description.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

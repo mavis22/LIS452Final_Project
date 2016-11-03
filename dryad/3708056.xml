@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3708056</identifier><datestamp>2014-08-07T18:20:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6DT17</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bond, Jason E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garrison, Nicole L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamilton, Chris A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godwin, Rebecca L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedin, Marshal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agnarsson, Ingi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenomics resolves a spider backbone phylogeny and rejects a prevailing paradigm for orb web evolution</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Phylogenomics</subject>
+      <subject>Orb web monophyly</subject>
+      <subject>Araneae</subject>
+      <subject>Orbiculariae</subject>
+      <subject>Mygalomorphae</subject>
+      <subject>Araneomorphae</subject>
+      <subject>Haplogynae</subject>
+      <subject>Entelegynae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bond JE, Garrison NL, Hamilton CA, Godwin RL, Hedin M, Agnarsson I (2014) Phylogenomics resolves a spider backbone phylogeny and rejects a prevailing paradigm for orb web evolution. Current Biology 24(15): 1765-1771.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6DT17/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.CUB.2014.06.034</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

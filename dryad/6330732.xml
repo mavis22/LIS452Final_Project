@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330732</identifier><datestamp>2015-06-16T20:54:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5DR7B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Abbott, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Battaglia, Loretta L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Purple pitcher plant (Sarracenia rosea) dieback and partial community disassembly following experimental storm surge in a coastal pitcher plant bog</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Pitcher Plant Bog</subject>
+      <subject>Pine Savanna</subject>
+      <subject>Climate Change</subject>
+      <subject>Hurricane</subject>
+      <subject>Storm Surge</subject>
+      <subject>Sedimentation</subject>
+      <subject>Salt Water</subject>
+      <subject>Florida</subject>
+      <subject>Holocene</subject>
+      <subject>Sarracenia rosea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Abbott MJ, Battaglia LL (2015) Purple pitcher plant (Sarracenia rosea) dieback and partial community disassembly following experimental storm surge in a coastal pitcher plant bog. PLOS ONE 10(4): e0125475.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5DR7B/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5DR7B/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5DR7B/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0125475</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

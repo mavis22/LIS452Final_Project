@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6620380</identifier><datestamp>2015-10-12T19:56:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BT7V0/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marshall, Tom Rhys</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergmann, Til Ole</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Ole</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gamma modulation TFR - sensor level (Fig 2A/B)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Magnetoencephalography</subject>
+      <subject>Neuronal Oscillation</subject>
+      <subject>Attention</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BT7V0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1023583 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fieldtrip structure containing a time-frequency representation of the grand average alpha modulation index scores from all 26 subjects at the sensor level. The user will need to download and install the fieldtrip matlab toolbox (http://www.fieldtriptoolbox.org/) to visualise this data. The following matlab code will reproduce the top rows of Fig 2A and Fig 2B from this structure:&#13;
+figure&#13;
+cfg=[];&#13;
+cfg.zlim=[-1.5 1.5];&#13;
+cfg.channel={'MLO*'};&#13;
+subplot(2,1,1),ft_singleplotTFR(cfg,gmod_g);&#13;
+cfg.channel={'MRO*'};&#13;
+subplot(2,1,2),ft_singleplotTFR(cfg,gmod_g);</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

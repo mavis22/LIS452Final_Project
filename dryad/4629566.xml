@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629566</identifier><datestamp>2015-03-13T19:00:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7P60N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Avgar, Tal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Glen S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodgers, Art R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mosser, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fryxell, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patterson, Brent R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newmaster, Steven G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reid, Doug E. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turetsky, Merritt</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_2.313_5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>apparent competition</subject>
+      <subject>attribute memory</subject>
+      <subject>informative prior</subject>
+      <subject>landscape of fear</subject>
+      <subject>perceptual range</subject>
+      <subject>redistribution kernel</subject>
+      <subject>resource selection</subject>
+      <subject>spatial memory</subject>
+      <subject>step selection</subject>
+      <subject>telemetry</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7P60N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21020186 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">a .mat file containing all data needed to run the cognitive movement model for a single animal: AU313</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

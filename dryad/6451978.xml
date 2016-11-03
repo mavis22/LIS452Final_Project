@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6451978</identifier><datestamp>2015-08-14T19:07:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PJ620</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kakioka, Ryo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kokita, Tomoyuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumada, Hiroki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Watanabe, Katsutoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okuda, Noboru</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genomic architecture of habitat-related divergence and signature of directional selection in the body shapes of Gnathopogon fishes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>geometric morphometrics</subject>
+      <subject>QTL mapping</subject>
+      <subject>morphological adaptation</subject>
+      <subject>genetic modularity</subject>
+      <subject>RAD-seq</subject>
+      <subject>ancient Lake Biwa</subject>
+      <subject>Japan</subject>
+      <subject>Lake Biwa</subject>
+      <subject>Gnathopogon caerulescens</subject>
+      <subject>Gnathopogon elongatus elongatus</subject>
+      <subject>Gnathopogon elongatus suwae</subject>
+      <subject>Gobioninae</subject>
+      <subject>Cyprinidae</subject>
+      <subject>Cypriniformes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kakioka R, Kokita T, Kumada H, Watanabe K, Okuda N (2015) Genomic architecture of habitat-related divergence and signature of directional selection in the body shapes of Gnathopogon fishes. Molecular Ecology 24(16): 4159&#8211;4174.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13309</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

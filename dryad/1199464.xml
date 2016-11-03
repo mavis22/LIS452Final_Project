@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1199464</identifier><datestamp>2014-05-29T22:01:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4298P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pekkala, N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knott, K. E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kotiaho, J. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nissinen, K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puurtinen, M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The benefits of interpopulation hybridization diminish with increasing divergence of small populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Population genetics</subject>
+      <subject>Ecological genetics</subject>
+      <subject>Natural selection</subject>
+      <subject>Conservation genetics</subject>
+      <subject>Inbreeding</subject>
+      <subject>Hybridization</subject>
+      <subject>Genetic rescue</subject>
+      <subject>Drosophila littoralis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pekkala N, Knott E, Kotiaho J, Nissinen K, Puurtinen M (2012) The benefits of interpopulation hybridization diminish with increasing divergence of small populations. Journal of Evolutionary Biology 25(11): 2181&#8211;2193.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4298P/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4298P/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1420-9101.2012.02594.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

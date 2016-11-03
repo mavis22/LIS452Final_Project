@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4052225</identifier><datestamp>2014-12-16T16:46:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0H160/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Krauel, Jennifer J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Westbrook, John K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCracken, Gary F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>2010 Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>community-level impacts</subject>
+      <subject>ecosystem services</subject>
+      <subject>generalist predators</subject>
+      <subject>synoptic weather</subject>
+      <subject>Uvalde County</subject>
+      <subject>Texas</subject>
+      <subject>College Station</subject>
+      <subject>Helicoverpa zea</subject>
+      <subject>Spodoptera frugiperda</subject>
+      <subject>Trichoplusia ni</subject>
+      <subject>Tadarida brasiliensis</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0H160</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6276 bytes</size>
+      <size>4429 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains raw data from the 2010 field season, including bat, moth, and weather data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

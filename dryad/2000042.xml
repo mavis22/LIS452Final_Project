@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2000042</identifier><datestamp>2014-05-30T05:19:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SG573</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petrou, Eleni L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hauser, Lorenz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waples, Robin S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Jim E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Templin, William D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomez-Uchida, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Lisa W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Secondary contact and changes in coastal hydrology influence the nonequilibrium population structure of a salmonid (Oncorhynchus keta)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Fish</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Alaska</subject>
+      <subject>Kodiak Island</subject>
+      <subject>Alaska Peninsula</subject>
+      <subject>Oncorhynchus keta</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Petrou EL, Hauser L, Waples RS, Seeb JE, Templin WD, Gomez-Uchida D, Seeb LW (2013) Secondary contact and changes in coastal hydrology influence the nonequilibrium population structure of a salmonid (Oncorhynchus keta). Molecular Ecology 22(23): 5848&#8211;5860.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SG573/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12543</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

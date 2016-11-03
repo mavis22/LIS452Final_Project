@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027317</identifier><datestamp>2014-11-14T20:38:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FS4HH</identifier>
+  <creators>
+      <creator>
+         <creatorName>Eggert, Hendrik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kurtz, Joachim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Diddens-de Buhr, Maike F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Different effects of paternal trans-generational immune priming on survival and immunity in step and genetic offspring</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>insect immunity</subject>
+      <subject>paternal immune priming</subject>
+      <subject>transgenerational immune priming</subject>
+      <subject>Tribolium castaneum</subject>
+      <subject>Bacillus thuringiensis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Eggert H, Kurtz J, Diddens-de Buhr MF (2014) Different effects of paternal trans-generational immune priming on survival and immunity in step and genetic offspring. Proceedings of the Royal Society B 281(1797): 20142089.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FS4HH/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.2089</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

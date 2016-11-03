@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4064449</identifier><datestamp>2015-03-06T21:23:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1RD58/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Romero-Haro, Ana &#193;ngela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alonso-Alvarez, Carlos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Romero-Haro &amp; Alonso-Alvarez 10-3-2014 repository</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Development</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>developmental biology</subject>
+      <subject>Sexual selection</subject>
+      <subject>comparative physiology</subject>
+      <subject>Life history theory</subject>
+      <subject>Evolutionary trade-offs</subject>
+      <subject>Taeniopygia guttata</subject>
+      <subject>Aves</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-21</date>
+      <date dateType="Accepted">2014-10-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1RD58</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>328713 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-21</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing the variables used in the analyses with descriptions of each variable as comments inserted in the cell that defines each variable name.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6789627</identifier><datestamp>2015-10-06T19:17:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KP153/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cantalapiedra, Juan L&#243;pez</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hern&#225;ndez Fern&#225;ndez, Manuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Azanza, Beatriz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morales, Jorge</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset S1 &#8226; Fossil ruminants occurrences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Macroevolution</subject>
+      <subject>Paleobiology</subject>
+      <subject>diversification rates</subject>
+      <subject>living species phylogenies</subject>
+      <subject>fossil record</subject>
+      <subject>Eocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Ruminantia</subject>
+      <subject>Andegamerycidae</subject>
+      <subject>Antilocapridae</subject>
+      <subject>Archaeomerycidae</subject>
+      <subject>Bachitheriidae</subject>
+      <subject>Blastomerycidae</subject>
+      <subject>Bovidae</subject>
+      <subject>Cervidae</subject>
+      <subject>Climacoceratidae</subject>
+      <subject>Dremotheriidae</subject>
+      <subject>Dromomerycidae</subject>
+      <subject>Gelocidae</subject>
+      <subject>Giraffidae</subject>
+      <subject>Hoplitomerycidae</subject>
+      <subject>Hypertragulidae</subject>
+      <subject>Leptomerycidae</subject>
+      <subject>Lophiomerycidae</subject>
+      <subject>Moschidae</subject>
+      <subject>Palaeomerycidae</subject>
+      <subject>Tragulidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KP153</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>343665 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Information of ruminant species occurrences in the fossil record was compiled from the New and Old Worlds (NOW) database (Fortelius 2015) and the Paleobiology Database (Alroy 2015), both accessed in July 2014. Taxa not identified at the species level were excluded (1763 occurrences; see SI Text for their temporal distribution). Subsequently, the combined database was completed and refined with information from the literature (see SI Text) and information on synonyms provided by the NOW collaborators. This dataset contains 9234 fossil occurrences of 1246 ruminant species, spanning the last 50 myr. 9186 occurrences correspond to crown ruminants. We followed Met&#225;is and Vislovokowa (2007) and considered crown ruminants all families except Hypertragulidae, Lophiomerycidae and Archaeomerycidae. Species belonging to the six extant families (8558 occurrences, 1100 species) represent around 88% of ruminant fossil diversity, being recorded continuously since around 24 Ma and making most of the ruminant fossil record since around 20 Ma.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

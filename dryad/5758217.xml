@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5758217</identifier><datestamp>2015-06-25T18:33:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G75NQ/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dixon, Groves B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davies, Sarah W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aglyamova, Galina A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bay, Line K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matz, Mikhail V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>tag-based RNAseq counts for heat stress experiment in adult corals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>linkage map</subject>
+      <subject>RAD</subject>
+      <subject>tag-based RNA-seq</subject>
+      <subject>thermal tolerance</subject>
+      <subject>stress response</subject>
+      <subject>heritability</subject>
+      <subject>Great Barrier Reef</subject>
+      <subject>present</subject>
+      <subject>Acropora millepora</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G75NQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3038958 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Response of adult corals to heat stress. Letter identifies a coral colony, numbers 1 to 3 are controls fragments (ambient temperature, 28C), numbers 4 to 6 are heat-stressed fragments (3 days at 31.5C). Colonies A and B are from Orpheus Island (Central GBR), colonies C and D are from Princess Charlotte Bay (Northern GBR). These corals are the same as used as parents to produce larval cohorts (see another tag-seq dataset). The annotations for the genes ("isogroups") are in the transcriptome bundle included with this submission.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

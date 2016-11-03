@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5518565</identifier><datestamp>2015-03-24T14:55:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MB32Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Eersel, Marlise E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joosten, Hanneke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koerts, Janneke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gansevoort, Ron T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slaets, Joris P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Izaks, Gerbrand J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RFFT longitudinal data Groningen the Netherlands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>adult</subject>
+      <subject>age factors</subject>
+      <subject>executive function</subject>
+      <subject>frontal lobe</subject>
+      <subject>longitudinal study</subject>
+      <subject>neuropsychological tests</subject>
+      <subject>practice effect</subject>
+      <subject>prospective study</subject>
+      <subject>Groningen</subject>
+      <subject>the Netherlands</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MB32Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>252368 bytes</size>
+      <size>10967 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV file including the individual data on longitudinal performance on the Ruff Figural Fluency Test (RFFT) of 2,515 participants of the Prevention of Renal and Vascular ENd-stage Disease (PREVEND) study, city of Groningen, the Netherlands. Performance on the RFFT was measured three times over an average follow-up period of six years.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

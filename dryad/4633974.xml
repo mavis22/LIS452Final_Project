@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4633974</identifier><datestamp>2015-03-18T13:36:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q8292/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>V&#233;zilier, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nicot, Antoine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gandon, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rivero, Ana</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Description of the columns headers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fecundity compensation</subject>
+      <subject>parasite manipulation</subject>
+      <subject>insecticide resistance</subject>
+      <subject>gonotrophic cycle</subject>
+      <subject>Plasmodium relictum</subject>
+      <subject>Culex pipiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q8292</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>119753 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">oviposition.data (first tab in the Excel file)&#13;
+&#13;
+has 12 columns : &#13;
+-	mosquito number&#13;
+-	the experimental cage the mosquito comes from (where he bloodfed)&#13;
+-	whether the bird he fed on was infected or not : infection&#13;
+-	the identity of that bird (ring color and number)&#13;
+-	the parasitaemia of that bird (when he is infected) at the acute phase of the infection (10 days after the infection onset) : J10&#13;
+-	the color of the mosquito (to identify which strains it belongs to)&#13;
+-	mosquito strain&#13;
+-	the egg-laying date (to which 6 days should be removed to get the graphs in the article) : lay&#13;
+-	the number of eggs laid by the females : eggs&#13;
+-	eggs hatching date : hatch&#13;
+-	the number of larvae hatched from those eggs&#13;
+-	if and when mosquito died in the water before egg laying : drown&#13;
+&#13;
+oocyst.data (second tab)&#13;
+&#13;
+has 5 columns : &#13;
+-	the experimental infected cage the mosquito comes from (where he bloodfed)&#13;
+-	mosquito strain (bas4 = SA4B4, aslab = SLAB, csr = SR)&#13;
+-	the number of oocysts counted after dissection&#13;
+-	the number of eggs laid by the females : eggs&#13;
+-	the number of larvae hatched from those eggs</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

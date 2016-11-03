@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6489583</identifier><datestamp>2015-07-21T16:00:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0262M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>USA National Phenology Network,.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lilac Honeysuckle 1956-2014 leafing and flowering phenology v13</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phenology</subject>
+      <subject>plant ecology</subject>
+      <subject>climate change impacts</subject>
+      <subject>lilac</subject>
+      <subject>honeysuckle</subject>
+      <subject>United States</subject>
+      <subject>1956-2014</subject>
+      <subject>Syringa vulgaris</subject>
+      <subject>Lonicera tartarica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0262M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13619 bytes</size>
+      <size>15108457 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The dataset is comprised of leafing and flowering data collected across the continental United States from 1956 to 2014 for purple common lilac (Syringa vulgaris), a cloned lilac cultivar (S. x chinensis &#8216;Red Rothomagensis&#8217;) and two cloned honeysuckle cultivars (Lonicera tartarica &#8216;Arnold Red&#8217; and L. korolkowii &#8216;Zabeli&#8217;). Applications of this observational dataset range from detecting regional weather patterns to understanding the impacts of global climate change on the onset of spring at the national scale. While minor changes in methods have occurred over time, and some documentation is lacking, outlier analyses identified fewer than 3% of records as unusually early or late.  Lilac and honeysuckle phenology data have proven robust in both model development and climatic research.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

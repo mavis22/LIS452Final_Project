@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3550016</identifier><datestamp>2014-10-14T18:32:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DN45C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Clarke, Laurence J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soubrier, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weyrich, Laura S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooper, Alan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Environmental metabarcodes for insects: in silico PCR reveals potential for taxonomic bias</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>DNA Barcoding</subject>
+      <subject>PCR bias</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Adelaide</subject>
+      <subject>Adelaide Hills</subject>
+      <subject>South Australia</subject>
+      <subject>Sparassidae</subject>
+      <subject>Blattidae</subject>
+      <subject>Drymaplaneta communis</subject>
+      <subject>Scarabaeidae</subject>
+      <subject>Forficula auricularia</subject>
+      <subject>Lauxaniidae</subject>
+      <subject>Myrmecia</subject>
+      <subject>Ichneumonidae</subject>
+      <subject>Coptotermes</subject>
+      <subject>Lymantriidae</subject>
+      <subject>Chrysopidae</subject>
+      <subject>Ischnura heterosticta</subject>
+      <subject>Acrididae</subject>
+      <subject>Tettigoniidae</subject>
+      <subject>Eurybrachyidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Clarke LJ, Soubrier J, Weyrich LS, Cooper A (2014) Environmental metabarcodes for insects: in silico PCR reveals potential for taxonomic bias. Molecular Ecology Resources 14(6): 1160-1170.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DN45C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DN45C/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12265</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1020488</identifier><datestamp>2014-05-29T21:44:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4TF74</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hill, Nichola J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Takekawa, John Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ackerman, Joshua T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hobson, Keith A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herring, Garth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cardona, Carol J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Runstadler, Jonathan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyce, Walter M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Migration strategy affects avian influenza dynamics in mallards (Anas platyrhynchos)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Birds</subject>
+      <subject>Disease Biology</subject>
+      <subject>Species Interactions</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Anas platyrhynchos</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hill NJ, Takekawa JY, Ackerman JT, Hobson KA, Herring G, Cardona CJ, Runstadler JA, Boyce WM (2012)  Migration strategy affects avian influenza dynamics in mallards (Anas platyrhynchos). Molecular Ecology 21(24): 5986&#8211;5999.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4TF74/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4TF74/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2012.05735.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

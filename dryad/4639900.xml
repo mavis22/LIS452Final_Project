@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4639900</identifier><datestamp>2015-01-27T17:07:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7625D/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bertrand, Yann J. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheen, Anne-Cathrine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marcussen, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfeil, Bernard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Sousa, Filipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oxelman, Bengt</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Chloroplast alignment Figure 4.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>allopolyploidy</subject>
+      <subject>homoeologues assignment</subject>
+      <subject>genome tree</subject>
+      <subject>substitution model error</subject>
+      <subject>coalescent stochasticity</subject>
+      <subject>coalescent simulation</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>NRDP2</subject>
+      <subject>Fumaria</subject>
+      <subject>Papaveraceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7625D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>135732 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Chloroplast alignment used for constructing MrBayes phylogeny in Figure 4.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

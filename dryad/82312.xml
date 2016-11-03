@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82312</identifier><datestamp>2015-10-27T21:11:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8502</identifier>
+  <creators>
+      <creator>
+         <creatorName>Douzery, Emmanuel J. P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delsuc, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stanhope, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huchon, Doroth&#233;e</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Local molecular clocks in three nuclear genes: divergence times for rodents and other mammals and incompatibility among fossil calibrations.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>vWF</subject>
+      <subject>IRBP</subject>
+      <subject>A2AB</subject>
+      <subject>phylogeny</subject>
+      <subject>molecular dating</subject>
+      <subject>supermatrix</subject>
+      <subject>Maximum likelihood</subject>
+      <subject>Worldwide</subject>
+      <subject>Cenozoic</subject>
+      <subject>Rodentia</subject>
+      <subject>Glires</subject>
+      <subject>Eutheria</subject>
+      <subject>Mammalia</subject>
+      <subject>Placentalia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Douzery EJP, Delsuc F, Stanhope MJ, Huchon D (2003) Local molecular clocks in three nuclear genes: divergence times for rodents and other mammals and incompatibility among fossil calibrations. Journal of Molecular Evolution 57(Suppl 1): S201-S213.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8502/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8502/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1007/S00239-003-0028-X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

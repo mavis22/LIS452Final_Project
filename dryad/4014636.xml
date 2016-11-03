@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4014636</identifier><datestamp>2014-11-26T22:03:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT82P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hansen, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beauchamp, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Model code and input data files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>antipredation window</subject>
+      <subject>diel</subject>
+      <subject>light</subject>
+      <subject>pelagic</subject>
+      <subject>piscivore</subject>
+      <subject>planktivore</subject>
+      <subject>predation risk</subject>
+      <subject>predator-prey interactions</subject>
+      <subject>turbidity</subject>
+      <subject>visual foraging</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT82P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>215348 bytes</size>
+      <size>6225 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This folder provides R code (.R file) and all input data files (.csv files).  With the information and data provided, main results presented in the corresponding manuscript can be recreated.  See 'ReadMe.txt' file for a description of each file in the 'Data files.zip' folder.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

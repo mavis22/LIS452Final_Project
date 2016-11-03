@@ -1,0 +1,73 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738440</identifier><datestamp>2015-09-25T14:54:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75V7C/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chang-Yang, Chia-Hao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, I-Fang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lu, Chia-Ling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hsieh, Chang-Fu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Annual seed production of 28 species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fushan Forest Dynamics Plot</subject>
+      <subject>phenology</subject>
+      <subject>Reproductive ecology</subject>
+      <subject>Taiwan</subject>
+      <subject>Fushan</subject>
+      <subject>24.7614N</subject>
+      <subject>121.555E</subject>
+      <subject>Ampelopsis cantoniensis</subject>
+      <subject>Ardisia quinquegona</subject>
+      <subject>Clematis crassifolia</subject>
+      <subject>Cleyera japonica</subject>
+      <subject>Diospyros morrisiana</subject>
+      <subject>Engelhardtia roxburghiana</subject>
+      <subject>Elaeocarpus japonicus</subject>
+      <subject>Glochidion acuminatum</subject>
+      <subject>Helicia formosana</subject>
+      <subject>Hoya carnosa</subject>
+      <subject>Lagerstroemia subcostata</subject>
+      <subject>Lasianthus spp.</subject>
+      <subject>Limlia uraiana</subject>
+      <subject>Litsea acuminata</subject>
+      <subject>Machilus thunbergii</subject>
+      <subject>Machilus zuihoensis</subject>
+      <subject>Meliosma squamulata</subject>
+      <subject>Miscanthus floridulus</subject>
+      <subject>Myrsine seguinii</subject>
+      <subject>Pericampylus formosanus</subject>
+      <subject>Prunus phaeosticta</subject>
+      <subject>Psychotria serpens</subject>
+      <subject>Pyrenaria shinkoensis</subject>
+      <subject>Rubus pyrifolius</subject>
+      <subject>Schefflera octophylla</subject>
+      <subject>Smilax spp.</subject>
+      <subject>Symplocos glauca</subject>
+      <subject>Symplocos theophrastifolia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.75V7C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6554 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the annual seed production of 28 species from the Fushan subtropical rain forest. The seed production of a species is defined as the number of seeds collected within a phenological year. There are ten data points for each species. This data contains four columns: year, species, production, and postfrost. The column 'production' is the annual seed production, while 'postfrost' is a logical value (TRUE or FALSE) used to identify whether the data is before (FLASE) or after (TRUE) the spring frost event in March 2005.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

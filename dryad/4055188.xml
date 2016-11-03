@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4055188</identifier><datestamp>2014-11-25T20:15:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C8R03/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stefansson, Tryggvi S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDonald, Bruce A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willi, Yvonne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DRYAD - All traits raw data_140912</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>diversifying selection</subject>
+      <subject>genetic drift</subject>
+      <subject>genetic variation</subject>
+      <subject>heritability</subject>
+      <subject>human-caused environmental homogenization</subject>
+      <subject>QST/FST</subject>
+      <subject>stabilizing selection</subject>
+      <subject>New Zealand</subject>
+      <subject>Australia</subject>
+      <subject>Ethiopia</subject>
+      <subject>Europa</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Rhynchosporium commune</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C8R03</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>313344 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Trait values of replicates of 14 isolates of each of nine Rhynchosporium commune populations. The eight quantitative traits studied were: growth rate at 12&#176;C, growth rate at 18&#176;C, growth rate at 22&#176;C, fungicide resistance, melanization, spore size, spore number, and virulence.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

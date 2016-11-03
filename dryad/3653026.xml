@@ -1,0 +1,76 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3653026</identifier><datestamp>2014-10-07T18:14:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.18G80.2/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tonnabel, Jeanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mignot, Agn&#232;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Douzery, Emmanuel J. P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rebelo, Anthony G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schurr, Frank M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jeremy, Midgley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Illing, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Justy, Fabienne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Orcel, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olivieri, Isabelle</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DNA alignment for the genus Leucadendron phylogeny</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Life-History Evolution</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Reproductive Strategies</subject>
+      <subject>Macroevolution</subject>
+      <subject>Coevolution</subject>
+      <subject>South-african fynbos</subject>
+      <subject>Leucadendron</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.18G80.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>784455 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This alignment is the concatenation of nine markers that were used to reconstruct the phylogeny of the genus Leucadendron in the paper cited above. Those markers were amplified for 81 Leucadendron taxa collected in natural populations in the South-African fynbos, except for three external groups which were collected in the Kirstenbosch Botanical Garden: Paranomus spathulatus, Mimetes cucullatus and Leucospermum erubescens. A detailed map of the alignment is given below: &#13;
+Positions 1 - 618 : AS1 marker which contains an exon of 618bp. &#13;
+Positions 619 - 1046 : PPR-like marker which contains an exon of 233bp and a 3'-UTR of 195bp. &#13;
+Positions 1047 - 1800 : SVR7 marker which contains an exon of 652bp and a 3'-UTR of 102bp. &#13;
+Positions 1801 - 2181 : CAF1-6 marker which only contains an exon of 381bp. &#13;
+Positions 2182 - 2795 : the classical ITS marker. &#13;
+Positions 2796 - 3591 : ATINT1 marker which contains an exon of 665bp and a 3'-UTR of 131bp. &#13;
+Positions 3592 - 3868 : APO2 marker which contains only an exon of 277bp. &#13;
+Positions 3869 - 4207 : APG6 marker which contains only an exon of 339bp.&#13;
+Positions 3208 - 4865 : ATPHAN marker which contains only an exon of 658bp&#13;
+The methodology used to design the following markers: PPR-like, CAF1-6, ATINT1, APO2, APG6 and ATPHAN is described in (Tonnabel et al. 2013). The AS1 marker was designed in (Illing et al. 2009). &#13;
+&#13;
+Tonnabel, J., Olivieri, I., Mignot, A., Rebelo, A., Justy, F., Santoni, S., Caroli, S., Saun&#233;, L., Bouchez, O. &amp; Douzery, E.J.P. (2014) Developing nuclear DNA phylogenetic markers in the angiosperm genus Leucadendron (Proteaceae): a next-generation sequencing transcriptomic approach, Molecular Phylogenetics and Evolution, 70, 37-46.&#13;
+Illing, N., Klak, C.,  Johnson, C., Brito, D., Negrao, N., Baine, F., van Kets, V., Ramchurn K.R., Seoighe, C. &amp; Roden, L. (2009) Duplication of the Asymmetric Leaves1/Rough Sheath 2/Phantastica (ARP) gene precedes the explosive radiation of the Ruschioideae. Development genes and evolution, 219, 331-338.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

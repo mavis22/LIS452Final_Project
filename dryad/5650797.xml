@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5650797</identifier><datestamp>2015-05-19T17:52:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HR05M/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nicol, Sam C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuller, Richard A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iwamura, Takuya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chades, Iadine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>sea_level_rise_by_model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>adaptive management</subject>
+      <subject>migratory birds</subject>
+      <subject>East Asian-Australasian flyway</subject>
+      <subject>climate change</subject>
+      <subject>Markov decision process</subject>
+      <subject>adaptation</subject>
+      <subject>Australia</subject>
+      <subject>China</subject>
+      <subject>Korea</subject>
+      <subject>New Zealand</subject>
+      <subject>Borneo</subject>
+      <subject>Yellow Sea</subject>
+      <subject>Alaska</subject>
+      <subject>Japan</subject>
+      <subject>Indonesia</subject>
+      <subject>Limosa limosa</subject>
+      <subject>Calidris ferruginea</subject>
+      <subject>Numenius madagascariensis</subject>
+      <subject>Calidris tenuirostris</subject>
+      <subject>Tringa brevipes</subject>
+      <subject>Charadrius mongolus</subject>
+      <subject>Calidris canutus</subject>
+      <subject>Xenus cinereus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HR05M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>62976 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Estimated extent of sea level rise for each region and scenario with and without compensatory loss. For further details, see Iwamura, T (2012)  Spatial conservation prioritisation under global threats: University of Queensland.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

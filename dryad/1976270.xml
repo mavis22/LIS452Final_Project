@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1976270</identifier><datestamp>2014-12-16T20:22:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R17N5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ergon, Torbj&#248;rn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lambin, Xavier</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Separating mortality and emigration: modelling space use, dispersal and survival with robust-design spatial-capture-recapture data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Spatial capture recapture</subject>
+      <subject>SCR</subject>
+      <subject>Capture-recapture</subject>
+      <subject>survival</subject>
+      <subject>dispersal</subject>
+      <subject>space use</subject>
+      <subject>home range</subject>
+      <subject>movements</subject>
+      <subject>field vole</subject>
+      <subject>Kielder forest</subject>
+      <subject>Northumberland</subject>
+      <subject>England</subject>
+      <subject>Great Britain</subject>
+      <subject>Microtus agrestis</subject>
+      <subject>Arvicolinae</subject>
+      <subject>Rodentia</subject>
+      <subject>Mammalia</subject>
+      <subject>Muroidea</subject>
+      <subject>Cricetidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ergon T, Gardner B (2014) Separating mortality and emigration: modelling space use, dispersal and survival with robust-design spatial-capture-recapture data. Methods in Ecology and Evolution 5(12): 1327-1336.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R17N5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12133</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

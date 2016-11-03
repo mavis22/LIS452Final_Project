@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6521549</identifier><datestamp>2015-07-24T14:00:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DS2NJ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brierley, Liam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vonhof, Maarten J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olival, Kevin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daszak, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Kate E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Global spatial ranges of zoonotic bat viruses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>emerging infectious diseases</subject>
+      <subject>zoonoses</subject>
+      <subject>hotspots</subject>
+      <subject>land use</subject>
+      <subject>viral richness</subject>
+      <subject>bats</subject>
+      <subject>species distribution</subject>
+      <subject>virus</subject>
+      <subject>disease mapping</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DS2NJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42700333 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Shapefiles of global spatial ranges of 33 zoonotic bat virus species (following ICTV9 Virus Taxonomy). Ranges are upper-bound proxies for zoonotic transmission created by fusing together entire ranges of all known bat host species from systematically mined literature-based records of bat-virus associations. Original host distributions sourced from Fritz and Purvis 2010. Shapefiles follow projection 'long-lat' using WGS-1984 co-ordinate system. Created using package 'PBSmapping' in R version 3.1.1.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6284710</identifier><datestamp>2015-11-16T22:21:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RV0K6/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tomasovych, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kidwell, Susan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barber, Rina Foygel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tomasovych et al. supplement R code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Amino acid racemization</subject>
+      <subject>Time averaging</subject>
+      <subject>Radiocarbon</subject>
+      <subject>Conservation paleobiology</subject>
+      <subject>Taphonomy</subject>
+      <subject>Bioturbation</subject>
+      <subject>Diagenesis</subject>
+      <subject>California</subject>
+      <subject>Southern California Bight</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Mollusca</subject>
+      <subject>Bivalvia</subject>
+      <subject>Nuculana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RV0K6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>212992 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Source code for model likelihoods and figures written in R language. Six density functions for fitting parameters of models with optimizing likelihoods are followed by age data of four depth assemblages. Fitting of age data with models occurs within the loop, followed by (1) figures showing the relation between the observed medians and IQRs and the values expected under different models, (2) likelihood surfaces for the Weibull and two-phase model, (3) simulations showing the effect of loss rate on the shape of AFD under one-phase and two-phase models, and (4) simulations showing the effects of sample size and fluctuating sinusoidal production on loss-rate parameters.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

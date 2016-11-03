@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4005556</identifier><datestamp>2014-10-28T18:12:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T9J7G</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sunday, Jennifer M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Popovic, Iva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palen, Wendy J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Foreman, Michael G. G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hart, Michael W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ocean circulation model predicts high genetic structure in a long-lived pelagic developer</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Population genetics</subject>
+      <subject>Larval dispersal</subject>
+      <subject>Marine connectivity</subject>
+      <subject>Oceanographic circulation model</subject>
+      <subject>British Columbia</subject>
+      <subject>Alaska</subject>
+      <subject>15000 ybp - present</subject>
+      <subject>Patiria miniata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sunday JM, Popovic I, Palen WJ, Foreman MGG, Hart MW (2014) Ocean circulation model predicts high genetic structure in a long-lived pelagic developer. Molecular Ecology 23(20): 5036-5047.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T9J7G/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T9J7G/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12924</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

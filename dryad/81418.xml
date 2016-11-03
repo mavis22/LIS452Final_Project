@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81418</identifier><datestamp>2014-05-30T03:56:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.642/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hibbett, David S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Donoghue, Michael J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hibbett and Donoghue Data Set</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+      <subject>ancestral state reconstruction</subject>
+      <subject>basidiomycetes</subject>
+      <subject>comparative methods</subject>
+      <subject>concentrated changes test</subject>
+      <subject>discrete</subject>
+      <subject>fungal ecology</subject>
+      <subject>Polyporaceae</subject>
+      <subject>rDNA</subject>
+      <subject>sensitivity analyses</subject>
+      <subject>wood decay</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2009-06-21T21:43:05Z</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.642</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

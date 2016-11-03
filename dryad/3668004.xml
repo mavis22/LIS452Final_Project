@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3668004</identifier><datestamp>2014-11-11T13:41:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MQ5CT/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chantha, Sier-Ching</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herman, Adam C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Platts, Adrian E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vekemans, Xavier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schoen, Daniel J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lal2/SRK alignment for S-domain coding sequence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Brassicaceae</subject>
+      <subject>Leavenworthia</subject>
+      <subject>Arabidopsis</subject>
+      <subject>receptor kinase</subject>
+      <subject>S-locus</subject>
+      <subject>alignment</subject>
+      <subject>phylogeny</subject>
+      <subject>mrbayes</subject>
+      <subject>Arabidopsis</subject>
+      <subject>Arabidopsis lyrata</subject>
+      <subject>Brassica</subject>
+      <subject>Capsella</subject>
+      <subject>Leavenworthia</subject>
+      <subject>Leavenworthia alabamica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-05-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MQ5CT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53351 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nexus-formatted alignment of the S-domain coding sequence for SRK and Lal2 sequences included in Figure S3-A. Includes commands used for phylogenetic inference in mrbayes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

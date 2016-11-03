@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3907906</identifier><datestamp>2015-02-25T21:01:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HS37S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Burns, Lynne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frasier, Timothy R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broders, Hugh G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic connectivity among swarming sites in the wide ranging and recently declining little brown bat (Myotis lucifugus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bats</subject>
+      <subject>genetic structure</subject>
+      <subject>microsatellites</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>population expansion</subject>
+      <subject>Atlantic Canada</subject>
+      <subject>Eastern Canada</subject>
+      <subject>Nova Scotia</subject>
+      <subject>New Brunswick</subject>
+      <subject>Quebec</subject>
+      <subject>Holocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Burns LE, Frasier TR, Broders HG (2014) Genetic connectivity among swarming sites in the wide ranging and recently declining little brown bat (Myotis lucifugus). Ecology and Evolution 4(21): 4130-4149.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HS37S/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HS37S/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HS37S/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HS37S/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1266</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

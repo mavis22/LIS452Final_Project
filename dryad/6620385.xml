@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6620385</identifier><datestamp>2015-10-12T19:57:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BT7V0/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marshall, Tom Rhys</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergmann, Til Ole</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Ole</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Statistical maps (Supplementary Figs 1,2)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Magnetoencephalography</subject>
+      <subject>Neuronal Oscillation</subject>
+      <subject>Attention</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BT7V0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5014515 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nifti files containing group statistical maps comparing alpha- and gamma-band power during 'attention left' and 'attention right' trials. 'Alpha_tmap' and 'Gamma_tmap' show whole-brain statistical maps. The other volumes are masked by cluster-based permutation test. Note - in order to view the t-maps correctly it is necessary to use a bidirectional colour map that can display positive and negative values using different colours, such as 'jet' or 'flow'.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

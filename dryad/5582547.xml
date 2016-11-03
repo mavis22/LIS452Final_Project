@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5582547</identifier><datestamp>2015-05-22T14:57:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BC65P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Quina, Ana S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bastos-Silveira, Cristiane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mi&#241;arro, Marcos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ventura, Jacint</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jim&#233;nez, Rafael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paulo, Oct&#225;vio S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mathias, Maria L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>p53 haplotypes_Quina etal</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>p53</subject>
+      <subject>speciation</subject>
+      <subject>adaptation</subject>
+      <subject>hypoxia</subject>
+      <subject>Iberian Peninsula</subject>
+      <subject>Microtus lusitanicus</subject>
+      <subject>Microtus duodecimcostatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BC65P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21021 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequence information of the p53 haplotypes found in Microtus duodecimcostatus and Microtus lusitanicus (Quina et al, 2015).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

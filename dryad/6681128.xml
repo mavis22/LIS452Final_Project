@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6681128</identifier><datestamp>2015-09-28T12:03:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1DS1Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cleasby, Ian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wakefield, Ewan D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bearhop, Stuart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bodey, Thomas W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Votier, Stephen C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamer, Keith C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gannet GPS, air pressure and temperature telemetry data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>collision risk</subject>
+      <subject>environmental impact</subject>
+      <subject>foraging</subject>
+      <subject>offshore renewables</subject>
+      <subject>population model</subject>
+      <subject>wildlife telemetry</subject>
+      <subject>North Sea</subject>
+      <subject>United Kingdom</subject>
+      <subject>Europe</subject>
+      <subject>Morus bassanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1DS1Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>49682043 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Zip file contains (1) GPS data collected by tracking adult breeding northern gannets from Bass Rock at either 2 minute or 1 second intervals. File names correspond to logger deployment day and bird ID. Fields: TIME in UTC; LON = longitude; LAT = latitude; GPS_ALT = height recorded by GPS (m); GPS_SPD = speed recorded by GPS; TRIP = foraging trip number; DIST = distance travlled since previous fix (m); SECS = interval elapsed since previous fix (s); CALC_SPD = speed derrived from previous two varibales (m/s); COL_DIST = distance by sea from colony (km); STATUS = in colony (COL), in flight (FLIGHT) or on water (WATER). (2) ambient pressure and temperature data collected using loggers deployed on adult breeding northern gannets from Bass Rock. File names correspond to logger deployment day and bird ID. Fields: TIME in UTC; P = pressure (Pa); T = temperature (C).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

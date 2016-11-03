@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492799</identifier><datestamp>2014-12-17T19:13:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1JN88</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zaborske, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bauer-DuMont, Vanessa L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wallace, Edward W. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pan, Tao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aquadro, Charles F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drummond, David Allan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A nutrient-driven tRNA modification alters translational fidelity and genome-wide protein coding across an animal genus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>translational selection</subject>
+      <subject>queuosine</subject>
+      <subject>codon usage</subject>
+      <subject>tRNA modification</subject>
+      <subject>Akashi selection score</subject>
+      <subject>Drosophila</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Zaborske JM, Bauer-DuMont VL, Wallace EWJ, Pan T, Aquadro CF, Drummond DA (2014) A nutrient-driven tRNA modification alters translational fidelity and genome-wide protein encoding across an animal genus. PLOS Biology 12(12): e1002015.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1JN88/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PBIO.1002015</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

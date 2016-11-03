@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597969</identifier><datestamp>2015-03-03T17:07:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.352TH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Owens, Hannah L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Niche Reconstruction &amp; Hypothesis Testing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>dispersal</subject>
+      <subject>ecological niche modelling</subject>
+      <subject>radiation</subject>
+      <subject>speciation pump</subject>
+      <subject>temperate</subject>
+      <subject>vicariance</subject>
+      <subject>Northern Hemisphere Arctic and subarctic oceans</subject>
+      <subject>Oligocene through Holocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Arctogadus glacialis</subject>
+      <subject>Boreogadus saida</subject>
+      <subject>Gadus macrocephalus</subject>
+      <subject>Gadus ogac</subject>
+      <subject>Gadus morhua</subject>
+      <subject>Gadus chalcogrammus</subject>
+      <subject>Pollachius pollachius</subject>
+      <subject>Pollachius virens</subject>
+      <subject>Melanogrammus aeglefinus</subject>
+      <subject>Micromesistius poutassou</subject>
+      <subject>Merlangius merlangus</subject>
+      <subject>Eleginus gracilis</subject>
+      <subject>Microgadus proximus</subject>
+      <subject>Microgadus tomcod</subject>
+      <subject>Trisopterus esmarkii</subject>
+      <subject>Trisopterus minutus</subject>
+      <subject>Trisopterus luscus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.352TH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9625 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R script for niche reconstruction and hypothesis testing. Written for R version 3.1.0 Patched (2014-04-10 r65396) -- "Spring Dance" on  x86_64-apple-darwin10.8.0 (64-bit) platform.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

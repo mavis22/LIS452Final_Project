@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629323</identifier><datestamp>2015-02-23T16:08:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.65K7T</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wells, Christina E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vendramin, Elisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jimenez Tarodo, Sergio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verde, Ignazio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bielenberg, Douglas G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A genome-wide analysis of MADS-box genes in peach [Prunus persica (L.) Batsch]</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>MADS-box gene</subject>
+      <subject>MIKC gene</subject>
+      <subject>dormancy</subject>
+      <subject>peach</subject>
+      <subject>SVP</subject>
+      <subject>FLC</subject>
+      <subject>AGL24</subject>
+      <subject>Prunus persica</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Wells CE, Vendramin E, Jimenez Tarodo S, Verde I, Bielenberg DG (2015) A genome-wide analysis of MADS-box genes in peach [Prunus persica (L.) Batsch]. BMC Plant Biology 15:41.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65K7T/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65K7T/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65K7T/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65K7T/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12870-015-0436-2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

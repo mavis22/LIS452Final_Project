@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6670099</identifier><datestamp>2015-09-18T15:51:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.579KJ</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cammen, Kristina M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schultz, Thomas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rosel, Patricia E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wells, Randall S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Read, Andrew J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome-wide investigation of adaptation to harmful algal blooms in common bottlenose dolphins (Tursiops truncatus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>common bottlenose dolphin</subject>
+      <subject>harmful algal bloom</subject>
+      <subject>restriction site-associated DNA sequencing</subject>
+      <subject>Adaptation</subject>
+      <subject>Florida</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>Tursiops truncatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cammen KM, Schultz TF, Rosel PE, Wells RS, Read AJ (2015) Genome-wide investigation of adaptation to harmful algal blooms in common bottlenose dolphins (Tursiops truncatus). Molecular Ecology 24(18): 4697&#8211;4710.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13350</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

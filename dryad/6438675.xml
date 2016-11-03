@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6438675</identifier><datestamp>2015-07-30T16:02:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J64J0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van der Merwe, Marlien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McPherson, Hannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siow, Juelian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossetto, Maurizio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Chloroplast DNA Fasta alignments of Australian Rainforest plant species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Chloroplast Genome</subject>
+      <subject>Functional Traits</subject>
+      <subject>Next Generation Sequencing</subject>
+      <subject>Single Nucleotide Polymorphisms</subject>
+      <subject>Australian Rain Forest Species</subject>
+      <subject>Refugia</subject>
+      <subject>Northern New South Wales</subject>
+      <subject>Australia</subject>
+      <subject>Gondwana</subject>
+      <subject>Indo-Malesia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J64J0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1170 bytes</size>
+      <size>5286934 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data consists of 70 fasta files. The name of each file is the species name and within each file there are up to three aligned fasta sequences. Each fasta sequence is the consensus sequence after mapping a whole genome  shotgun sequencing library to a chloroplast reference. The reference were made from concatenated de novo contigs (see manuscript for details). Each shotgun sequencing library consists of DNA of 6 pooled  individuals. Each library represents a particular geographic location. Polymorphisms within  a library (or geographic site) are indicated with the use of a IUPAC nucleotide code. Please contact the authors if you would like to use this data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

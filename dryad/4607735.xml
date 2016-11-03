@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4607735</identifier><datestamp>2015-02-25T15:24:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T34M9/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kaiser, Sara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sillett, T. Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Risk, Benjamin B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Webster, Michael S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Poisson Model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>environmental constraints</subject>
+      <subject>extrapair mating</subject>
+      <subject>genetic reproductive success</subject>
+      <subject>habitat quality</subject>
+      <subject>paternity</subject>
+      <subject>New Hampshire</subject>
+      <subject>U.S.A.</subject>
+      <subject>2009-2012</subject>
+      <subject>Setophaga caerulescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T34M9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11856 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset supporting the results investigating the relative contribution of within-pair paternity, extrapair paternity and double brooding on total reproductive success (Figure 2).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

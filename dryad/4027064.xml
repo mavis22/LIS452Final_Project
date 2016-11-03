@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027064</identifier><datestamp>2014-10-21T13:30:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J1RM6/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Simon H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davey, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiggins, Chris D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>shared_ancestry_simulator.R</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ABBA-BABA</subject>
+      <subject>gene flow</subject>
+      <subject>introgression</subject>
+      <subject>population structure</subject>
+      <subject>simulation</subject>
+      <subject>Heliconius melpomene amaryllis</subject>
+      <subject>Heliconius melpomene aglaope</subject>
+      <subject>Heliconius timareta thelxinoe</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J1RM6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18581 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A single combined model can be generated like this: ./shared_ancestry_simulator.R -w 10000 -t 60 -c Alternate_t123-0.4_t23-0.2.yml:0.1,Background_t123-0.6_t21-0.4.yml:0.9. This will generate 10000 windows, 10% of which will be generated using the model described in the file Alternate_t123-0.4_t23-0.2.yml and 90% of which will be generated using Background_t123-0.6_t21-0.4.yml, using 60 threads. See the model files folders for the YAML files generated for this paper. The CSV files for the models will be made available in a Data Dryad repository on publication and can be made available on request.&#13;
+&#13;
+A single model, as used for the null models reported in the paper, can be run like this: ./shared_ancestry_simulator.R -w 10000 -t 60 -c Background_t123-0.6_t21-0.4.yml:1. The YAML files are generated using run_model_combinations.py.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

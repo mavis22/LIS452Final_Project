@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1906541</identifier><datestamp>2014-05-30T07:31:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.558PM</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garbarino, Sergio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cuomo, Giovanni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiorri, Carlo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Magnavita, Nicola</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Association of work-related stress with mental health problems in a special police force unit</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>OCCUPATIONAL &amp; INDUSTRIAL MEDICINE</subject>
+      <subject>Depression &amp; mood disorders</subject>
+      <subject>PUBLIC HEALTH</subject>
+      <subject>police</subject>
+      <subject>stress</subject>
+      <subject>personality</subject>
+      <subject>mental health</subject>
+      <subject>Genoa</subject>
+      <subject>Italy</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Garbarino S, Cuomo G, Chiorri C, Magnavita N (2013) Association of work-related stress with mental health problems in a special police force unit. BMJ Open 3(7): e002791.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.558PM/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1136/BMJOPEN-2013-002791</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

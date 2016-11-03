@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492785</identifier><datestamp>2014-12-30T18:21:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VM766/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Devine, Aisling P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stott, Iain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDonald, Robbie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maclean, Ilya M. D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Woody vegetation cover at Experimental Burn Plots at Kruger National Park 2012</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Disturbance</subject>
+      <subject>Mesic savannas</subject>
+      <subject>Plant populations and community dynamics</subject>
+      <subject>Savannah</subject>
+      <subject>Semi-arid savannas</subject>
+      <subject>Vegetation dynamics</subject>
+      <subject>Woody encroachment</subject>
+      <subject>Savanna</subject>
+      <subject>Kruger National Park</subject>
+      <subject>South Africa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VM766</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5529 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data was collected on the Pretoriuskop and Skukuza Experimental Burn Plots at Kruger National Park, South Africa in March-June 2012. Specific details of the headings are as follows: "Treatment" = fire frequency (0.3- triennial burning, 0.5 &#8211; biennial burning 1 &#8211; annual burning and 0  -control/fire exclusion). "Region" = savanna type (Pretoriuskop - wet savanna Skukuza - dry savanna). Dataset includes tree abundance, percentage of multi and single stemmed trees and woody cover calculated as a proportion of tree basal area density cm2. Please note the heading &#8220;Plot&#8221; refers to unique field id created by the author and not KNP&#8217;s plot codes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

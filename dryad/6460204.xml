@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6460204</identifier><datestamp>2015-08-18T17:12:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VQ2TN/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Henschen, Amberleigh E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whittingham, Linda A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunn, Peter O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>OxidativeStress &amp; GSH data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>antioxidants</subject>
+      <subject>bird</subject>
+      <subject>carotenoid</subject>
+      <subject>immunity</subject>
+      <subject>glutathione</subject>
+      <subject>melanin</subject>
+      <subject>ornament</subject>
+      <subject>oxidative stress</subject>
+      <subject>Wisconsin</subject>
+      <subject>United States of America</subject>
+      <subject>Geothlypis trichas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VQ2TN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3843 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tab delimited file with 14 columns (variables) and 52 rows (top row contains the variable names). Variables are: Band Number (band number of individual bird [4 digit prefix and 5 digit suffix, after the decimal point])&#13;
+Capture Date(1=1May)&#13;
+Breed Experience (see KRL file for description)&#13;
+Exper Group  (see KRL file for description)&#13;
+Mask  (see KRL file for description)&#13;
+bib size (see KRL file for description)&#13;
+Yellow Brightness  (see KRL file for description)&#13;
+Ccar  (see KRL file for description)&#13;
+Tarsus (mm)&#13;
+Weight pre (g, prior to bird being put in an aviary, if part of the LPS experiment)&#13;
+GSH pre (see Methods for GSH; "pre" refers to estimate prior to LPS experiment)&#13;
+ROMs/TAC_pre  (see Methods; "pre" refers to estimate prior to LPS experiment)&#13;
+GSH post-pre  (see Methods; "pre" refers to estimate prior to LPS experiment)&#13;
+ROMs/TAC post-pre  (see Methods; "pre" refers to estimate prior to LPS experiment)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5692121</identifier><datestamp>2015-08-24T16:49:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q2N8P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stevens, Jens T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Safford, Hugh D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrison, Susan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Latimer, Andrew M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Forest disturbance accelerates thermophilization of understory plant communities</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biogeographic affinity</subject>
+      <subject>Determinants of plant community diversity and structure</subject>
+      <subject>Disturbance</subject>
+      <subject>Diversity</subject>
+      <subject>Fire</subject>
+      <subject>Forest</subject>
+      <subject>Functional traits</subject>
+      <subject>Thermophilization</subject>
+      <subject>Understory vegetation</subject>
+      <subject>California</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Stevens JT, Safford HD, Harrison S, Latimer AM (2015) Forest disturbance accelerates thermophilization of understory plant communities. Journal of Ecology 103(5): 1253-1263.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q2N8P/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q2N8P/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q2N8P/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2745.12426</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

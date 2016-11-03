@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6537323</identifier><datestamp>2015-07-29T17:55:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.26TH0/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hendrickx, Frederik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vanthournout, Bram</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taborsky, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sperm competition data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sexual selection</subject>
+      <subject>Oedothorax gibbosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.26TH0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10064 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sperm competition data ('exp' = Experimental series, with FS representing fertile male -sterile male sequence and SF representing sterile male - fertile male sequence). ID is a unique identifier of each female. 'n1st'  are the number of offspring sired by the first male (i.e. fertile in FS and sterile in SF). 'n2nd' are the number of offspring sired by the second male (i.e. sterile in FS and fertile in SF)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

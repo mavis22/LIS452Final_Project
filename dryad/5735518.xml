@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5735518</identifier><datestamp>2015-06-10T19:58:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1V8J2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paul, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Indic, Premananda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartz, William J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Body Temperature files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social interactions</subject>
+      <subject>circadian rhythms</subject>
+      <subject>body temperature</subject>
+      <subject>wavelet analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1V8J2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1529741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Text files containing the body temperature recordings from individual female laboratory mice housed singly, in pairs, or in groups of 5 in laboratory cages. Temperature is in Celsius (C = Celsius) and was recorded using iButton temperature dataloggers. Each line contains the date and time of the body temperature recording. The first number in the filename represents the mouse ID for that file. Singlets: SC4.1, SC10.2, SC17.4, SC35.8, SC41.10, SC43.10, SC54.12, SC56.13, SC61.14.  Pairs: (SC2.1 with SC19.5), (SC7.2 with SC16.4), (Sc5.1 with SC22.5), (SC27.1 with SC60.14), (SC33.8 with SC45.11), (SC39.9 with SC59.13), (SC44.10 with SC50.12), (SC30.7 with SC46.11).  Quintets: (SC3.1, SC6.2, SC13.3, SC15.4, SC23.5), (SC8.2, SC11.3, SC14.4, SC21.5, SC25.6), (SC1.1, SC9.2, SC18.4, SC20.5, SC24.6), (SC26.7, SC38.9, SC42.10, SC49.11, SC52.12), (SC31.8, SC40.9, SC47.11, SC51.12, SC58.13), (SC34.8, SC36.9, SC53.12, SC55.13, SC62.14), (SC29.7, SC32.8, SC37.9, SC48.11, SC57.13)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

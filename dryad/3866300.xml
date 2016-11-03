@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3866300</identifier><datestamp>2014-10-30T18:57:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P5V4G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bender, Sebastian Franz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van der Heijden, Marcel G. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Soil biota enhance agricultural sustainability</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>agro-ecosystem</subject>
+      <subject>arbuscular mycorrhizal fungi</subject>
+      <subject>crop rotation</subject>
+      <subject>lysimeters</subject>
+      <subject>maize</subject>
+      <subject>nutrient losses</subject>
+      <subject>nutrient use efficiency</subject>
+      <subject>phosphorous</subject>
+      <subject>tillage</subject>
+      <subject>wheat</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P5V4G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>39390 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected from a two year lysimeter experiment investigating the effects of different soil biological inoculation treatments on crop yield and nutrient contents and nutrient leaching losses. Data is shown for year 1 and 2 separately and also cumulatively for the whole duration of the experiment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

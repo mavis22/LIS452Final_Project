@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5596860</identifier><datestamp>2015-06-04T19:43:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4JJ77/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Basso, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baer, Brian D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nebraska_Model_Files.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>crop model</subject>
+      <subject>agricultural adaptation</subject>
+      <subject>High Plains</subject>
+      <subject>Cuming County</subject>
+      <subject>Nebraska</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>1979-2099 C.E.</subject>
+      <subject>Zea mays</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4JJ77</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>588913 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nebraska_Model_Files.tar.gz -- files need to run the SALUS Model (using tar and gzip to archive and compress); sep8correction.xdb -- Experiment file for continous runs of the SALUS model; sep8correction_init.xdb -- Experiment file for runs of the SALUS model where soil parameters are reinitialized every year; Nebraska.Sdb -- Soil file; crops_misca.cdb -- Crop pramaters</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

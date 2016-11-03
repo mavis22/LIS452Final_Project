@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727243</identifier><datestamp>2015-05-12T16:53:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.76K4J/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Starks, Hilary A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clemento, Anthony J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garza, John Carlos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tree file for Supplemental Figure 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>single nucleotide polymorphism (SNP)</subject>
+      <subject>endangered species</subject>
+      <subject>coho salmon</subject>
+      <subject>genetic stock identification</subject>
+      <subject>West Coast of North America</subject>
+      <subject>North Pacific Ocean</subject>
+      <subject>Oncorhynchus kisutch</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.76K4J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9775 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">NEXML tree file for the ten validation populations genotyped with the 91 SNP markers described in the paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6838709</identifier><datestamp>2015-10-16T19:58:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7ST12</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tzin, Vered</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindsay, Penelope L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Christensen, Shawn A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meihls, Lisa N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blue, Levi B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jander, Georg</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic mapping shows intraspecific variation and transgressive segregation for caterpillar-induced aphid resistance in maize</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>maize</subject>
+      <subject>benzoxazinoids</subject>
+      <subject>resistance</subject>
+      <subject>Zea mays</subject>
+      <subject>Rhopalosiphum maidis</subject>
+      <subject>Spodoptera exigua</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tzin V, Lindsay PL, Christensen SA, Meihls LN, Blue LB, Jander G (2015) Genetic mapping shows intraspecific variation and transgressive segregation for caterpillar-induced aphid resistance in maize. Molecular Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7ST12/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7ST12/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7ST12/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13418</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6666907</identifier><datestamp>2015-08-27T16:17:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PM162/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rundle, Howard D</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dyer, Kelly A</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>D. serrata mating trial CHC data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behavioral isolation</subject>
+      <subject>reinforcement</subject>
+      <subject>sexual isolation</subject>
+      <subject>sexual selection</subject>
+      <subject>Speciation</subject>
+      <subject>Drosophila serrata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PM162</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>627471 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the gas chromatography data for the epicuticular hydrocarbons (i.e. CHCs) of Drosophila subquinaria &#8216;mixed stock&#8217; males that were used in binomial choice mating trials with females from each of eight geographic populations. Each row is the data for one male. The columns indicate the day of the mating trial (Day), the replicate vial number (Vial), whether the male was chosen (i.e. mated) or not by the female during the trial (Chosen) and denoted as 1 vs. 0 respectively, the population of the female used in the trial (Pop), and whether this population is sympatric or allopatric to Drosophila recens (Type), with inland allopatric and coastal allopatric regions further denoted. Line denotes the isofemale line from which the female derived. See Table 1 of the paper for a description of the population abbreviations. GC data has had outliers removed but is untransformed and therefore represents the raw, integrated values. Peaks are numbered as described in Curtis et al. 2013. Epicuticular compounds of Drosophila subquinaria and D. recens: Identification, quantification, and their role in female mate choice. Journal of Chemical Ecology: 39: 579&#8211;590.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

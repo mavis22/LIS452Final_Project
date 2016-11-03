@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6841963</identifier><datestamp>2015-10-14T18:07:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TH40D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petruskov&#225;, Tereza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pi&#353;vejcov&#225;, Iveta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kin&#353;tov&#225;, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brinke, Tom&#225;&#353;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petrusek, Adam</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>recording and male repertoires, coded songs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bird song</subject>
+      <subject>bioacoustics</subject>
+      <subject>vocalization</subject>
+      <subject>territorial dynamics</subject>
+      <subject>bird migration</subject>
+      <subject>annual survival</subject>
+      <subject>Czech Republic</subject>
+      <subject>Central Europe</subject>
+      <subject>Passeriformes</subject>
+      <subject>Motacillidae</subject>
+      <subject>Anthus trivialis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TH40D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2545664 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file in MS Excel format containing three sheets:&#13;
+1: male repertoires: each line represent a single Tree Pipit males from the studied locality; for each of them, the following information is provided: the total number of song recordings available, the number of syllables and bi-syllables detected in the male's repertoire, and presence/absence of each syllable and bi-syllable type.&#13;
+2: recording repertoires: each line represent a single recording of Tree Pipit songs; for each of them, the following information is provided: male identity (as in the first sheet), code of the recording, year and date of recording, number of songs within a recording, availability of observation data on colour rings, the number of syllables and bi-syllables detected within the recording, and presence/absence of each syllable and bi-syllable type. &#13;
+3: coded songs: each line represent a single Tree Pipit song for which the syllable sequence was noted; for each of them, the following information is provided:  male identity (as in the first and second sheets), code of the recording (as in the second sheet), and sequence of syllables within the song. Each syllable is coded by letter that may be followed by number; numbers immediately preceding letters denote the number of syllable repetitions; bi-syllables are enclosed in parentheses; numbers before parentheses denote bi-syllable repetitions.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

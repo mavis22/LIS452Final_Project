@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6557040</identifier><datestamp>2015-09-17T21:13:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.58Q00</identifier>
+  <creators>
+      <creator>
+         <creatorName>Magpantay, Felicia M. G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Domenech de Cell&#232;s, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rohani, Pejman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>King, Aaron A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Pertussis immunity and epidemiology: mode and duration of vaccine-induced immunity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>pertussis</subject>
+      <subject>imperfect vaccine</subject>
+      <subject>leaky vaccine</subject>
+      <subject>waning immunity</subject>
+      <subject>disease dynamics</subject>
+      <subject>iterated filtering</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Magpantay FMG, Domenech de Cell&#232;s M, Rohani P, King AA (2015) Pertussis immunity and epidemiology: mode and duration of vaccine-induced immunity. Parasitology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.58Q00/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.58Q00/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1017/S0031182015000979</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

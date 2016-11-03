@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601923</identifier><datestamp>2015-06-24T20:51:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S25D3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ousterhout, Brittany H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Thomas L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drake, Dana L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterman, William E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Semlitsch, Raymond D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Habitat traits and species interactions differentially affect abundance and body size in pond-breeding amphibians</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>competition</subject>
+      <subject>density</subject>
+      <subject>habitat features</subject>
+      <subject>marbled salamander</subject>
+      <subject>ringed salamander</subject>
+      <subject>size</subject>
+      <subject>spotted salamander</subject>
+      <subject>Missouri</subject>
+      <subject>Fort Leonard Wood</subject>
+      <subject>Ozark</subject>
+      <subject>Ambystoma annulatum</subject>
+      <subject>Ambystoma maculatum</subject>
+      <subject>Ambystoma opacum</subject>
+      <subject>Ambystoma</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ousterhout BH, Anderson TL, Drake DL, Peterman WE, Semlitsch RD (2015) Habitat traits and species interactions differentially affect abundance and body size in pond-breeding amphibians. Journal of Animal Ecology 84(4): 914-924.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S25D3/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12344</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

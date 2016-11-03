@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6282244</identifier><datestamp>2015-07-01T19:17:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9N36S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McLean, Ailsa H. C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godfray, H. Charles J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Parasitism data for A. pisum</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>aphid</subject>
+      <subject>facultative symbiosis</subject>
+      <subject>parasitoid</subject>
+      <subject>resistance</subject>
+      <subject>symbiont</subject>
+      <subject>Acyrthosiphon pisum</subject>
+      <subject>Hamiltonella defensa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9N36S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12922 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the laboratory on the effects of facultative symbiont Hamiltonella defensa in pea aphids (Acyrthosiphon pisum) on parasitism by two parasitoid species (Aphidius ervi and Aphelinus abdominalis). &#8216;Block&#8217; is the temporal block in which the experiment was carried out; &#8216;Clone&#8217; is the aphid clone code; &#8216;Hamiltonella&#8217; refers to the presence of the symbiont Hamiltonella defensa (&#8216;Yes&#8217; = present, &#8216;No&#8217;=cured); &#8216;Wasp&#8217; gives the genus of the parasitoid; &#8216;Plant&#8217; is the biotype of the aphid.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

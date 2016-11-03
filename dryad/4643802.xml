@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4643802</identifier><datestamp>2015-02-02T21:16:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CV0Q3/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Linksvayer, Timothy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikheyev, Alexander</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data summary by gene</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social evolution</subject>
+      <subject>division of labor</subject>
+      <subject>evolutionary genetics</subject>
+      <subject>gene expression</subject>
+      <subject>network connectivity</subject>
+      <subject>Monomorium pharaonis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CV0Q3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2812715 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">summary of data listed by M. pharaonis gene in comma deliminated (.csv) format. Header line with variables: gene is the M. pharaonis gene name; SINV homolog is the identified Solenopsis invicta homolog; SINVhomologexpression is whether the identified SINVhomolg was upregulated in workers that were in the nest vs. foraging area according to Manfredini et al. 2013; dNdS is the estimate of rate of molecular evolution; kTotal, kWithin, kOut, kDiff are the estimated of network connectedness from WGCNA; behavioral cateogry is whether the gene is upregulated in foragers, nurses, or not differentially expressed (nde); fpkm is the level of expression; evalue, hit, and species describe the best &#13;
+BLAST hit</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

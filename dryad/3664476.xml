@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3664476</identifier><datestamp>2015-10-26T19:43:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.69MK7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>da Silva, Jack</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>samples</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Fitness</subject>
+      <subject>Models/Simulations</subject>
+      <subject>Population Genetics</subject>
+      <subject>Selection - Natural</subject>
+      <subject>Genetic Drift</subject>
+      <subject>human immunodeficiency virus type 1</subject>
+      <subject>HIV-1</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.69MK7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>266618 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Text file of amino acid sequences from HIV-1 V3. Sequences are organised by the patient from which they were sampled. Preceding the set of samples from each patient is the number of sequence samples for the patient and then the year (e.g. 1988 is "88") and the number of sequences for each sample. This is followed by the sequences in FastA format; sequences are labelled with the patient number and the year of the sample.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

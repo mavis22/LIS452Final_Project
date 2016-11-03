@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6679204</identifier><datestamp>2015-08-20T18:57:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0VF86NB1.2/1.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harder, Lawrence D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hobbhahn, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards, Shane A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Harder etal data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Inbreeding</subject>
+      <subject>Mating Systems</subject>
+      <subject>South Africa</subject>
+      <subject>present</subject>
+      <subject>Disa ferruginea</subject>
+      <subject>Disa ophrydea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-10-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0VF86NB1.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>37376 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains two worksheets with data for Disa ferruginea and D. ophrydea concerning the proportion of outcross pollen applied to stigmas (pcmass), the number of ovules counted (ovule cnt), and the numbers of those ovules that were fertilized (fertilized) and developed into seeds (seeds). Each row represents the results from a single flower, with multiple flowers per plant. These data were used to estimate the relative success of self- and cross-pollen in fertilizing ovules, the relative survival of self- and cross-zygotes and inbreeding depression.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

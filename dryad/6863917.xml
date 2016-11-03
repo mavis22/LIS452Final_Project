@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6863917</identifier><datestamp>2015-10-13T19:02:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1JC33</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fischer, Georg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Azorsa, Frank L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hita Garcia, Francisco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikheyev, Alexander S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Economo, Evan P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Two new phragmotic ant species from Africa: morphology and next-generation sequencing solve a caste association problem in the genus Carebara Westwood</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phragmosis</subject>
+      <subject>new species descriptions</subject>
+      <subject>worker polymorphism</subject>
+      <subject>RAD-seq</subject>
+      <subject>Afrotropics</subject>
+      <subject>Africa</subject>
+      <subject>Kenya</subject>
+      <subject>Ivory Coast</subject>
+      <subject>Carebara lilith</subject>
+      <subject>Carebara phragmotica</subject>
+      <subject>Carebara elmenteitae</subject>
+      <subject>Hymenoptera</subject>
+      <subject>Formicidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fischer G, Azorsa FL, Hita Garcia F, Mikheyev AS, Economo EP (2015) Two new phragmotic ant species from Africa: morphology and next-generation sequencing solve a caste association problem in the genus Carebara Westwood. ZooKeys 525: 77-105.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1JC33/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1JC33/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1JC33/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/ZOOKEYS.525.6057</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

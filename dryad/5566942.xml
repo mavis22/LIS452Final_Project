@@ -1,0 +1,79 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566942</identifier><datestamp>2015-04-08T00:16:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8FP98/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tamburello, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maggi, Elena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benedetti-Cecchi, Lisandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bellistri, Giuseppe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rattray, Alex James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ravaglioli, Chiara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rindi, Luca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bulleri, Fabio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Variation in the impact of non-native seaweeds along gradients of habitat degradation: a meta-analysis and an experimental test</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biological invasions</subject>
+      <subject>meta-analysis</subject>
+      <subject>anthropogenic disturbance</subject>
+      <subject>seagrasses</subject>
+      <subject>invertebrates</subject>
+      <subject>fish</subject>
+      <subject>macroalgae</subject>
+      <subject>global</subject>
+      <subject>1979-2009</subject>
+      <subject>Caulerpa racemosa</subject>
+      <subject>Womersleyella setacea</subject>
+      <subject>Caulerpa taxifolia</subject>
+      <subject>Sargassum muticum</subject>
+      <subject>Lophocladia lallemandii</subject>
+      <subject>Codium fragile</subject>
+      <subject>Undaria pinnatifida</subject>
+      <subject>Gracilaria vermiculophylla</subject>
+      <subject>Fucus evanescens</subject>
+      <subject>Grateloupia turuturu</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8FP98</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1269069 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Biological invasions are acknowledged among the main drivers of global changes in biodiversity. Despite compelling evidence of species interactions being strongly regulated by environmental conditions, there is a dearth of studies investigating how the effects of non-native species vary among areas exposed to different anthropogenic pressures. Focusing on marine macroalgae, we performed a meta-analysis to test whether and how the direction and magnitude of their effects on resident communities and species varies in relation to cumulative anthropogenic impact levels. The&#13;
+relationship between human impact levels and non-native species impact intensity emerged only for a reduced subset of the response variables examined. Yet, there was a trend for the effects of non-native species on community biomass and abundance and on species abundance to become&#13;
+less negative at heavily impacted sites. By contrast, the magnitude of negative effects of seaweed on community evenness tended to increase with human impact levels. The hypothesis of decreasing severity of invader&#8217; impacts along a gradient of habitat degradation was also tested experimentally at a regional scale by comparing the effects of the removal of non-native alga, Caulerpa cylindracea, on resident assemblages among rocky reefs exposed to different anthropogenic pressures. Assemblages at urban and pristine site did not differ when invaded, but did so when C. cylindracea was removed. Our results suggest that, despite the generally weak relationship between human impacts levels and non-native species impacts, more negative impacts can be expected in less stressful environments (i.e., less degraded or pristine sites), where competitive interactions are presumably the driving force structuring resident communities. Implementing strategies for controlling the establishment of non-native seaweeds should be, thus, considered a priority for preserving biodiversity in relatively pristine areas. On the other hand, control of invaders at degraded sites could be warranted to lessen their role as propagule sources.                                                          Study ID corresponds to the article identification number reported in Appendix 2   &#13;
+Region: study region; WesMed = Western Mediterranean Sea, GNS = Great North Sea              Type: trophic level of target organism&#13;
+Habitat: IRB = intertidal rocky bottom, ISB = intertidal soft bottom, MATTE = Posidonia oceanica dead matte, OYSTBED = oyster beds, SRB = subtidal rocky bottom, SSB =subtidal soft bottom&#13;
+Invader: non-native macroalgae&#13;
+Data source: Ninv = non invaded, Inv = invaded&#13;
+Halpern_filtered_5_5: values of Halpern index averaged with a 5x5 square kernel around study sites</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

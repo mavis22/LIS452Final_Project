@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6714112</identifier><datestamp>2015-10-09T16:21:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PV332/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hoffmann, Vera</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verboom, G. Anthony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cotterill, Fenton P. D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Georeferenced locality database</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ancestral trait reconstruction</subject>
+      <subject>molecular dating</subject>
+      <subject>geoecodynamics</subject>
+      <subject>geomorphology</subject>
+      <subject>paleoclimate</subject>
+      <subject>phylogeny</subject>
+      <subject>Cape Floristic Region</subject>
+      <subject>South Africa</subject>
+      <subject>Neogene</subject>
+      <subject>Arctotis</subject>
+      <subject>Arctotheca</subject>
+      <subject>Moraea</subject>
+      <subject>Disperis</subject>
+      <subject>Pterygodium</subject>
+      <subject>Ceratandra</subject>
+      <subject>Protea</subject>
+      <subject>Leucadendron</subject>
+      <subject>Pentameris</subject>
+      <subject>Tribolium</subject>
+      <subject>Ehrharta</subject>
+      <subject>Stoebe</subject>
+      <subject>Satyrium</subject>
+      <subject>Elegia</subject>
+      <subject>Thamnochortus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PV332</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2293412 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains accurate point locality data for the taxa used in the study. Collection records with locality descriptions were obtained from various herbaria in South Africa (BOL, NBG, PRE) or from individual authors (e.g. G Galley).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

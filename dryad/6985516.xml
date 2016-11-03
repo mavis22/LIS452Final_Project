@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6985516</identifier><datestamp>2015-11-11T06:37:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC20M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Siraj, Amir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bouma, Menno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santos-Vega, Mauricio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yeshiwondim, Asnakew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rothman, Dale</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yadeta, Damtew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sutton, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pascual, Mercedes</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>JFMA cases and the covariates tested and used in our model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>malaria</subject>
+      <subject>persistence</subject>
+      <subject>reservoir</subject>
+      <subject>Ce</subject>
+      <subject>Central highlands of Ethiopia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KC20M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>158920 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This data has all variables used in the statistical model as they entered the generalized linear model and the generalized linear mixed model. The variables included are (in the order they appear): year, kebeleID, JFMA total cases, log expected cases, scaled log ratio of SOND cases to the expected SOND cases, scaled DJF mean temperature in degree Celsius, scaled DJF total rainfall in mm, scaled population density from overlapping circles of 5km radius, scaled population density from overlapping circles of 10km radius, scaled weighted distance to roads, scaled inverse square distance to perennial water bodies, scaled average soil water holding capacity, scaled average slope, scaled average NDVI, scaled SST anomalies from the Nino 3.4 region, and IRS status (0/1).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

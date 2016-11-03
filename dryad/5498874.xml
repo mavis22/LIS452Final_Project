@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5498874</identifier><datestamp>2015-03-04T21:42:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6171J/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pansu, Johan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giguet-Covex, Charline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ficetola, Gentile Francesco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gielly, Ludovic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyer, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zinger, Lucie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arnaud, Fabien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poulenard, J&#233;r&#244;me</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taberlet, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choler, Philipe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sample_Age</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Environmental DNA</subject>
+      <subject>Landscape history</subject>
+      <subject>Metabarcoding</subject>
+      <subject>Paleoecology</subject>
+      <subject>Pastoralism</subject>
+      <subject>Lake Anterne catchment (Northern French Alps)</subject>
+      <subject>Holocene</subject>
+      <subject>Anthropocene</subject>
+      <subject>Viridiplantae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6171J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52730 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the age of each sample based on 14C measurements.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466152</identifier><datestamp>2015-07-21T18:55:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.35NN0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Z&#252;st, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agrawal, Anurag A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequential aphid population census data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>specialization</subject>
+      <subject>sequestration</subject>
+      <subject>population growth</subject>
+      <subject>genotype x species interactions</subject>
+      <subject>trait variation</subject>
+      <subject>cardenolides</subject>
+      <subject>Myzus persicae</subject>
+      <subject>Aphis nerii</subject>
+      <subject>Aphis asclepiadis</subject>
+      <subject>Myzocallis asclepiadis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.35NN0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56509 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tab-delimited file containing aphid census data on 20 plant genotypes. Each replicate plant is identified by a unique numeric code ('ID') to indicate repeated measures. 'Chamber' refers to one of two growth chambers. 'Census' refers to the five sequential censuses, while 'Growth.days' is the number of days since aphid introduction. Aphid numbers are given as 'Juvenile', 'Apterous' (unwinged adult), 'Alate' (winged adult), and the summed total.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

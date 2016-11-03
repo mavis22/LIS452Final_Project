@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6981190</identifier><datestamp>2015-11-09T15:18:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H3112</identifier>
+  <creators>
+      <creator>
+         <creatorName>Becker, C. Guilherme</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodriguez, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lambertini, Carolina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Toledo, Luis Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haddad, C&#233;lio F. B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Historical dynamics of Batrachochytrium dendrobatidis in Amazonia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spatial epidemiology</subject>
+      <subject>disease spread</subject>
+      <subject>host-pathogen dynamics</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Becker CG, Rodriguez D, Lambertini C, Toledo LF, Haddad CFB (2015) Historical dynamics of Batrachochytrium dendrobatidis in Amazonia. Ecography, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H3112/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/ECOG.02055</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

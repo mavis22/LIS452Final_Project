@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6771172</identifier><datestamp>2015-09-29T19:55:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.70F4T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Saito, Shota</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hirata, Yoshito</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sasahara, Kazutoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suzuki, Hideyuki</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset from Tracking Time Evolution of Collective Attention Clusters in Twitter: Time Evolving Nonnegative Matrix Factorisation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.70F4T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>103567893 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset contains tweets ID posted before and after one week Tohoku Earthquake and iPhone 4 announcement. We collected 11,418,600 tweets posted in the interval of&#13;
+301 from 4th March 2011 to 16th March and 2,319,874 tweets posted in the interval of from 1st June 2010 to 17th June 2010 by 438,464 users, which are mainly Japanese tweets, to know the dynamics in Twitter when Japan had huge earthquakes in 11th March 2011 and iPhone announcement in 7th June 2010.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

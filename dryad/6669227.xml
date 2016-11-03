@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669227</identifier><datestamp>2015-08-20T15:13:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9RS25/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Curci, Pasquale L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Paola, Domenico</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sonnante, Gabriella</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cynara MSA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agriculture</subject>
+      <subject>Angiosperms</subject>
+      <subject>DNA Barcoding</subject>
+      <subject>Genomics/Proteomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9RS25</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3444165 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-08-18T14:01:43Z (GMT). No. of bitstreams: 1
+Cynara MSA.fasta: 3444165 bytes, checksum: 602be71e7f42b5519d74779a5040da58 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

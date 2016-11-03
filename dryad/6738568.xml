@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738568</identifier><datestamp>2015-10-05T19:29:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10278/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller-Struttmann, Nicole E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geib, Jennifer C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franklin, James D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kevan, Peter G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ebert-May, Diane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lynn, Austin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kettenbach, Jessica A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedrick, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galen, Candace</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from 'Tongue length density function parameters estimation' - Front Range</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>rapid evolution</subject>
+      <subject>bumble bees</subject>
+      <subject>climate change</subject>
+      <subject>Colorado Rocky Mountains</subject>
+      <subject>Bombus balteatus</subject>
+      <subject>Bombus sylvicola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.10278</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>165516 bytes</size>
+      <size>12300 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sample output (used in the associated manuscript) from the R script &#8220;Tongue length density function parameter estimation.r&#8221;. Provides the proportion of individual bumble bees in each subpopulation (short and long-tongued) and mean and standard deviation of tongue length in each subpopulation of bumble bees in the Front Range in the past and present. Bumble bee community data from Mt. Evans Wilderness Area and Niwot Ridge Long Term Ecological Research site combined as in Macior 1974.&#13;
+&#13;
+COLUMN DETAILS:&#13;
+REPLICATE - iteration from the resampling code (ranges from 1-1000)&#13;
+lambda1 - proportion of individuals in the short-tongued subpopulation of bumble bees &#13;
+mu1 - mean tongue length of the individuals in the short-tongued subpopulation of bumble bees &#13;
+sigma1 - standard deviation of tongue length for individuals in the short-tongued subpopulation of bumble bees&#13;
+lambda2 - proportion of individuals in the long-tongued subpopulation of bumble bees &#13;
+mu2 - mean tongue length of the individuals in the long-tongued subpopulation of bumble bees &#13;
+sigma2 - standard deviation of tongue length for individuals in the long-tongued subpopulation of bumble bees&#13;
+TIME &#8211; the timeframe during which the bees were originally collected in the Front Range (Mt. Evans and Niwot Ridge combined) and Pennsylvania Mountain (1966-1969 and 1977-1980, respectively)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

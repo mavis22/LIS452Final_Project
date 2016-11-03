@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5571072</identifier><datestamp>2015-04-01T19:38:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H6P22/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Iglesias, Teresa L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dornburg, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brandley, Matthew C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alfaro, Michael E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warren, Dan L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Marine_Teleost_Encephalization_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Comparative studies</subject>
+      <subject>Constraints</subject>
+      <subject>Fish</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Theory</subject>
+      <subject>Trade-offs</subject>
+      <subject>encephalization</subject>
+      <subject>basal metabolic rate</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H6P22</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29444 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV file containing data for the 489 species used in our analyses. Data includes: genus and species names, maximum depth (meters), maximum absolute latitude, trophic level, body mass (grams), brain mass (grams), and encephalization quotient (EQ). EQ was calculated as the species average residual deviation from log-log regression of brain mass on body mass for 1,137. species.  Data sources listed as FishBase include data from Froese &amp; Pauly, 2014, Albert et al., 1999, Bauchot et al., 1979, Bauchot et al., 1989, Chin, 1996, Bauchot &amp; Bauchot, 1986 (cited in paper) and new collections conducted by authors of this paper are indicated as "Field collection Guam" and "Field collection Curacao".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717225</identifier><datestamp>2015-09-02T15:45:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R95DH</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brandt, Erika C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petersen, John E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grossman, Jake J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Allen, George A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benzing, David H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Relationships between spatial metrics and plant diversity in constructed freshwater wetlands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>plant species diversity</subject>
+      <subject>spatial pattern</subject>
+      <subject>landscape ecology</subject>
+      <subject>wetlands</subject>
+      <subject>restoration ecology</subject>
+      <subject>aerial photography</subject>
+      <subject>remote sensing</subject>
+      <subject>land cover</subject>
+      <subject>Shannon-Wiener diversity</subject>
+      <subject>The Floristic Quality Assessment Index</subject>
+      <subject>FQAI</subject>
+      <subject>Shannon's habitat diversity index</subject>
+      <subject>area-weighted mean patch shape index</subject>
+      <subject>contagion</subject>
+      <subject>Ohio</subject>
+      <subject>Northeast Ohio</subject>
+      <subject>41&#186;17'38&#8221; N</subject>
+      <subject>82&#186;13'03&#8221; W</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Brandt EC, Petersen JE, Grossman JJ, Allen GA, Benzing DH (2015) Relationships between spatial metrics and plant diversity in constructed freshwater wetlands. PLOS ONE 10(8): e0135917.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R95DH/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R95DH/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R95DH/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R95DH/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0135917</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

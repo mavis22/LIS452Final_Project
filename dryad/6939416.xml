@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6939416</identifier><datestamp>2015-11-04T15:14:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SS368/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Catarino, Diana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knutsen, Halvor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ver&#237;ssimo, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsen, Esben</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jorde, Per Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Menezes, Gui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sann&#230;s, Hanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stankovi&#263;, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Company, Joan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neat, Francis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Danovaro, Roberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dell'Anno, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rochowski, Bastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stefanni, Sergio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CC_DB_biologic_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Barriers to dispersal</subject>
+      <subject>isolation</subject>
+      <subject>population structure</subject>
+      <subject>deep-sea shark</subject>
+      <subject>Mediterranean</subject>
+      <subject>Eastern Atlantic</subject>
+      <subject>Australia</subject>
+      <subject>Centroscymnus coelolepis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SS368</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41738 bytes</size>
+      <size>3074 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file in excel format contains the biological data used in the life-history analyses. Each line refers to one sampled specimen and the columns refer to: Cruise/Source- Code for the scientific cruise where the samples were collected or in other case provenience of the samples; Data provider- Person responsible/owner for the collection of the biological data; Genetic code- Sample genetic code, specimens without a genetic code were not screened with genetic markers; Area- Geographic region of the specimens collected: Atlantic, Mediterranean, Australia; Date: specimen capture date; Depth: specimen capture depth in meters; Total length: Specimen total length in centimeters; Total weight: specimen total weight in kilograms; Sex: Male or female; Mature/immature; Source: data from this study or retrieved from the literature (only for some Australian samples).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

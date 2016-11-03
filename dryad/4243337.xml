@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4243337</identifier><datestamp>2014-12-12T19:29:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PP37P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rowe, Kevin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rowe, Karen M. C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tingley, Morgan W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koo, Michelle S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patton, James L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conroy, Christopher J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perrine, John D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beissinger, Steven R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Craig</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MARK Occupancy Analysis Input File</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>global change</subject>
+      <subject>geographic range</subject>
+      <subject>elevation gradient</subject>
+      <subject>occupancy</subject>
+      <subject>museum specimens</subject>
+      <subject>vertebrates</subject>
+      <subject>Sierra Nevada</subject>
+      <subject>Cascade Range</subject>
+      <subject>California</subject>
+      <subject>Holocene</subject>
+      <subject>Rodentia</subject>
+      <subject>Lagomorpha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PP37P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1692672 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the site-specific covariates and capture histories for the 34 occupancy-modeled species. Each row contains a capture history for a species at a site along with that site's model covariates, including era, region, slope, elevation, elevation squared, T100 (number of traps x 100), and logT (log of the number of traps). There are also two columns for latitude ("lat") and longitude ("long"), but these were not used in the occupancy analysis. This file is formatted as it was used in the MARK analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

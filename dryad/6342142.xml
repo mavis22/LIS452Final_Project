@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342142</identifier><datestamp>2015-06-22T14:59:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.244B8/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thompson, K. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Culley, Theresa M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zumberger, A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lentz, D. L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>geographic coordinates for GenAlex</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ancient Maya</subject>
+      <subject>Cultivation</subject>
+      <subject>Genetic diversity</subject>
+      <subject>Genetic structure</subject>
+      <subject>Microsatellites</subject>
+      <subject>Guatemala</subject>
+      <subject>Belize</subject>
+      <subject>Manilkara zapota</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.244B8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44328 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an Excel file formatting for GenAlEx that contains all the geographic coordinate information for each individual represented in the microsatellite file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

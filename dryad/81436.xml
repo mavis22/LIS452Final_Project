@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81436</identifier><datestamp>2014-05-29T18:11:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.527</identifier>
+  <creators>
+      <creator>
+         <creatorName>Feliner, Gonzalo Nieto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aguilar, Javier Fuertes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossell&#243;, Josep A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Molecular evidence for the compilospecies model of reticulate evolution in Armeria (Plumbaginaceae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+      <subject>ribosomal DNA</subject>
+      <subject>compilospecies</subject>
+      <subject>hybridization</subject>
+      <subject>concerted evolution</subject>
+      <subject>reticulate evolution</subject>
+      <subject>Armeria</subject>
+      <subject>Plumbaginaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Aguilar JF, Rossell&#243; JA, Feliner GN (1999) Molecular evidence for the compilospecies model of reticulate evolution in Armeria (Plumbaginaceae). Systematic Biology 48: 735-754.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.527/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1080/106351599259997</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

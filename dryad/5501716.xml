@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5501716</identifier><datestamp>2015-03-25T04:01:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.24061/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wright, Daniel Shane</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw Throat Relfectance Measures</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coloration</subject>
+      <subject>female ornament</subject>
+      <subject>male preference</subject>
+      <subject>sexual selection</subject>
+      <subject>threespine stickleback</subject>
+      <subject>Little Campbell River</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>March then late May 2010; April then June 2011</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.24061</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8097474 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw values of throat reflectance measures of all fish used.  Data are separated into 2010 and 2011 year categories, for both male and female fish.  Male ID (numbers) correspond to that year's trials, and not to male ID in the combined data set.  For the combined data set, males are numbered 1-63, starting with the first male in 2010 and continuing sequentially through the end of the 2011 year. Con-specific or intruder males used in the con-specific male sequential choice trials are indicated with an 'I' (for example M7-I is the con-specific male presented to subject male 7)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

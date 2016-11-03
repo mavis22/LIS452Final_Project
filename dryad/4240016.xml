@@ -1,0 +1,81 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4240016</identifier><datestamp>2014-12-12T15:21:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TP097/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pierce, Brandon L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tong, Lin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Lin S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rahaman, Ronald</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Argos, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jasmine, Farzana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roy, Shantanu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paul-Brutus, Rachelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Westra, Harm-Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franke, Lude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Esko, Tonu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zaman, Rakibuz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Islam, Tariqul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rahman, Mahfuzar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baron, John A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kibriya, Muhammad G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ahsan, Habibul</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>cis_eQTLs_P&lt;0.05</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>expression quantitative trait loci (eQTL)</subject>
+      <subject>trans-eQTL</subject>
+      <subject>cis-eQTL</subject>
+      <subject>mediation</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TP097</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>145956908 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">cis-eQTLs with p&lt;0.05</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

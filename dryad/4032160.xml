@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4032160</identifier><datestamp>2014-11-25T17:01:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8NV72/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ensminger, Amanda L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fern&#225;ndez-Juricic, Esteban</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cell counts, proportions, and spatial resolving power by site</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>birds</subject>
+      <subject>chromatic contrast</subject>
+      <subject>mate choice</subject>
+      <subject>photoreceptor densities</subject>
+      <subject>retina</subject>
+      <subject>communication</subject>
+      <subject>sensory ecology</subject>
+      <subject>visual resolution</subject>
+      <subject>intraspecific variation</subject>
+      <subject>individual differences</subject>
+      <subject>color vision</subject>
+      <subject>House sparrow</subject>
+      <subject>Avian</subject>
+      <subject>Indiana</subject>
+      <subject>United States</subject>
+      <subject>Tippecanoe County</subject>
+      <subject>Passer domesticus</subject>
+      <subject>Passeriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8NV72</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>788243 bytes</size>
+      <size>5826 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the raw data of cell counts and proportions by site, and all other fixed effects that were included in the models of cell densities and proportions. It also includes the spatial resolving power values estimated per site.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

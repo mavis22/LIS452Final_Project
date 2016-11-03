@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6896529</identifier><datestamp>2015-10-22T19:52:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J7245/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McKinney, Garrett J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Lisa W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larson, Wesley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomez-Uchida, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Limborg, Morten T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brieuc, Marine S. O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Everett, Meredith V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naish, Kerry-Ann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waples, Ryan K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Jim E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypes for male diploid map formatted for LepMap</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>linkage mapping</subject>
+      <subject>Adaptation</subject>
+      <subject>RAD sequence</subject>
+      <subject>duplicated genome</subject>
+      <subject>population differentiation</subject>
+      <subject>Oncorhynchus tshawytscha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J7245</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11062730 bytes</size>
+      <size>12523 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">DipMale.linkage contains the genotypes used to produce the diploid male map in McKinney et al. 2015.  Description of data is in the ReadMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

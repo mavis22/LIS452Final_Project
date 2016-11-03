@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6285528</identifier><datestamp>2015-07-08T17:51:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VK070/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mammides, Christos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goodale, Uromi Manage</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kotagama, Sarath Wimalabandara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sidhu, Swati</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goodale, Eben</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Flock Dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Anthropogenic disturbance</subject>
+      <subject>Biodiversity loss</subject>
+      <subject>Human-modified ecosystems</subject>
+      <subject>Mixed-species bird flocks</subject>
+      <subject>Mutualisms</subject>
+      <subject>Species interaction networks</subject>
+      <subject>South Asia</subject>
+      <subject>Anthropocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-07-08</date>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VK070</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>774656 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-07-08</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a data table that includes the composition of all complete flocks (80-100% of individuals detected), and is organized by transects (see transect data). Note that mammals species are included in these records as well as bird species, and species are ordered by English name.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

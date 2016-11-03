@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753735</identifier><datestamp>2015-09-24T17:37:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2K4B7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruiz-Gonz&#225;lez, Aritz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cushman, Samuel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Madeira, Mar&#237;a Jos&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>G&#243;mez-Moliner, Benjam&#237;n J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randi, Ettore</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genetic_LCD_Matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Mammals</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Conservation Genetics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2K4B7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>426267 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genetic distance (Rousset&#8217;s a) matrix and least-cost distance (LCD) matrices for IBD, IBR and IBB models. 1) IBD-Isolation by distance; 2) IBR-Isolation by landscape resistance models optimized by Ruiz-Gonz&#225;lez et al. (2014); Land_Fb100 and Land_Fb50: Binary landscape resistance maps indicating that pine marten gene flow in is facilitated by forests, forestry plantations, scrubland, agroforestry mosaics and pastures and meadows, and that crops have roughly 100 (LandFb_100) or 50 (LandFb_50) times higher resistance than optimal habitat and the existence of a barrier effect of national roads, highways, urban areas, reservoirs and quarries. Ecological Network resistance map; EN: a resistance map analogous to that used in the design of the ecological network of the Basque country (Gurrutxaga et al. 2010a); and 3) IBB-Isolation by barriers or clusters obtained from both Bayesian clustering approaches (i.e. IBB_Geneland and IBB_Structure). The effective and Euclidean distances between each pair of individuals were calculated with PATHMATRIX 1.1 (Ray 2005), following the resistances values outlined in Table 1. Pair-wise effective distances between individuals were calculated as the accumulated cost through the least cost paths (LCP) throughout each resistance surface (Adriaensen et al. 2003; Ray 2005). Full methodological details for model construction are reported in Appendix S2 (Supporting information).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

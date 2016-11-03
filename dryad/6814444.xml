@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814444</identifier><datestamp>2015-10-26T13:28:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1F734/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fryxell, David C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arnett, Heather A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Apgar, Travis M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kinnison, Michael T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palkovacs, Eric P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experiment data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-10-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1F734</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>112448 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains all data from the experiment used in analyses in the manuscript. The "notes" tab contains column title descriptions.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

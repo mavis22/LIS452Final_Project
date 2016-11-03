@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4110922</identifier><datestamp>2014-12-09T20:41:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4013P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Theologidis, Ioannis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chelo, Ivo M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goy, Christine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teotonio, Henrique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>elegans.assurance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>adaptation</subject>
+      <subject>experimental evolution</subject>
+      <subject>selfing</subject>
+      <subject>NaCl</subject>
+      <subject>laboratory</subject>
+      <subject>none</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4013P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>841728 bytes</size>
+      <size>3898 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">excel file with multiple sheets, see readme text file for description of the data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

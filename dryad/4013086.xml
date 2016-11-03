@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4013086</identifier><datestamp>2014-11-01T14:21:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R06H2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Preis, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moat, Helen S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Unweighted Percentages of Weekly Outpatient Visits for ILI and Google Flu Trends data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Data Science</subject>
+      <subject>Computational Social Science</subject>
+      <subject>Complex Systems</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R06H2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4292 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We retrieved the weekly unweighted percentages of patient visits due to influenza-like illness (ILI), reported through the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet), from http://www.cdc.gov/flu/weekly/ on 10th December 2013. Here, ILI is defined as fever with a temperature of 100&#176;F or greater, accompanied by a cough or a sore throat. Note that the data recorded for a given week can be updated in subsequent weeks, if the CDC have reason to believe that an updated figure would be more accurate. Here, we focus our analysis on the latest data available on the date of retrieval.&#13;
+&#13;
+We obtained the weekly time series of query volume for searches relating to ILI symptoms from Google Flu Trends (http://www.google.org/flutrends) on 18th December 2013. This time series is restricted to searches made in the United States, and has been shown by Ginsberg et al. to be correlated with the percentage of physician visits in which a patient presents with influenza-like symptoms. The creators of Google Flu Trends state that their algorithm for identifying influenza related searches is constantly evaluated against figures reported by the CDC and is occasionally updated to reflect changes in human online search behaviour. Since publication of the work carried out by Ginsberg et al., the algorithm underwent updates in 2009 and 2013. Data analysed here is therefore an amalgamation of two different Google Flu Trends algorithms, with the transition occurring in August 2013.&#13;
+&#13;
+In both the patient visit and search engine query time series, weeks start on Sundays and end on Saturdays.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7245302</identifier><datestamp>2015-12-08T01:56:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.47BS5/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lowerre-Barbieri, Susan K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burnsed, Sarah Lyle  Walters</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bickford, Joel William</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>adultreprov2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>acoustic telemetry</subject>
+      <subject>spatial ecology</subject>
+      <subject>natal homing</subject>
+      <subject>spawning</subject>
+      <subject>site fidelity</subject>
+      <subject>reproductive behavior</subject>
+      <subject>connectivity</subject>
+      <subject>stock structure</subject>
+      <subject>maturation</subject>
+      <subject>fisheries management</subject>
+      <subject>Central western Florida estuarine and coastal waters</subject>
+      <subject>Sciaenops ocellatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.47BS5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>109095 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Adultreprov2: Data set includes data from the 2007-2008 study (study 1) and fish collected by purse seine and sampled non-lethally in 2012 (study 2).&#13;
+a.	Sex is set up as a character variable (F=female) and numeric (sexx, 2=female); tl=total length; small is a size category (&lt;850 mm TL=small); reproductive phases are based on Brown-Peterson et al. (2011).  GSI=gonadosomatic index.  Mature categorizes immature (1) and mature fish (2).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

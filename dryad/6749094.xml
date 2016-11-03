@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6749094</identifier><datestamp>2015-10-14T17:09:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2C47D/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martinho III, Antone</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ex2exp</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>homing</subject>
+      <subject>tecto-fugal pathway</subject>
+      <subject>monocular route learning</subject>
+      <subject>route recapitulation</subject>
+      <subject>visual asymmetry</subject>
+      <subject>learning</subject>
+      <subject>Columba livia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2C47D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>588266621 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">gpx and csv files of all experimental flights in experiment.  B number is subject identifier, number following indicates flight. L and R indicate open eye in flight.  B indicates flight is binocular</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

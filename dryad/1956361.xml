@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1956361</identifier><datestamp>2014-05-30T04:49:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10877</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bhosale, Rahul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jewell, Jeremy B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hollunder, Jens</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koo, Abraham J. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vuylsteke, Marnik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Michoel, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hilson, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goossens, Alain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Howe, Gregg A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Browse, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maere, Steven</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Predicting gene function from uncontrolled expression variation among individual wild-type Arabidopsis plants</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bhosale R, Jewell JB, Hollunder J, Koo AJK, Vuylsteke M, Michoel T, Hilson P, Goossens A, Howe GA, Browse J, Maere S (2013) Predicting gene function from uncontrolled expression variation among individual wild-type Arabidopsis plants. The Plant Cell 25(8): 2865-2877.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.10877/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.10877/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1105/TPC.113.112268</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

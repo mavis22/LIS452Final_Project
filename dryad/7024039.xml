@@ -1,0 +1,75 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7024039</identifier><datestamp>2015-11-16T17:19:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q2G6H/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Janowitz Koch, Ilana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Creek, Michelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deere-Machemer, Kerry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Jun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duarte, Lionel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gnanadesikan, Gitanjali</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCoy, Eskender</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rubbi, Liudmilla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stahler, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pellegrini, Matteo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ostrander, Elaine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wayne, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinsheimer, Janet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>vonHoldt, Bridgett</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>EWAsher_GO</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Domestication</subject>
+      <subject>Methylation</subject>
+      <subject>Genome Regulation</subject>
+      <subject>Canid</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q2G6H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>95866 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A list of our genes used for GO analyses (from the list of 68 outliers) with the background list that we used in the second tab.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

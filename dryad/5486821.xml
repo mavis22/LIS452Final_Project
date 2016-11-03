@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5486821</identifier><datestamp>2015-04-01T18:35:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.879C0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hofmann, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lettmayer, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blaschke, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Belgiu, Mariana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wegenkittl, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graf, Roland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lampoltshammer, Thomas Josef</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andrejchenko, Vera</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>IJIDF_ABIA_Towards_a_Framework_supplement</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agent-based image analysis</subject>
+      <subject>agent-based systems</subject>
+      <subject>remote sensing</subject>
+      <subject>object-based image analysis</subject>
+      <subject>autonomous systems</subject>
+      <subject>automation of image analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.879C0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>129469580 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The Supplement contains: a short description file, the rule set of the simulation executable with eCognition 9.2 or higher (Trial Version) which can be downloaded from www.ecognition.com; the image data, elevation data and further derived data used in ERDAS Imagine Format; JPEG and ESRI shape files containing all intermediate results. The Shape files additionally contain object feature values and membership degrees.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

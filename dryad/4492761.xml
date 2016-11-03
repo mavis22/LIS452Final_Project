@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492761</identifier><datestamp>2015-02-23T16:51:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9K231/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Breitburg, Denise L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hondorp, Darryl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Audemard, Corinne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carnegie, Ryan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burrell, Rebecca B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Virginia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Breitburg et al field and laboratory data - effects of hypoxia on P marinus infections in oysters</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>oyster</subject>
+      <subject>protist</subject>
+      <subject>hypoxia</subject>
+      <subject>disease</subject>
+      <subject>eutrophication</subject>
+      <subject>estuary</subject>
+      <subject>spatial variability</subject>
+      <subject>restoration</subject>
+      <subject>Chesapeake Bay</subject>
+      <subject>present</subject>
+      <subject>Crassostrea virginica</subject>
+      <subject>Perkinsus marinus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9K231</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>414720 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">data used for analysis of field and laboratory experiments</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

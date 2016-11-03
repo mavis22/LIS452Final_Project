@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5600056</identifier><datestamp>2015-04-16T15:40:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9R9M3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Morales, Hern&#225;n E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pavlova, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joseph, Leo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sunnucks, Paul</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Eopsaltria australis mitogenomes IonTorrent reads</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Mitochondria</subject>
+      <subject>Mitonuclear</subject>
+      <subject>Selection</subject>
+      <subject>Adaptation</subject>
+      <subject>Environmental variation</subject>
+      <subject>OXPHOS</subject>
+      <subject>East Australia</subject>
+      <subject>Southwest Australia</subject>
+      <subject>Eopsaltria australis</subject>
+      <subject>Eopsaltria griseogularis</subject>
+      <subject>Quoyornis georgiana</subject>
+      <subject>Tregalasia leucops</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9R9M3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>219923240 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Ion Torrent reads from Long-Range PCR's of complete mitochondrial genomes of Eastern Yellow Robin (Eopsaltria australis), sister species (E. griseogularis) and outgroups. Morales et al. Purifying and positive selection of a widespread passerine with mitonuclear discordance. Molecular Ecology.Samples are already demultiplex and in fastq format. reference genome can be found in NCBI: JX901073 - http://www.ncbi.nlm.nih.gov/pubmed/23125406 -</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

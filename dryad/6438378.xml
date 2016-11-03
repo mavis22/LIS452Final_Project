@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6438378</identifier><datestamp>2015-07-14T17:33:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V28F9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fitak, Robert R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mohandesan, Elmira</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Corander, Jukka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burger, Pamela A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Archive of all annotation and alignment data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>next-generation sequencing</subject>
+      <subject>domestication</subject>
+      <subject>adaptation</subject>
+      <subject>demography</subject>
+      <subject>Austria</subject>
+      <subject>Middle East</subject>
+      <subject>Holocene</subject>
+      <subject>Camelus dromedarius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V28F9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11224 bytes</size>
+      <size>1311774997 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file is an archive of all data not publicly archived.  Please see the README.txt file for a detailed description of all contents. The archive can be uncompressed by either double-clicking on the file in most operating systems or using the command:&#13;
+"tar -zxvf file.tar.gz" in a UNIX terminal.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5696497</identifier><datestamp>2015-05-12T19:36:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1M54F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barnes, Andrew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spey, Ina-Kathrin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rohde, Lena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brose, Ulrich</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dell, Anthony I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data used for constructing the path model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Movement</subject>
+      <subject>automated tracking</subject>
+      <subject>global warming</subject>
+      <subject>fragmentation</subject>
+      <subject>habitat patch</subject>
+      <subject>metabolic theory</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1M54F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2841 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data set includes automatically tracked movement data from 45 recorded trials of woodlice in an experimental fragmented landscape at different temperatures. 'body size' is the body mass in milligrams of the animal; 'temperature' gives the recorded temperature in degrees Celsius of the climate chamber where the trials were conducted and 'humidity' is given as a percentage; 'corridor crossing' is the number of complete crossings into the adjacent patch by the woodlice during a trial and 'corridor encounter' gives the number of times the woodlice crossed one threshold but did not cross the other into the adjacent patch; 'mean velocity' is the average speed in mm/s, 'max velocity' is the maximum speed moved in mm/s, and 'prop time moving' is the proportion of time that the woodlice spent moving during the trial period.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

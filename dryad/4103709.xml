@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4103709</identifier><datestamp>2014-11-27T13:39:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M62GJ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Woodward, Craig A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shulmeister, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsen, Joshua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobsen, Geraldine E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zawadzki, Atun</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Database S1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Wetlands</subject>
+      <subject>Deforestation</subject>
+      <subject>Human</subject>
+      <subject>Anthropogenic</subject>
+      <subject>Hydrology</subject>
+      <subject>Holocene</subject>
+      <subject>Global coverage</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M62GJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>241664 bytes</size>
+      <size>1646 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Database S1 is an Excel spreadsheet that contains data from all studies of deforestation in wetland catchments during the Holocene. These are the papers used in the meta-analysis. All sites examined by each paper are listed. This information was extracted from published, peer-reviewed journal articles</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

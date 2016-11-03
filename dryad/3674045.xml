@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3674045</identifier><datestamp>2015-01-08T02:21:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H7PM2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wakao, Setsuko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chin, Brian L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Niyogi, Krishna K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ledford, Heidi K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Casero, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pellegrini, Matteo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dent, Rachel M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Merchant, Sabeeha S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Total genes RNA-seq</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Singlet oxygen</subject>
+      <subject>Retrograde signaling</subject>
+      <subject>Photosynthesis</subject>
+      <subject>Photo-oxidative stress</subject>
+      <subject>Chlamydomonas reinhardtii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H7PM2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1688153 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This spreadsheet shows all the genes found by RNA-seq and their counts (RPKM) in all four samples, WT-mock, WT-Rose Bengal, sak1-mock, sak1-Rose Bengal. Each column shows results from a single sequencing lane, each sample was loaded on two lanes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5541577</identifier><datestamp>2015-03-25T20:20:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7TB72/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Recknagel, Hans</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobs, Arne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herzyk, Pawel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Elmer, Kathryn R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table_2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Phylogeography</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7TB72</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>439661 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table_2 contains all the locus sequences (sheet 1: &#8216;Locus sequences&#8217;) and SNP information (sheet 2: &#8216;Genotypes&#8217;) that were used for the inference of phylogenetic relationships of Arctic charr and European whitefish.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

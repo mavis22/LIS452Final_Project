@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748322</identifier><datestamp>2015-10-09T18:43:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C57H7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vojvodic, Svjetlana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Brian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harpur, Brock A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kent, Clement F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zayed, Amro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Kirk E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linksvayer, Timothy A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Counts of mapped reads per gene for each of the 12 samples</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>indirect genetic effects</subject>
+      <subject>interacting phenotypes</subject>
+      <subject>extended phenotype</subject>
+      <subject>social evolution</subject>
+      <subject>Apis mellifera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C57H7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>678057 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table showing counts of mapped reads (from htseq-count) per gene for each of the 12 samples. Further output from htseq-count per sample is shown at the bottom of the table, summarizing the total number of mapped reads, reads that were not mapped, and the proportion of total mapped reads. The first table column, "genes" refers to the A. mellifera Official Gene Set 3.2 accession numbers (Elsik et al. 2014). The remaining 12 columns refer to the 12 samples: "wg" = pooled HPG tissue from nurses collected from queenright colonies while feeding worker-destined larvae; "Wg" = pooled HPG tissue from nurses collected from queenless colonies while feeding worker-destined larvae; "Qg" = pooled HPG tissue from nurses collected from queenless colonies while feeding queen-destined larvae; "wh" = pooled head tissue from nurses collected from queenright colonies while feeding worker-destined larvae; "Wh" = pooled head tissue from nurses collected from queenless colonies while feeding worker-destined larvae; "Qh" = pooled head tissue from nurses collected from queenless colonies while feeding queen-destined larvae; "wm" = pooled MG tissue from nurses collected from queenright colonies while feeding worker-destined larvae; "Wm" = pooled MG tissue from nurses collected from queenless colonies while feeding worker-destined larvae; "Qm" = pooled MG tissue from nurses collected from queenless colonies while feeding queen-destined larvae; "wl" = pooled 4th instar worker-destined larvae from queenright colonies; "Wl" = pooled 4th instar worker-destined larvae from queenless colonies; "Ql" = pooled 4th instar queen-destined larvae from queenless colonies</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

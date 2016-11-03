@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6531411</identifier><datestamp>2015-09-02T18:25:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T8534/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pansu, Johan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winkworth, Richard C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hennion, Fran&#231;oise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gielly, Ludovic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taberlet, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choler, Philippe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Unfiltered sequencing data for fungal metabarcode (fasta format)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Environmental DNA</subject>
+      <subject>Invasive species</subject>
+      <subject>Metabarcoding</subject>
+      <subject>Soil communities</subject>
+      <subject>Kerguelen Islands</subject>
+      <subject>Sub-Antarctic Islands</subject>
+      <subject>Fungi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T8534</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8925409 bytes</size>
+      <size>2122 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This fasta file contains unfiltered sequencing data (i.e. merged reads assigned to their original sample) for fungal metabarcode. Amplicons were amplified using the primers ITS5 : 5'-GGAAGTAAAAGTCGTAACAAGG-3' (White et al. 1990) and 5.8S_fungi : 5'- CAAGAGATCCGTTGTTGAAAGTT-3' primers (Epp et al. 2012).  Sequences were produced by a 2 x 250 bp paired-end sequencing on Illumina MiSeq platform. First processing steps were performed using the OBITOOLS software (http://metabarcoding.org/obitools) as follows: (i) Direct and reverse reads corresponding to the same sequence were aligned and merged thanks to the IlluminaPairEnd program. Only merged sequences with a high alignment quality score were retained (&gt;=40) (ii) Each merged sequence was assigned to its original sample using the tags information previously added to primers thanks to the ngsfilter program. For this step, only sequences containing both primers (with a maximum of 3 mismatches per primer) and exact tag sequences were selected. (iii) To reduce the file size, strictly identical sequences were merged together while keeping information about the origin of sequences.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

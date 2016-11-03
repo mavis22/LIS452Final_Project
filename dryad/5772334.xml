@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5772334</identifier><datestamp>2015-07-17T22:39:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.35HS3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pigeault, Romain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#233;zilier, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cornet, St&#233;phane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Z&#233;l&#233;, Flore</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nicot, Antoine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perret, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gandon, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rivero, Ana</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_Pigeault et al 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Avian malaria</subject>
+      <subject>within-host dynamics</subject>
+      <subject>Culex pipiens</subject>
+      <subject>Plasmodium relictum</subject>
+      <subject>Plasmodium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.35HS3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>766693 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data were obtained in 14 different experiments. The data file was created with Microsoft Excel Open XML. Data were collected in laboratory.&#13;
+In the one hand, data concern the impact of plasmodium infection on its host and its vector. There are data on the variance in infection rate in bird, on the impact of plasmodium on bird anaemia. Regarding the impact of Plasmodium on mosquitoes, there are data on prevalence, parasite burden and the costs induced by Plasmodium on mosquitoes' fecundity and longevity.&#13;
+In the other hand, there are data on a time series regarding the evolution of birds' parasitaemia and gametocytemia maintained in laboratory since 5 years.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

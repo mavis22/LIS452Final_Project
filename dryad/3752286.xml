@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3752286</identifier><datestamp>2015-01-30T20:56:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4DF03/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ferrenberg, Scott M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Air temperature data used by Mitton and Ferrenberg</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>long term climate data</subject>
+      <subject>meteorological station</subject>
+      <subject>Niwot Ridge LTER</subject>
+      <subject>daily air temperatures</subject>
+      <subject>Colorado</subject>
+      <subject>Boulder County</subject>
+      <subject>Niwot Ridge</subject>
+      <subject>U.S. Rocky Mountains</subject>
+      <subject>Holocene</subject>
+      <subject>Dendroctonus ponderosae</subject>
+      <subject>Pinus contorta</subject>
+      <subject>Pinus flexilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4DF03</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25977 bytes</size>
+      <size>1685 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Air temperature and growing degree day calculations for Mitton and Ferrenberg's reply to Bentz and Powell. This temperature data was pulled from raw data for 1953-present are available through the University of Colorado's Institute for Arctic and Alpine Research. The data presented are from the C-1 climate station located at the Niwot Ridge LTER site, 3018 m above sea level in Boulder County, Colorado, USA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

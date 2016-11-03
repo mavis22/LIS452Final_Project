@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4644903</identifier><datestamp>2015-03-13T19:19:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P6678/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gorsich, Erin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ezenwa, Vanessa O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cross, Paul C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bengis, Roy G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jolles, Anna E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>body_condition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>African buffalo</subject>
+      <subject>bacteria</subject>
+      <subject>chronic disease</subject>
+      <subject>conservation biology</subject>
+      <subject>disease ecology</subject>
+      <subject>population growth</subject>
+      <subject>Kruger National Park</subject>
+      <subject>South Africa</subject>
+      <subject>Syncerus caffer</subject>
+      <subject>Brucella abortus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P6678</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12723 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data include buffalo that became infected with brucellosis during the course of the study.  We were interested in how host body condition scores differed before and after infection.  Additional covariates included in this analysis include, host age in years(age_in_years), season, the presence or absence of  a calf (calf), and host density (density_ave ) in the area it was captured.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4013312</identifier><datestamp>2014-11-28T18:34:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TJ54K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Burkett-Cadena, Nathan D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bingham, Andrea M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Unnasch, Thomas R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RSBL-2014-0417_Tampa_FL_USA_Bird_sex_ESM</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>sex-bias</subject>
+      <subject>infection prevalence</subject>
+      <subject>parasite-host interaction</subject>
+      <subject>disease ecology</subject>
+      <subject>Tampa</subject>
+      <subject>Florida</subject>
+      <subject>USA</subject>
+      <subject>Culex erraticus</subject>
+      <subject>Culex nigripalpus</subject>
+      <subject>Culiseta melanura</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TJ54K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Host sex and species identification of mosquitoes collected from wetlands in Tampa, Florida, USA, 2011-2013.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

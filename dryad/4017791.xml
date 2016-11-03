@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017791</identifier><datestamp>2015-04-07T20:08:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.ND4G8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duijns, Sjoerd</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knot, Ineke E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piersma, Theunis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Gils, Jan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Field measurements give biased estimates of functional response parameters, but help explain foraging distributions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Digestive constraint</subject>
+      <subject>distribution</subject>
+      <subject>energetics</subject>
+      <subject>foraging</subject>
+      <subject>Holling&#8217;s disc equation</subject>
+      <subject>interference</subject>
+      <subject>prey detection</subject>
+      <subject>sensory ecology</subject>
+      <subject>shorebird</subject>
+      <subject>53&#176; 05&#8217; N</subject>
+      <subject>4&#176; 48&#8217; E</subject>
+      <subject>Limosa lapponica</subject>
+      <subject>Arenicola marina</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Duijns S, Knot IE, Piersma T, van Gils JA (2014) Field measurements give biased estimates of functional response parameters, but help explain foraging distributions. Journal of Animal Ecology 84(2): 565-575.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND4G8/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12309</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

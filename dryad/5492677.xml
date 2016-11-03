@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5492677</identifier><datestamp>2015-04-20T17:33:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3N90M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ravinet, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hynes, Rosaleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poole, Russell</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cross, Tom F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGinnity, Phil</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrod, Harrod</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prod&#246;hl, Paulo A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>shape_analyses_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>secondary contact</subject>
+      <subject>reproductive isolation</subject>
+      <subject>anadromous-freshwater species pairs</subject>
+      <subject>three-spined stickleback</subject>
+      <subject>West Ireland</subject>
+      <subject>Holocene</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3N90M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>271847 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for shape analysis used in Ravinet et al (2015) MS. Excel file contains data for shape and measured traits (raw and size corrected). See Ravinet et al (2015) MS for details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

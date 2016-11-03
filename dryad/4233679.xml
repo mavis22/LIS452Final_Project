@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4233679</identifier><datestamp>2014-11-19T17:17:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.18276/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mandic, Milica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramon, Marina L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gracey, Andrew Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards, Jeffrey G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Transcriptomic data for O. maculosus and B. cirrhosis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Transcriptomics</subject>
+      <subject>Hypoxia</subject>
+      <subject>Intertidal environment</subject>
+      <subject>Sculpins</subject>
+      <subject>Microarray</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Wizard's Rock (48&#176;51.5&#8242;N; 125&#176;9.4&#8242;W)</subject>
+      <subject>Bamfield</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Oligocottus maculosus</subject>
+      <subject>Blepsias cirrhosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.18276</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">Raw data of hybridization assays for both species of sculpin for all time-points at all O2 tensions. Available in ArrayExpress at http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3043/. When reusing these data, please include the following citation: Microarray data are available in the ArrayExpress database (www.ebi.ac.uk/arrayexpress) under accession number E-MTAB-3043.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

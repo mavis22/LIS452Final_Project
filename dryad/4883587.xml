@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4883587</identifier><datestamp>2015-03-17T20:28:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S597D</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chakarov, Nayden</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linke, Burkhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boerner, Martina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goesmann, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kr&#252;ger, Oliver</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffman, Joseph I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Apparent vector-mediated parent-to-offspring transmission in an avian malaria-like parasite</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Disease Biology</subject>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Parasitology</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Protists</subject>
+      <subject>Birds</subject>
+      <subject>Germany</subject>
+      <subject>Leucocytozoon buteonis</subject>
+      <subject>Buteo buteo</subject>
+      <subject>Leucocytozoon toddi</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chakarov N, Linke B, Boerner M, Goesmann A, Kr&#252;ger O, Hoffman JI (2015) Apparent vector-mediated parent-to-offspring transmission in an avian malaria-like parasite. Molecular Ecology 24(6): 1355-1363.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S597D/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13115</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

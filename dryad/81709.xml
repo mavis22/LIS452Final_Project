@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81709</identifier><datestamp>2014-05-29T18:18:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.841</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gatesy, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amato, George</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Norell, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeSalle, Rob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayashi, Cheryl</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Combined Support for Wholesale Taxic Atavism in Gavialine Crocodylians</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+      <subject>Aves</subject>
+      <subject>combined evidence</subject>
+      <subject>Crocodylia</subject>
+      <subject>fossil</subject>
+      <subject>gavial</subject>
+      <subject>phylogeny</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Gatesy, John; Amato, George; Norell, Mark; DeSalle, Rob; and Hayashi, Cheryl. 'Combined Support for Wholesale Taxic Atavism in Gavialine Crocodylians', Systematic Biology, 52:3, 403-422</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.841/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1080/10635150390197037</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

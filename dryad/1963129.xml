@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1963129</identifier><datestamp>2014-05-30T05:17:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T749B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Campbell, Matthew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Wei-Jen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#243;pez, J. Andr&#233;s</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Are flatfishes (Pleuronectiformes) monophyletic?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Phylogeny</subject>
+      <subject>Model of Evolution</subject>
+      <subject>Non-stationary Evolution</subject>
+      <subject>Base Composition Heterogeneity</subject>
+      <subject>Mesozoic</subject>
+      <subject>Cenozoic</subject>
+      <subject>Pleuronectiformes</subject>
+      <subject>Acanthomorpha</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Campbell MA, Chen W, L&#243;pez JA (2013) Are flatfishes (Pleuronectiformes) monophyletic? Molecular Phylogenetics and Evolution 69(3): 664&#8211;673.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T749B/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.YMPEV.2013.07.011</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

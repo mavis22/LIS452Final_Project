@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665632</identifier><datestamp>2015-07-24T18:19:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BG40M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Villanueva, Beatriz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Cara, M. Angeles R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fern&#225;ndez, Jes&#250;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Toro, Miguel A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad_data.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>genetic diversity</subject>
+      <subject>inbreeding depression</subject>
+      <subject>purging</subject>
+      <subject>molecular coancestry</subject>
+      <subject>management</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BG40M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>32003285 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Four sets of genotypes used for population management, for populations of 1000 diploid individuals with 20 chromosomes of 1 Morgan each. For S=100 (1000), each chromosome has 2000 neutral loci, 100 (1000) selected loci and 1000 markers. Each row is one individual, and within row the two alleles per position.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

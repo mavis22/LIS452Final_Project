@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6985519</identifier><datestamp>2015-11-11T06:37:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC20M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Siraj, Amir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bouma, Menno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santos-Vega, Mauricio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yeshiwondim, Asnakew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rothman, Dale</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yadeta, Damtew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sutton, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pascual, Mercedes</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Count of neighboring kebeles</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>malaria</subject>
+      <subject>persistence</subject>
+      <subject>reservoir</subject>
+      <subject>Ce</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KC20M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1049 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This data set contains the count of kebeles neighboring each kebele. This file should be used in combination with the Nieghborhood.csv.  For example the first kebele (ID=1) has 4 neighbors. Thus, the first four numbers in neighborhood.csv are kebele ID's of those kebeles neighboring kebele 1. Similarly, the second kebele has 3 neighbors, and thus the next three number in neighborhood.csv are IDs of its three neighbors. The remaining neighbors are identified by matching them with corresponding kebele IDs in the file neighborhood.csv in this manner.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

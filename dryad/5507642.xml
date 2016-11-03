@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5507642</identifier><datestamp>2015-03-16T01:05:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B21Q1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kittle, Andrew M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Morgan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Avgar, Tal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shuter, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reid, Douglas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baker, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Glenn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fryxell, John</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wolf pack size, 95% and 50% territory sizes and quality metrics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Brownian bridge</subject>
+      <subject>predator density</subject>
+      <subject>territory size</subject>
+      <subject>wolf pack size</subject>
+      <subject>Northern Ontario boreal forest</subject>
+      <subject>Canis lupus</subject>
+      <subject>Alces alces</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B21Q1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15879 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table describing wolf packs, territories and quality metrics used to evaluate whether wolves adjust pack size or territory size to match habitat quality</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

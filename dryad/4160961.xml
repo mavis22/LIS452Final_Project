@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4160961</identifier><datestamp>2015-02-09T18:14:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.82KV2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Evans, Luke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Allan, Gerard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DiFazio, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slavov, Gancho</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilder, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Floate, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rood, Stewart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whitham, Thomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Populus angustifolia locations and SSR data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Populus</subject>
+      <subject>climate</subject>
+      <subject>population structure</subject>
+      <subject>demographic history</subject>
+      <subject>Western North America</subject>
+      <subject>Pleistocene</subject>
+      <subject>Populus angustifolia James</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.82KV2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>108888 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains all the SSR data collected for all unique P. angustifolia genotypes, formatted for the program STRUCTURE. It also contains the latitude, longitude, and elevation of the collections.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

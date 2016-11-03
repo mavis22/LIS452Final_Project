@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5152590</identifier><datestamp>2015-08-13T20:38:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9GK52</identifier>
+  <creators>
+      <creator>
+         <creatorName>Payen, Thibaut</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murat, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gigant, Anais</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morin, Emmanuelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Mita, St&#233;phane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Francis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A survey of genome-wide single nucleotide polymorphisms through genome re-sequencing in the P&#233;rigord black truffle (Tuber melanosporum Vittad.)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNP resource</subject>
+      <subject>next generation sequencing</subject>
+      <subject>geographic accessions resequencing</subject>
+      <subject>black truffle</subject>
+      <subject>selection signature</subject>
+      <subject>France</subject>
+      <subject>Italy</subject>
+      <subject>Spain</subject>
+      <subject>Tuber melanosporum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Payen T, Murat C, Gigant A, Morin E, De Mita S, Martin F (2015) A survey of genome-wide single nucleotide polymorphisms through genome re-sequencing in the P&#233;rigord black truffle (Tuber melanosporum Vittad.). Molecular Ecology Resources 15(5): 1243&#8211;1255.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12391</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768433</identifier><datestamp>2015-10-01T17:06:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F6G68/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gibson, Amanda Kyle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoy, Kayla S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gelarden, Ian A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Penley, McKenna J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lively, Curtis M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morran, Levi T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mortality rate</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Evolution of virulence</subject>
+      <subject>experimental evolution</subject>
+      <subject>experimental coevolution</subject>
+      <subject>Caenorhabditis elegans</subject>
+      <subject>Serratia marcescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F6G68</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2270 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mortality rate induced by parasite populations following experimental evolution. All parasite populations were evaluated against the ancestral host lineage of matching number. &#8220;Parasite&#8221; indicates the parasite experimental evolution treatment being assaying, and &#8220;Line&#8221; the replicate lineage. &#8220;Replicate&#8221; indicates the replicate assay plate. &#8220;Mortality_Rate&#8221; gives the proportion of hosts found to be dead or morbid following 24 hours of exposure to the parasite population.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804749</identifier><datestamp>2015-03-17T19:47:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8N5D7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Husemann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cousseau, Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Callens, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthysen, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vangestel, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallmann, Caspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lens, Luc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Post-fragmentation population structure in a cooperative breeding Afrotropical cloud forest bird: emergence of a source-sink population network</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>approximate Bayesian computation</subject>
+      <subject>capture-recapture</subject>
+      <subject>census population size</subject>
+      <subject>demography</subject>
+      <subject>effective population size</subject>
+      <subject>gene flow</subject>
+      <subject>Taita Hills</subject>
+      <subject>Kenya</subject>
+      <subject>Holocene</subject>
+      <subject>Phyllastrephus cabanisi</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Husemann M, Cousseau L, Callens T, Matthysen E, Vangestel C, Hallmann C, Lens L (2015) Post-fragmentation population structure in a cooperative breeding Afrotropical cloud forest bird: emergence of a source-sink population network. Molecular Ecology 24(6): 1172-1187.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13105</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

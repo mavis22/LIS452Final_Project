@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4105300</identifier><datestamp>2015-04-16T22:57:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FP3FP/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lopes, Carla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Barba, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyer, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mercier, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Filho, Pedro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heidtmann, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galiano, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kubiak, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langone, Patr&#237;cia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garcias, Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gielly, Ludovic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coissac, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Freitas, Thales</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taberlet, Pierre</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>gh_feces_unfiltered</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>diet analysis</subject>
+      <subject>Illumina HiSeq 2000</subject>
+      <subject>chloroplast trnL(UAA)</subject>
+      <subject>southern Brazilian coastal plain</subject>
+      <subject>Ctenomys minutus</subject>
+      <subject>Ctenomys flamarioni</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FP3FP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>992 bytes</size>
+      <size>6253457 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-10-30T19:04:29Z (GMT). No. of bitstreams: 2
+README.txt: 992 bytes, checksum: 5ef2f66f7452e4080dd23953a69d72e5 (MD5)
+gh_feces_unfiltered.fasta: 6253457 bytes, checksum: 98dcf9d6c2eeb1b910cc92c897e965dc (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

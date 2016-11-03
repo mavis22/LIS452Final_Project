@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4455192</identifier><datestamp>2014-12-18T19:02:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5DH5F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Whitney, Kenneth D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broman, Karl W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kane, Nolan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hovick, Stephen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randell, Rebecca A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rieseberg, Loren H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phenotype and SNP Genotype Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecological Genetics</subject>
+      <subject>Angiosperms</subject>
+      <subject>Hybridization</subject>
+      <subject>Invasive Species</subject>
+      <subject>hybridization</subject>
+      <subject>adaptive trait introgression</subject>
+      <subject>quantitative trait locus</subject>
+      <subject>SNP</subject>
+      <subject>herbivory</subject>
+      <subject>seed predation</subject>
+      <subject>phenology</subject>
+      <subject>plant architecture</subject>
+      <subject>range expansion</subject>
+      <subject>invasion</subject>
+      <subject>North America</subject>
+      <subject>Texas</subject>
+      <subject>Holocene</subject>
+      <subject>Asteraceae</subject>
+      <subject>Helianthus</subject>
+      <subject>Neolasioptera</subject>
+      <subject>Isophrictis</subject>
+      <subject>Helianthus annuus texanus</subject>
+      <subject>Helianthus debilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5DH5F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>862756 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file contains information on 906 field-grown backcross1 sunflower plants.&#13;
+Field site is identified in column Z.&#13;
+Plants are identified by the number in column AA.&#13;
+Columns A-Y contain field-measured trait data.  Trait names correspond to the abbreviations in Table 1 of the associated manuscript.&#13;
+Columns AH - HO contain SNP genotype data; A = H. a. annuus allele; D = H. debilis allele.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

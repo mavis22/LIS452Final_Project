@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727328</identifier><datestamp>2015-05-19T15:58:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4MT34/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Margres, Mark J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wray, Kenneth P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seavy, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGivern, James J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanader, Dragana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rokyta, Darin R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table_S1:  Raw HPLC data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Life history evolution</subject>
+      <subject>Southeast United States</subject>
+      <subject>Crotalus adamanteus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4MT34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>102941 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This files contains the raw HPLC peak abundance data for all of our samples.  The columns are as follows: Venom:  unique venom sample identifier. Tissue:  Unique animal identifier (one animal may have several venom samples; KW0719a is the same animal as KW0719b). Peak1a to Peak21: area under each HPLC peak (not a percentage). MaturityFactor:  the age class each animal belongs to based on the 102 cm SVL cut-off. GeographyFactor:  population of each animal. Eglin is Ca1, ANF is Ca2, ONF is Ca3, ENP is Ca4, LSG is Ca5, CAL is Ca6, SAP is Ca7. The last two columns indicate whether the sample was used in all analyses or only in the PCA and cluster analysis (i.e., removed prior to non-parametric MANOVA because it lacked size data and/or was a duplicate sample from an individual already present in the data set).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6908689</identifier><datestamp>2015-11-20T15:06:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N5509/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rode, Karyn D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Ryan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Regehr, Eric V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>St. Martin, Michelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Douglas, David C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olson, Jay</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Chukchi Sea Polar Bear Locations (2008-2013)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Polar bear</subject>
+      <subject>Climate change</subject>
+      <subject>Denning</subject>
+      <subject>Habitat use</subject>
+      <subject>Terrestrial habitats</subject>
+      <subject>Sea ice loss</subject>
+      <subject>Chukchi Sea</subject>
+      <subject>Ursus maritimus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N5509</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1284048 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data are the locations (latitude and longitude) of polar bears in the Chukchi Sea that were used in the analysis by Rode et al.  The data include the date and time of the location, the unique identifier of the bear the locations are from, and the accuracy classification of the location.  Location accuracy is based on Argos error classes (3,2,1,0,A,B).  If a location was obtained from GPS, its accuracy is labeled as 'GPS'.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3709444</identifier><datestamp>2015-02-04T14:47:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2S07S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bolnick, Daniel I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Snowberg, Lisa K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stutz, William E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caporaso, J. Gregory</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lauber, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knight, Rob</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bolnick MolecEcol Dryad Submission</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>genetic diversity</subject>
+      <subject>MHC</subject>
+      <subject>microbiota</subject>
+      <subject>mucosal immunity</subject>
+      <subject>threespine stickleback</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2S07S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>906768 bytes</size>
+      <size>11325 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A zip file containing 14 .csv or .txt data files including fish metadata (morphology, sex, diet), gut microbiota composition, and MHC genotype.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6746216</identifier><datestamp>2015-09-14T18:30:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9SK18/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>B&#233;ziers, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roulin, Alexandre</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>2ndClutch_Female_2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>second clutches</subject>
+      <subject>offspring desertion</subject>
+      <subject>barn owl</subject>
+      <subject>divorce</subject>
+      <subject>multiple breeding</subject>
+      <subject>parental care</subject>
+      <subject>reproductive success</subject>
+      <subject>Switzerland</subject>
+      <subject>Tyto alba</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9SK18</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>211440 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This table contains data on the number of annual clutch (1 or 2 annual) produced by females during 1990-2014 in a population of barn owls in western Switzerland. For each clutch you will find the different breeding parameters (laying date, clutch size, number of fledglings, breeding site) and information on the individuals and their partner (age, ringing status,&#8230;).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1998405</identifier><datestamp>2014-05-30T05:07:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J7260</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Oers, Kees</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santure, Anna W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Cauwer, Isabelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Bers, Nikkie E. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crooijmans, Richard P. M. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Visser, Marcel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slate, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Groenen, Martien A. M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Replicated high-density genetic maps of two great tit populations reveal fine-scale genomic departures from sex-equal recombination rates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>linkage map</subject>
+      <subject>heterochiasmy</subject>
+      <subject>chromosomal rearrangements</subject>
+      <subject>population comparison</subject>
+      <subject>Wageningen</subject>
+      <subject>Netherlands</subject>
+      <subject>Oxford</subject>
+      <subject>United Kingdom</subject>
+      <subject>Aves</subject>
+      <subject>Parus major</subject>
+      <subject>passeriformes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">van Oers K, Santure AW, De Cauwer I, van Bers NEM, Crooijmans RPMA, Sheldon BC, Visser ME, Slate J, Groenen MAM (2014) Replicated high-density genetic maps of two great tit populations reveal fine-scale genomic departures from sex-equal recombination rates. Heredity 112(3): 307-316.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J7260/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J7260/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J7260/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2013.107</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

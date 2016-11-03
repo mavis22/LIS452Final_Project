@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4111036</identifier><datestamp>2015-05-26T15:08:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RG817/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Herfindal, Ivar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van de Pol, Martijn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nielsen, Jan T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#230;ther, Bernt-Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#248;ller, Anders P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Goshawk life history data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climatic variation</subject>
+      <subject>cohort effects</subject>
+      <subject>demographic covariance</subject>
+      <subject>environmental stochasticity</subject>
+      <subject>goshawk</subject>
+      <subject>Denmark</subject>
+      <subject>Accipiter gentilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2015-12-10</date>
+      <date dateType="Accepted">2015-05-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RG817</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>96189 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2015-12-10</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the field by Jan T. Nielsen on individual female goshawks. For more details regarding field procedures, see the following literature: Nielsen, J. T., and J. Drachmann. 1999. Prey selection of Goshawks Accipiter gentilis during the breeding season in Vendsyssel, Denmark. Dansk Ornitologisk Forenings Tidsskrift 93:85&#8211;90; Nielsen, J. T., and J. Drachmann. 2003. Age-dependent reproductive performance in Northern Goshawks Accipiter gentilis. Ibis 145:1&#8211;8.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,91 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5615475</identifier><datestamp>2015-06-11T20:16:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.58FP6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sinn, Brandon T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelly, Lawrence M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freudenstein, John V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenetic relationships in Asarum (Aristolochiaceae): effect of data partitioning and a revised classification</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian Inference</subject>
+      <subject>Maximum Likelihood</subject>
+      <subject>Maximum Parsimony</subject>
+      <subject>PartitionFinder</subject>
+      <subject>United States of America</subject>
+      <subject>China</subject>
+      <subject>Taiwan</subject>
+      <subject>Japan</subject>
+      <subject>Asarum arifolium Michx. var. arifolium</subject>
+      <subject>Asarum arifolium Michx. var. ruthii (Ashe) Barringer</subject>
+      <subject>Asarum asaroides (C.Morren et Decne.) F.Maek.</subject>
+      <subject>Asarum asperum F.Maek var. asperum</subject>
+      <subject>Asarum blumei Duch.</subject>
+      <subject>Asarum canadense L</subject>
+      <subject>Asarum caudatum Lindl.</subject>
+      <subject>Asarum caudigerellum C.Y.Cheng &amp; C.S.Yang</subject>
+      <subject>Asarum caulescens Maxim</subject>
+      <subject>Asarum contractum (H.L.Blomq.) Barringer</subject>
+      <subject>Asarum crassum F.Maek.</subject>
+      <subject>Asarum debile Franch.</subject>
+      <subject>Asarum delavayi Franch.</subject>
+      <subject>Asarum epigynum Hayata</subject>
+      <subject>Asarum forbesii Maxim.</subject>
+      <subject>Asarum fudsinoi T.It&#244;</subject>
+      <subject>Asarum gelasinum (F.Maek.) Hatus.</subject>
+      <subject>Asarum hartwegii S.Watson</subject>
+      <subject>Asarum hatsushimae F.Maek. ex Hatus. &amp; Yamahata</subject>
+      <subject>Asarum heterophyllum Ashe</subject>
+      <subject>Asarum hexalobum (F.Maek.) F.Maek. var. perfectum F.Maek.</subject>
+      <subject>Asarum himalaicum Hook.f. &amp; Thomson ex Klotzsch</subject>
+      <subject>Asarum kumageanum Masam.</subject>
+      <subject>Asarum lemmonii S.Watson</subject>
+      <subject>Asarum lewisii Fernald</subject>
+      <subject>Asarum maximum Hemsl.</subject>
+      <subject>Asarum megacalyx (F.Maek.) T.Sugaw.</subject>
+      <subject>Asarum memmingeri Ashe</subject>
+      <subject>Asarum minamitanianum Hatus.</subject>
+      <subject>Asarum minus Ashe</subject>
+      <subject>Asarum muramatsui Makino</subject>
+      <subject>Asarum naniflorum (H.L.Blomq.) B.T.Sinn</subject>
+      <subject>Asarum pulchellum Hemsl.</subject>
+      <subject>Asarum rhombiformis (Gaddy) B.T.Sinn</subject>
+      <subject>Asarum savatieri Franch. subsp. savatieri</subject>
+      <subject>Asarum sieboldii Miq. var. sieboldii</subject>
+      <subject>Asarum shuttleworthii Britten &amp; Baker var. harperi (Gaddy) Barringer</subject>
+      <subject>Asarum shuttleworthii Britten &amp; Baker var. shuttleworthii</subject>
+      <subject>Asarum speciosum (R.M.Harper) Barringer</subject>
+      <subject>Asarum splendens (F.Maek.) C.Y.Cheng &amp; C.S.Yang</subject>
+      <subject>Asarum takaoi F.Maek.</subject>
+      <subject>Asarum virginicum L.</subject>
+      <subject>Asarum yakusimense Masam.</subject>
+      <subject>Saruma henryi Oliv.</subject>
+      <subject>Asiasarum</subject>
+      <subject>Asarum</subject>
+      <subject>Geotaenium</subject>
+      <subject>Heterotropa</subject>
+      <subject>Hexastylis</subject>
+      <subject>Japonasarum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sinn BT, Kelly LM, Freudenstein JV (2015) Phylogenetic relationships in Asarum (Aristolochiaceae): effect of data partitioning and a revised classification. American Journal of Botany 102(5): 765-779.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.58FP6/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.58FP6/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.58FP6/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/AJB.1400316</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

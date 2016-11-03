@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342386</identifier><datestamp>2015-08-21T19:19:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8KC81/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Granroth-Wilding, Hanna M. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burthe, Sarah J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lewis, Sue</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herborn, Katherine A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Takahashi, Emi A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daunt, Francis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cunningham, Emma J. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Parent data (2011)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life history decision</subject>
+      <subject>trade-off</subject>
+      <subject>seabird</subject>
+      <subject>parent-offsrping conflict</subject>
+      <subject>endoparasite</subject>
+      <subject>Isle of May</subject>
+      <subject>Scotland</subject>
+      <subject>UK</subject>
+      <subject>North Sea</subject>
+      <subject>Phalacrocorax aristotelis</subject>
+      <subject>Contracaecum rudolphii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8KC81</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6525 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data from the year of anti-parasite treatment measured for each individual adult in the experiment: mass at the start and end of the experiment, along with anti-parasite treatment group and unmanipulated traits such as hatch date and sex.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

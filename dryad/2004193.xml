@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2004193</identifier><datestamp>2014-05-30T05:16:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C3287</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hargreaves, Anna L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Samis, Karen E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eckert, Christopher G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Are species' range limits simply niche limits writ large? A review of transplant experiments beyond the range</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Ecology: experimental</subject>
+      <subject>Ecology: spatial</subject>
+      <subject>Fitness</subject>
+      <subject>Genetic drift</subject>
+      <subject>Geographic ranges</subject>
+      <subject>Metapopulations</subject>
+      <subject>Methods: meta-analysis</subject>
+      <subject>transplant experiments</subject>
+      <subject>Species distributions</subject>
+      <subject>Range limits</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hargreaves AL, Samis KE, Eckert CG (2013) Are species' range limits simply niche limits writ large? A review of transplant experiments beyond the range. The American Naturalist 183(2): 157-173.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C3287/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C3287/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/674525</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

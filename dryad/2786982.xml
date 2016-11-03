@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2786982</identifier><datestamp>2015-03-03T07:30:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K7R52/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hayward, Adam D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mar, Khyne U.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lahdenper&#228;, Mirkka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lummaa, Virpi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hayward et al_Elephant senescence_JEB dryad data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Evolution of ageing</subject>
+      <subject>Antagonistic pleiotropy</subject>
+      <subject>Disposable soma</subject>
+      <subject>Reproductive costs</subject>
+      <subject>Life history evolution</subject>
+      <subject>Trade-offs</subject>
+      <subject>Elephas maximus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K7R52</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>679435 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains two dataframes in an Excel spreadsheet. The first of these gives age-specific fecundity and survival for all female elephants aged &gt;5 years. All abbreviations are as described in the main text. These contain data allowing analysis of reproduction across life as well as survival and reproduction in later life as a function of age and early-life fecundity and the association between early-life fecundity and lifetime breeding success. The second dataframe contains data on calf survival, which may be used for the analysis of age-specific calf survival in later life in relation to early-life fecundity.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

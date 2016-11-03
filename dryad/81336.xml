@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81336</identifier><datestamp>2014-05-29T18:10:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1611</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cranston, Karen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hurwitz, Bonnie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanderson, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ware, Doreen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wing, Rod A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stein, Lincoln</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenomic analysis of BAC-end sequence libraries in Oryza (Poaceae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>phylogenomics</subject>
+      <subject>rice</subject>
+      <subject>Oryza</subject>
+      <subject>BAC-end sequencing</subject>
+      <subject>missing data</subject>
+      <subject>gene trees</subject>
+      <subject>species trees</subject>
+      <subject>Oryza sativa</subject>
+      <subject>Oryza rufipogon</subject>
+      <subject>Oryza nivara</subject>
+      <subject>Oryza glaberrima</subject>
+      <subject>Oryza barthii</subject>
+      <subject>Oryza punctata</subject>
+      <subject>Oryza officinalis</subject>
+      <subject>Oryza australiensis</subject>
+      <subject>Oryza brachyantha</subject>
+      <subject>Oryza granulata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cranston KA, Hurwitz B, Sanderson MJ, Ware D, Wing RA, Stein L (2010) Phylogenomic analysis of BAC-end sequence libraries in Oryza (Poaceae). Systematic Botany 35(3): 512-523.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1611/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1611/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1611/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1611/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1611/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1600/036364410792495872</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

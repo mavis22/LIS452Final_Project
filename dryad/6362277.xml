@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6362277</identifier><datestamp>2015-09-08T12:11:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K5TG1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Newman, Steven P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meesters, Erik H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dryden, Charlie S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Stacey M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanchez, Cristina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mumby, Peter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Polunin, Nicholas V.C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data Newman et al</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biodiversity</subject>
+      <subject>conservation</subject>
+      <subject>relief</subject>
+      <subject>topography</subject>
+      <subject>degradation</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K5TG1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>125931 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sheet 1: Taxa Richness: species richness of each taxa in each plot (row), with 7 predictor variables. Sheet 2: Coral Species: 6 predictor variables, with presence (1) absence (0) of each coral species modelled. Sheet 3: Fish Species: 7 predictor variables, with presence/absence of each fish species modelled.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

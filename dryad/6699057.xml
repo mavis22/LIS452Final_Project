@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6699057</identifier><datestamp>2015-08-26T14:34:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BP7J7/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Christopher M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papanicolaou, Alexie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mironidis, George K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vontas, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Yihua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lim, Ka S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Kumar S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeshott, John G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bass, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapman, Jason W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Identified GO terms for Helicoverpa armigera genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insect migration</subject>
+      <subject>transcriptomics</subject>
+      <subject>tethered flight</subject>
+      <subject>migratory genomics</subject>
+      <subject>China</subject>
+      <subject>Northern Greece</subject>
+      <subject>Helicoverpa armigera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BP7J7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3384813 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file provides a list of GO-terms used in a functional enrichment analysis for genes involved in flight activity in Helicoverpa armigera. The list was generated using BLAST-2-GO. A total of 11316 genes (from a total of 17001) have identified GO-terms.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

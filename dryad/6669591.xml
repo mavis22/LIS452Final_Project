@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669591</identifier><datestamp>2015-09-03T16:21:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RD71S/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lukasik, Piotr</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guo, Huifang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Asch, Margriet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, Henry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godfray, H. Charles J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferrari, Julia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pathogen_susceptibility_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Symbiosis</subject>
+      <subject>Fitness</subject>
+      <subject>Coevolution</subject>
+      <subject>Acyrthosiphon pisum</subject>
+      <subject>Sitobion avenae</subject>
+      <subject>Aphis fabae</subject>
+      <subject>Sitobion fragariae</subject>
+      <subject>Utamphorophora sp.</subject>
+      <subject>Hamiltonella defensa</subject>
+      <subject>Regiella insecticola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RD71S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9793 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Spreadsheet "Pathogen_susceptibility" contains the results of the pathogen susceptibility assay. We exposed groups of  approx. 20 aphids, representing one of two Sitobion avenae genotypes and either facultative endosymbiont-free or hosting one of Hamiltonella or Regiella strains, to spores of the pathogenic fungus Pandora neoaphidis. After eight days all aphids were checked for survival, and whether the the pathogen did sporulate within those aphids that died. In the spreadsheet, each row represents a replicate of approx. 20 aphids. Columns are as follows: &#13;
+***Host_genotype - either Co23 or Co26; ***Symbiont_presence - 0 (no symbiont), Hami (Hamiltonella) or Reg (Regiella); ***Symbiont_genotype; ***Treatment - aphids in most replicates were exposed to pathogen spores (treatment "Pathogen_exposure"), but we also provide data for a small number of control replicates (treatment "Control_no_pathogen"), not exposed to spores and still suffering high mortality under the experimental conditions; ***Block - dates denote unique experimental blocks; ***Alive - the number of aphids in a replicate that were alive eight days after exposure; ***Fungus_sporulated - the number of exposed aphids which died, and within which the pathogen sporulated ***Dead_not_fungus - the number of aphids which died during the course of the experiment, but which did not sporulate; ***Total - the total number of aphids scored</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

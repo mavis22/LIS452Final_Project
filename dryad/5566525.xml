@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566525</identifier><datestamp>2015-04-01T21:24:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N2677/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bartheld, Jos&#233; Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gait&#225;n-Espitia, Juan Diego</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Artacho, Paulina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Salgado-Luarte, Cristian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gianoli, Ernesto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nespolo, Roberto F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Full dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Natural Selection</subject>
+      <subject>South America</subject>
+      <subject>Cornu aspersum</subject>
+      <subject>Helix aspersa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-31</date>
+      <date dateType="Accepted">2015-04-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N2677</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>75166 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-31</rights>
+  <descriptions>
+      <description descriptionType="Other">Columns are: id (individual), site (location where the snails were released), box (enclosures for cage effects), pop (original population where grandfathers were collected), w (fitness, measured as longevity in a scale ranging from 1 to 12), bm_dig (body mass measured when digestibility was measured), dif (dry-mass digestibility), bm_smr (body mass when standard metabolic rate was recorded), smr (standard metabolic rate), col (color in a gray scale), b_mass (average body mass), g_rate (growth rate)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601405</identifier><datestamp>2015-01-13T16:11:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G7G0N/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kaehler, Benjamin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yap, Von Bing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Rongli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huttley, Gavin A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>nuclear</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genetic distance</subject>
+      <subject>maximum likelihood</subject>
+      <subject>non-stationary</subject>
+      <subject>molecular clock</subject>
+      <subject>Markov process</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G7G0N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4001584 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nexus alignments of nuclear protein coding sequences from one-to-one orthologs of Mouse, Human and Opossum. The Ensembl release 68 stable ID for the Human gene is used as the filename. Species common names are used as the sequence labels.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6797665</identifier><datestamp>2015-10-01T21:37:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3M2C3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marino, Nicholas A. C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Srivastava, Diane S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farjalla, Vinicius F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>predator kairomones and prey cues</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>trophic cascade</subject>
+      <subject>predation risk</subject>
+      <subject>tank bromeliads</subject>
+      <subject>Tropics</subject>
+      <subject>Macae</subject>
+      <subject>Rio de Janeiro</subject>
+      <subject>Leptagrion andromache</subject>
+      <subject>Neoregelia cruenta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3M2C3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1421 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains all the data used in the manuscript. The first column are the treatment names. The second, third and fourth columns are different descriptors of bromeliad morphology: these three measures (data centered and standardized) were used in a PCA, and the first axis of the ordination was used as a measure of bromeliad size (site scores were multiplied by -1, so that larger scores represented larger bromeliads). The other variables in the file are the response variables used in our study. The units of measurement are shown together with the variable names.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

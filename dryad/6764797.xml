@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6764797</identifier><datestamp>2015-09-21T15:17:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M96D0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Elmore, Andrew James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Engelhardt, Katharina A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cadol, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palinkas, Cindy M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>LiDAR and field data for Dyke Marsh</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Tidal freshwater marsh</subject>
+      <subject>plant litter</subject>
+      <subject>light detection and ranging</subject>
+      <subject>sea level rise</subject>
+      <subject>wetlands</subject>
+      <subject>sediment</subject>
+      <subject>organic matter</subject>
+      <subject>Dyke Marsh Wildlife Preserve</subject>
+      <subject>Holocene</subject>
+      <subject>Typha angustifolia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M96D0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52966040 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">LiDAR point files (Ground and All Points) collected in 2012; RTK GPS point files collected in 2012 and 2013; Field data on plant litter and surface soils; and some derived data from the LiDAR survey at the locations of plots and RTK elevations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

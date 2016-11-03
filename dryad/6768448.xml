@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768448</identifier><datestamp>2015-09-22T17:33:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SJ8VK/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Davis, Aaron M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Unmack, Peter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vari, Richard P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Betancur, Ricardo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>500 BEAST generated trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>diversification</subject>
+      <subject>morphological disparification</subject>
+      <subject>herbivory</subject>
+      <subject>adaptive radiation</subject>
+      <subject>trophic shifts</subject>
+      <subject>dental morphology</subject>
+      <subject>Australasia</subject>
+      <subject>Terapontidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SJ8VK</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>865513 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">500 BEAST generated trees for Terapontidae (pruned of outgroups)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

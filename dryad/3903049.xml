@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3903049</identifier><datestamp>2014-10-24T13:47:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TN0F3/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adamski, Marcin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leininger, Sven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Jing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergum, Brith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adamska, Maja</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Leucosolenia complicata coding sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <dates>
+      <date dateType="Accepted">2014-10-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TN0F3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27905493 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Leucosolenia complicata coding sequences. De-novo assembly of transcriptome and identification of coding sequences was performed with Trinity pipeline using RNA-Seq libraries derived from adult tissues containing oocytes and a variety of embryonic stages. Leucosolenia 'genes' were artificially created without use of a genome, by clustering of coding sequences sharing identical fragments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

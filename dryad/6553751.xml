@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553751</identifier><datestamp>2015-08-25T18:52:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0M09H/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zheng, Yi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godar, Shelly P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Litovsky, Ruth Y.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MatLab code used to calculate and plot Localization Sensitivity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sound localization</subject>
+      <subject>bilateral cochlear implants</subject>
+      <subject>children</subject>
+      <subject>emergence</subject>
+      <subject>horizontal acoustic space</subject>
+      <subject>preceptual representations</subject>
+      <subject>neural plasticity</subject>
+      <subject>root-mean-square error</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0M09H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4487 bytes</size>
+      <size>405 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Analyses of localization sensitivity employed a statistical non-parametric Kruskal-Wallis test to examine the relative independence of responses to each stimulus location, given a single response to an unknown stimulus. For each pair of locations in the loudspeaker array, the two response groups were analyzed using pairwise localization sensitivity index (LSI) values based on the z-scores from the p-value obtained bythe non-parametric Kruskal-Wallis test. The analysis produces a matrix of LSIs in coordinates of response locations. For N=15 target locations, the total number of LSI values was 105 [15*(15-1)/2=105]. The matrix is symmetrical about the diagonal. The matrixwas interpolated via the MATLAB contour function to find a contour of LSI with a z score of 1.65 (the 95th confidence level as the statistical threshold indicative of two locations being perceptually differentiated). We defined the contour of LSI = 1.65 as the sensitivity threshold. The overall localization sensitivity (LS) was characterized for individuals by averaging LSIs in the LSI matrix.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

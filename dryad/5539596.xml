@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539596</identifier><datestamp>2015-03-18T17:18:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7NB81/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Firth, Josh A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hadfield, Jarrod D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santure, Anna W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slate, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pedigree Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Heritability</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Sexual Selection</subject>
+      <subject>Extra-pair paternity</subject>
+      <subject>Wytham Woods</subject>
+      <subject>Oxford</subject>
+      <subject>UK</subject>
+      <subject>parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7NB81</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>31860 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">The .Rdata file containing two objects. 'ped' contains the full pedigree, with the columns of id (unique individual identity), dam (the mother), dad (the social father), sire (the genetic father), long (longitude position of brood), lat (latitude position of brood), brood (unique ID of the brood the individual was born in), year (the year the individual was born). 'males' contains all the males that could have potentially been the genetic sires of offspring for each year and includes columns of id (unique ID corresponding to the 'ped' dataframe), year (the year this ID could have sired genetic offspring), brood (the brood that this male was identified at this year - also corresponds to 'ped' dataframe), lat (latitude to brood position), long (longitude of brood position). The R script for simulating additional pedigrees using this data but with  different parameters is included in the manuscript Supplementary Information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

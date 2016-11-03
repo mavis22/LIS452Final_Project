@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6939396</identifier><datestamp>2015-11-04T15:04:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5T32V/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Santure, Anna W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poissant, Jocelyn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Cauwer, Isabelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Oers, Kees</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robinson, Matthew R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quinn, John L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Groenen, Martien A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Visser, Marcel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slate, Jon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>UK genotype file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genome wide association</subject>
+      <subject>GWAS</subject>
+      <subject>QTL mapping</subject>
+      <subject>chromosome partitioning</subject>
+      <subject>genomics</subject>
+      <subject>quantitative genetics</subject>
+      <subject>The Netherlands</subject>
+      <subject>De Hoge Veluwe National Park</subject>
+      <subject>52&#176;02&#8217;N</subject>
+      <subject>5&#176;51&#8217;E</subject>
+      <subject>Westerheide</subject>
+      <subject>52&#176;01'N</subject>
+      <subject>5&#176;50'E</subject>
+      <subject>United Kingdom</subject>
+      <subject>Wytham Woods</subject>
+      <subject>51&#176;46&#8217;N</subject>
+      <subject>1&#176;20&#8217;W</subject>
+      <subject>1985-2011</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5T32V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>55909073 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypes for the 2,497 UK individuals.&#13;
+ These are standard plink files (see http://pngu.mgh.harvard.edu/~purcell/plink/) where the first column gives a family id, the second column an individual id (in this case family id = individual id), the third and fourth columns are paternal and maternal IDs (here, left blank so that ids = 0 for both parents), column five has sex (1=male; 2=female; other=unknown) and finally column 6 phenotype (here all phenotypes &#13;
+ = -9 for unknown). Columns 7 onwards contain genotype information for the SNPs listed (in order) in the .map file of the same name.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

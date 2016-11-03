@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5266282</identifier><datestamp>2015-05-20T13:29:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N893M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Huber, B&#225;rbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whibley, Annabel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Poul, Yann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Navarro, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baxter, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shah, Abhijeet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilles, Beno&#238;t</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wirth, Thierry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMillan, W. Owen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joron, Mathieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huber, Barbara</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypic data along the linkage maps used for QTL analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Mimicry</subject>
+      <subject>Genetic architecture</subject>
+      <subject>Adaptive traits</subject>
+      <subject>Next Generation Sequencing</subject>
+      <subject>Morphometric analysis</subject>
+      <subject>Neo-tropics</subject>
+      <subject>Heliconius</subject>
+      <subject>Heliconius hecale</subject>
+      <subject>Heliconius ismenius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N893M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>146136 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">In this file, genotypic data for QTL analyses of the three crosses are given. Format of these data follows the input for R/qtl (Broman et al., 2003) with two segregating states (homozygous AA and heterozygous AB), accounting for male informative markers used for the QTL analysis (no intercross markers were used). The number of specimens analysed for each brood is determined by the number of offspring used for the final linkage maps which have at least one intact forewing and one intact hindwing.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6543201</identifier><datestamp>2015-07-31T15:42:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53D34/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Saarman, Norah P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pogson, Grant H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNPs_from_STACKS_populations.pl_script.tsv</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Hybridization</subject>
+      <subject>Invasive Species</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Introgression</subject>
+      <subject>STACKS</subject>
+      <subject>SNPs</subject>
+      <subject>catalog</subject>
+      <subject>populations.pl</subject>
+      <subject>Eastern Pacific</subject>
+      <subject>central California</subject>
+      <subject>San Francisco Bay</subject>
+      <subject>Mollusca</subject>
+      <subject>Mytilus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.53D34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3308813 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the output of the populations.pl script from the Stacks pipeline, used to filter SNPs scored in at least 75% of samples (parameter -r 0.75). This yielded a total of 1,337 SNPs. The original file name was "batch.8.catalog.snps.tsv". More information on the file format can be found at http://catchenlab.life.illinois.edu/stacks/comp/populations.php. We compressed the file for convenience.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

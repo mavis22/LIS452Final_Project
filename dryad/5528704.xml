@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5528704</identifier><datestamp>2015-04-13T19:40:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B2Q88/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Foll, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scotti-Saintagne, Caroline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scotti, Ivan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brousseau, Louise</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Eperua_falcata_AFLPs_MarkerBins</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genome scan</subject>
+      <subject>habitat patchiness</subject>
+      <subject>local adaptation</subject>
+      <subject>genetic differentiation</subject>
+      <subject>Spatial Genetic structure (SGS)</subject>
+      <subject>gene flow</subject>
+      <subject>outlier detection</subject>
+      <subject>Tropical rainforest</subject>
+      <subject>Tree populations</subject>
+      <subject>Amazonia</subject>
+      <subject>genetic diversity</subject>
+      <subject>adaptive divergence</subject>
+      <subject>AFLPs</subject>
+      <subject>French Guiana</subject>
+      <subject>Eperua falcata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B2Q88</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>45731 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file describes the AFLPs binset: the restriction enzyme used, the dye color for genotyping, and the location of the AFLPs bins.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

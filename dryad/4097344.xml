@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4097344</identifier><datestamp>2014-11-19T19:31:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RN5C0/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jeffries, Ken M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hinch, Scott G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gale, Marika Kirsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Timothy D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lotto, Andrew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Casselman, Matthew T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Shaorong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rechisky, Erin L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porter, Aswea D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Kristina M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Jeffries et al. Data from laboratory gill sampling validation study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Conservation Biology</subject>
+      <subject>Fish</subject>
+      <subject>Fisheries Management</subject>
+      <subject>Transcriptomics</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Oncorhynchus nerka</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RN5C0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8655 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data from a preliminary study on smolt-sized sockeye salmon to validate that gill sampling and tagging fish would have minimal effect on survival.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

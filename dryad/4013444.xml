@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4013444</identifier><datestamp>2014-12-31T15:52:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4G42Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pattinson, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Richard S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piotrowski, Aleks K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Asher, Robert J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset S1. Combined morphology-DNA data matrix in nexus format</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>taphonomy</subject>
+      <subject>phylogeny reconstruction</subject>
+      <subject>artificial extinction</subject>
+      <subject>data combination</subject>
+      <subject>missing data</subject>
+      <subject>Cenozoic</subject>
+      <subject>Eocene</subject>
+      <subject>Mammalia</subject>
+      <subject>Primates</subject>
+      <subject>Haplorhini</subject>
+      <subject>Strepsirhini</subject>
+      <subject>Darwinius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4G42Q.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6925849 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We compiled a dataset of morphological and molecular characters, sampled at genus level for 24 extant primates and two outgroups. Genera represented in previous studies (Seiffert et al. 2009; Springer et al. 2012) by multiple species were condensed into single terminals in order to minimize missing data. In cases where different species within a genus exhibited different character states, we coded the genus as polymorphic for that character. Condensing taxa to genus-level also has the advantage of improving the tractability of both MP and Bayesian phylogenetic analysis by slightly reducing the number of terminals. &#13;
+	We used the alignment of Springer et al. (2012; Treebase accession #S13451) as our molecular dataset, consisting of 61199 nucleotide characters distributed across 69 nuclear and 10 mitochondrial genes. This alignment comprises part of our morphology-DNA data matrix in our supplementary data file S1.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

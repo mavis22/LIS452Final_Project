@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5527957</identifier><datestamp>2015-04-06T21:00:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FJ276/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pinz&#243;n, Jorge H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamel, Bishoy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burge, Colleen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harvell, C. Drew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Medina, M&#243;nica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weil, Ernesto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mydlarz, Laura D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ESM7 Annotations of 1368 coral genes with different expression levels</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>thermal stress</subject>
+      <subject>coral bleaching</subject>
+      <subject>symbiosis dissociation</subject>
+      <subject>transcriptomics</subject>
+      <subject>immune system</subject>
+      <subject>Caribbean Sea</subject>
+      <subject>Puerto Rico</subject>
+      <subject>Orbicella faveolata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FJ276</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52005 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Electronic supplementary material 7. List of 1368 genes from the &#8216;Orbicella faveolata&#8217; transcriptome with significant differences in expression levels. Of the 1368 genes, 729 were annotated.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,32 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505890</identifier><datestamp>2015-03-20T20:04:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SC6BP/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Abts, Kendra C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DeconSeq vertebrate rRNA database</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ribosomal RNA</subject>
+      <subject>San Diego</subject>
+      <subject>vertebrate</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SC6BP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>64735715 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a fasta file containing the custom vertebrate ribosomal RNA database to be used with DeconSeq to remove rRNA contaminants from sequencing data.  It was created by extracting vertebrate rRNA sequences from NCBI using the query "(ribosomal RNA) AND "vertebrates"[porgn:_txid7742]", checking the sequence descriptions by eye (removing undesired sequences), and then following the procedure to create a custom database from the DeconSeq manual (http://deconseq.sourceforge.net/manual.html). Briefly, long stretches of ambiguous bases (Ns) were removed, and then the sequences were filtered (using PRINSEQ) to remove short sequences (&lt; 200 bp), those with &gt;10 ambiguous bases (Ns), and duplicate sequences.  Finally, the fasta file was indexed using BWA and used as the database for all DeconSeq filtering in this project.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

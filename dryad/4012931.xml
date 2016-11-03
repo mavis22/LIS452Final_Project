@@ -1,0 +1,108 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4012931</identifier><datestamp>2014-10-28T21:50:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FF1TQ/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cannon, Steven B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McKain, Michael R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harkess, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nelson, Matthew N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dash, Sudhansu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deyholos, Michael K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peng, Yanhui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joyce, Blake</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart Jr., Charles N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rolf, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kutchan, Toni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tan, Xuemei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Cui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Yong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carpenter, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wong, Gane Ka-Shu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doyle, Jeff J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leebens-Mack, Jim</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Legume pairs - ksplots</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>nodulation</subject>
+      <subject>polyploidy</subject>
+      <subject>legume</subject>
+      <subject>symbiotic nitrogen fixation</subject>
+      <subject>Glycine max</subject>
+      <subject>Codariocalyx motorius</subject>
+      <subject>Apios americana</subject>
+      <subject>Medicago truncatula</subject>
+      <subject>Lathyrus sativus</subject>
+      <subject>Astragalus membranaceus</subject>
+      <subject>Glycyrrhiza lepidota</subject>
+      <subject>Lupinus angustifolius</subject>
+      <subject>Lupinus polyphyllus</subject>
+      <subject>Arachis hypogaea</subject>
+      <subject>Cladrastis lutea</subject>
+      <subject>Xanthocercis zambesiaca</subject>
+      <subject>Desmanthus illinoiensis</subject>
+      <subject>Chamaecrista fasciculata</subject>
+      <subject>Senna hebicarpa</subject>
+      <subject>Gleditsia triacanthos</subject>
+      <subject>Gymnocladus dioicus</subject>
+      <subject>Copaifera officinalis</subject>
+      <subject>Bauhinia tomentosa</subject>
+      <subject>Cercis canadensis</subject>
+      <subject>Quillaja saponaria</subject>
+      <subject>Polygala lutea</subject>
+      <subject>Papilionoideae</subject>
+      <subject>Mimosoideae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FF1TQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8095 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Putative paralog pairs estimated from Ks plots for multiple species from study. These were used to test for other WGD events (other than PWGD). This is a tab delimited file with the first and second columns being Ks plot identified putative paralogs and the third column being a designation for the putative event.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

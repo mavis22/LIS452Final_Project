@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4833601</identifier><datestamp>2015-02-12T13:28:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T7G11/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kowalewski, Michal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wittmer, Jacelyn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dexter, Troy A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amorosi, Alessandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scarponi, Daniele</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Abundance data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>marine ecosystems</subject>
+      <subject>climate change</subject>
+      <subject>Quaternary</subject>
+      <subject>mollusks</subject>
+      <subject>Italy</subject>
+      <subject>Adriatic Sea</subject>
+      <subject>Quaternary</subject>
+      <subject>Mollusca</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T7G11</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>444113 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Species-level abundance data for Quaternary core samples from Po Plain, Italy. Columns are species and rows are samples. For additional information about this file and related datasets please contact &lt;kowalewski@ufl.edu&gt;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

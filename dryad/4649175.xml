@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4649175</identifier><datestamp>2015-02-11T20:10:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D0H7S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Scales, Kylie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ingram, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Southall, Emily</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sims, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>GLS tracking locations + time-matched front metrics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animal tracking</subject>
+      <subject>biologging</subject>
+      <subject>remote sensing</subject>
+      <subject>front mapping</subject>
+      <subject>marine vertebrate</subject>
+      <subject>marine megavertebrate</subject>
+      <subject>habitat use</subject>
+      <subject>habitat preference</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D0H7S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17946 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All original GLS tracking locations, plus associated 7-day front thermal and chlorophyll-a front metrics (Thermal metrics = thermal front density, Tdens5; thermal front gradient density, Tgdens5; thermal front persistence, Tpfront; distance to closest thermal front (km), Tdist; side of thermal front, Tside; Chlorophyll-a metrics = chl-a front density, Cdens5; chl-a front gradient density, Cgdens5; persistence of chl-a front, Cpfront; distance to closest chl-a front, Cdist; side of chl-a front, Cside).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

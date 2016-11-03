@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6913063</identifier><datestamp>2015-11-06T15:18:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C2378/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jackson, Michelle M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gergel, Sarah E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Kathy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Presence-absence dataset for VIWTP</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>alpine</subject>
+      <subject>climate change</subject>
+      <subject>fragmentation</subject>
+      <subject>species distribution modeling</subject>
+      <subject>White-tailed Ptarmigan</subject>
+      <subject>Vancouver Island</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Lagopus leucura saxatilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C2378</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>112718 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">presabs_both_IndYears_allvars_final.csv is the final presence-absence dataset for Vancouver Island White-tailed Ptarmigan used in the model. It contains pseudo-absences that were generated using the methods described in the manuscript. It contains topographic and biogeoclimatic zone data from as described in the manuscript and climate variables that were obtained from ClimateBC version 5.03 (http://cfcg.forestry.ubc.ca/projects/climate-data/climatebcwna/#ClimateBC). Description and data format for each variable (column header) is described in the same order as they appear in the presabs_both_IndYears_allvars_final.csv file. (Also see Table 1 in the manuscript for variable descriptions.) [1] FNETID. Unique ID for each observation. [2] pres. Whether the observation is a presence (1) or a pseudo-absence (0). [3] Year. The year the observation was collected. For pseudo-absences, years were assigned randomly based on the prevalence of years in the presence dataset. [4] datatype. Dataset from which the observation originated. PUB = public observation, FS = field survey, NA = pseudo-absence. [5] BCAlbX. BC Environment Albers X coordinate. [6] BCAlbY. BC Environment Albers Y coordinate. [7] BEC. Biogeoclimatic Zone. MH = Mountain Hemlock, AT = Alpine Tundra, CWH = Coastal Western Hemlock. [8] Elevation. Elevation in meters. [9] Aspect. Aspect reclassified according to solar incidence. We transformed aspect as x = -1*cos[&#216;(&#960;/180)], where &#216;  is the aspect measured in degrees. Values ranged from -1 where the angle of solar incidence was lower (north-facing slopes) to 1 where it was higher (south-facing slopes). The importance of aspect depends on slope, so we assigned aspects with slopes of &lt;5&#176; a neutral value of 0. [10] Slope. Slope in degrees. [11] CTI. Compound Topographic Index, a function of the slope and the upstream contributing area. [12] Rugg9. Vector Ruggedness Measure, a measurement of terrain ruggedness as the variation in three-dimensional orientation of grid cells within a 9-cell neighborhood. [13] Tave_sm. Summer mean temperature (degrees C). [14] MSP. Mean annual summer (May &#8211; Sept.) precipitation (mm).[15] PAS. Precipitation as snow from August in previous year to July of current year (mm).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

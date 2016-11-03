@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7138220</identifier><datestamp>2015-11-24T14:39:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1H7GR/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zivanovic, Goran</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arenas, Concepcio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mestres, Francesc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Drosophila subobscura karyotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Inversion</subject>
+      <subject>Karyotypes</subject>
+      <subject>Adaptation</subject>
+      <subject>Natural selection</subject>
+      <subject>Linkage disequilibrium</subject>
+      <subject>Avala Mountain</subject>
+      <subject>Serbia</subject>
+      <subject>June-July 2014</subject>
+      <subject>Drosophila subobscura</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1H7GR</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19364 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on D. subobscura karyotypes from Mt. Avala. Jun-July 2014</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5678386</identifier><datestamp>2015-06-23T20:36:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.521H5</identifier>
+  <creators>
+      <creator>
+         <creatorName>De Lorenzis, Gabriella</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chipashvili, Ramaz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Failla, Osvaldo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maghradze, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Study of genetic variability in Vitis vinifera L. germplasm by high-throughput Vitis18kSNP array: the case of Georgian genetic resources</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>domestication</subject>
+      <subject>molecular markers</subject>
+      <subject>SNP</subject>
+      <subject>Georgia</subject>
+      <subject>Holocene</subject>
+      <subject>Vitis vinifera subsp. sativa</subject>
+      <subject>VItis vinifera subsp. sylvestris</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">De Lorenzis G, Chipashvili R, Failla O, Maghradze D (2015) Study of genetic variability in Vitis vinifera L. germplasm by high-throughput Vitis18kSNP array: the case of Georgian genetic resources. BMC Plant Biology 15:154.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.521H5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12870-015-0510-9</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

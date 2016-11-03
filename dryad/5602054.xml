@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5602054</identifier><datestamp>2015-04-24T20:50:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QD87K/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Berdahl, Andrew M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torney, Colin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schertzer, Emmanuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Levin, Simon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fig_5.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Polymorphism</subject>
+      <subject>Adaptive radiation</subject>
+      <subject>Fitness</subject>
+      <subject>Gene Flow</subject>
+      <subject>Life-History Evolution</subject>
+      <subject>Models/Simulations</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QD87K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2531153 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Column 1: sigma, Column 2: time (generations), Column 3: histogram of dispersal values, in 1000 bins from 0:1, Column 4: histogram of x values, in 1000 bins from -10:10. Note that a row of -99s divides each timestep.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

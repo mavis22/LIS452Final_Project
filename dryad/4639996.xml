@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4639996</identifier><datestamp>2015-02-17T19:37:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C3G5R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mason, Annaliese S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Jing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tollenaere, Reece</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vasquez Teuber, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dalton-Morgan, Jessica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hu, Liyong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yan, Guijun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edwards, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Redden, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Batley, Jacqueline</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Brassica SNP array data for species identification</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>molecular genotyping</subject>
+      <subject>germplasm collections</subject>
+      <subject>genbanks</subject>
+      <subject>Illumina Infinium SNP array</subject>
+      <subject>genetic resources</subject>
+      <subject>Brassica napus</subject>
+      <subject>Brassica carinata</subject>
+      <subject>Brassica juncea</subject>
+      <subject>Brassica rapa</subject>
+      <subject>Brassica oleracea</subject>
+      <subject>Brassicaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C3G5R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41607231 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SNP molecular genotyping data and marker information for Brassica accessions sourced from the Australian Grains Genebank germplasm collection.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

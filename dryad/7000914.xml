@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7000914</identifier><datestamp>2015-12-07T22:04:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3MF68/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Minnie, Liaan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gaylard, Angela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kerley, Graham</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Jackal foetus data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Black-backed jackal</subject>
+      <subject>compensatory immigration</subject>
+      <subject>compensatory reproduction</subject>
+      <subject>harvest</subject>
+      <subject>human-carnivore conflict</subject>
+      <subject>source-sink dynamics</subject>
+      <subject>South Africa</subject>
+      <subject>Africa</subject>
+      <subject>Karoo</subject>
+      <subject>Canis mesomelas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3MF68</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>486 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for the analyses of female reproduction of jackals on hunted farms and unmanaged reserves. Data include: Treatment, number of foetuses per female, and sex of foetus.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

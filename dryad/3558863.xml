@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3558863</identifier><datestamp>2014-05-30T09:49:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.880F5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Justi, Silvia Andrade</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russo, Claudia A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mallet, Jacenir Reis dos Santos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Obara, Marcos Takashi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galv&#227;o, Cleber</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Molecular phylogeny of Triatomini (Hemiptera: Reduviidae: Triatominae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Species complex</subject>
+      <subject>Monophyly</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Justi SA, Russo CAM, Mallet JRdS, Obara MT, Galv&#227;o C (2014) Molecular phylogeny of Triatomini (Hemiptera: Reduviidae: Triatominae). Parasites &amp; Vectors 2014(7): 149.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.880F5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1756-3305-7-149</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

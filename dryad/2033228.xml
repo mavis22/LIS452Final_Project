@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2033228</identifier><datestamp>2014-05-30T00:10:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VN110</identifier>
+  <creators>
+      <creator>
+         <creatorName>S&#225;nchez Guill&#233;n, Rosa Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#243;rdoba-Aguilar, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cordero Rivera, Adolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wellenreuther, Maren</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic divergence predicts reproductive isolation in damselflies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>Natural selection</subject>
+      <subject>Sexual selection &amp; conflicts</subject>
+      <subject>Speciation</subject>
+      <subject>damseflies</subject>
+      <subject>Mediterranean basin</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">S&#225;nchez Guill&#233;n RA, C&#243;rdoba-Aguilar A, Cordero Rivera A, Wellenreuther M (2013) Genetic divergence predicts reproductive isolation in damselflies. Journal of Evolutionary Biology 27(1): 76&#8211;87.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VN110/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/JEB.12274</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

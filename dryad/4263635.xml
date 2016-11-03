@@ -1,0 +1,1072 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263635</identifier><datestamp>2015-02-26T17:49:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5SN8M/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Piper, Candace L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siciliano, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winsley, Tristrom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lamb, Eric G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Piper_BacterialOTU_taxonomy</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>evenness</subject>
+      <subject>grassland</subject>
+      <subject>invasive ecology</subject>
+      <subject>nitrogen</subject>
+      <subject>soil bacterial community</subject>
+      <subject>species richness</subject>
+      <subject>structural equation modeling</subject>
+      <subject>Plant&#8211;soil (below-ground) interactions</subject>
+      <subject>51.12N</subject>
+      <subject>107.17W</subject>
+      <subject>Bacteria</subject>
+      <subject>Acidobacteria</subject>
+      <subject>Actinobacteria</subject>
+      <subject>AD3</subject>
+      <subject>Aquificae</subject>
+      <subject>Armatimonadetes</subject>
+      <subject>Bacteroidetes</subject>
+      <subject>BRC1</subject>
+      <subject>CCM11b</subject>
+      <subject>Chlamydiae</subject>
+      <subject>Chlorobi</subject>
+      <subject>Chloroflexi</subject>
+      <subject>Crenarchaeota</subject>
+      <subject>Cyanobacteria</subject>
+      <subject>Deferribacteres</subject>
+      <subject>Dictyoglomi</subject>
+      <subject>Elusimicrobia</subject>
+      <subject>Euryarchaeota</subject>
+      <subject>Fibrobacteres</subject>
+      <subject>Firmicutes</subject>
+      <subject>GAL15</subject>
+      <subject>Gemmatimonadetes</subject>
+      <subject>GN02</subject>
+      <subject>GN12</subject>
+      <subject>GOUTA4</subject>
+      <subject>Lentisphaerae</subject>
+      <subject>Nitrospirae</subject>
+      <subject>NKB19</subject>
+      <subject>OP3</subject>
+      <subject>Planctomycetes</subject>
+      <subject>Proteobacteria</subject>
+      <subject>SC3</subject>
+      <subject>SC4</subject>
+      <subject>SM2F11</subject>
+      <subject>SPAM</subject>
+      <subject>Spirochaetes</subject>
+      <subject>SR1</subject>
+      <subject>Synergistetes</subject>
+      <subject>Tenericutes</subject>
+      <subject>Thermi</subject>
+      <subject>Thermotogae</subject>
+      <subject>TM6</subject>
+      <subject>TM7</subject>
+      <subject>Verrucomicrobia</subject>
+      <subject>WPS-2</subject>
+      <subject>WS3</subject>
+      <subject>WS6</subject>
+      <subject>ZB2</subject>
+      <subject>Acidobacteria-5</subject>
+      <subject>agg27</subject>
+      <subject>Alphaproteobacteria</subject>
+      <subject>Anaerolineae</subject>
+      <subject>Armatimonadia</subject>
+      <subject>Bacilli</subject>
+      <subject>Bacteroidia</subject>
+      <subject>Betaproteobacteria</subject>
+      <subject>Bljii12</subject>
+      <subject>Brachyspirae</subject>
+      <subject>C6</subject>
+      <subject>CH21</subject>
+      <subject>Chloracidobacteria</subject>
+      <subject>Chlorobia</subject>
+      <subject>Chloroflexi-4</subject>
+      <subject>Chloroplast</subject>
+      <subject>Chthonomonadetes</subject>
+      <subject>Clostridia</subject>
+      <subject>Dehalococcoidetes</subject>
+      <subject>Deinococci</subject>
+      <subject>Deltaproteobacteria</subject>
+      <subject>Dictyoglomia</subject>
+      <subject>Epsilonproteobacteria</subject>
+      <subject>FFCH393</subject>
+      <subject>FFCH6980</subject>
+      <subject>Flavobacteria</subject>
+      <subject>Gammaproteobacteria</subject>
+      <subject>GKS2-174</subject>
+      <subject>GN07</subject>
+      <subject>GN08</subject>
+      <subject>Halobacteria</subject>
+      <subject>Holophagae</subject>
+      <subject>iii1-8</subject>
+      <subject>koll11</subject>
+      <subject>Kueneniae</subject>
+      <subject>Leptospirae</subject>
+      <subject>Methanomicrobia</subject>
+      <subject>Methylacidiphilae</subject>
+      <subject>MJK10</subject>
+      <subject>Mollicutes</subject>
+      <subject>MVS-40</subject>
+      <subject>Nitrospira</subject>
+      <subject>Nostocophycideae</subject>
+      <subject>OPB56</subject>
+      <subject>OPB80</subject>
+      <subject>Opitutae</subject>
+      <subject>Oscillatoriophycideae</subject>
+      <subject>PAUC37f</subject>
+      <subject>PBS-25</subject>
+      <subject>Phycisphaerae</subject>
+      <subject>Planctomycea</subject>
+      <subject>PRR-11</subject>
+      <subject>PRR-12</subject>
+      <subject>PW285</subject>
+      <subject>RA13C7</subject>
+      <subject>RB25</subject>
+      <subject>RB384</subject>
+      <subject>S15B-MN24</subject>
+      <subject>S1a-1H</subject>
+      <subject>SBRH58</subject>
+      <subject>SC72</subject>
+      <subject>SJA-176</subject>
+      <subject>SJA-28</subject>
+      <subject>SJA-4</subject>
+      <subject>SM1B09</subject>
+      <subject>SOGA31</subject>
+      <subject>Solibacteres</subject>
+      <subject>Spartobacteria</subject>
+      <subject>Sphingobacteria</subject>
+      <subject>Sva0725</subject>
+      <subject>Synergistia</subject>
+      <subject>Thaumarchaeota</subject>
+      <subject>Thermobacula</subject>
+      <subject>Thermomicrobia</subject>
+      <subject>Thermoplasmata</subject>
+      <subject>TK17</subject>
+      <subject>vadinHA49</subject>
+      <subject>Verruco-5</subject>
+      <subject>Verrucomicrobiae</subject>
+      <subject>Acholeplasmatales</subject>
+      <subject>Acidimicrobiales</subject>
+      <subject>Acidobacteriales</subject>
+      <subject>Actinomycetales</subject>
+      <subject>AKYG885</subject>
+      <subject>Alteromonadales</subject>
+      <subject>Anaerolineales</subject>
+      <subject>Aquificales</subject>
+      <subject>Armatimonadales</subject>
+      <subject>B07_WMSP1</subject>
+      <subject>Bacillales</subject>
+      <subject>Bacteroidales</subject>
+      <subject>Bdellovibrionales</subject>
+      <subject>BPC110</subject>
+      <subject>Brachyspirales</subject>
+      <subject>Burkholderiales</subject>
+      <subject>Caldilineales</subject>
+      <subject>Campylobacterales</subject>
+      <subject>Cardiobacteriales</subject>
+      <subject>Caulobacterales</subject>
+      <subject>CFB-26</subject>
+      <subject>Chlamydiales</subject>
+      <subject>Chlorobiales</subject>
+      <subject>Chloroflexales</subject>
+      <subject>Chlorophyta</subject>
+      <subject>Chromatiales</subject>
+      <subject>Chroococcales</subject>
+      <subject>Chthonomonadales</subject>
+      <subject>CL500-15</subject>
+      <subject>Clostridiales</subject>
+      <subject>Coriobacteriales</subject>
+      <subject>CTD005-82B-02</subject>
+      <subject>CV106</subject>
+      <subject>Deferribacterales</subject>
+      <subject>Dehalococcoidales</subject>
+      <subject>Deinococcales</subject>
+      <subject>Desulfovibrionales</subject>
+      <subject>Desulfurellales</subject>
+      <subject>Desulfuromonadales</subject>
+      <subject>Dictyoglomales</subject>
+      <subject>DS-18</subject>
+      <subject>Elusimicrobiales</subject>
+      <subject>Enterobacteriales</subject>
+      <subject>Entotheonellales</subject>
+      <subject>envOPS12</subject>
+      <subject>Euglenozoa</subject>
+      <subject>Euzebiales</subject>
+      <subject>Exiguobacterales</subject>
+      <subject>FAC88</subject>
+      <subject>Fibrobacterales</subject>
+      <subject>Flavobacteriales</subject>
+      <subject>GCA004</subject>
+      <subject>Gemmatales</subject>
+      <subject>Gemmatimonadales</subject>
+      <subject>H39</subject>
+      <subject>Halanaerobiales</subject>
+      <subject>Halobacteriales</subject>
+      <subject>Herpetosiphonales</subject>
+      <subject>HN1-15</subject>
+      <subject>Holophagales</subject>
+      <subject>Hydrogenophilales</subject>
+      <subject>koll13</subject>
+      <subject>Lactobacillales</subject>
+      <subject>LD1-PA13</subject>
+      <subject>Legionellales</subject>
+      <subject>Leptospirales</subject>
+      <subject>MC47</subject>
+      <subject>Methanosarcinales</subject>
+      <subject>Methylacidiphilales</subject>
+      <subject>Methylococcales</subject>
+      <subject>Methylophilales</subject>
+      <subject>MIZ46</subject>
+      <subject>mle1-12</subject>
+      <subject>mle1-48</subject>
+      <subject>MVP-88</subject>
+      <subject>Mycoplasmatales</subject>
+      <subject>Myxococcales</subject>
+      <subject>Natranaerobiales</subject>
+      <subject>Nautiliales</subject>
+      <subject>NB1-j</subject>
+      <subject>Neisseriales</subject>
+      <subject>Nitrosomonadales</subject>
+      <subject>Nitrososphaerales</subject>
+      <subject>Nitrospirales</subject>
+      <subject>Nostocales</subject>
+      <subject>Oceanospirillales</subject>
+      <subject>OM190</subject>
+      <subject>Opitutales</subject>
+      <subject>Oscillatoriales</subject>
+      <subject>Pasteurellales</subject>
+      <subject>Phycisphaerales</subject>
+      <subject>Pirellulales</subject>
+      <subject>Planctomycetales</subject>
+      <subject>Pseudomonadales</subject>
+      <subject>Rhizobiales</subject>
+      <subject>Rhodobacterales</subject>
+      <subject>Rhodocyclales</subject>
+      <subject>Rhodospirillales</subject>
+      <subject>Rickettsiales</subject>
+      <subject>Roseiflexales</subject>
+      <subject>Rubrobacterales</subject>
+      <subject>S0208</subject>
+      <subject>S085</subject>
+      <subject>SB-34</subject>
+      <subject>Sediment-1</subject>
+      <subject>SJA-36</subject>
+      <subject>SM1D11</subject>
+      <subject>Solibacterales</subject>
+      <subject>Solirubrobacterales</subject>
+      <subject>Spartobacteriales</subject>
+      <subject>Sphingobacteriales</subject>
+      <subject>Sphingomonadales</subject>
+      <subject>Stramenopiles</subject>
+      <subject>Streptophyta</subject>
+      <subject>Synergistales</subject>
+      <subject>Syntrophobacterales</subject>
+      <subject>Thermoanaerobacterales</subject>
+      <subject>Thermobaculales</subject>
+      <subject>Thermomicrobiales</subject>
+      <subject>Thermoplasmatales</subject>
+      <subject>Thermotogales</subject>
+      <subject>Thiotrichales</subject>
+      <subject>TIBE07</subject>
+      <subject>Verrucomicrobiales</subject>
+      <subject>wb1_H11</subject>
+      <subject>WCHB1-50</subject>
+      <subject>Xanthomonadales</subject>
+      <subject>Acetobacteraceae</subject>
+      <subject>Acholeplasmataceae</subject>
+      <subject>Acidimicrobiaceae</subject>
+      <subject>Acidobacteriaceae</subject>
+      <subject>Actinomycetaceae</subject>
+      <subject>Actinopolysporaceae</subject>
+      <subject>Actinosynnemataceae</subject>
+      <subject>Aerococcaceae</subject>
+      <subject>AKIW874</subject>
+      <subject>AKYH910</subject>
+      <subject>Alcaligenaceae</subject>
+      <subject>Alcanivoracaceae</subject>
+      <subject>Alicyclobacillaceae</subject>
+      <subject>Alteromonadaceae</subject>
+      <subject>Anaerobaculaceae</subject>
+      <subject>Anaerolinaceae</subject>
+      <subject>Armatimonadaceae</subject>
+      <subject>Aurantimonadaceae</subject>
+      <subject>Bacillaceae</subject>
+      <subject>Bacteriovoracaceae</subject>
+      <subject>Bartonellaceae</subject>
+      <subject>Bdellovibrionaceae</subject>
+      <subject>Beijerinckiaceae</subject>
+      <subject>Bogoriellaceae</subject>
+      <subject>Brachyspiraceae</subject>
+      <subject>Bradyrhizobiaceae</subject>
+      <subject>Burkholderiaceae</subject>
+      <subject>Caldilineaceae</subject>
+      <subject>Campylobacteraceae</subject>
+      <subject>Cardiobacteriaceae</subject>
+      <subject>Catabacteriaceae</subject>
+      <subject>Caulobacteraceae</subject>
+      <subject>Cellulomonadaceae</subject>
+      <subject>Chlorobiaceae</subject>
+      <subject>Chloroflexaceae</subject>
+      <subject>Chromatiaceae</subject>
+      <subject>Chthonomonadaceae</subject>
+      <subject>CL500-29</subject>
+      <subject>Clostridiaceae</subject>
+      <subject>ClostridialesFamilyXI.IncertaeSedis</subject>
+      <subject>Comamonadaceae</subject>
+      <subject>Coriobacteriaceae</subject>
+      <subject>Coxiellaceae</subject>
+      <subject>Cryptosporangiaceae</subject>
+      <subject>Cyclobacteriaceae</subject>
+      <subject>Cystobacteraceae</subject>
+      <subject>Deferribacteraceae</subject>
+      <subject>Dehalobacteriaceae</subject>
+      <subject>Dehalococcoidaceae</subject>
+      <subject>Deinococcaceae</subject>
+      <subject>Desulfobacteraceae</subject>
+      <subject>Desulfomicrobiaceae</subject>
+      <subject>Desulfovibrionaceae</subject>
+      <subject>Desulfurellaceae</subject>
+      <subject>Desulfuromonadaceae</subject>
+      <subject>Dethiosulfovibrionaceae</subject>
+      <subject>Dictyoglomaceae</subject>
+      <subject>Dolo_23</subject>
+      <subject>EB1017</subject>
+      <subject>Ectothiorhodospiraceae</subject>
+      <subject>Enterobacteriaceae</subject>
+      <subject>Enterococcaceae</subject>
+      <subject>Entotheonellaceae</subject>
+      <subject>Erythrobacteraceae</subject>
+      <subject>Euzebiaceae</subject>
+      <subject>Exiguobacteraceae</subject>
+      <subject>FFCH4570</subject>
+      <subject>Fibrobacteraceae</subject>
+      <subject>Flammeovirgaceae</subject>
+      <subject>Flavobacteriaceae</subject>
+      <subject>Flexibacteraceae</subject>
+      <subject>Frankiaceae</subject>
+      <subject>Gemmataceae</subject>
+      <subject>Gemmatimonadaceae</subject>
+      <subject>Geobacteraceae</subject>
+      <subject>Geodermatophilaceae</subject>
+      <subject>Halanaerobiaceae</subject>
+      <subject>Haliangiaceae</subject>
+      <subject>Halobacteriaceae</subject>
+      <subject>Herpetosiphonaceae</subject>
+      <subject>Hydrogenophilaceae</subject>
+      <subject>Hydrogenothermaceae</subject>
+      <subject>Hyphomicrobiaceae</subject>
+      <subject>Hyphomonadaceae</subject>
+      <subject>Iamiaceae</subject>
+      <subject>Idiomarinaceae</subject>
+      <subject>Intrasporangiaceae</subject>
+      <subject>Isosphaeraceae</subject>
+      <subject>Kineosporiaceae</subject>
+      <subject>Koribacteraceae</subject>
+      <subject>Kouleothrixaceae</subject>
+      <subject>Lachnospiraceae</subject>
+      <subject>Lactobacillaceae</subject>
+      <subject>LD19</subject>
+      <subject>Legionellaceae</subject>
+      <subject>Leptospiraceae</subject>
+      <subject>Methanosarcinaceae</subject>
+      <subject>Methylacidiphilaceae</subject>
+      <subject>Methylobacteriaceae</subject>
+      <subject>Methylococcaceae</subject>
+      <subject>Methylocystaceae</subject>
+      <subject>Microbacteriaceae</subject>
+      <subject>Micrococcaceae</subject>
+      <subject>Micromonosporaceae</subject>
+      <subject>Microthrixaceae</subject>
+      <subject>Moraxellaceae</subject>
+      <subject>Mycobacteriaceae</subject>
+      <subject>Mycoplasmataceae</subject>
+      <subject>Myxococcaceae</subject>
+      <subject>Nakamurellaceae</subject>
+      <subject>Nannocystaceae</subject>
+      <subject>Natranaerobiaceae</subject>
+      <subject>Nautiliaceae</subject>
+      <subject>NB1-i</subject>
+      <subject>Neisseriaceae</subject>
+      <subject>Nitrosomonadaceae</subject>
+      <subject>Nitrososphaeraceae</subject>
+      <subject>Nitrospiraceae</subject>
+      <subject>Nocardiaceae</subject>
+      <subject>Nocardioidaceae</subject>
+      <subject>Nostocaceae</subject>
+      <subject>Oceanospirillaceae</subject>
+      <subject>Opitutaceae</subject>
+      <subject>Oscillochloridaceae</subject>
+      <subject>Oxalobacteraceae</subject>
+      <subject>Paenibacillaceae</subject>
+      <subject>Parachlamydiaceae</subject>
+      <subject>Pasteurellaceae</subject>
+      <subject>Patulibacteraceae</subject>
+      <subject>Peptococcaceae</subject>
+      <subject>Phormidiaceae</subject>
+      <subject>Phycisphaeraceae</subject>
+      <subject>Phyllobacteriaceae</subject>
+      <subject>Picrophilaceae</subject>
+      <subject>Pirellulaceae</subject>
+      <subject>Piscirickettsiaceae</subject>
+      <subject>Planctomycetaceae</subject>
+      <subject>Planococcaceae</subject>
+      <subject>Polyangiaceae</subject>
+      <subject>Promicromonosporaceae</subject>
+      <subject>PRR-10</subject>
+      <subject>Pseudomonadaceae</subject>
+      <subject>Pseudonocardiaceae</subject>
+      <subject>Rhizobiaceae</subject>
+      <subject>Rhodobacteraceae</subject>
+      <subject>Rhodobiaceae</subject>
+      <subject>Rhodocyclaceae</subject>
+      <subject>Rhodospirillaceae</subject>
+      <subject>Rhodothermaceae</subject>
+      <subject>Roseiflexaceae</subject>
+      <subject>Rubrobacteraceae</subject>
+      <subject>S47</subject>
+      <subject>Saprospiraceae</subject>
+      <subject>Simkaniaceae</subject>
+      <subject>Sinobacteraceae</subject>
+      <subject>Solibacteraceae</subject>
+      <subject>Solirubrobacteraceae</subject>
+      <subject>Spartobacteriaceae</subject>
+      <subject>Sphingobacteriaceae</subject>
+      <subject>Sphingomonadaceae</subject>
+      <subject>Sporichthyaceae</subject>
+      <subject>Sporolactobacillaceae</subject>
+      <subject>Streptomycetaceae</subject>
+      <subject>Streptosporangiaceae</subject>
+      <subject>Sulfobacillaceae</subject>
+      <subject>Symbiobacteriaceae</subject>
+      <subject>Syntrophobacteraceae</subject>
+      <subject>Thermoactinomycetaceae</subject>
+      <subject>Thermoanaerobacteraceae</subject>
+      <subject>Thermobaculaceae</subject>
+      <subject>Thermodesulfovibrionaceae</subject>
+      <subject>Thermomonosporaceae</subject>
+      <subject>Thermotogaceae</subject>
+      <subject>Trebouxiophyceae</subject>
+      <subject>Veillonellaceae</subject>
+      <subject>Verrucomicrobiaceae</subject>
+      <subject>Verrucomicrobia subdivision 3</subject>
+      <subject>Waddliaceae</subject>
+      <subject>wb1_P06</subject>
+      <subject>WD294</subject>
+      <subject>Williamsiaceae</subject>
+      <subject>Xanthobacteraceae</subject>
+      <subject>Xanthomonadaceae</subject>
+      <subject>Acidimicrobium</subject>
+      <subject>Acidovorax</subject>
+      <subject>Acinetobacter</subject>
+      <subject>Actinoallomurus</subject>
+      <subject>Actinobaculum</subject>
+      <subject>Actinocorallia</subject>
+      <subject>Actinokineospora</subject>
+      <subject>Actinomadura</subject>
+      <subject>Actinomycetospora</subject>
+      <subject>Actinoplanes</subject>
+      <subject>Actinopolymorpha</subject>
+      <subject>Aeromicrobium</subject>
+      <subject>Agrobacterium</subject>
+      <subject>Agromyces</subject>
+      <subject>Alicyclobacillus</subject>
+      <subject>Amaricoccus</subject>
+      <subject>Aminobacter</subject>
+      <subject>Amycolatopsis</subject>
+      <subject>Anaerobaculum</subject>
+      <subject>Anaerolinea</subject>
+      <subject>Anaeromyxobacter</subject>
+      <subject>Anaerospora</subject>
+      <subject>Aphanizomenon</subject>
+      <subject>Aquamonas</subject>
+      <subject>Aquicella</subject>
+      <subject>Aquimarina</subject>
+      <subject>Aquimonas</subject>
+      <subject>Archangium</subject>
+      <subject>Arenimonas</subject>
+      <subject>Arhodomonas</subject>
+      <subject>Armatimonas</subject>
+      <subject>Arthrobacter</subject>
+      <subject>Arthrospira</subject>
+      <subject>Aurantimonas</subject>
+      <subject>Azohydromonas</subject>
+      <subject>Azomonas</subject>
+      <subject>Azospirillum</subject>
+      <subject>Bacillus</subject>
+      <subject>Bacteroides</subject>
+      <subject>Balneimonas</subject>
+      <subject>Bartonella</subject>
+      <subject>Bdellovibrio</subject>
+      <subject>Bellilinea</subject>
+      <subject>Blastococcus</subject>
+      <subject>Blastomonas</subject>
+      <subject>Blastopirellula</subject>
+      <subject>Bosea</subject>
+      <subject>Brachyspira</subject>
+      <subject>Bradyrhizobium</subject>
+      <subject>Brevibacillus</subject>
+      <subject>Brevundimonas</subject>
+      <subject>Burkholderia</subject>
+      <subject>Caldilinea</subject>
+      <subject>Caloramator</subject>
+      <subject>Caminibacter</subject>
+      <subject>Campylobacter</subject>
+      <subject>Candidatus Cardinium</subject>
+      <subject>Candidatus Entotheonella</subject>
+      <subject>Candidatus Methylacidiphilum</subject>
+      <subject>Candidatus Nitrososphaera</subject>
+      <subject>Candidatus Odyssella</subject>
+      <subject>Candidatus Phytoplasma</subject>
+      <subject>Candidatus Protochlamydia</subject>
+      <subject>Candidatus Solibacter</subject>
+      <subject>Candidatus Xiphinematobacter</subject>
+      <subject>Catellatospora</subject>
+      <subject>Caulobacter</subject>
+      <subject>Cellulomonas</subject>
+      <subject>Cellulosimicrobium</subject>
+      <subject>Cellvibrio</subject>
+      <subject>Chelativorans</subject>
+      <subject>Chelatococcus</subject>
+      <subject>Chitinophaga</subject>
+      <subject>Chloroflexus</subject>
+      <subject>Chloroherpeton</subject>
+      <subject>Chondromyces</subject>
+      <subject>Chthoniobacter</subject>
+      <subject>Chthonomonas</subject>
+      <subject>Clostridium</subject>
+      <subject>Cohnella</subject>
+      <subject>Couchioplanes</subject>
+      <subject>Coxiella</subject>
+      <subject>Cryobacterium</subject>
+      <subject>Cryptosporangium</subject>
+      <subject>Cupriavidus</subject>
+      <subject>Cystobacter</subject>
+      <subject>Cytophaga</subject>
+      <subject>Dactylosporangium</subject>
+      <subject>Dechloromonas</subject>
+      <subject>Dehalobacterium</subject>
+      <subject>Dehalococcoides</subject>
+      <subject>Deinococcus</subject>
+      <subject>Desulfobacula</subject>
+      <subject>Desulfofaba</subject>
+      <subject>Desulfomicrobium</subject>
+      <subject>Desulfovibrio</subject>
+      <subject>Desulfuromonas</subject>
+      <subject>Devosia</subject>
+      <subject>Dichelobacter</subject>
+      <subject>Dictyoglomus</subject>
+      <subject>Dokdonella</subject>
+      <subject>Dokdonia</subject>
+      <subject>Dyadobacter</subject>
+      <subject>Dyella</subject>
+      <subject>Echinicola</subject>
+      <subject>Ectothiorhodospira</subject>
+      <subject>Edaphobacter</subject>
+      <subject>Emticicia</subject>
+      <subject>Enterococcus</subject>
+      <subject>Erythrobacter</subject>
+      <subject>Euzebia</subject>
+      <subject>Exiguobacterium</subject>
+      <subject>Facklamia</subject>
+      <subject>Fervidobacterium</subject>
+      <subject>Fibrobacter</subject>
+      <subject>Flavisolibacter</subject>
+      <subject>Flavobacterium</subject>
+      <subject>Flexibacter</subject>
+      <subject>Frankia</subject>
+      <subject>Frateuria</subject>
+      <subject>Gemmata</subject>
+      <subject>Gemmatimonas</subject>
+      <subject>Geobacillus</subject>
+      <subject>Geobacter</subject>
+      <subject>Geodermatophilus</subject>
+      <subject>Georgenia</subject>
+      <subject>Glaciecola</subject>
+      <subject>Haliangium</subject>
+      <subject>Haliscomenobacter</subject>
+      <subject>Halobacillus</subject>
+      <subject>Halostagnicola</subject>
+      <subject>Halothermothrix</subject>
+      <subject>Helcococcus</subject>
+      <subject>Herpetosiphon</subject>
+      <subject>Hydrogenophilus</subject>
+      <subject>Hymenobacter</subject>
+      <subject>Hyphomicrobium</subject>
+      <subject>Iamia</subject>
+      <subject>Ideonella</subject>
+      <subject>Idiomarina</subject>
+      <subject>Ignatzschineria</subject>
+      <subject>Inquilinus</subject>
+      <subject>JG37-AG-70</subject>
+      <subject>Jiangella</subject>
+      <subject>Jonquetella</subject>
+      <subject>Kaistia</subject>
+      <subject>Kaistobacter</subject>
+      <subject>Kineococcus</subject>
+      <subject>Kineosporia</subject>
+      <subject>Kitasatospora</subject>
+      <subject>Knoellia</subject>
+      <subject>Kosmotoga</subject>
+      <subject>Kouleothrix</subject>
+      <subject>Kribbella</subject>
+      <subject>Kutzneria</subject>
+      <subject>Labrenzia</subject>
+      <subject>Labrys</subject>
+      <subject>Laceyella</subject>
+      <subject>Lactobacillus</subject>
+      <subject>Lamprocystis</subject>
+      <subject>Laribacter</subject>
+      <subject>Legionella</subject>
+      <subject>Leptonema</subject>
+      <subject>Leptospira</subject>
+      <subject>Levilinea</subject>
+      <subject>Luteibacter</subject>
+      <subject>Luteimonas</subject>
+      <subject>Luteolibacter</subject>
+      <subject>Lutibacterium</subject>
+      <subject>Lysobacter</subject>
+      <subject>Magnetococcus</subject>
+      <subject>Marinomonas</subject>
+      <subject>Marinospirillum</subject>
+      <subject>Marmoricola</subject>
+      <subject>Massilia</subject>
+      <subject>MC18</subject>
+      <subject>Mechercharimyces</subject>
+      <subject>Mesorhizobium</subject>
+      <subject>Methanosarcina</subject>
+      <subject>Methylibium</subject>
+      <subject>Methylobacterium</subject>
+      <subject>Methylococcus</subject>
+      <subject>Methylopila</subject>
+      <subject>Methyloversatilis</subject>
+      <subject>Microbispora</subject>
+      <subject>Microcoleus</subject>
+      <subject>Micromonospora</subject>
+      <subject>Microscilla</subject>
+      <subject>Mobiluncus</subject>
+      <subject>Modestobacter</subject>
+      <subject>Mycobacterium</subject>
+      <subject>Mycoplana</subject>
+      <subject>Mycoplasma</subject>
+      <subject>Myxococcus</subject>
+      <subject>Nannocystis</subject>
+      <subject>Natranaerobius</subject>
+      <subject>Nautilia</subject>
+      <subject>Niabella</subject>
+      <subject>Nitratiruptor</subject>
+      <subject>Nocardia</subject>
+      <subject>Nocardioides</subject>
+      <subject>Nonomuraea</subject>
+      <subject>Nordella</subject>
+      <subject>Nostoc</subject>
+      <subject>Novosphingobium</subject>
+      <subject>Oceanobacillus</subject>
+      <subject>Okibacterium</subject>
+      <subject>Olsenella</subject>
+      <subject>Opitutus</subject>
+      <subject>Oribacterium</subject>
+      <subject>Oscillochloris</subject>
+      <subject>Oxalobacter</subject>
+      <subject>Paenibacillus</subject>
+      <subject>Paenisporosarcina</subject>
+      <subject>Pedobacter</subject>
+      <subject>Pedomicrobium</subject>
+      <subject>Pelotomaculum</subject>
+      <subject>Phaeospirillum</subject>
+      <subject>Phenylobacterium</subject>
+      <subject>Phycicoccus</subject>
+      <subject>Phyllobacterium</subject>
+      <subject>Picrophilus</subject>
+      <subject>Pilimelia</subject>
+      <subject>Pimelobacter</subject>
+      <subject>Pirellula</subject>
+      <subject>Planctomyces</subject>
+      <subject>Planifilum</subject>
+      <subject>Planktothricoides</subject>
+      <subject>Planotetraspora</subject>
+      <subject>Plantibacter</subject>
+      <subject>Plesiocystis</subject>
+      <subject>Polaromonas</subject>
+      <subject>Porphyrobacter</subject>
+      <subject>Promicromonospora</subject>
+      <subject>Prosthecobacter</subject>
+      <subject>Providencia</subject>
+      <subject>Pseudomonas</subject>
+      <subject>Pseudonocardia</subject>
+      <subject>Pseudoxanthomonas</subject>
+      <subject>Psychrobacter</subject>
+      <subject>Ralstonia</subject>
+      <subject>Rhizobium</subject>
+      <subject>Rhodanobacter</subject>
+      <subject>Rhodococcus</subject>
+      <subject>Rhodoferax</subject>
+      <subject>Rhodomicrobium</subject>
+      <subject>Rhodopirellula</subject>
+      <subject>Rhodoplanes</subject>
+      <subject>Rhodopseudomonas</subject>
+      <subject>Rhodospirillum</subject>
+      <subject>Rhodovibrio</subject>
+      <subject>Rickettsiella</subject>
+      <subject>Roseiflexus</subject>
+      <subject>Roseisalinus</subject>
+      <subject>Roseivirga</subject>
+      <subject>Roseococcus</subject>
+      <subject>Roseomonas</subject>
+      <subject>Rubellimicrobium</subject>
+      <subject>Rubrobacter</subject>
+      <subject>Saccharomonospora</subject>
+      <subject>Saccharothrix</subject>
+      <subject>Salinibacillus</subject>
+      <subject>Salinispora</subject>
+      <subject>Sejongia</subject>
+      <subject>Singulisphaera</subject>
+      <subject>Skermanella</subject>
+      <subject>Slackia</subject>
+      <subject>Solimonas</subject>
+      <subject>Solirubrobacter</subject>
+      <subject>Sphingobium</subject>
+      <subject>Sphingomonas</subject>
+      <subject>Sphingopyxis</subject>
+      <subject>Sphingosinicella</subject>
+      <subject>Spirosoma</subject>
+      <subject>Sporichthya</subject>
+      <subject>Sporolactobacillus</subject>
+      <subject>Sporosarcina</subject>
+      <subject>Stenotrophomonas</subject>
+      <subject>Stenoxybacter</subject>
+      <subject>Steroidobacter</subject>
+      <subject>Stigmatella</subject>
+      <subject>Streptomyces</subject>
+      <subject>Streptosporangium</subject>
+      <subject>Sulfobacillus</subject>
+      <subject>Sulfurihydrogenibium</subject>
+      <subject>Synechococcus</subject>
+      <subject>Syntrophobacter</subject>
+      <subject>Tatlockia</subject>
+      <subject>Tatumella</subject>
+      <subject>Terriglobus</subject>
+      <subject>Thermaerobacter</subject>
+      <subject>Thermoanaerobacter</subject>
+      <subject>Thermobaculum</subject>
+      <subject>Thermodesulforhabdus</subject>
+      <subject>Thermodesulfovibrio</subject>
+      <subject>Thermomonas</subject>
+      <subject>Thermopallium</subject>
+      <subject>Thermosinus</subject>
+      <subject>Thermosipho</subject>
+      <subject>Thermotoga</subject>
+      <subject>Thioalkalivibrio</subject>
+      <subject>Thioclava</subject>
+      <subject>Thiocystis</subject>
+      <subject>Thiomicrospira</subject>
+      <subject>Trabulsiella</subject>
+      <subject>Trichodesmium</subject>
+      <subject>Variovorax</subject>
+      <subject>Verrucosispora</subject>
+      <subject>Virgisporangium</subject>
+      <subject>Waddlia</subject>
+      <subject>Williamsia</subject>
+      <subject>Xanthomonas</subject>
+      <subject>Xenophilus</subject>
+      <subject>Yersinia</subject>
+      <subject>Zhouia</subject>
+      <subject>Acidimicrobiumf errooxidans</subject>
+      <subject>Acinetobacter rhizosphaerae</subject>
+      <subject>Actinoallomurus iriomotensis</subject>
+      <subject>Actinokineospora diospyrosa</subject>
+      <subject>Actinomadura madurae</subject>
+      <subject>Actinomadura nitritigenes</subject>
+      <subject>Actinoplanes durhamensis</subject>
+      <subject>Actinoplanes ferrugineus</subject>
+      <subject>Actinoplanes globisporus</subject>
+      <subject>Actinoplanes italicus</subject>
+      <subject>Actinoplanes teichomyceticus</subject>
+      <subject>Aeromicrobium fastidiosum</subject>
+      <subject>Aeromicrobium marinum</subject>
+      <subject>Afipiagenosp.9</subject>
+      <subject>Alicyclobacillus hesperidum</subject>
+      <subject>Amycolatopsis australiensis</subject>
+      <subject>Amycolatopsis lactamdurans</subject>
+      <subject>Amycolatopsis mediterranei</subject>
+      <subject>Anaerobaculum hydrogeniformans</subject>
+      <subject>Anaeromyxobacter sp.Fw109-5</subject>
+      <subject>Anaerospora hongkongensis</subject>
+      <subject>Aphanizomenon issatschenkoi</subject>
+      <subject>Aquimarina muelleri</subject>
+      <subject>Arthrobacter psychrolactophilus</subject>
+      <subject>Arthrospira fusiformis</subject>
+      <subject>Aurantimona saltamirensis</subject>
+      <subject>Azomonas macrocytogenes</subject>
+      <subject>Azospirillum melinis</subject>
+      <subject>Azospirillum sp.B510</subject>
+      <subject>Bacillus coahuilensis</subject>
+      <subject>Bacillus flexus</subject>
+      <subject>Bacillus longiquaesitum</subject>
+      <subject>Bacillus nealsonii</subject>
+      <subject>Bacillus soli</subject>
+      <subject>Bacillus weihenstephanensis</subject>
+      <subject>Bartonella washoensis</subject>
+      <subject>Bdellovibrio bacteriovorus</subject>
+      <subject>Blastococcus aggregatus</subject>
+      <subject>Blastopirellula marina</subject>
+      <subject>Brachyspira pilosicoli</subject>
+      <subject>Bradyrhizobium canariense</subject>
+      <subject>Bradyrhizobium elkanii</subject>
+      <subject>Brevibacillus levickii</subject>
+      <subject>Bryantella formatexigens</subject>
+      <subject>Burkholderia glathei</subject>
+      <subject>Burkholderia oklahomensis</subject>
+      <subject>Burkholderia sordidicola</subject>
+      <subject>Caminibacter mediatlanticus</subject>
+      <subject>Campylobacter cuniculorum</subject>
+      <subject>Campylobacter showae</subject>
+      <subject>Candidatus Cardiniumhertigii</subject>
+      <subject>Candidatus Haliscomenobactercalcifugiens</subject>
+      <subject>Candidatus Nitrososphaeragargensis</subject>
+      <subject>Candidatus Phytoplasmamali</subject>
+      <subject>Candidatus Solibacterusitatus</subject>
+      <subject>Catellato sporacitrea</subject>
+      <subject>Cellulomon asxylanilytica</subject>
+      <subject>Cellvibrio japonicus</subject>
+      <subject>Chloroflexus aggregans</subject>
+      <subject>Chloroflexus sp.Y-400-fl</subject>
+      <subject>Chloroherpeton thalassium</subject>
+      <subject>Chondromyces robustus</subject>
+      <subject>Chthoniobacter flavus</subject>
+      <subject>Chthonomonas calidirosea</subject>
+      <subject>Clostridium ultunense</subject>
+      <subject>Couchioplanes caeruleus</subject>
+      <subject>Cryptosporangium japonicum</subject>
+      <subject>Cupriavidus gilardii</subject>
+      <subject>Cupriavidus oxalaticus</subject>
+      <subject>Cupriavidus pinatubonensis</subject>
+      <subject>Cystobacter fuscus</subject>
+      <subject>Dehalococcoides sp.BAV1</subject>
+      <subject>Deinococcus deserti</subject>
+      <subject>Deinococcus papagonensis</subject>
+      <subject>Desulfomicrobium orale</subject>
+      <subject>Desulfovibrio bastinii</subject>
+      <subject>Desulfovibrio magneticus</subject>
+      <subject>Desulfovibrio senezii</subject>
+      <subject>Desulfuromonas svalbardensis</subject>
+      <subject>Dichelobacter nodosus</subject>
+      <subject>Dictyoglomus turgidum</subject>
+      <subject>Dokdonella koreensis</subject>
+      <subject>Dokdonia donghaensis</subject>
+      <subject>Dyellagin sengisoli</subject>
+      <subject>Echinicola pacifica</subject>
+      <subject>Ectothiorhodospira sp.BogoriaRed</subject>
+      <subject>Ecwsrb050</subject>
+      <subject>Edaphobacter modestum</subject>
+      <subject>Enterobacterialendo symbiont of Drosicha corpulenta</subject>
+      <subject>Enterobacter radicincitans</subject>
+      <subject>Enterococcus dispar</subject>
+      <subject>Erythrobacter aquimaris</subject>
+      <subject>Exiguobacterium sibiricum</subject>
+      <subject>Facklamia sourekii</subject>
+      <subject>Fervidobacterium nodosum</subject>
+      <subject>Fibrobacter intestinalis</subject>
+      <subject>Flavobacterium succinicans</subject>
+      <subject>Flexibacter flexilis</subject>
+      <subject>Frankia sp.EAN1pec</subject>
+      <subject>Frateuria aurantia</subject>
+      <subject>Gemmata obscuriglobus</subject>
+      <subject>Geobacillus pallidus</subject>
+      <subject>Geobacter metallireducens</subject>
+      <subject>Geobacter psychrophilus</subject>
+      <subject>Geobacter sp.M21</subject>
+      <subject>Halobacillus virgiliensis</subject>
+      <subject>Halothermothrix orenii</subject>
+      <subject>Helcococcus ovis</subject>
+      <subject>Herpetosiphon aurantiacus</subject>
+      <subject>Hydrogenophilus halorhabdus</subject>
+      <subject>Hydrogenophilus thermoluteolus</subject>
+      <subject>Idiomarina loihiensis</subject>
+      <subject>Ignatzschineria larvae</subject>
+      <subject>Jonquetella anthropi</subject>
+      <subject>Kineococcus radiotolerans</subject>
+      <subject>Knoellia subterranea</subject>
+      <subject>Labrenzia aggregata</subject>
+      <subject>Labrys methylaminiphilus</subject>
+      <subject>Laceyella sacchari</subject>
+      <subject>Lactobacillus kefiranofaciens</subject>
+      <subject>Laribacter hongkongensis</subject>
+      <subject>Legionella pneumophila</subject>
+      <subject>Leptonema illini</subject>
+      <subject>Leptospira interrogans</subject>
+      <subject>Loripes lacteus gill symbiont</subject>
+      <subject>Luteibacter rhizovicinus</subject>
+      <subject>Lysobacter taiwanensis</subject>
+      <subject>Magnetococcus sp.MC-1</subject>
+      <subject>Marinomonas aquimarina</subject>
+      <subject>Marinospirillum insulare</subject>
+      <subject>Massilia timonae</subject>
+      <subject>Mechercharimyces mesophilus</subject>
+      <subject>Mesorhizobium albiziae</subject>
+      <subject>Mesorhizobium huakuii</subject>
+      <subject>Methanosarcina barkeri</subject>
+      <subject>Methylibium petroleiphilum</subject>
+      <subject>Methylobacterium adhaesivum</subject>
+      <subject>Methylobacterium fujisawaense</subject>
+      <subject>Methylobacterium organophilum</subject>
+      <subject>Methylobacterium podarium</subject>
+      <subject>Methylobacterium radiotolerans</subject>
+      <subject>Methylobacterium sp.4-46</subject>
+      <subject>Methylococcus capsulatus</subject>
+      <subject>Methyloversatilis universalis</subject>
+      <subject>Microbispora rosea</subject>
+      <subject>Micromonospora aurantiaca</subject>
+      <subject>Micromonospora echinaurantiaca</subject>
+      <subject>Microscilla marina</subject>
+      <subject>Mobiluncus curtisii</subject>
+      <subject>Mobiluncus mulieris</subject>
+      <subject>Mycobacterium chlorophenolicum</subject>
+      <subject>Mycobacterium gordonae</subject>
+      <subject>Mycobacterium stomatepiae</subject>
+      <subject>Mycoplasma conjunctivae</subject>
+      <subject>Mycoplasma phocicerebrale</subject>
+      <subject>Myxococcus stipitatus</subject>
+      <subject>Nannocystis exedens</subject>
+      <subject>Natranaerobius thermophilus</subject>
+      <subject>Nautilia profundicola</subject>
+      <subject>Nitratiruptor sp.SB155-2</subject>
+      <subject>Nitrospira sp.</subject>
+      <subject>Nocardia exalbida</subject>
+      <subject>Nocardia fluminea</subject>
+      <subject>Nocardioides oleivorans</subject>
+      <subject>Okibacterium fritillariae</subject>
+      <subject>Olsenella profusa</subject>
+      <subject>Opitutaceae bacterium TAV2</subject>
+      <subject>Oribacterium sp.oraltaxon078</subject>
+      <subject>Oscillochloris trichoides</subject>
+      <subject>Paenibacillus borealis</subject>
+      <subject>Paenibacillus chondroitinus</subject>
+      <subject>Paenibacillus sabinae</subject>
+      <subject>Paenibacillus sp.JDR-2</subject>
+      <subject>Paenibacillus terrae</subject>
+      <subject>Pantoea citrea</subject>
+      <subject>Pasteurella aerogenes</subject>
+      <subject>Pelobacter propionicus</subject>
+      <subject>Pelotomaculum thermopropionicum</subject>
+      <subject>Pirellula staleyi</subject>
+      <subject>Planifilum fulgidum</subject>
+      <subject>Planktothricoides raciborskii</subject>
+      <subject>Plesiocystis pacifica</subject>
+      <subject>Porphyrobacter meromictius</subject>
+      <subject>Prosthecobacter debontii</subject>
+      <subject>Prosthecobacter vanneervenii</subject>
+      <subject>Protochlamydia naegleriophila</subject>
+      <subject>Providencia heimbachae</subject>
+      <subject>Pseudoalteromonas atlantica</subject>
+      <subject>Pseudomonas boreopolis</subject>
+      <subject>Pseudomonas cuatrocienegasensis</subject>
+      <subject>Pseudomonas fragi</subject>
+      <subject>Pseudomonas mandelii</subject>
+      <subject>Pseudomonas oleovorans</subject>
+      <subject>Pseudomonas umsongensis</subject>
+      <subject>Pseudonocardia yunnanensis</subject>
+      <subject>Pseudoxanthomonas mexicana</subject>
+      <subject>Psychrobacter sp.PRwf-1</subject>
+      <subject>Ralstonia solanacearum</subject>
+      <subject>Rhizobium leguminosarum</subject>
+      <subject>Rhizobium multihospitium</subject>
+      <subject>Rhodanobacter lindaniclasticus</subject>
+      <subject>Rhodococcus globerulus</subject>
+      <subject>Rhodospirillum centenum</subject>
+      <subject>Rhodospirillum rubrum</subject>
+      <subject>Rhodovibrio salinarum</subject>
+      <subject>Rickettsiella grylli</subject>
+      <subject>Roseiflexus castenholzii</subject>
+      <subject>Roseisalinus antarcticus</subject>
+      <subject>Rubellimicrobium thermophilum</subject>
+      <subject>Rubrobacter radiotolerans</subject>
+      <subject>Rubrobacter taiwanensis</subject>
+      <subject>Rubrobacter xylanophilus</subject>
+      <subject>Saccharomonospora viridis</subject>
+      <subject>Salinispora arenicola</subject>
+      <subject>SCA1145</subject>
+      <subject>SCA1170</subject>
+      <subject>Singulisphaera acidiphila</subject>
+      <subject>Slackia exigua</subject>
+      <subject>Sphingobium herbicidovorans</subject>
+      <subject>Sphingobium yanoikuyae</subject>
+      <subject>Sphingomonas azotifigens</subject>
+      <subject>Sphingomonas melonis</subject>
+      <subject>Sphingomonas wittichii</subject>
+      <subject>Sphingopyxis macrogoltabida</subject>
+      <subject>Sphingosinicella microcystinivorans</subject>
+      <subject>Sporolactobacillus kofuensis</subject>
+      <subject>Sporolactobacillus nakayamae</subject>
+      <subject>Sporosarcina aquimarina</subject>
+      <subject>Streptomyces ahygroscopicus</subject>
+      <subject>Streptomyces antibioticus</subject>
+      <subject>Streptomyces cuspidosporus</subject>
+      <subject>Streptomyces cyaneofuscatus</subject>
+      <subject>Streptomyces flavotricini</subject>
+      <subject>Streptomyces nitrosporeus</subject>
+      <subject>Streptomyces radiopugnans</subject>
+      <subject>Streptomyces reticuliscabiei</subject>
+      <subject>Streptomyces scabrisporus</subject>
+      <subject>Streptomyces spiroverticillatus</subject>
+      <subject>Streptomyces stelliscabiei</subject>
+      <subject>Streptomyces thermovulgaris</subject>
+      <subject>Streptomyces tumescens</subject>
+      <subject>Streptomyces yanglinensis</subject>
+      <subject>Streptomyces yeochonensis</subject>
+      <subject>Streptosporangium longisporum</subject>
+      <subject>Streptosporangium violaceochromogenes</subject>
+      <subject>Sulfobacillus benefaciens</subject>
+      <subject>Sulfurihydrogenibium azorense</subject>
+      <subject>Sulfurihydrogenibium sp.YO3AOP1</subject>
+      <subject>Synechococcus sp.PCC7002</subject>
+      <subject>Syntrophobacter fumaroxidans</subject>
+      <subject>Tatlockia maceachernii</subject>
+      <subject>Terriglobus roseus</subject>
+      <subject>Thermaerobacter subterraneus</subject>
+      <subject>Thermoanaerobacter sp.X514</subject>
+      <subject>Thermobaculum terrenum</subject>
+      <subject>Thermodesulfovibrio yellowstonii</subject>
+      <subject>Thermopallium natronophilum</subject>
+      <subject>Thermosinus carboxydivorans</subject>
+      <subject>Thermosipho africanus</subject>
+      <subject>Thermosipho melanesiensis</subject>
+      <subject>Thermotoga lettingae</subject>
+      <subject>Thioalkalivibrio sp.HL-EbGR7</subject>
+      <subject>Thiocystis gelatinosa</subject>
+      <subject>Thiomicrospira crunogena</subject>
+      <subject>Trichodesmium erythraeum</subject>
+      <subject>Verrucosispora gifhornensis</subject>
+      <subject>Virgisporangium ochraceum</subject>
+      <subject>Williamsia muralis</subject>
+      <subject>Yersinia aleksiciae</subject>
+      <subject>Zhouia amylolytica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5SN8M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>887388 bytes</size>
+      <size>6918 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File	Piper_bacterialOTU_taxonomy&#13;
+This file summarizes the taxonomy of bacterial OTUs observed in this study. Taxonomic assignment of OTUs was achieved by BLAST comparison of the seed sequences against the Greengenes 2011 database (McDonald et al., 2012) by trimming the Greengenes sequences to the same region as the seed sequences to improve assignment (Werner et al., 2012).  Numbers in brackets indicate the confidence in which a particular name was assigned e.g. (100) is 100% confidence that the correct name was assigned	Some OTUs are unnamed at some level of classification (e.g. f__(100) indicates that an OTU belongs to a certain unnamed family). Alternatively, an OTU may be "unclassified" denoting that the species could not be fit with any known bacterial groups.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

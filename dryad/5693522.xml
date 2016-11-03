@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5693522</identifier><datestamp>2015-05-19T17:13:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JM78G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Heyduk, Karolina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trapnell, Dorset W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barrett, Craig F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leebens-Mack, Jim</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data files for Heyduk et al 2015 "Estimating species relationships within Sabal (Arecaceae) through multilocus analyses of sequence capture data."</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Species Tree</subject>
+      <subject>Coalescence</subject>
+      <subject>platome</subject>
+      <subject>North America</subject>
+      <subject>Central America</subject>
+      <subject>Caribbean</subject>
+      <subject>Pleistocene</subject>
+      <subject>Sabal</subject>
+      <subject>Arecaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JM78G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1155 bytes</size>
+      <size>3402224 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">README for data related to Heyduk et al 2015 "Estimating species relationships within Sabal (Arecaceae) through multilocus analyses of sequence capture data." A note about gene alignment/tree naming: File names refer to the geneID from which baits were designed from. For example, "Elaeis_1007" indicates that this gene matches the exons "Elaeis_1007_*" which we submitted to MySelect for bait design. Some genes are named "Sabal" or "Nypa" because sequences from those species were submitted for the initial bait design. Files in this repository: 1) alignments.zip - folder containing alignments for all 133 nuclear genes used in phylogenetic analyses. Naming as described above. 2) bootstraps.zip - folder containing bootstrap replicates, 500 per each of 133 genes, output from RAxML. Gene names are the same as described above. 3) genetrees.zip - bipartition tree for the 133 nuclear gene trees, output from RAxML. Naming as described above. 4) concat.align.fasta - supermatrix alignment from concatenation of the 133 nuclear genes for all 17 species. 5) plastid.align.fasta - alignment of 89kb of chloroplast sequence for all 17 species. 6) mpest.tre, star.tre, concat.tre, and plastid.tre - newick tree files for each respective phylogenetic analysis (MP-EST, STAR, supermatrix, and plastome). MP-EST and STAR trees are the output of the respective programs, whereas the supermatrix tree and the plastid tree are output of RAxML. 7) binaligns.zip - folder containing alignments (nexus formatted for BEAST) of each of 27 bins. 8) starBEAST.xml - xml run file for *BEAST</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

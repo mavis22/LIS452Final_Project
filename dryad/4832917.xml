@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4832917</identifier><datestamp>2015-03-03T20:11:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D3V78/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Enriquez-Urzelai, Urtzi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montori, Albert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Llorente, Gustavo A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaliontzopoulou, Antigoni</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>WM_anurans_traits</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecological diversification</subject>
+      <subject>Phylogenetic comparative method</subject>
+      <subject>Modes of displacement</subject>
+      <subject>Allometry</subject>
+      <subject>Western Mediterranean</subject>
+      <subject>Alytes cisternasii</subject>
+      <subject>Alytes muletensis</subject>
+      <subject>Alytes obstetricans</subject>
+      <subject>Bufo bufo</subject>
+      <subject>Bufo calamita</subject>
+      <subject>Discoglossus galganoi</subject>
+      <subject>Discoglossus pictus</subject>
+      <subject>Discoglossus sardus</subject>
+      <subject>Hyla arborea</subject>
+      <subject>Hyla meridionalis</subject>
+      <subject>Pelobates cultripes</subject>
+      <subject>Pelodytes ibericus</subject>
+      <subject>Pelodytes punctatus</subject>
+      <subject>Pelobates varaldii</subject>
+      <subject>Rana iberica</subject>
+      <subject>Pelophylax perezi</subject>
+      <subject>Rana temporaria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D3V78</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17131 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8220;WM_anurans_traits.csv&#8221; is a comma-delimited file that contains the trait values analysed in Enriquez-Urzelai et al. 2015. These consist of raw measurements for each individual included in the study. &#8216;SPECIES&#8217; column corresponds to the species scientific name, &#8216;SP&#8217; column contains the species abbreviated name, &#8216;SVL&#8217; snout-vent length, &#8216;TFL&#8217; tibiofibula length, &#8216;FL&#8217; femur length, &#8217;T.F&#8217; tibiofibula to femur ratio, &#8216;LOC&#8217; the mode of displacement. We also provide the collection number, the entrance number, and the collection name. Here is the key for modes of displacement (LOC):&#13;
+JT = Jumper terrestrial&#13;
+JA = Jumper arboreal&#13;
+WH = Walker/hopper&#13;
+BWH = Burrower/walker/hopper</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

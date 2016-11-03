@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5696368</identifier><datestamp>2015-05-29T19:09:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DC02B/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Puckett, Emily E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etter, Paul D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Eric A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eggert, Lori S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Puckett_etal-U_amer_29k_SNPs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNPs</subject>
+      <subject>Microsatellites</subject>
+      <subject>Mitochondrial genome</subject>
+      <subject>American black bear</subject>
+      <subject>Lineage Divergence</subject>
+      <subject>Admixture</subject>
+      <subject>Phylogeography</subject>
+      <subject>Species Distribution Modeling</subject>
+      <subject>North America</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Ursus americanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10985703 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">PED file with 29,213 SNPs for Ursus americanus. Data were clustered the following way: 1- AK-East, 2- Central Interior Highlands, 3- Great Lakes, 4- Northeast, 5- Southeast, 6- AK-West, 7- West, 8- Southwest, 9- Pacific Coast.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

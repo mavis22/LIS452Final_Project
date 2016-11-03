@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5588673</identifier><datestamp>2015-04-13T20:13:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F61BP/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>And&#250;jar, Carmelo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arribas, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruzicka, Filip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timmermans, Martijn J. T. N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>#4. DNA_3KB+REF_dataset_x13_protein_coding_genes_x214_contigs + 245_ref_mitogenomes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>NGS</subject>
+      <subject>Genome skimming</subject>
+      <subject>phylogenetic community structure</subject>
+      <subject>beta diversity</subject>
+      <subject>soil biodiversity</subject>
+      <subject>South Spain</subject>
+      <subject>Coleoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F61BP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5268975 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment of the mitogenome contigs included in the 3KB  dataset (214 contigs) and the reference coleoptera mitogenomes (245 sequences) used in And&#250;jar et al. 2015 Mol. Ecol.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

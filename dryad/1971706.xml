@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1971706</identifier><datestamp>2015-07-24T16:29:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J6676/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Robertson, Laura S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cornman, Robert Scott</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Annotation spreadsheet for transcriptome assembly of Lithobates clamitans</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Amphibians</subject>
+      <subject>Transcriptomics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Gene Structure and Function</subject>
+      <subject>Disease Biology</subject>
+      <subject>Lithobates clamitans</subject>
+      <subject>Pseudacris regilla</subject>
+      <subject>Rana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J6676</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4407 bytes</size>
+      <size>10219008 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">An Excel spreadsheet of contig sequence similarity for the Lithobates clamitans assembly. BLASTX hits to Xenopus tropicalis, HMMER matches to the Pfam-A database (for predicted ORFs), and other annotation information is given. The column headings are as follows:&#13;
+Contig: contig name&#13;
+Length (bp): length in base pairs&#13;
+%GC content: percent of contig sequence that is C or G&#13;
+Longest ORF (min 50 amino acids): the longest ORF identified on the contig that was at least 50 amino-acids long&#13;
+Pfam (E-value threshold 0.1): A colon-delimited list of matched Pfam accessions, E-values, and domain descriptions&#13;
+Xenopus.tropicalis BLASTX E-value: E-value of the best BlastX match to X. tropicalis proteins.&#13;
+bit: bit score of this match&#13;
+id%: percentage identity (protein sequence) of this match to the query contig&#13;
+description: descriptive text in the fasta header of the best match&#13;
+RefSeq ID: associated RefSeq ID for best match&#13;
+Entrez gene ID: associated Entrez gene ID for best match&#13;
+UniProt ID: associated UniProt ID for best match</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

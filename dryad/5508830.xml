@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5508830</identifier><datestamp>2015-04-02T18:51:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P0H0V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>P&#233;rez-Ramos, Ignacio M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Padilla-D&#237;az, Carmen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koenig, Walter D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mara&#241;&#243;n, Teodoro</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data set of seed production and environmental factors (Perez-Ramos et al. 2015_JEcol)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>drought</subject>
+      <subject>functional strategies</subject>
+      <subject>phenology</subject>
+      <subject>plant&#8211;climate interactions</subject>
+      <subject>recruitment</subject>
+      <subject>synchrony</subject>
+      <subject>temperature</subject>
+      <subject>"Los Alcornocales" Natural Park (C&#225;diz - M&#225;laga, Spain)</subject>
+      <subject>Quercus canariensis</subject>
+      <subject>Quercus suber</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P0H0V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41984 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Annual mean production of initial (including abortions) and mature seeds for the two study oak species (Quercus canariensis and Quercus suber) over the ten sampling years (from 2002 to 2011) and their associated environmental variables (temperature, precipitation, water limitation and drought index).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

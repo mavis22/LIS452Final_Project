@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342338</identifier><datestamp>2015-08-08T21:30:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.55S6Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Turner, Thomas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krabbenhoft, Trevor J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collyer, Michael L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krabbenhoft, Corey A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edwards, Melanie S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sharp, Zachary D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>C, N Stable Isotope (delta) values for Rio Grande fishes from 1939-2002</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecosystem size</subject>
+      <subject>heterogeneity</subject>
+      <subject>SIA</subject>
+      <subject>isotopic niche</subject>
+      <subject>food web</subject>
+      <subject>time series</subject>
+      <subject>Southwestern United States</subject>
+      <subject>Rio Grande</subject>
+      <subject>Rio Bravo del Norte</subject>
+      <subject>New Mexico</subject>
+      <subject>100 years</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.55S6Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>59861 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Isotopic ratios for carbon and nitrogen reported in delta values (per mil) for fishes obtained from the Museum of Southwestern Biology (MSB) at the University of New Mexico for study of aquatic food web change over time.  Sample No.= sequential number to track and count samples, Catalog No. = MSB catalog number, Field No. = number linking to field notes of Melanie S. Edwards, Species = taxonomic name, Date Range = years pooled for comparison, Location = sample site on the Rio Grande, New Mexico,delta 15N, delta 13C,	Day,	Month, Year.  CORRECTED DATA: 1.0 per mil HAS BEEN ADDED TO CARBON, 0.5 SUBTRACTED FROM NITROGEN FOR SAMPLES WITH MSB CATALOG NUMBER. 2002 DATA ARE UNCORRECTED.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

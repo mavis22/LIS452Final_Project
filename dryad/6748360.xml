@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748360</identifier><datestamp>2015-09-15T14:45:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.842R3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bichet, Orph&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dupuch, Ang&#233;lique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#233;bert, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Borgne, H&#233;l&#232;ne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fortin, Daniel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Maintaining animal assemblages through single-species management: the case of threatened caribou in boreal forest</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Umbrella species</subject>
+      <subject>Biodiversity</subject>
+      <subject>Single-species management</subject>
+      <subject>Boreal caribou</subject>
+      <subject>Species assemblages</subject>
+      <subject>Ecosystem integrity</subject>
+      <subject>Eastern Canada boreal forest</subject>
+      <subject>Rangifer tarandus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.842R3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.842R3/2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

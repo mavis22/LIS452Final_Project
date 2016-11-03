@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2741931</identifier><datestamp>2014-05-30T08:28:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MG606</identifier>
+  <creators>
+      <creator>
+         <creatorName>Raupach, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bininda-Emonds, Olaf</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knebelsberger, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Laakmann, Silke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfaender, Jobst</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leese, Florian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogeographic analysis of Ligia oceanica (Crustacea: Isopoda) reveals two deep divergent mitochondrial lineages</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>cytochrome c oxidase subunit I</subject>
+      <subject>glacial refugia</subject>
+      <subject>long-distance dispersal</subject>
+      <subject>phylogeography</subject>
+      <subject>16S rDNA</subject>
+      <subject>North Sea</subject>
+      <subject>Northern Europe</subject>
+      <subject>Ligia oceanica</subject>
+      <subject>Oniscidea</subject>
+      <subject>Wolbachia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Raupach M, Bininda-Emonds O, Knebelsberger T, Laakmann S, Pfaender J, Leese F (2014) Phylogeographic analysis of Ligia oceanica (Crustacea: Isopoda) reveals two deep divergent mitochondrial lineages. Biological Journal of the Linnean Society 112(1): 16-30.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MG606/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/BIJ.12254</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

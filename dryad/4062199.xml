@@ -1,0 +1,84 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4062199</identifier><datestamp>2014-12-03T17:11:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5CS10/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ford, Brian E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Bruce</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carpino, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapler, Elizabeth S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ching, Jane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choi, Yoon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jhun, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kim, Jung D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lallos, Gregory G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morgenstern, Rachelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Shalini</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Theja, Sai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dennehy, John J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ford et al. Host Range Mutant Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bacteriophage</subject>
+      <subject>novel host</subject>
+      <subject>I-Tasser</subject>
+      <subject>emerging infectious disease</subject>
+      <subject>virus emergence</subject>
+      <subject>host range expansion</subject>
+      <subject>antagonistic pleiotropy</subject>
+      <subject>host attachment protein</subject>
+      <subject>fitness</subject>
+      <subject>adsorption rate</subject>
+      <subject>attachment rate</subject>
+      <subject>mutation frequency</subject>
+      <subject>mutation hotspot</subject>
+      <subject>protein structure prediction</subject>
+      <subject>plaque size</subject>
+      <subject>phi6</subject>
+      <subject>Pseudomonas phage &#934;6</subject>
+      <subject>Pseudomonas pseudoalcaligenes ERA</subject>
+      <subject>Pseudomonas syringae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5CS10</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>194567 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file contains fitness, plaque size, attachment rate and mutation frequency data for bacteriophage phi6 host range mutants that gained the ability to infect Pseudomonas pseudoalcaligenes ERA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

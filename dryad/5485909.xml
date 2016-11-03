@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5485909</identifier><datestamp>2015-03-17T14:35:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.79D43/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Head, Megan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holman, Luke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lanfear, Rob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kahn, Andrew T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jennions, Michael D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The extent and consequences of p-hacking in science</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>publication bias</subject>
+      <subject>p-hacking</subject>
+      <subject>meta-analysis</subject>
+      <subject>text mining</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.79D43</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27661574 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file consists of three parts. 1. Data obtained from text-mining and associated analysis files. 2. Data obtained from previously published meta-analyses and associated analysis files. 3. Analysis files used to conduct meta-analyses of the data. Read me files are contained within this zip file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

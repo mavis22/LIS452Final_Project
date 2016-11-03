@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4635936</identifier><datestamp>2015-01-23T19:00:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q2B8T.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Higuera, Philip E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Briles, Christy E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whitlock, Cathy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Charcoal data from Lone Pine, Odessa, Sand Beach, and Thunder lakes.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>land-use history</subject>
+      <subject>charcoal</subject>
+      <subject>fire history</subject>
+      <subject>fire severity</subject>
+      <subject>fuels</subject>
+      <subject>paleoecology</subject>
+      <subject>pollen</subject>
+      <subject>disturbance ecology</subject>
+      <subject>biomass burning</subject>
+      <subject>Rocky Mountains</subject>
+      <subject>Rocky Mountain National Park</subject>
+      <subject>Colorado</subject>
+      <subject>Odessa Lake</subject>
+      <subject>Thunder Lake</subject>
+      <subject>Sand Beach Lake</subject>
+      <subject>Lone Pine Lake</subject>
+      <subject>Holocene</subject>
+      <subject>Pinus contorta</subject>
+      <subject>Picea engelmannii</subject>
+      <subject>Abies lasiocarpa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q2B8T.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw and analyzed charcoal data from Lone Pine, Odessa, Sand Beach, and Thunder lakes. Correspondence Author: Philip E. Higuera. College of Natural Resources, Box 441133. University of Idaho, Moscow, ID 83844-1133. USA. E-mail: phiguera-at-uidaho-dot-edu. File List: LP07_charData.csv. LP07_charParams.csv. LP07_charResults.csv. OD06_charData.csv. OD06_charParams.csv. OD06_charResults.csv. SB06_charData.csv. SB06_charParams.csv. SB06_charResults.csv. TL06_charData.csv. TL06_charParams.csv. TL06_charResults.csv.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

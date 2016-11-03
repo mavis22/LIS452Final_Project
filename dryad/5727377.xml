@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727377</identifier><datestamp>2015-05-18T16:59:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.76SV3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ellingsen, Kari Elsa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Marti J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shackell, Nancy L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tveraa, Torkild</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoccoz, Nigel G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frank, Kenneth T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ELLINGSEN - Role of cod in shaping beta diversity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>beta diversity</subject>
+      <subject>causal model</subject>
+      <subject>collapse of cod</subject>
+      <subject>human impact</subject>
+      <subject>marine fish</subject>
+      <subject>path analysis</subject>
+      <subject>relative abundance</subject>
+      <subject>species composition</subject>
+      <subject>top predator</subject>
+      <subject>trophic cascade</subject>
+      <subject>Scotian Shelf</subject>
+      <subject>Northwest Atlantic</subject>
+      <subject>Gadus morhua</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.76SV3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22630 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data consisted of all commercial and non-commercial fish species sampled by the DFO annual summer (July) research bottom trawl surveys of the Scotian Shelf, Northwest Atlantic over a period of 41 years (1970-2010). The data were extracted from the Ocean Biogeographic Information System (OBIS) database. All analyses were done using R.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067345</identifier><datestamp>2014-10-30T17:35:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V7D6T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Osborne, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gido, Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perkin, Joshuah</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsatellite data and geospatial coordinates for three study species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Comparative Biology</subject>
+      <subject>Community Ecology</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Fish</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>river networks</subject>
+      <subject>graph theory</subject>
+      <subject>dendritic landscapes</subject>
+      <subject>dispersal constraints</subject>
+      <subject>Platte basin</subject>
+      <subject>Kansas Basin</subject>
+      <subject>Arkansas River Basin</subject>
+      <subject>Canadian River Basin</subject>
+      <subject>Red River Basin</subject>
+      <subject>Great Plains</subject>
+      <subject>North America</subject>
+      <subject>Contemporary</subject>
+      <subject>Hybognathus placitus</subject>
+      <subject>Cyprinella lutrensis</subject>
+      <subject>Notropis atherinoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V7D6T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>92585 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file with three digit microsatellite data for Hybognathus placitus, Cyrinella lutrensis and Notropis atherinoides. File also contains geospatial coordinates for each sample collection.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

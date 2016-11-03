@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586367</identifier><datestamp>2015-06-16T20:00:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72H45</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lawson, James R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fryirs, Kirstie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leishman, Michelle R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Hydrological conditions explain wood density in riparian plants of south-eastern Australia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>community assembly</subject>
+      <subject>climate change</subject>
+      <subject>ecohydrology</subject>
+      <subject>ecological strategy</subject>
+      <subject>environmental unpredictability</subject>
+      <subject>functional traits</subject>
+      <subject>disturbance</subject>
+      <subject>riparian</subject>
+      <subject>wood density</subject>
+      <subject>south-east Australia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lawson JR, Fryirs KA, Leishman MR (2015) Hydrological conditions explain wood density in riparian plants of south-eastern Australia. Journal of Ecology 103(4): 945-956.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.72H45/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.72H45/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2745.12408</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

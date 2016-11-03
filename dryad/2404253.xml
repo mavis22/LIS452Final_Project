@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2404253</identifier><datestamp>2014-05-30T06:47:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6DC14</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bond, Jason E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godwin, Rebecca L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Taxonomic revision of the trapdoor spider genus Eucteniza ausserer (Araneae: Mygalomorphae: Euctenizidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>New species</subject>
+      <subject>Spider taxonomy</subject>
+      <subject>Texas</subject>
+      <subject>Mexico</subject>
+      <subject>Baja California</subject>
+      <subject>Eucteniza relata</subject>
+      <subject>Eucteniza caprica</subject>
+      <subject>Eucteniza coylei</subject>
+      <subject>Eucteniza diablo</subject>
+      <subject>Eucteniza cabowabo</subject>
+      <subject>Eucteniza huasteca</subject>
+      <subject>Eucteniza zapatista</subject>
+      <subject>Eucteniza chichimeca</subject>
+      <subject>Eucteniza ronnewtoni</subject>
+      <subject>Eucteniza hidalgo</subject>
+      <subject>Eucteniza golondrina</subject>
+      <subject>Eucteniza panchovillai</subject>
+      <subject>Eucteniza rosalia</subject>
+      <subject>Euctenizidae</subject>
+      <subject>Mygalomorphae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bond JE, Godwin RL (2013) Taxonomic revision of the trapdoor spider genus Eucteniza ausserer (Araneae: Mygalomorphae: Euctenizidae). ZooKeys 356: 31&#8211;67.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6DC14/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6DC14/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/ZOOKEYS.356.6227</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

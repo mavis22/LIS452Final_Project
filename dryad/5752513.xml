@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5752513</identifier><datestamp>2015-05-20T14:45:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JN14S/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>de Boer, Jetske G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Groenen, Martien A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pannebakker, Bart A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beukeboom, Leo W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraus, Robert H. S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cotesia vestalis SNP information and sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Population genetics</subject>
+      <subject>whole genome sequencing</subject>
+      <subject>SNP</subject>
+      <subject>complementary sex determination</subject>
+      <subject>Inbreeding</subject>
+      <subject>Biological Control</subject>
+      <subject>Taiwan</subject>
+      <subject>Cotesia vestalis</subject>
+      <subject>Plutella xylostella</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JN14S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41276 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">From our list of putative SNPs across the C. vestalis genome, we selected 100 SNPs for genotyping assay development. We first selected the 200 largest scaffolds; they varied in length from 17-58Kb and contained a total of 7,878 SNPs. We then removed SNPs with a minor allele frequency (MAF) &lt;0.2, SNPs that had another SNP within 50 bp up- or downstream, and SNPs with more than 2 alleles. The remaining SNPs were binned in MAF bins of 0.2-0.3 (1,908 SNPs), 0.3-0.4 (1,605 SNPs) and 0.4-0.5 (1,156 SNPs). Per MAF bin, SNPs were ranked by SNP quality score. We then selected the SNPs with the highest quality scores, picking 20 SNPs with a MAF between 0.2-0.3 and 40 each with a MAF between 0.3-0.4 and 0.4-0.5, all on different scaffolds. All selected SNPs had a quality score of more than 200 (based on SAMTOOLS), and an average read depth of 61. High-throughput genotyping assays based on allele-specific forward primers were developed for these 100 SNP sequences at KBioscience (now LGC Genomics, Hoddesdon, U.K.).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

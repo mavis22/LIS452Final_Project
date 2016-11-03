@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4639905</identifier><datestamp>2015-01-27T17:08:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7625D/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bertrand, Yann J. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheen, Anne-Cathrine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marcussen, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfeil, Bernard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Sousa, Filipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oxelman, Bengt</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplementary Material</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>allopolyploidy</subject>
+      <subject>homoeologues assignment</subject>
+      <subject>genome tree</subject>
+      <subject>substitution model error</subject>
+      <subject>coalescent stochasticity</subject>
+      <subject>coalescent simulation</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>NRDP2</subject>
+      <subject>Fumaria</subject>
+      <subject>Papaveraceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7625D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2533197 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SUPPLEMENTARY 1., 2. Plant material and GenBank accessions for nuclear and chloroplast sequences respectively.&#13;
+SUPPLEMENTARY 3. Material and methods for sequencing the plant material with a description of all primers designed for this study&#13;
+SUPPLEMENTARY 4. Illustration of the clone filtering procedure for identifying putative PCR-recombinant sequences and cross taxon contamination. All clones for the octoploid F. mirabilis (specimen 13673) were used to construct a neighborNet (uncorrected p-distances) in SplitsTree4. From ploidal level, four distinct sequences are expected. Each group highlighted in green was composed of several nearly identical sequences and was retained for phylogenetic analysis. Red sequences, connected to the main frame of the network with zero-length terminal edges, were considered to be putative PCR recombinants and were therefore discarded. A sufficient number of clones was not recovered for the blue group, which was further investigated with clade specific primers.&#13;
+SUPPLEMENTARY 5. Description of the phylogenetic analyses deployed for inferring gene trees.&#13;
+SUPPLEMENTARY 6. Details of the BEAST analysis dating the Dicentra-Corydalis split.&#13;
+SUPPLEMENTARY 7. Description and results of the simulation that assessed the performance of the coalescent stochasticity test.&#13;
+SUPPLEMENTARY 8. Table that reports the result of the coalescent stochasticity test for the sets of sequences derived from the individual small Ne and large Ne analyses of coalescent stochasticity tests. Here, all the sequences in a set are analyzed together and the inference Ne is increased until the full set passes the coalescent stochasticity test.&#13;
+SUPPLEMENTARY 9. Tanglegram inferred with RAxML from sequences of the primary set. Nuclear (a) and chloroplast (b) topologies correspondences were visualized in Dendroscope 3 (Huson and Scornavacca 2012). &#13;
+SUPPLEMENTARY 10. Genome tree inferred with BEAST. The maximum clade credibility chronogram was built from all nuclear homoeologues (except sequences from F. bastardii), together with chloroplast haplotypes from the primary set plus those that passed the substitution model error test. PP &#8805; 0.70 are indicated below branches. Icons indicate the chloroplast sequences that were added to the analysis at the different steps of genome tree reconstruction.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

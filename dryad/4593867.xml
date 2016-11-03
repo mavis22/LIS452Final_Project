@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4593867</identifier><datestamp>2015-03-27T15:59:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4CG84/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bolund, Elisabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayward, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pettay, Jenni E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lummaa, Virpi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bolund et al. DATA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Quantitative Genetics</subject>
+      <subject>Life-History Evolution</subject>
+      <subject>Selection - Natural</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-07</date>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4CG84</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>927670 bytes</size>
+      <size>2197 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-07</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing data used for "Effects of the demographic transition on the genetic variances and covariances of human life history traits". Full data is given for individuals born more than 100 years prior to the end of data collection. Summary data only is provided for individuals born in the last 100 years. Summaries of G and P matrices are provided for all time periods. For further information, see the ReadMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

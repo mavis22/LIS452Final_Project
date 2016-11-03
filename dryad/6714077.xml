@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6714077</identifier><datestamp>2015-09-01T15:17:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.34SV3/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duplouy, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Couchoux, Christelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanski, Ilkka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Nouhuys, Saskya</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MetabolicRate-June2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Endosymbiont</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>fitness</subject>
+      <subject>pathogen protection</subject>
+      <subject>Aland islands</subject>
+      <subject>Sweden</subject>
+      <subject>Estonia</subject>
+      <subject>Hyposoter horticola</subject>
+      <subject>Melitaea cinxia</subject>
+      <subject>mesochorus cf. stigmaticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.34SV3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>68608 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">23 columns: (ref): reference line number. (Exp): date of the experiment. (SampleID): field sample ID. (Extract-ID): DNA extraction ID. (Sex): sex of the individual. (Birth): date of emergence of the wasp. (Patch): original patch in Aland. (Age): age of the wasp at measurement. (Weight): weight in mg at measurement. (Behavior): how the wasp behaved during flight experiment. (Death): death date of the wasp. (Wolb): infection status by Wolbachia of the wasp. All remaining data columns: measures of flight and resting metabolic rates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

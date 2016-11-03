@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6531386</identifier><datestamp>2015-09-02T18:36:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FR8SP</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cheng, Junhui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chu, Pengfei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Dima</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bai, Yongfei</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Functional correlations between specific leaf area and specific root length along a regional environmental gradient in Inner Mongolia grasslands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>specific leaf area</subject>
+      <subject>specific root length</subject>
+      <subject>root branching order</subject>
+      <subject>environmental gradient</subject>
+      <subject>trait-gradient analysis</subject>
+      <subject>evolutionary history</subject>
+      <subject>divergence time</subject>
+      <subject>spatial scale</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cheng J, Chu P, Chen D, Bai Y (2015) Functional correlations between specific leaf area and specific root length along a regional environmental gradient in Inner Mongolia grasslands. Functional Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FR8SP/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12569</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

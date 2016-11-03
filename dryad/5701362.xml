@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5701362</identifier><datestamp>2015-08-19T19:26:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6Q6SQ/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Spinks, Phillip Q.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Georges, Arthur</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaffer, H. Bradley</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FigureS5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Taxonomy</subject>
+      <subject>Nuclear phylogeny</subject>
+      <subject>Australia</subject>
+      <subject>Elseya</subject>
+      <subject>Myuchelys</subject>
+      <subject>Emydura</subject>
+      <subject>Flaviemys</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6Q6SQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>507742 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Majority rule consensus of the posterior distribution of trees from Bayesian analysis of the HMGB2 (panel A), HNFL (B), P26s4 (C) and PAX (D) loci generated under the HKY+I, HKY+I, HKY and HKY+G model of nucleotide sequence evolution, respectively. Bayesian posterior probabilities (BPP) as indicated. Myuchelys including M. purvisi was monophyletic with strong support (BPP = 1.0) at all four loci. The outgroups were removed for clarity of presentation.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

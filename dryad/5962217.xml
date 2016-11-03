@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5962217</identifier><datestamp>2015-06-23T20:21:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.650CN/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bouchard, Sarah S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenney O'Leary, Chelsea R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wargelin, Lindsay J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charbonnier, Julie F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warkentin, Karen M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Metamorph external morphology</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>compensatory growth</subject>
+      <subject>complex life cycle</subject>
+      <subject>diet retention time</subject>
+      <subject>gut plasticity</subject>
+      <subject>intake</subject>
+      <subject>latent effects</subject>
+      <subject>metamorph</subject>
+      <subject>Neotropical treefrog</subject>
+      <subject>Panama</subject>
+      <subject>Central America</subject>
+      <subject>Agalychnis callidryas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.650CN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10379 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains morphometric data for Agalychnis callidryas metamorphs on the day they emerged from the mesocosm in which they were reared as larvae. They were reared at either 5, 25, or 50 individuals per mesocosm.  The file contains the date of emergence, the tank (mesocosm) number, rearing density, and metamorph ID for each individual.  The measurements include snout-vent length, belly width and tail length, as well as body mass.  The linear measurements were made when the metamorph was asleep in its water conservation posture on the side of a small, clear cup.  We used dial calipers to make each measurement through the cup wall.  Snout vent length was the distance from the tip of the snout on the most anterior end of the animal to the vent (cloaca).  The belly was measured at its widest part, and the tail was measured from its base to its tip.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

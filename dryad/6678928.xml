@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6678928</identifier><datestamp>2015-08-20T17:48:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N40H2.1/3.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Driscoll, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yamaguchi, Nobuyuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O&#8217;Brien, Stephen J</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macdonald, David W</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ST5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Hybridization</subject>
+      <subject>Introgression</subject>
+      <subject>Conservation genetics</subject>
+      <subject>Reintroduction</subject>
+      <subject>microsatellite</subject>
+      <subject>Captive breeding</subject>
+      <subject>Europe</subject>
+      <subject>Asia</subject>
+      <subject>Africa</subject>
+      <subject>Holocene</subject>
+      <subject>Felis silvestris</subject>
+      <subject>Felis silvestris silvestris</subject>
+      <subject>Felis silvestris catus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-04-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N40H2.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplementary Table 5: STR genotypes ascertained in range-wide survey.&#13;
+Header rows indicate cat chromosome location of  STR loci with distances given according to conventions used in PHASE (STEPHENS 2004). Alleles are indicated by base-pair length. Missing data is denoted by -9. Individual cats are listed by LGD code in column one. Refer to Supplemental Table 1 for additional information regarding provenance and taxonomic assignment. Data is provided for 77 loci, however only the 36 that amplified most completely across different runs were further characterized and used in published analysis (DRISCOLL et al. 2007). A limited examination of alternative locus combinations (data not shown) that include loci other than the published 36 indicates similar levels of performance. For future studies requiring the greatest genetic resolution these additional data could be considered.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

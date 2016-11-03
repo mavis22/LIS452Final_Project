@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211032</identifier><datestamp>2015-12-02T15:48:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J07H2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Edmonds, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Briffa, Mark</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Rocking data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>contest</subject>
+      <subject>assessment</subject>
+      <subject>decision</subject>
+      <subject>hermit-crab</subject>
+      <subject>agonistic</subject>
+      <subject>RHP</subject>
+      <subject>Pagurus bernhardus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J07H2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5959 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on shell rocking and rapping in hermit crabs with normal and dampend shell rapping. Predictors: Treatment Group (Categorical), Outcome (Categorical), RWD (Continuous). Responses: Bouts of rocking, bouts of rapping, total rocks, total bouts, mean duration of pauses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

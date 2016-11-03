@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6644431</identifier><datestamp>2015-09-03T15:39:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TK43N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zhang, Jianhua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Debets, Alfons J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verweij, Paul E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melchers, Willem J. G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zwaan, Bas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schoustra, Sijmen E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>the dataset for asperigillus fumigatus azole resistance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Evolutionary adaptation</subject>
+      <subject>European</subject>
+      <subject>aspergillus fumigatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TK43N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>36092 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">1st: The MIC and MGR of evolved cultures in evolutionary experiment  of seven weeks. 2nd: correction analyse between the MIC and MGR of evolved cultures.3rd: dominance test of azole resistance.4th:stability test of fungicides. 5th:The MIC and MGR of ancestor in different environments</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

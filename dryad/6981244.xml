@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6981244</identifier><datestamp>2015-12-04T19:04:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R80D3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Natalie T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilbert, Ben</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for egg number, phenology, abundance, diversity and lake characteristics analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bet hedging</subject>
+      <subject>diapause</subject>
+      <subject>dormancy termination</subject>
+      <subject>optimal hatching fraction</subject>
+      <subject>resurrection ecology</subject>
+      <subject>spring warming</subject>
+      <subject>temporal dispersal</subject>
+      <subject>common garden experiment</subject>
+      <subject>aquatic zooplankton species diversity</subject>
+      <subject>Western Canada</subject>
+      <subject>British Columbia</subject>
+      <subject>The Yukon Territory</subject>
+      <subject>49.0N - 63.7N</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R80D3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>71634 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file includes zooplankton diversity data that were provided by K. Patalas and pelagic samples that we collected from from lakes in 2011. The data file also includes lake chemistry data that we collected from the field in 2011. The remainder of the data is the results from the hatching experiment we conducted, which is the focus of this manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

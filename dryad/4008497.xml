@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4008497</identifier><datestamp>2015-02-02T17:07:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G4P92/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Laiolo, Paola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Illera, Juan Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melendez, Leandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Segura, Amalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Obeso, Jose Ramon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data set for the paper Laiolo et al_AmNat_MS55531</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecology: community</subject>
+      <subject>Ecology: ecosystem</subject>
+      <subject>Environmental variability</subject>
+      <subject>Nutrient cycles</subject>
+      <subject>Phylogenetics: comparative</subject>
+      <subject>Grasslands</subject>
+      <subject>Bird</subject>
+      <subject>Invertebrates</subject>
+      <subject>Plant</subject>
+      <subject>North Western Spain</subject>
+      <subject>The Cantabrian Mountains</subject>
+      <subject>Contemporary</subject>
+      <subject>Paceae</subject>
+      <subject>Cyperaceae</subject>
+      <subject>Fabaceae</subject>
+      <subject>Acrididae</subject>
+      <subject>Passeriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G4P92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>149414 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Here we report the abundances of C and N isotopes of individual plants, grasshopper and birds of this study. The nutrient content of plants (%N, C:N ratios) are also shown. These variables are accompanied by geographic coordinates, year of sampling, elevation and sex-age (birds) or sex (grasshoppers) of each sample.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

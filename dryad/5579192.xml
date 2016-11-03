@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5579192</identifier><datestamp>2015-04-24T20:46:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TB08G/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Norton, Nicholas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fernando, M. Thilina R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herlihy, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Busch, Jeremiah W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hybridization Rate Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Carotenoids</subject>
+      <subject>Competition</subject>
+      <subject>Hybridization</subject>
+      <subject>Pollination</subject>
+      <subject>Sympatry</subject>
+      <subject>Tennessee Central Basin</subject>
+      <subject>Leavenworthia</subject>
+      <subject>Leavenworthia stylosa</subject>
+      <subject>Leavenworthia exigua</subject>
+      <subject>Leavenworthia torulosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TB08G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33176 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This workbook contains the raw data used to identify hybrid seeds from L. stylosa plants in two-species arrays (sheet 1). Individuals were considered to be hybrids if they exhibited PCR bands for both an L. stylosa and L. exigua specific allele at the Lal2 locus. This data was used to estimate hybridization rates between white L. stylosa and L. exigua (sheet 2) and yellow L. stylosa (sheet 3) through the use of maximum likelihood inference.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

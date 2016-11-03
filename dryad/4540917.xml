@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4540917</identifier><datestamp>2015-04-15T19:26:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1DC8Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>W&#252;est, Rafael Otmar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Antonelli, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zimmermann, Niklaus E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linder, H. Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Danthonioideae Occurrences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Geographic ranges</subject>
+      <subject>Macroecology</subject>
+      <subject>Macroevolution</subject>
+      <subject>Phylogenetics: comparative</subject>
+      <subject>Global</subject>
+      <subject>Danthonioideae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1DC8Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4294526 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data with geographic locations for the 40,331 Danthoniodieae occurrences. Column names as follows: species name ('species'), longitude ('long') and latitude ('lat'), bioclimatic variables ('bio_1' to 'bio_19'), as extracted from the 'WorldClim' database (definitions see: http://www.worldclim.org/bioclim).   Further information about WorldClim at Hijmans, R.J., S.E. Cameron, J.L. Parra, P.G. Jones and A. Jarvis, 2005. Very high resolution interpolated climate surfaces for global land areas. International Journal of Climatology 25: 1965-1978. http://dx.doi.org/10.1002/joc.1276</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

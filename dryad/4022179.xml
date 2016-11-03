@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4022179</identifier><datestamp>2014-11-17T21:18:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SQ72D/12</identifier>
+  <creators>
+      <creator>
+         <creatorName>Reeves, Mari K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perdue, Margaret</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Temperature Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>2010-2012</subject>
+      <subject>Lithobates sylvaticus</subject>
+      <subject>Odonata</subject>
+      <subject>Coleoptera</subject>
+      <subject>Ephemeroptera</subject>
+      <subject>Trichoptera</subject>
+      <subject>Hemiptera</subject>
+      <subject>Collembola</subject>
+      <subject>Diptera</subject>
+      <subject>Arachnida</subject>
+      <subject>Amphipoda</subject>
+      <subject>Branchiopoda</subject>
+      <subject>Mollusca</subject>
+      <subject>Annelida</subject>
+      <subject>Nematoda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SQ72D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28624473 bytes</size>
+      <size>2273 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains temperature data from deep and shallow loggers programmed to record hourly during the summer months. When loggers were out of water or data were otherwise suspect, data were deleted. Please see TemperatureAnomalies.csv file for issues with loggers and their resolution when dates are missing from the Temperature.csv file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

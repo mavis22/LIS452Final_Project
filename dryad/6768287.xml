@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768287</identifier><datestamp>2015-10-08T23:03:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.ND76C/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McCord, Charlene L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Westneat, Mark W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Balistoid aligned supermatrix for 9 gene regions from the mitochondrial and nuclear genome</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>taxonomy</subject>
+      <subject>phylogenetics</subject>
+      <subject>molecular evolution</subject>
+      <subject>bmp4</subject>
+      <subject>Miocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Balistoidea</subject>
+      <subject>Balistidae</subject>
+      <subject>Monacanthidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.ND76C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>565602 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">12S = 1-796&#13;
+16S = 797-1340&#13;
+4c4 = 1341-1851&#13;
+rag2 = 1852-2653&#13;
+bmp4 = 2654-3135&#13;
+rhod = 3136-3445&#13;
+cytB = 3446-4517&#13;
+rag1 = 4518-5894&#13;
+COI = 5895-6529</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

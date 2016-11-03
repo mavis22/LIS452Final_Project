@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4641717</identifier><datestamp>2015-02-09T12:43:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.84393/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nakamura, Itsumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goto, Yusuke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sato, Katsufumi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Accelerometers, animal-borne cameras, and body temperature recorders attached to ocean sunfish in 2012 and 2013</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animal-borne camera</subject>
+      <subject>body temperature</subject>
+      <subject>foraging</subject>
+      <subject>ocean sunfish</subject>
+      <subject>siphonophore</subject>
+      <subject>thermoregulation</subject>
+      <subject>Northeast Japan</subject>
+      <subject>Mola mola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.84393</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7381582283 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Behavioural data produced by Little Leonardo accelerometers, visual data produced by Little Leonardo digital still camera or video camera, and body temperature data produced by Lotek depth temperature recorders. Each folder are named as fish IDs in a tagging information excel file. The excel file also include calibration parameters for the accelerometers. Each folder contains text files output from Little Leonardo software, a folder which contains a cvs file and images from camera, and a cvs file output from Lotek software.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4644004</identifier><datestamp>2015-02-12T20:17:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RT6H2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Izhar, Rony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ben-Ami, Frida</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>AgeEffectsVirulence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>age-structured interactions</subject>
+      <subject>epidemiology</subject>
+      <subject>optimal virulence</subject>
+      <subject>parasitic castration</subject>
+      <subject>stage-structured theory</subject>
+      <subject>trade-off hypothesis</subject>
+      <subject>Daphnia magna</subject>
+      <subject>Pasteuria ramosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-02-09</date>
+      <date dateType="Accepted">2015-02-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RT6H2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11841 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-02-09</rights>
+  <descriptions>
+      <description descriptionType="Other">SPSS file with the host clone, parasite clone, exposure age, infection status, host offspring counts, time-from-exposure-to-castration, time-to-host-death-since-exposure and parasite spore production for each Daphnia that was used in the analyses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067630</identifier><datestamp>2014-12-09T21:38:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H8J92/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Connelley, Timothy K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Degnan, Kathryn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Longhi, Cassandra W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrison, W. Ivan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All TRAJ genes phylogenetic tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Cattle</subject>
+      <subject>Bovine</subject>
+      <subject>TCR</subject>
+      <subject>Phylogenetics</subject>
+      <subject>TRA/TRD locus</subject>
+      <subject>Bos taurus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H8J92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>14353 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Neighbour-joining phylogenetic tree of all murine, human and bovine (from the UMD3.1 assembly) TRAJ genes. Analysis of the nucleotide sequence of the coding domain of TRAJ genes following pairwise deletion to remove gaps in the alignment. The final dataset had a total of 85 positions. Based on a 1000 boot strap replicates the orthologous TRAJ genes from mouse, human and cattle (where all genes were functional) formed phylogenetic groups supported by percentage bootstrap values (PB) of &gt;75% (with the exception of TRAJ6 (PB = 54%), 9 (53%) and 48 (67%)). PB values supporting the phylogenetic groups of TRAJ orthologues which included non-functional members were generally high but in several cases were &lt;50%. h = human, b = bovine and m = murine. The formation of &#8216;triads&#8217; composed of single genes from each species (except TRAJ10 which lacks a murine gene and TRAJ8 which contains 2 bovine genes) that have the same relative position in the genome (as denoted by their numerical designation) demonstrates conserved synteny. The level of nucleotide identity between orthologous bovine and human TRAJ genes ranges from 63.2% to 95.2%.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

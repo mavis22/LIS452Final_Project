@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6732288</identifier><datestamp>2015-09-08T14:37:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BG43C/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lawrence, Diane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barraclough, Timothy G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>biolog metabolism data during evolution experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Immigration</subject>
+      <subject>adaptation</subject>
+      <subject>local adaptation</subject>
+      <subject>warming</subject>
+      <subject>experimental evolution</subject>
+      <subject>microbial communities</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BG43C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>176475 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Community carbohydrate use during experimental evolution. Carbohydrate use (with threshold of OD600 &gt; 0.2) for starting community and across sampling days 27, 54 and 81 and change in carbohydrate use. Column, biologcarb, refers to the carbohydrate at that well position on biolog GN2 microplate.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

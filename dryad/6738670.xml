@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738670</identifier><datestamp>2015-09-24T18:50:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B26Q1</identifier>
+  <creators>
+      <creator>
+         <creatorName>N'Djin, William  Apoutou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapelon, Jean-Yves</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melodelima, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: An ultrasound image-based dynamic fusion modeling method for predicting the quantitative impact of in vivo liver motion on intraoperative HIFU therapies: investigations in a porcine model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fusion</subject>
+      <subject>Modeling</subject>
+      <subject>HIFU</subject>
+      <subject>Therapy</subject>
+      <subject>Ultrasound</subject>
+      <subject>Imaging</subject>
+      <subject>Liver</subject>
+      <subject>Motion</subject>
+      <subject>Compensation</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">N'Djin WA, Chapelon J, Melodelima D (2015) An ultrasound image-based dynamic fusion modeling method for predicting the quantitative impact of in vivo liver motion on intraoperative HIFU therapies: investigations in a porcine model. PLOS ONE 10(9): e0137317.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B26Q1/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B26Q1/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B26Q1/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0137317</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

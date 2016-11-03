@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6563464</identifier><datestamp>2015-08-10T18:57:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q28H6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ames, Gregory M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Steven M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Justin P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ordination Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>community composition</subject>
+      <subject>community weighted mean traits</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>leaf dry matter content</subject>
+      <subject>longleaf pine savanna</subject>
+      <subject>plant functional traits</subject>
+      <subject>specific leaf area</subject>
+      <subject>North Carolina Sandhills</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q28H6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>32841 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data used in the ordination portion of our analysis. &#8220;Site_Plot&#8221; lists the site and plot identifier where the data were collected. &#8220;Date&#8221; gives the date that the cover measurements were collected. The remaining columns give the cover measurements for each species, with the names corresponding to the species list in the supplementary material. For example, ACERUB is Acer rubrum. The cover measurement is the sum over the four subplots, so the values may range from 0-400%.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466164</identifier><datestamp>2015-08-17T16:36:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7GR39</identifier>
+  <creators>
+      <creator>
+         <creatorName>Merritt, Benjamin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Culley, Theresa M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Avanesyan, Alina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stokes, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brzyski, Jessica</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: An empirical review: characteristics of plant microsatellite markers that confer higher levels of genetic variation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genetic variation</subject>
+      <subject>heterozygosity</subject>
+      <subject>microsatellite</subject>
+      <subject>motif</subject>
+      <subject>repeat frequency</subject>
+      <subject>taxonomy</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Merritt BJ, Culley TM, Avanesyan A, Stokes R, Brzyski J (2015) An empirical review: characteristics of plant microsatellite markers that confer higher levels of genetic variation. Applications in Plant Sciences 3(8): 1500025.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7GR39/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7GR39/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/APPS.1500025</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

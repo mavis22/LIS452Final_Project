@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586739</identifier><datestamp>2015-05-15T01:25:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8KB37</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gamal El-Dien, Omnia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ratcliffe, Blaise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kl&#225;pste, Jaroslav</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porth, Ilga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>El-Kassaby, Yousry A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Prediction accuracies for growth and wood attributes of interior spruce in space using genotyping-by-sequencing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genomic Selection</subject>
+      <subject>Genotype x Environment Interaction</subject>
+      <subject>Imputation</subject>
+      <subject>Genotyping-by-Sequenicing</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Picea glauca (Moench) Voss</subject>
+      <subject>Picea engelmannii Parry ex Engelm.</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Gamal El-Dien O, Ratcliffe B, Kl&#225;pste J, Chen C, Porth I, El-Kassaby YA (2015) Prediction accuracies for growth and wood attributes of interior spruce in space using genotyping-by-sequencing. BMC Genomics 16: 370.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8KB37/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8KB37/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8KB37/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12864-015-1597-Y</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

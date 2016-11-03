@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1969039</identifier><datestamp>2014-05-30T03:03:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43SG3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lankau, Richard A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nodurft, Rachel N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: An exotic invader drives the evolution of plant traits that determine mycorrhizal fungal diversity in a native competitor.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Community Ecology</subject>
+      <subject>DNA Barcoding</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Fungi</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Arbuscular mycorrhizal fungi</subject>
+      <subject>invasive species</subject>
+      <subject>eastern United States</subject>
+      <subject>Alliaria petiolata</subject>
+      <subject>Pilea pumila</subject>
+      <subject>Glomeromycota</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lankau RA, Nodurft RN (2013) An exotic invader drives the evolution of plant traits that determine mycorrhizal fungal diversity in a native competitor. Molecular Ecology 22(21): 5472&#8211;5485.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.43SG3/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.43SG3/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12484</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

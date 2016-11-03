@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4454774</identifier><datestamp>2015-01-29T19:15:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5GP25/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gerstein, Aleeza C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ono, Jasmine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lo, Dara S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campbell, Marcus L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuzmin, Anastasia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Otto, Sarah P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data package about copper adaptation in yeast</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Saccharomyces cerevisiae</subject>
+      <subject>genetic basis of adaptation</subject>
+      <subject>copper tolerance</subject>
+      <subject>aneuploidy</subject>
+      <subject>CUP1</subject>
+      <subject>fitness</subject>
+      <subject>parallel adaptation</subject>
+      <subject>yeast</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5GP25</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5968667 bytes</size>
+      <size>18937 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This package contains files and scripts related to the publication "Too much of a good thing: The unique and repeated paths toward copper adaptation". Raw data and analyses are included.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3699608</identifier><datestamp>2015-06-22T06:30:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.73GJ4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruegg, Kristen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Eric C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boone, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pouls, Jazz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Thomas B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MEC-14-0327_Data_and_Scripts.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Birds</subject>
+      <subject>Genomics/Proteomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.73GJ4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>143319807 bytes</size>
+      <size>2740 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data and scripts to reproduce analyses in the paper Data from: A role for migration-linked genes and genomic islands in divergence of a songbird</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

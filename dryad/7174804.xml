@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7174804</identifier><datestamp>2015-11-25T19:46:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RC0JN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bayraktarov, Elisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saunders, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abdullah, Sabah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mills, Morena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beher, Jutta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Possingham, Hugh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mumby, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lovelock, Catherine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Database on cost and feasibility of marine coastal restoration</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Marine coastal ecosystems</subject>
+      <subject>restoration</subject>
+      <subject>rehabilitation</subject>
+      <subject>cost</subject>
+      <subject>feasibility</subject>
+      <subject>success and failure</subject>
+      <subject>synthesis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RC0JN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>439426 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This database represents the core part of the synthesis review "The cost and feasibility of marine coastal restoration". It contains information on cost and feasibility of restoration projects worldwide. The database is divided into five sections according to each investigated ecosystem: coral reefs, seagrass, mangroves, saltmarshes, and oyster reefs. Each ecosystem-specific database section contains the full reference, general information about the publication and project, the restoration action undertaken, species involved, location, a description on the type of cost reported, information on funding sources, project duration (in years), the area restored in hectare (ha), the converted restoration cost in 2010 US$ ha-1, feasibility information (including reasons for success or failure), and restoration success in terms of % survival of restored organisms. For coral reefs, we also accounted for pre-transplant (i.e. survival of coral spat/larvae in culture before rearing them in nursery or out-planting), transplant (i.e. survival of coral fragments during nursery period), post-transplant (i.e. survival of coral fragments after out-planting to the reef) survival as well as for the overall survival averaged over the former three categories. See &#8216;Approach&#8217; of the publication for a detailed database description and Table A1-A5 in Appendix A for a detailed summary of the database information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

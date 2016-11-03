@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:799632</identifier><datestamp>2015-09-25T16:16:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.832K336G/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Claramunt, Santiago</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Derryberry, Elizabeth P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brumfield, Robb T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Remsen Jr., J. V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table of Specimens for the Analysis of ND2 Divergence in Woodcreepers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>Behavior: evolution</subject>
+      <subject>Locomotion</subject>
+      <subject>Macroevolution</subject>
+      <subject>Morphology</subject>
+      <subject>Phylogenetics: comparative</subject>
+      <subject>Phylogenetics: diversification</subject>
+      <subject>Neotropical bird</subject>
+      <subject>Dendrocolaptinae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-01-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.832K336G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2585 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-01-03T22:15:55Z (GMT). No. of bitstreams: 1&#13;
+DendroND2.csv: 2585 bytes, checksum: 690586e8420f6720fa08e86f7118ca79 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

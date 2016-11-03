@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848166</identifier><datestamp>2015-11-02T16:11:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H4D22/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Arditi, Eli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yechiam, Eldad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zahavi, Gal</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>classAandClassBEventStudy3_with_graphs2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>loss aversion; loss attention; exploration; stock market</subject>
+      <subject>leverage effect; search engines</subject>
+      <subject>United States of America</subject>
+      <subject>finance; internet; psychology</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H4D22</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1377148 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">For each stock ticker, this shows data from the Intensive Search period (length, peak, sum) followed by data about the financial event triggering the period (negative or positive; ISNEG = 1 is negative; absolute returns).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

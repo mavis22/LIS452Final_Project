@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753465</identifier><datestamp>2015-10-16T14:14:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SD1DT/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kovi, Mallikarjuna Rao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fjellheim, Siri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sandve, Simen R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsen, Arild</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rudi, Heidi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Asp, Torben</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kent, Matthew Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rognli, Odd Arne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Frost_genotype_filtering_231SNPs_Kovi_et_al_frontiers_Plantscience</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Freezing tolerance</subject>
+      <subject>population structure</subject>
+      <subject>linkage disequilibrium</subject>
+      <subject>Sequenom MassARRAY iPLEX genotyping</subject>
+      <subject>genetic diversity</subject>
+      <subject>outlier SNPs</subject>
+      <subject>Norway</subject>
+      <subject>Lolium perenne</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SD1DT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66978 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Two hundred and thirty one SNPs were obtained for data analysis after removing eleven SNPs which failed in genotyping and twenty-seven SNPs with missing data &gt; 5%  from the initial genotyping dataset. Of the remaining 231 SNPs, 181 SNPs (78.3%), 162 SNPs (70.1%), and 180 SNPs (77.9 %) were polymorphic across the HF (High frost), LF (Low frost) and US (Unselected) populations, respectively. Missing data is represented as "0".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

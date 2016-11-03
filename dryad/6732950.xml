@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6732950</identifier><datestamp>2015-10-20T16:56:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT69S/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gill, Lisa F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goymann, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ter Maat, Andries</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gahr, Manfred</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 2 &#8211; figure supplement 1: Differences in steroid hormone concentrations at baseline levels and the three nest stages</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>breeding stages</subject>
+      <subject>gonadal hormones (sex steroids)</subject>
+      <subject>social group</subject>
+      <subject>Taeniopygia guttata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT69S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5110 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">For each trial and bird, we provide steroid hormone values (DHT = dihydrotestosterone, E2 = estradiol, P4 = progesterone, Testo = testosterone) in relation to sex, Timepoint of plasma collection (base = baseline, i.e. before females and males were joined in aviary; join1 = one day after males and females were joined, nestmat1 = one week later, one day after nest material was provided) and reproductive stages (baseline.nest.stage).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

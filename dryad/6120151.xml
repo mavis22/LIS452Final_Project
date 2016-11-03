@@ -1,0 +1,102 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6120151</identifier><datestamp>2015-07-08T13:04:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7S4H1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kellar, P. Roxanne Steele</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ahrendsen, Dakota L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aust, Shelly K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Amanda R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pires, J. Chris</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Biodiversity comparison among phylogenetic diversity metrics and between three North American prairies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>angiosperms</subject>
+      <subject>biodiversity assessment</subject>
+      <subject>conservation prioritization</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>Tucker Prairie Natural Area Nebraska U.S.A.</subject>
+      <subject>Nine-Mile Prairie Nebraska U.S.A.</subject>
+      <subject>Niobrara Valley Preserve Nebraska U.S.A.</subject>
+      <subject>Holocene</subject>
+      <subject>Achillea millefolium</subject>
+      <subject>Antennaria howellii</subject>
+      <subject>Antennaria neglecta</subject>
+      <subject>Bidens aristosa</subject>
+      <subject>Cirsium altissimum</subject>
+      <subject>Cirsium canescens</subject>
+      <subject>Cirsium undulatum</subject>
+      <subject>Echinacea angustifolia</subject>
+      <subject>Erigeron bellidiastrum</subject>
+      <subject>Erigeron philadelphicus</subject>
+      <subject>Erigeron strigosus</subject>
+      <subject>Gutierrezia sarothrae</subject>
+      <subject>Helenium flexuosum</subject>
+      <subject>Helianthus mollis</subject>
+      <subject>Helianthus petiolaris</subject>
+      <subject>Heterotheca stenophylla</subject>
+      <subject>Heterotheca villosa</subject>
+      <subject>Hymenopappus tenuifolius</subject>
+      <subject>Lactuca ludoviciana</subject>
+      <subject>Liatris squarrosa</subject>
+      <subject>Lygodesmia juncea</subject>
+      <subject>Ratibida columnifera</subject>
+      <subject>Senecio integerrimus</subject>
+      <subject>Solidago altissima</subject>
+      <subject>Solidago gigantea</subject>
+      <subject>Thelesperma filifolium</subject>
+      <subject>Tragopogon dubius</subject>
+      <subject>Vernonia baldwinii</subject>
+      <subject>Xanthisma spinulosum</subject>
+      <subject>Amorpha canescens</subject>
+      <subject>Amorpha fruticosa</subject>
+      <subject>Astragalus canadensis</subject>
+      <subject>Astragalus crassicarpus</subject>
+      <subject>Baptisia alba</subject>
+      <subject>Baptisia bracteata</subject>
+      <subject>Chamaecrista fasciculata</subject>
+      <subject>Desmanthus illinoensis</subject>
+      <subject>Lathyrus decaphyllus</subject>
+      <subject>Medicago lupulina</subject>
+      <subject>Melilotus alba</subject>
+      <subject>Melilotus officinalis</subject>
+      <subject>Oxytropis lambertii</subject>
+      <subject>Pediomelum argophyllum</subject>
+      <subject>Pediomelum digitatum</subject>
+      <subject>Psoralidium tenuiflorum</subject>
+      <subject>Strophostyles leiosperma</subject>
+      <subject>Trifolium campestre</subject>
+      <subject>Trifolium pratense</subject>
+      <subject>Trifolium repens</subject>
+      <subject>Asteraceae</subject>
+      <subject>Fabaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kellar PRS, Ahrendsen DL, Aust SK, Jones AR, Pires JC (2015) Biodiversity comparison among phylogenetic diversity metrics and between three North American prairies. Applications in Plant Sciences 3(7):1400108.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7S4H1/8</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/APPS.1400108</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

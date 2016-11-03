@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5490445</identifier><datestamp>2015-03-20T19:27:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GS352/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dempewolf, Hannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tesfaye, Misteru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teshome, Abel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bjorkman, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Black, Scott</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Noug phenotypic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agriculture</subject>
+      <subject>Contemporary Evolution</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Plant Mating Systems</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Phylogeography</subject>
+      <subject>Ethiopia</subject>
+      <subject>Guizotia abyssinica</subject>
+      <subject>Guizotia scabra ssp. schimperii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GS352</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>167433 bytes</size>
+      <size>4543 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains phenotypic data collected on the level of individuals (sheet: Noug_Individual_Data), accessions (sheet: Noug_Pooled_Data) and environmental data of the collecting sites (sheet: Environmental_Data).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

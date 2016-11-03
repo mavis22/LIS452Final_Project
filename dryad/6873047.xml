@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6873047</identifier><datestamp>2015-10-15T15:59:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6B1H8/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Orsucci, Marion</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Audiot, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pommier, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raynaud, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramora, B&#233;atrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zanetto, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourguet, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streiff, R&#233;jane</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Adult preference - Laying site</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host specialisation</subject>
+      <subject>avoidance</subject>
+      <subject>attraction</subject>
+      <subject>preference</subject>
+      <subject>performance</subject>
+      <subject>phytophagous insect</subject>
+      <subject>Ostrinia spp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6B1H8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>79642 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8216;Adult preference - Laying site&#8217; contains the data of the laying site in the &#8216;oviposition experiment&#8217;. - The first column, entitled &#8216;ID_eggmasses&#8217;, gives the unique identifer of each egg-mass sampled in the experimental cages. - The second column, entitled &#8216;ID_cage&#8217;, gives the unique numerical identifier of each experimental cage. - The third column, entitled &#8216;Ostrinia_species&#8217;, refer to O. nubilalis (ECB) and O. scapulalis (ABB) species used in the experiment. - The fourth column, called &#8216;Setup&#8217;, corresponds to the three experimental set-ups tested in the oviposition experiment: choice (with maize and mugwort plants), maize_only (with maize plants only) and mugwort_only (with mugwort plants only). - the fifth column, entitled &#8216;Laying_site&#8217;, corresponds to the three laying sites where adult females laid eggs: mugwort, maize or the netting cage. - the sixth column, entitled &#8216;Sampling_Date&#8217;, corresponds to the sampling date of egg-masses. - the seventh column, called &#8216;Hatching&#8217; is a binomial variable, with 0 corresponding to not hatched egg-masses and 1 to hatched egg-masses. - the eighth column, called &#8216;Hatching_Date&#8217;, corresponds to the date of egg-masses hatching (&#8216;NA&#8217; for the egg-masses that did not hatch).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

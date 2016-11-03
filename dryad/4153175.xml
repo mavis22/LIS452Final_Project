@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4153175</identifier><datestamp>2015-02-25T18:26:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BB249/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kova&#345;&#237;k, Ales</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dobe&#353;ov&#225;, Eva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maty&#225;&#353;ek, Roman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leitch, Andrew R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Pamela S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Douglas E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Malinska, Hana</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TableS3</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Mutation analysis</subject>
+      <subject>Tragopogon mirus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BB249</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>583168 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mutation analysis of rDNA and its transcripts in 33A and 33B individuals. The NGS reads are clustered based on similarity. () - reads with 100% identity to the reference, (G-&gt;A) marks substitution, (231-232:--&gt;G) marks insertion, (61:G-&gt;-)  marks deletion. The order of data sets in Microsoft Excel sheets is as follows:  &#13;
+&#8226;	Sheet &#8220;33A_gDNA-duRef&#8221;: Mutation analysis of genomic rDNA of 33A plant. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33B_gDNA-duRef&#8221;: Mutation analysis of genomic rDNA of 33B plant. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33A_RNA_leaf&#8221;: Mutation analysis of rRNA pools in 33A leaf. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33A_RNA_root&#8221;: Mutation analysis of rRNA pools in 33A root. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33B_RNA_leaf&#8221;: Mutation analysis of rRNA pools in 33B leaf. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33B_RNA_root&#8221;: Mutation analysis of rRNA pools in 33B root. Reads mapped to the T. dubius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33A_gDNA-poRef&#8221;: Mutation analysis of genomic rDNA of 33A plant. Reads mapped to the T. porrifolius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;33B_gDNA-poRef&#8221;: Mutation analysis of genomic rDNA of 33B plant. Reads mapped to the T. porrifolius ITS1 reference.&#13;
+&#8226;	Sheet &#8220;statistics&#8221;: A chi square test for differential distribution of P1 and P2 variants in parental T. porrifolius and T. mirus allotetraploid.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

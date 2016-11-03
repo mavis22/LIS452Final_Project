@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81779</identifier><datestamp>2014-05-29T18:20:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1995</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hoffman, J I</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clarke, A</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linse, K</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peck, L S</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Effects of brooding and broadcasting reproductive modes on the population genetic structure of two Antarctic gastropod molluscs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>population structure</subject>
+      <subject>Antarctic Peninsula</subject>
+      <subject>Current day</subject>
+      <subject>Margarella antarctica</subject>
+      <subject>Nacella concinna</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hoffman JI, Clarke A, Linse K, Peck LS (2010) Effects of brooding and broadcasting reproductive modes on the population genetic structure of two Antarctic gastropod molluscs. Marine Biology 158(2): 287-296</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1995/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1007/S00227-010-1558-6</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

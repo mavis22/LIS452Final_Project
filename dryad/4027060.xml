@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027060</identifier><datestamp>2014-10-21T13:29:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J1RM6/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Simon H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davey, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiggins, Chris D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>egglib_sliding_windows.py</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ABBA-BABA</subject>
+      <subject>gene flow</subject>
+      <subject>introgression</subject>
+      <subject>population structure</subject>
+      <subject>simulation</subject>
+      <subject>Heliconius melpomene amaryllis</subject>
+      <subject>Heliconius melpomene aglaope</subject>
+      <subject>Heliconius timareta thelxinoe</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J1RM6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27416 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Python script to calculate ABBA BABA statistics, as well as pi and dXY from heliconius whole-genome data. It makes use of the EGGLIB library. Input was a "calls" format file, provided in Martin et al. 2013. Window size is specified with the -w flag, sliding increment with the -i flag and minimum number of sites with the -m flag. The latter is a hard cutoff, and windows with fewer sites are discarded. There is also a soft cutoff between 0 and 1, specified with --minimumExploitableData. The script will output a column called sitesOverMinExD. At a value of 0.5, this would report the number of sites in the window that had genotype calls for at least 50% of the individuals. To analyse autosomes and Z-linked scaffolds separately, the --include and --exclude flags were used, along with the file Hmel1-1_Zupdated_Zscafs.txt, which provides names of all Z-linked scaffolds provided in Martin et al. 2013. For the Z chromosome analysis, ploidy was specified using the --ploidy flag, because there were two females in the dataset of Martin et al. 2013.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

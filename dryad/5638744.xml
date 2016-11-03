@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5638744</identifier><datestamp>2015-04-24T15:56:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FT36K/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liberti, Joanito</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sapountzis, Panagiotis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hansen, Lars H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#248;rensen, S&#248;ren J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Rachelle M. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boomsma, Jacobus J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>97% OTUs MiSeq diet experiment dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Symbiosis</subject>
+      <subject>16S rRNA gene pyrosequencing</subject>
+      <subject>social parasites</subject>
+      <subject>Entomoplasmatales</subject>
+      <subject>Bartonellaceae</subject>
+      <subject>Acinetobacter</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FT36K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>106964 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Following MiSeq sequencing of the 16s rRNA gene of bacterial communities of 36 samples of attine ants, Megalomyrmex ants and fungus gardens collected after a diet manipulation experiment, 852 bacterial OTUs (operational taxonomic units at 97% identity) were identified. The zip file contains an OTU table showing the distribution of sequencing reads for all OTUs across the 36 samples, a fasta file with all 852 representative sequences for these OTUs and two taxonomy files linking the taxonomic classification of the OTUs based on the Greengenes reference set (May 2013 release) to the OTU IDs found in the OTU table and the sequence identifiers found in the fasta file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

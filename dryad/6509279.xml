@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6509279</identifier><datestamp>2015-08-12T16:03:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4622G/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harrison, Ellie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Truman, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Rosanna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spiers, Andrew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paterson, Steve</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brockhurst, Michael A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RESISTANCE MUTS</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bacteria-phage coevolution</subject>
+      <subject>conjugative plasmid</subject>
+      <subject>mucoid conversion</subject>
+      <subject>Pseudomonas fluorescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4622G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2611 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fitness of resistance mutants relative to a marked reference strain in 0 and 8 &#181;M of HgCl2 with and without the plasmid.  Mutants A1-4 were derived from challenge with the ancestral phage while mutants E1-5 were challenged with evolved phages. WT denotes the wild type, susceptible strain.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

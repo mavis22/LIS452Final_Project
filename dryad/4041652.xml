@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4041652</identifier><datestamp>2014-12-03T17:56:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4K5ST</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruiz-Ramos, Dannise V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baums, Iliana B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Microsatellite abundance across the Anthozoa and Hydrozoa in the phylum Cnidaria</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>microsatellites</subject>
+      <subject>ancestral metazoan</subject>
+      <subject>simple sequence repeats</subject>
+      <subject>comparative genomics</subject>
+      <subject>Leiopathes glaberrima</subject>
+      <subject>Tanacetipathes spp</subject>
+      <subject>Corynactis californica</subject>
+      <subject>Amplexidiscus fenestrafer</subject>
+      <subject>Eunicea flexuosa</subject>
+      <subject>Plumarella spp</subject>
+      <subject>Metridium senile</subject>
+      <subject>Millepora alcicornis</subject>
+      <subject>Nematostella vectensis</subject>
+      <subject>Acropora digitifera</subject>
+      <subject>Hydra magnipapillata</subject>
+      <subject>Symbiodinium</subject>
+      <subject>Cnidaria</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ruiz-Ramos DV, Baums IB (2014) Microsatellite abundance across the Anthozoa and Hydrozoa in the phylum Cnidaria. BMC Genomics 15: 939.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4K5ST/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4K5ST/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4K5ST/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1471-2164-15-939</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

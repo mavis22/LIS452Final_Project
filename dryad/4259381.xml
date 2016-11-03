@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4259381</identifier><datestamp>2014-11-25T18:32:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4MG2R/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hansen, Ole K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypic_data_Provenances_Teak_Natural_Distribution</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>teak</subject>
+      <subject>genetic diversity</subject>
+      <subject>population structure</subject>
+      <subject>whole natural distribution area</subject>
+      <subject>India</subject>
+      <subject>Myanmar</subject>
+      <subject>Thailand</subject>
+      <subject>Laos</subject>
+      <subject>Tectona grandis Linn. f.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4MG2R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42986 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The same data as in the Genotypic_data_Provenances_Teak_Natural_Distribution.xlsx file (described above), just given as comma delimited file format, starting with one line giving the headings for the rest of the data. &#8220;Sample No.&#8221; is an arbitrary number for the samples within provenances. This is not a unique number; several samples have the same sample no. (e.g. &#8220;1&#8221;). &#8220;Population&#8221; is the name/number of the provenances. The following 12 numbers (2 for each of the 6 SSRs) are the SSR data coming in the form of alleles coded as their integer size in base pairs (bp).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,79 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3924238</identifier><datestamp>2014-12-05T02:46:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4R267/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chitwood, Daniel H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ranjan, Aashish</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumar, Ravi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ichihashi, Yasunori</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zumstein, Kristina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Headland, Lauren R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ostria-Gallardo, Enrique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aguilar-Mart&#237;nez, Jos&#233; A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bush, Susan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carriedo, Leonela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fulop, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez, Ciera C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peng, Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maloof, Julin N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinha, Neelima R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>tpc130112_SupplementalDS1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Heteroblasty</subject>
+      <subject>Leaf shape</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>Morphometrics</subject>
+      <subject>Tomato</subject>
+      <subject>Biostatistics</subject>
+      <subject>Solanum lycopersicum</subject>
+      <subject>Solanum pennellii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4R267</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>14568443 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplemental Dataset 1: Morphometric traits for &gt;55,000 leaflets analyzed in this study. For each leaflet, the corresponding file name (&#8220;file&#8221;), experiment from which it is derived (&#8220;experiment&#8221;), genotype (&#8220;genotype&#8221;), leaf number if applicable (&#8220;leaf&#8221;), leaflet type (&#8220;leaflet_type&#8221;, where &#8220;t&#8221; = terminal leaflet, &#8220;a&#8221; = left distal lateral leaflet, &#8220;b&#8221; = right distal lateral leaflet, &#8220;c&#8221; = left proximal lateral leaflet, &#8220;d&#8221; = right proximal lateral leaflet), proximal-distal position (&#8220;prox_dist&#8221;), age of the plant sampled (&#8220;age&#8221;, which is measured as leaf plus flower number for the chamber experiment and leaf number for the wild species experiment), whether the leaflet is on the left or right side of the leaf (&#8220;left_right&#8221;), light treatment (&#8220;trt&#8221;, where &#8220;l&#8221; = low red-to-far red, or simulated foliar shade, and &#8220;h&#8221; = high red-to-far red, or simulated sun), and trait values for circularity (&#8220;circ&#8221;), aspect ratio (&#8220;ar&#8221;), roundness (&#8220;round&#8221;), solidity (&#8220;solid&#8221;), allPCs, and asymPCs are given.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

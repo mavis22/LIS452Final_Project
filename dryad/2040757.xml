@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2040757</identifier><datestamp>2015-11-18T19:41:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CG4QP/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Van Oystaeyen, Annette</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caliari Oliveira, Ricardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holman, Luke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Zweden, Jelle S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oi, Cintia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Romero, Carmen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>d'Ettorre, Patrizia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Khalesi, Mohammadreza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Billen, Johan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>W&#228;ckers, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Millar, Jocelyn G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wenseleers, Tom</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bioassay and comparative analysis data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>worker sterility</subject>
+      <subject>eusociality</subject>
+      <subject>social Hymenoptera</subject>
+      <subject>queen pheromones</subject>
+      <subject>Bombus terrestris</subject>
+      <subject>Cataglyphis iberica</subject>
+      <subject>Vespula vulgaris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-01-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CG4QP.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20371 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">B terrestris bioassays.txt: Bombus terrestris bioassay data; Cataglyphis iberica bioassays.txt: Cataglyphis iberica bioassay data; V vulgaris bioassays.txt: Vespula vulgaris bioassay data; character states.csv: character matrix used in the comparative analysis; phylogeny.nex: phylogeny used for the comparative analysis (in Nexus/Mesquite format)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

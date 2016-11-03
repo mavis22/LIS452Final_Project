@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067068</identifier><datestamp>2014-12-05T02:25:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F6S22/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blischak, Paul D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wenzel, Aaron J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolfe, Andrea D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Perl script for functional annotations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bioinformatics</subject>
+      <subject>BLAST</subject>
+      <subject>454-pyrosequencing</subject>
+      <subject>MAKER2</subject>
+      <subject>Penstemon</subject>
+      <subject>Plantaginaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F6S22</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>866 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Hit-desc.pl - Perl script for adding functional annotations to contigs using BLAST output (-outfmt 6). Note: This script uses regular expressions that are specific to targeting the accession numbers of our contigs and those that were used for BLAST searches. It is to be used as a reference for writing similar scripts for similar purposes but will not work as is for datasets other than our own. Requires an installation of BioPerl. Running too much BLAST output at once will kick you off of the NCBI server, so restrict the number of queries to ~500.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

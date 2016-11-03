@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7221458</identifier><datestamp>2015-12-04T17:51:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H3P05/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>O'Hara, Niamh B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rest, Joshua S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franks, Steven J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>OHara et al data from greenhouse study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Resurrection Approach</subject>
+      <subject>Trade-Offs</subject>
+      <subject>Rapid Evolution</subject>
+      <subject>Flowering Time</subject>
+      <subject>Drought</subject>
+      <subject>Alternaria brassicae</subject>
+      <subject>Irvine</subject>
+      <subject>California</subject>
+      <subject>Brassica rapa</subject>
+      <subject>Alternaria brassicae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H3P05</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28626 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were collected in a greenhouse study published in Evolution entitled "Increased susceptibility to fungal disease accompanies adaptation to drought in Brassica rapa". Column headings include (A) the plant number, (B) the temporal population including arb97, the ancestral population, and arb04, the descendant population, (C) watering treatment, (D) inoculation treatment, (E) days to flowring, (F) whether the plant was included in the flowering time analysis based on parameters described in the manuscript, (G) soil moisture, (H) health of inoculated leaf, (I) the leaf area used to calculate SLA, (J) the dry leaf weight used to calculate SLA, (K) SLA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

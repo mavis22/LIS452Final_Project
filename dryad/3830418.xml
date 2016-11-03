@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3830418</identifier><datestamp>2014-10-08T18:35:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N820K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Symons, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pirotta, Enrico</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lusseau, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>focal follow data used to test theoretical predictions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bioenergetics</subject>
+      <subject>consequences of disturbance</subject>
+      <subject>dive modelling</subject>
+      <subject>ecology of fear</subject>
+      <subject>PCoD</subject>
+      <subject>predation risk</subject>
+      <subject>Fiordland</subject>
+      <subject>New Zealand</subject>
+      <subject>Tursiops truncatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N820K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>157453 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">individual focal follow of dolphin breathing in Doubtful Sound, Fiordland, New Zealand collected in 2000-2002. See Symons et al. for further methodological details. This data was used to carry out analyses in that paper to test changes in inter-breath interval (IBI) ("divetime") for different types of IBI ("divetype") depending on the presence of boats ("simpleboat") of individual bottlenose dolphins ("individual") for which the gender was known ("sex").</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

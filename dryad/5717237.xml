@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5717237</identifier><datestamp>2015-06-17T20:19:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q7K8J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kenkel, Carly</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R script for statistical analyses and associated input files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>growth</subject>
+      <subject>thermal tolerance</subject>
+      <subject>heritability</subject>
+      <subject>adaptation</subject>
+      <subject>Florida Keys</subject>
+      <subject>24&#176;36.346N 81&#176;25.742W</subject>
+      <subject>24&#176;31.887N 81&#176;29.013W</subject>
+      <subject>Porites astreoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q7K8J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>225405 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This compressed file contains an annotated R script for all statistical analyses described in the publication (including linear models, heritability estimation, Fis analysis and associated figures) and associated input files in csv format. Input files listing coral growth and survival were derived from raw photographs which are also included in this archive submission.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

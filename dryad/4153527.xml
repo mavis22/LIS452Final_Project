@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4153527</identifier><datestamp>2014-12-12T18:12:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BC558/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Blue whale genotypes, haplotypes and sex</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>South east Pacific</subject>
+      <subject>Antarctica</subject>
+      <subject>Balaenoptera musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-12-09</date>
+      <date dateType="Accepted">2014-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BC558</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>65958 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-12-09</rights>
+  <descriptions>
+      <description descriptionType="Other">The excel file contain data from Antarctic and South east Pacific blue whales. The first column corresponds to the sample name, second column to the area in which the whale was sampled (described in the article), third column has information about the coordinates of the sample (for SCh blue whales, all of them have the same coordinates because were taken in an small area). The fourth column corresponds to the date when the biopsy was taken. From the fifth to the 18th column corresponds to 7 micro satellites loci separated for each allele. The column 19 corresponds to the sex of each whale, the 20th to the haplotype name cited in (LeDuc et al. 2007, Sremba et al. 2012 &amp; Torres-Florez et al. 2014) and column 20th corresponds to the Genbank accession number of each haplotype.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

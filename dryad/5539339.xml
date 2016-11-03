@@ -1,0 +1,414 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539339</identifier><datestamp>2015-06-16T20:07:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H9083</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paine, C. E. Timothy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amissah, Lucy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Auge, Harald</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baraloto, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baruffol, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourland, Nils</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bruelheide, Helge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Da&#239;nou, Kasso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Gouvenain, Roland C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doucet, Jean-Louis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doust, Susan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fine, Paul V. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fortunel, Claire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haase, Josephine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holl, Karen D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jactel, Herv&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>li, Xuefei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kitajima, Kaoru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koricheva, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mart&#237;nez-Garza, Cristina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messier, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paquette, Alain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Philipson, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piotto, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poorter, Lourens</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Posada, Juan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Potvin, Catherine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rainio, Kalle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russo, Sabrina E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruiz-Jaen, Mariacarmen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scherer-Lorenzen, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Webb, Campbell O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, S. Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zahawi, Rakan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hector, Andy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Globally, functional traits are weak predictors of juvenile tree growth, and we do not know why</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>FunDivEurope</subject>
+      <subject>functional ecology</subject>
+      <subject>growth</subject>
+      <subject>hierarchical models</subject>
+      <subject>Plant population and community dynamics</subject>
+      <subject>RGR</subject>
+      <subject>size-standardized growth rate</subject>
+      <subject>TreeDivNet</subject>
+      <subject>Global</subject>
+      <subject>Current-day</subject>
+      <subject>Abies balsamea</subject>
+      <subject>Acer campestre</subject>
+      <subject>Acer platanoides</subject>
+      <subject>Acer pseudoplatanus</subject>
+      <subject>Acer rubrum</subject>
+      <subject>Acer saccharum</subject>
+      <subject>Aegiphila bogotensis</subject>
+      <subject>Alangium chinense</subject>
+      <subject>Albizia adinocephala</subject>
+      <subject>Albizia guachapele</subject>
+      <subject>Albizia saman</subject>
+      <subject>Albizia tomentosa</subject>
+      <subject>Albizia zygia</subject>
+      <subject>Alnus glutinosa</subject>
+      <subject>Alphitonia petriei</subject>
+      <subject>Amburana cearensis</subject>
+      <subject>Amphitecna tuxtlensis</subject>
+      <subject>Anacardium excelsum</subject>
+      <subject>Anisoptera grossivenia</subject>
+      <subject>Aralia chinensis</subject>
+      <subject>Archidendron jiringa</subject>
+      <subject>Artocarpus heterophyllus</subject>
+      <subject>Artocarpus incisus</subject>
+      <subject>Artocarpus integer</subject>
+      <subject>Aspidosperma megalocarpon</subject>
+      <subject>Aspidosperma spruceanum</subject>
+      <subject>Astronium graveolens</subject>
+      <subject>Astronium lecointei</subject>
+      <subject>Baccaurea motleyana</subject>
+      <subject>Baillonella toxisperma</subject>
+      <subject>Balizia elegans</subject>
+      <subject>Beilschmiedia pendula</subject>
+      <subject>Bernoullia flammea</subject>
+      <subject>Betula alleghaniensis</subject>
+      <subject>Betula papyrifera</subject>
+      <subject>Betula pendula</subject>
+      <subject>Brosimum alicastrum</subject>
+      <subject>Bursera simaruba</subject>
+      <subject>Calophyllum brasiliense</subject>
+      <subject>Calophyllum longifolium</subject>
+      <subject>Calycophyllum candidissimum</subject>
+      <subject>Camellia oleifera</subject>
+      <subject>Cardwellia sublimis</subject>
+      <subject>Carpinus betulus</subject>
+      <subject>Castanea henryi</subject>
+      <subject>Castanopsis sclerophylla</subject>
+      <subject>Castanospora alphandii</subject>
+      <subject>Castilla elastica</subject>
+      <subject>Cecropia ficifolia</subject>
+      <subject>Cecropia obtusifolia</subject>
+      <subject>Cecropia sciadophylla</subject>
+      <subject>Cedrela montana</subject>
+      <subject>Cedrela odorata</subject>
+      <subject>Ceiba pentandra</subject>
+      <subject>Chrysophyllum cainito</subject>
+      <subject>Cojoba arborea</subject>
+      <subject>Colubrina glandulosa</subject>
+      <subject>Copaifera lucens</subject>
+      <subject>Cordia alliodora</subject>
+      <subject>Cordia megalantha</subject>
+      <subject>Coussarea curvigemma</subject>
+      <subject>Cryptomeria japonica</subject>
+      <subject>Cunninghamia lanceolata</subject>
+      <subject>Dalbergia hupeana</subject>
+      <subject>Dalbergia retusa</subject>
+      <subject>Dicorynia guianensis</subject>
+      <subject>Diospyros cathayensis</subject>
+      <subject>Diospyros kaki</subject>
+      <subject>Diphysa americana</subject>
+      <subject>Dipterocarpus acutangulus</subject>
+      <subject>Dipterocarpus conformis</subject>
+      <subject>Dipterocarpus globosus</subject>
+      <subject>Dipterocarpus palembanicus</subject>
+      <subject>Dipteryx oleifera</subject>
+      <subject>Dryobalanops lanceolata</subject>
+      <subject>Dryobalanops sumatrensis</subject>
+      <subject>Durio zibethinus</subject>
+      <subject>Dussia mexicana</subject>
+      <subject>Dysoxylum mollissimum</subject>
+      <subject>Enterolobium cyclocarpum</subject>
+      <subject>Eperua falcata</subject>
+      <subject>Eperua grandiflora</subject>
+      <subject>Eriotheca globosa</subject>
+      <subject>Eriotheca longitubulosa</subject>
+      <subject>Erythrina fusca</subject>
+      <subject>Erythrina poeppigiana</subject>
+      <subject>Eschweilera chartaceifolia_aff</subject>
+      <subject>Eschweilera coriacea</subject>
+      <subject>Eschweilera grandiflora</subject>
+      <subject>Eschweilera sagotiana</subject>
+      <subject>Eugenia nesiotica</subject>
+      <subject>Eugenia oerstediana</subject>
+      <subject>Fagus sylvatica</subject>
+      <subject>Faramea occidentalis</subject>
+      <subject>Ficus pleurocarpa</subject>
+      <subject>Ficus yoponensis</subject>
+      <subject>Fraxinus excelsior</subject>
+      <subject>Garcinia intermedia</subject>
+      <subject>Garcinia macrophylla</subject>
+      <subject>Genipa americana</subject>
+      <subject>Gliricidia sepium</subject>
+      <subject>Goupia glabra</subject>
+      <subject>Guapira myrtiflora</subject>
+      <subject>Guarea guidonia</subject>
+      <subject>Guazuma ulmifolia</subject>
+      <subject>Gustavia superba</subject>
+      <subject>Handroanthus guayacan</subject>
+      <subject>Harungana madagascariensis</subject>
+      <subject>Heisteria concinna</subject>
+      <subject>Heliocarpus appendiculatus</subject>
+      <subject>Hieronyma alchorneoides</subject>
+      <subject>Homalanthus novoguineensis</subject>
+      <subject>Hopea beccariana</subject>
+      <subject>Hopea dryobalanoides</subject>
+      <subject>Hopea ferruginea</subject>
+      <subject>Hopea sangal</subject>
+      <subject>Hura crepitans</subject>
+      <subject>Hymenaea courbaril</subject>
+      <subject>Inga auristellae</subject>
+      <subject>Inga cayennensis</subject>
+      <subject>Inga cf_coruscans</subject>
+      <subject>Inga edulis</subject>
+      <subject>Inga lopadadenia</subject>
+      <subject>Inga pezizifera</subject>
+      <subject>Inga punctata</subject>
+      <subject>Inga sinacae</subject>
+      <subject>Inga stipularis</subject>
+      <subject>Inga thibaudiana</subject>
+      <subject>Intsia palembanica</subject>
+      <subject>Jacaranda copaia</subject>
+      <subject>Khaya ivorensis</subject>
+      <subject>Lacistema aggregatum</subject>
+      <subject>Lafoensia punicifolia</subject>
+      <subject>Lansium domesticum</subject>
+      <subject>Larix decidua</subject>
+      <subject>Larix laricina</subject>
+      <subject>Larix sibirica</subject>
+      <subject>Licania heteromorpha</subject>
+      <subject>Licania macrophylla</subject>
+      <subject>Licania platypus</subject>
+      <subject>Lindera communis</subject>
+      <subject>Lindera limprichtii</subject>
+      <subject>Lithocarpus glaber</subject>
+      <subject>Lonchocarpus sericeus</subject>
+      <subject>Lophira alata</subject>
+      <subject>Luehea seemannii</subject>
+      <subject>Mangifera indica</subject>
+      <subject>Mansonia altissima</subject>
+      <subject>Maquira guianensis</subject>
+      <subject>Micropholis egensis</subject>
+      <subject>Micropholis guyanensis</subject>
+      <subject>Micropholis venulosa</subject>
+      <subject>Milicia excelsa</subject>
+      <subject>Nephelium lappaceum</subject>
+      <subject>Ochroma pyramidale</subject>
+      <subject>Ocotea cymosa</subject>
+      <subject>Ormosia macrocalyx</subject>
+      <subject>Pachira aquatica</subject>
+      <subject>Pachira brevipes</subject>
+      <subject>Pachira flaviflora</subject>
+      <subject>Pachira insignis</subject>
+      <subject>Pachira quinata</subject>
+      <subject>Pachira sessilis</subject>
+      <subject>Paraserianthes falcataria</subject>
+      <subject>Parashorea malaanonan</subject>
+      <subject>Parashorea tomentella</subject>
+      <subject>Parkia speciosa</subject>
+      <subject>Pentadesma butyracea</subject>
+      <subject>Pentaspadon motleyi</subject>
+      <subject>Pericopsis elata</subject>
+      <subject>Peronema canescens</subject>
+      <subject>Phoebe microphylla</subject>
+      <subject>Phoebe zhennan</subject>
+      <subject>Phyllanthus salviifolius</subject>
+      <subject>Picea abies</subject>
+      <subject>Picea glauca</subject>
+      <subject>Picea rubens</subject>
+      <subject>Pinus massoniana</subject>
+      <subject>Pinus pinaster</subject>
+      <subject>Pinus resinosa</subject>
+      <subject>Pinus strobus</subject>
+      <subject>Pinus sylvestris</subject>
+      <subject>Platymiscium parviflorum</subject>
+      <subject>Platymiscium pinnatum</subject>
+      <subject>Platypodium elegans</subject>
+      <subject>Podocarpus neriifolius</subject>
+      <subject>Populus tremula</subject>
+      <subject>Posoqueria latifolia</subject>
+      <subject>Poulsenia armata</subject>
+      <subject>Pouteria grandiflora</subject>
+      <subject>Pouteria reticulata</subject>
+      <subject>Pouteria sapota</subject>
+      <subject>Protium aracouchini</subject>
+      <subject>Protium carnosum</subject>
+      <subject>Protium decandrum</subject>
+      <subject>Protium gallicum</subject>
+      <subject>Protium heptaphyllum</subject>
+      <subject>Protium meridionale</subject>
+      <subject>Protium opacum</subject>
+      <subject>Protium sagotianum</subject>
+      <subject>Protium subserratum</subject>
+      <subject>Protium unifoliolatum</subject>
+      <subject>Prunus avium</subject>
+      <subject>Prunus buxifolia</subject>
+      <subject>Pseudotsuga menziesii</subject>
+      <subject>Qualea rosea</subject>
+      <subject>Quercus glauca</subject>
+      <subject>Quercus ilex</subject>
+      <subject>Quercus myrsinifolia</subject>
+      <subject>Quercus petraea</subject>
+      <subject>Quercus pyrenaica</subject>
+      <subject>Quercus robur</subject>
+      <subject>Quercus rubra</subject>
+      <subject>Randia armata</subject>
+      <subject>Recordoxylon speciosum</subject>
+      <subject>Rinorea sylvatica</subject>
+      <subject>Rollinia mucosa</subject>
+      <subject>Sapindus mukorossi</subject>
+      <subject>Schizolobium amazonicum</subject>
+      <subject>Schizolobium parahyba</subject>
+      <subject>Sclerolobium densiflorum</subject>
+      <subject>Sextonia rubra</subject>
+      <subject>Shorea argentifolia</subject>
+      <subject>Shorea beccariana</subject>
+      <subject>Shorea faguetiana</subject>
+      <subject>Shorea gibbosa</subject>
+      <subject>Shorea johorensis</subject>
+      <subject>Shorea laxa</subject>
+      <subject>Shorea leprosula</subject>
+      <subject>Shorea macrophylla</subject>
+      <subject>Shorea macroptera</subject>
+      <subject>Shorea ovalis</subject>
+      <subject>Shorea parvifolia</subject>
+      <subject>Shorea xanthophylla</subject>
+      <subject>Simarouba amara</subject>
+      <subject>Sloanea obtusifolia</subject>
+      <subject>Sorbus aucuparia</subject>
+      <subject>Sorbus torminalis</subject>
+      <subject>Spondias mombin</subject>
+      <subject>Stemmadenia donnell-smithii</subject>
+      <subject>Stephanostegia capuronii</subject>
+      <subject>Sterculia apetala</subject>
+      <subject>Stryphnodendron microstachyum</subject>
+      <subject>Swartzia benthamiana</subject>
+      <subject>Swartzia cf_laevicarpa</subject>
+      <subject>Swartzia grandifolia</subject>
+      <subject>Swartzia panacoco</subject>
+      <subject>Swartzia polyphylla</subject>
+      <subject>Swartzia simplex</subject>
+      <subject>Swietenia macrophylla</subject>
+      <subject>Symphonia globulifera</subject>
+      <subject>Tabebuia rosea</subject>
+      <subject>Tabernaemontana arborea</subject>
+      <subject>Tachigali versicolor</subject>
+      <subject>Tapirira guianensis</subject>
+      <subject>Tarrietia utilis</subject>
+      <subject>Terminalia amazonia</subject>
+      <subject>Terminalia ivorensis</subject>
+      <subject>Terminalia oblonga</subject>
+      <subject>Tetragastris panamensis</subject>
+      <subject>Theobroma speciosum</subject>
+      <subject>Thuja occidentalis</subject>
+      <subject>Tilia cordata</subject>
+      <subject>Tocoyena pittieri</subject>
+      <subject>Toxicodendron succedaneum</subject>
+      <subject>Trichilia tuberculata</subject>
+      <subject>Uapaca ferruginea</subject>
+      <subject>Ulmus glabra</subject>
+      <subject>Vatairea lundellii</subject>
+      <subject>Vatica nitens</subject>
+      <subject>Virola koschnyi</subject>
+      <subject>Virola michelii</subject>
+      <subject>Virola sebifera</subject>
+      <subject>Virola surinamensis</subject>
+      <subject>Vitex pinnata</subject>
+      <subject>Vochysia ferruginea</subject>
+      <subject>Vochysia guatemalensis</subject>
+      <subject>Xylosma spiculifera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Paine CET, Amissah L, Auge H, Baraloto C, Baruffol M, Bourland N, Bruelheide H, Da&#239;nou K, de Gouvenain RC, Doucet J, Doust S, Fine PVA, Fortunel C, Haase J, Holl KD, Jactel H, li X, Kitajima K, Koricheva J, Mart&#237;nez-Garza C, Messier C, Paquette A, Philipson C, Piotto D, Poorter L, Posada JM, Potvin C, Rainio K, Russo SE, Ruiz-Jaen M, Scherer-Lorenzen M, Webb CO, Wright SJ, Zahawi RA, Hector A (2015) Globally, functional traits are weak predictors of juvenile tree growth, and we do not know why. Journal of Ecology 103(4): 978-989.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H9083/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2745.12401</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

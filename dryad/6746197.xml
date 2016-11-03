@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6746197</identifier><datestamp>2015-10-15T11:55:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.27M63/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Porter, William Ruger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Witmer, Lawrence M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CT scan data of green iguana, Iguana iguana OUVC 10709</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>vasculature</subject>
+      <subject>diapsid</subject>
+      <subject>iguana</subject>
+      <subject>blood vessels</subject>
+      <subject>squamate</subject>
+      <subject>Iguana iguana</subject>
+      <subject>Squamata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.27M63</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>909128128 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file contains DICOM images from an x-ray microcomputed tomography (&#181;CT) scan of an injected Iguana iguana (OUVC 10709). The arteries were injected with a latex and barium solution and scanned on a GE eXplore Locus in vivo Small Animal MicroCT scanner (90&#181;m slice thickness at 80kV and 450 &#181;A) at the Ohio University &#181;CT Scanning Facility.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364864</identifier><datestamp>2015-07-29T19:33:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.266G4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maddamsetti, Rohan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hatcher, Philip J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cruveiller, St&#233;phane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#233;digue, Claudine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barrick, Jeffrey E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lenski, Richard E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DRYAD-luscombe-reanalysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Experimental evolution</subject>
+      <subject>Mutation rate</subject>
+      <subject>Effective population size</subject>
+      <subject>Genome evolution</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.266G4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56519024 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains all data, python, and R scripts needed to replicate our analysis of synonymous substitutions in a long-term evolution experiment at 40,000 generations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

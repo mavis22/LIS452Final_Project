@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1969096</identifier><datestamp>2015-03-31T18:04:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1N14C/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Slater, Graham J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fit_models_posterior</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Brownian motion</subject>
+      <subject>Body size</subject>
+      <subject>Comparative methods</subject>
+      <subject>Evolutionary rates</subject>
+      <subject>Fossils</subject>
+      <subject>Macroevolution</subject>
+      <subject>Mammals</subject>
+      <subject>Ornstein-Uhlenbeck</subject>
+      <subject>Mesozoic</subject>
+      <subject>Cenozoic</subject>
+      <subject>Mammalia</subject>
+      <subject>Mammaliaformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-08-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1N14C.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2365 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R script to fit macroevolutionary models to trees from MrBayes Posterior distribution</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

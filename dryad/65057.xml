@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:65057</identifier><datestamp>2014-05-29T21:07:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RR064J8Q</identifier>
+  <creators>
+      <creator>
+         <creatorName>Psomopoulos, Fotis E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siarkou, Victoria I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papanikolaou, Nikolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iliopoulos, Ioannis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsaftaris, Athanasios S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ouzounis, Christos A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The Chlamydiales pangenome revisited: structural stability and functional coherence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>pangenome analysis</subject>
+      <subject>Chlamydiales</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Psomopoulos FE, Siarkou VI, Papanikolaou N, Iliopoulos I, Tsaftaris AS, Promponas VJ, Ouzounis CA (2012) The Chlamydiales pangenome revisited: structural stability and functional coherence. Genes 3(2): 291-319.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RR064J8Q/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3390/GENES3020291</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

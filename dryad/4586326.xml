@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586326</identifier><datestamp>2014-12-31T21:52:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T120K/17</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zinder, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bedford, Trevor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baskerville, Edward B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Woods, Robert J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roy, Manojit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pascual, Mercedes</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>hemagglutinin trees NA/OT xml</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>BEAST XML</subject>
+      <subject>Influenza A/H3N2</subject>
+      <subject>Influenza A virus H3N2</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T120K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2609923 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-31T21:47:13Z (GMT). No. of bitstreams: 1
+beastInputHA_NAOT.xml: 2609923 bytes, checksum: c42b84a47ead21cfdd517fee7e2fa343 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

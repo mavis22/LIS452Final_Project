@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82624</identifier><datestamp>2014-05-29T18:47:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8684</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vijendravarma, Roshan K</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Narasimha, Sunitha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawecki, Tadeusz J</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Plastic and evolutionary responses of cell size and number to larval malnutrition in Drosophila melanogaster</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>body size</subject>
+      <subject>cell number</subject>
+      <subject>cell size</subject>
+      <subject>experimental evolution</subject>
+      <subject>imaginal discs</subject>
+      <subject>nutritional stress</subject>
+      <subject>plasticity</subject>
+      <subject>wing</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Vijendravarma RK, Narasimha S, Kawecki TJ (2011) Plastic and evolutionary responses of cell size and number to larval malnutrition in Drosophila melanogaster. Journal of Evolutionary Biology 24(4): 897&#8211;903.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8684/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1420-9101.2010.02225.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

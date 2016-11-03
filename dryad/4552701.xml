@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4552701</identifier><datestamp>2015-01-27T16:41:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VN413/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Meachen, Julie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Janowicz, Adrianna C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Avery, Jori E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sadleir, Rudyard W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Coyote mandible 2D landmark data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coyote</subject>
+      <subject>mandible</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>North America</subject>
+      <subject>Rancho La Brea</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Recent</subject>
+      <subject>Carnivora</subject>
+      <subject>Canidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VN413</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53197 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a .tps file (it can be opened in Notepad or a similar program) of the 2D landmark data used in this study. The images are not linked up to this file, but I left the image data in to be able to distinguish the mandible identification for each specimen. All image data contains subspecies and museum number (for recent) or pit number and museum number (for Rancho La Brea).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

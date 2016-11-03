@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804750</identifier><datestamp>2015-02-25T16:03:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8N5D7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Husemann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cousseau, Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Callens, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthysen, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vangestel, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallmann, Caspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lens, Luc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phyllastrephus_cabanisi_microsatellites</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>microsatellites</subject>
+      <subject>blood and feather samples</subject>
+      <subject>Ase18</subject>
+      <subject>Indigo41</subject>
+      <subject>Ls1</subject>
+      <subject>Ls2</subject>
+      <subject>Mcyu4</subject>
+      <subject>Pca3</subject>
+      <subject>Pca4</subject>
+      <subject>Pfi04</subject>
+      <subject>Pfl54</subject>
+      <subject>WBSW2</subject>
+      <subject>Taita Hills</subject>
+      <subject>Kenya</subject>
+      <subject>Holocene</subject>
+      <subject>Phyllastrephus cabanisi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>50937 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Microsatellites data: 10 loci; RING = individual ID; FRAG: Forest fragment; PERIOD: 1 (1996-2000) and 2 (2006-2010); followed by 10 loci (one column per allele): Ase18, Indigo41, Ls1, Ls2, Mcyu4, Pca3, Pca4, Pfi04, Pfl54, WBSW2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

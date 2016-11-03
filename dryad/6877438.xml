@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6877438</identifier><datestamp>2015-10-16T15:17:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7842R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Underwood, Zachary E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mandeville, Elizabeth G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walters, Annika W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>split_scaffold_burbot_ref_long_94</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Burbot</subject>
+      <subject>Metapopulation</subject>
+      <subject>Genetic structure</subject>
+      <subject>Genotyping by sequencing</subject>
+      <subject>Wind River</subject>
+      <subject>Wyoming</subject>
+      <subject>USA</subject>
+      <subject>Lota lota</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7842R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5576285 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Because there are no existing genomic resources for burbot, we constructed an artificial reference genome using smng (Seq- Man NGen, DNAstar), using 25 million reads. This artificial reference genome contains 53,789 contigs. We used this assembly as a template to for a reference-based assembly with bwa.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

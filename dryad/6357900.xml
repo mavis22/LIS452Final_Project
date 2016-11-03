@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6357900</identifier><datestamp>2015-06-29T15:48:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.972MV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fenton, Andy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streicker, Daniel G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petchey, Owen L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pedersen, Amy B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mammal-parasite data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Parasites</subject>
+      <subject>Helminths</subject>
+      <subject>Small Mammals</subject>
+      <subject>Rodents</subject>
+      <subject>Epidemiology</subject>
+      <subject>Community</subject>
+      <subject>R0</subject>
+      <subject>Multihost</subject>
+      <subject>Eastern United States</subject>
+      <subject>Nematode</subject>
+      <subject>Cestode</subject>
+      <subject>Eimeria</subject>
+      <subject>Hymenolepis</subject>
+      <subject>Peromyscus</subject>
+      <subject>Myodes</subject>
+      <subject>Tamias</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.972MV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10602 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Measures of (1) infection prevalence, (2) host abundance and (3) mean parasite shedding rates for the different helminth species within the different host species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

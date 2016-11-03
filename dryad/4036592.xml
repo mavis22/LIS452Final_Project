@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4036592</identifier><datestamp>2014-11-13T19:58:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7QS06/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Boogert, Neeltje J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farine, Damien R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spencer, Karen A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Boogert et al. Raw Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>corticosterone</subject>
+      <subject>development</subject>
+      <subject>foraging</subject>
+      <subject>social network</subject>
+      <subject>stress</subject>
+      <subject>zebra finch</subject>
+      <subject>Taeniopygia guttata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7QS06</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>24942660 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This datafile contains three worksheets. The first worksheet displays all the PIT-tag data as automatically recorded by the PIT-tag readers integrated in the bird feeder entrances (or 'antennae'; column E). The second worksheet contains information on the relatedness of birds, their life history traits, sex (1=male, 0=female) and CORT-treatment (1 = fed with CORT, 0 = control, NA=adult). The third worksheet contains info on the leg band numbers worn by the birds (referred to in the first worksheet) and their indices as reported in the second worksheet. Note that ID 100 refers to the experimenter (NJB).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

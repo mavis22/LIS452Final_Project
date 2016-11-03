@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6725547</identifier><datestamp>2015-10-07T15:17:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0C96P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Muth, Felicity</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papaj, Daniel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leonard, Anne S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All learning data for experiment and summary</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>pollen</subject>
+      <subject>foraging</subject>
+      <subject>learning</subject>
+      <subject>bumblebee</subject>
+      <subject>associative</subject>
+      <subject>Bombus impatiens</subject>
+      <subject>Bombus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0C96P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>515566 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The first tab is a summary of all bees used and what they did (bees that did not collect nectar or pollen or only collected small amounts of one were not included in main learning analysis). The second tab is all behavioural data with key in text box.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

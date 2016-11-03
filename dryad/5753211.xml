@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5753211</identifier><datestamp>2015-07-22T17:07:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P0DN0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stelbrink, Bj&#246;rn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shirokaya, Alena A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clewing, Catharina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sitnikova, Tatyana Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prozorova, Larisa A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Albrecht, Christian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplementary data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogenetic analysis</subject>
+      <subject>molecular clock</subject>
+      <subject>pulmonate snails</subject>
+      <subject>species flock</subject>
+      <subject>abyssal</subject>
+      <subject>Russia</subject>
+      <subject>Lake Baikal</subject>
+      <subject>Far East Russia</subject>
+      <subject>Transbaikalia</subject>
+      <subject>Pleistocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Acroloxidae</subject>
+      <subject>Acroloxus</subject>
+      <subject>Baicalancylus</subject>
+      <subject>Gerstfeldtiancylus</subject>
+      <subject>Frolikhiancylus</subject>
+      <subject>Pseudancylastrum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P0DN0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27387 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplementary data includes the RAxML phylogram for the concatenated dataset (16S rRNA, 28S rRNA, COI and H3), the BEAST input xml file and the BEAST MCC tree file. For details see the electronic supplementary material of the article.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

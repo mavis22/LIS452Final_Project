@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505844</identifier><datestamp>2015-04-15T18:51:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PG126/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kuan, Jen-Chun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Chang-Chieh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Chien-An</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chu, Chi-Ming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lin, Fu-Gong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hsu, Chih-Hsiung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kan, Po-Chieh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lin, Shih-Chieh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Tsan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chou, Yu-Ching</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kuan et al. for Plos One 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>colorectal cancer</subject>
+      <subject>DNA methylation</subject>
+      <subject>recurrence</subject>
+      <subject>mortality</subject>
+      <subject>cohort study</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PG126</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>31157 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The raw data for all the analyzes in this study was collected from Tri-Service General Hospital. Patient baseline characteristics, including sex, age at surgery, stage (I, II, III, and IV), recurrence, mortality status, and gene promoter region methylation status in the candidate genes (p16, hMLH1, and MGMT), were compared.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

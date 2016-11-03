@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4047792</identifier><datestamp>2014-10-30T18:35:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.71MH5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Galv&#225;n, Ismael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wakamatsu, Kazumasa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Camarero, Pablo R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mateo, Rafael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alonso-Alvarez, Carlos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Evolution-BSO_sparrows-Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Physiology</subject>
+      <subject>Signaling/Courtship</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.71MH5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>23339 bytes</size>
+      <size>3544 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-10-13T18:11:34Z (GMT). No. of bitstreams: 2
+Evolution-BSO_sparrows-Dryad.xlsx: 23339 bytes, checksum: 24f8cea47fb3a979aa5b64733a4ae95e (MD5)
+README.txt: 3544 bytes, checksum: ad10c263c63836ab1a85004cc198df3f (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

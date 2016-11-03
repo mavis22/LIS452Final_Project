@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4636045</identifier><datestamp>2015-03-03T21:41:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5DR5K/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Derocles, Stephane A. P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Evans, Darren M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nichols, Paul C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Evans, S. Aifionn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lunt, David H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>COI Minibarcode</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Tri-partite interaction</subject>
+      <subject>DNA barcoding</subject>
+      <subject>degraded DNA</subject>
+      <subject>ecological networks</subject>
+      <subject>food-web</subject>
+      <subject>United Kingdom</subject>
+      <subject>Scaptomyza flava</subject>
+      <subject>Chromatomyia horticola</subject>
+      <subject>Chromatomyia syngenesiae</subject>
+      <subject>Pegomyia solennis</subject>
+      <subject>Phytomyza spondylii</subject>
+      <subject>Diglyphus isaea</subject>
+      <subject>Phytomyza cirsii</subject>
+      <subject>Stigmella samiatella</subject>
+      <subject>Ectoedemia albifasciella</subject>
+      <subject>Stigmella splendidissimella</subject>
+      <subject>Cameraria orhidella</subject>
+      <subject>Chromatomyia nigra</subject>
+      <subject>Pegomyia bicolor</subject>
+      <subject>Amauromyza flavifrons</subject>
+      <subject>Agromyza frontella</subject>
+      <subject>Chrysocharis pallipes</subject>
+      <subject>Chrysocharis pubicornis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5DR5K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22748 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequence alignement for COI Minibarcode (130 bp). This alignement has been used to build ML tree.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

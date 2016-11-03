@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5770943</identifier><datestamp>2015-07-06T18:51:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4Q78P/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Robinson, Kathryn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hauzy, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loeuille, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Albrectsen, Benedicte R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Southern_garden_trait-matching_South_DGC</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bipartite networks</subject>
+      <subject>aspen</subject>
+      <subject>arthropod</subject>
+      <subject>antagonism</subject>
+      <subject>modularity</subject>
+      <subject>nestedness</subject>
+      <subject>degree of specialization</subject>
+      <subject>trophic strength</subject>
+      <subject>Sweden</subject>
+      <subject>Populus tremula</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4Q78P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6041 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phenotypic data for aspen genotypes comprising the South DGC in the southern garden: latitude of genotype origin, tree height, tree diameter, bud flush date, bud set date, active growth period,  mean individual leaf area,  mean specific leaf area,  mean petiole length, the proportion of leaves bearing extra-floral nectaries (EFNs), foliar total phenolics, foliar condensed tannins, and the paired difference index based on arthropod herbivore counts. Module is the module number to which each genotype was assigned.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

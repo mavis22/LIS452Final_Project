@@ -1,0 +1,81 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330137</identifier><datestamp>2015-06-18T21:05:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P3KS4/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cheng, Tao</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Perl scripts used in designing and evaluating ITS primers of plants.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA Barcoding</subject>
+      <subject>Systematics</subject>
+      <subject>Angiosperms</subject>
+      <subject>Gymnosperms</subject>
+      <subject>Ferns &amp; Allies</subject>
+      <subject>land plants</subject>
+      <subject>bryophytes</subject>
+      <subject>charophytes</subject>
+      <subject>chlorophytes</subject>
+      <subject>rhodophytes</subject>
+      <subject>Plantae</subject>
+      <subject>Fungi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P3KS4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1620 bytes</size>
+      <size>29282 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These perl scripts were designed by Tao Cheng in 2014 for designing and evaluating ITS primers of plants. The related article has been submitted to Molecular Ecology Resources. The descriptions of each script are as follow: Classifier_Fungi.pl&#13;
+Function: &#13;
+Divide the total Fungi sequences into lower classification level.&#13;
+&#13;
+Classifier_Viridiplantae.pl&#13;
+Function: &#13;
+Divide the total sequences into lower classification level.&#13;
+&#13;
+N_Degenerate_Filter_New.pl&#13;
+Function: &#13;
+Get rid of the sequences with 'n' or degenerate character.&#13;
+&#13;
+contaminantsFilter.pl&#13;
+Function: &#13;
+Remove the potential contaminated sequences from GenBank based on mega-blast.&#13;
+&#13;
+GenBanktoFastawithClassName.pl&#13;
+Function: &#13;
+Convert a GB file to fasta format in following style:&#13;
+# &gt;Class_Genus_Species_TaxonID_GI_ACC_length description&#13;
+# &gt;Nelumbonaceae_Nelumbo_lutea_4431_1479989_L75835_1713 Nelumbo lutea 18S ribosomal RNA (18S rDNA) gene&#13;
+# nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnncc atgcatgtgt&#13;
+# aagtatgaac taattcagac tgtgaaactg cgaatggctc attaaatcag ttatagtttg&#13;
+# tttgatggta tctactactc ggataaccgt agtaattcta gagctaatac gtgcaccaaa&#13;
+# .................................................................&#13;
+# ttgcaattgt tggtcttcaa cgaggaattc ctagtaagcg cgagtcatca gctcgcgttg&#13;
+# actacgtccc tgccctttgt acacaccgcc cgtcgctcct accgattgaa tggtccggtg&#13;
+# aagtgttcgg atcgcggcga cgtgggcggt tcg&#13;
+&#13;
+Find_Conserved_DNA_Segments.pl&#13;
+Function: &#13;
+This script is used to extract conserved DNA segments from an alignment file.&#13;
+&#13;
+MismatchDetect-Batch.pl&#13;
+Function: &#13;
+Calculate the species coverage between the primer and every target sequence.User set the mismatch allowed and the threshold of nucleotides constrained in the 3'-end.&#13;
+&#13;
+getPCRProductLengthByPrimerBlast.pl&#13;
+Function: &#13;
+This script is used to get the PCR product length of a certain primer-pair based on PrimerBlast.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5689878</identifier><datestamp>2015-04-29T17:22:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JP1MK/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bertini, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Proietti, Silvia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caruso, Carla</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SRX814890</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Transcriptomics</subject>
+      <subject>Assembly</subject>
+      <subject>Genetic resource</subject>
+      <subject>RNA-Seq</subject>
+      <subject>Climate Change</subject>
+      <subject>Arctowski base</subject>
+      <subject>King George Island</subject>
+      <subject>Maritime Antarctic</subject>
+      <subject>Colobanthus quitensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JP1MK</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">Sequence files of Colobanthus quitensis transcriptome grown in two different climatic conditions. Sequences were obtained using Illumina Platform Hi-Seq2000. Assembly: Paired-end reads were put through the sequencing pipeline consisting of base calling using Illumina Pipeline, trimming for quality with ERNE and from adapters with Cutadapt software. High quality reads from all libraries combined were then assembled into contigs using the de novo assembler toolbox of CLC Genomics Workbench version 6.5.1 setting default parameters but &#8216;word size&#8217; to 64.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

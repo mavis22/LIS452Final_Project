@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5753034</identifier><datestamp>2015-06-05T17:23:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GP40H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Faghmous, James H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frenger, Ivy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yao, Yuanshun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warmka, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindell, Aron</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumar, Vipin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Global mesoscale ocean eddy features</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>remote sensing</subject>
+      <subject>oceanography</subject>
+      <subject>mesoscale ocean eddies</subject>
+      <subject>global</subject>
+      <subject>1993-2014</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GP40H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18137836778 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A database of ocean eddies identified in daily satellite altimeter data. Each file contains the eddy features identified on that day. Each day has two file one for cyclonic and another for anticyclonic eddies. Each eddy object contains geographical and physical information as well as the grid cells that make up the eddy's body.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

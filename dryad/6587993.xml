@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6587993</identifier><datestamp>2015-08-11T20:13:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.88MV3.1/11.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Krug, Patrick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vendetti, Jann E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ellingson, Ryan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trowbridge, Cynthia D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hirano, Yayoi M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trathen, Danielle Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodriguez, Albert K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swennen, Cornelis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Nerida G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vald&#233;s, &#193;ngel A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S5, BiSSE parameter estimates using a percentage of unsampled taxa to correct for missing data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>development mode</subject>
+      <subject>gastropod</subject>
+      <subject>lecithotrophy</subject>
+      <subject>macroevolution</subject>
+      <subject>planktotrophy</subject>
+      <subject>species selection</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.88MV3.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>50176 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Maximum-likelihood parameter estimates for BiSSE models, correcting for missing data using an overall percentage of unsampled taxa (69%).  The ML tree (Fig. 3) was pruned of terminals missing character data, and used as the input tree for BiSSE analyses with three phylogenetic partitions across Sacoglossa, and either (A) one rate of character change, or (B) rates of reversal to planktotrophy (q10) constrained to be rare (&lt;1%) relative to forward rates (q01).  Estimates from the preferred model are bolded, with alternatives shown in descending order of AIC scores.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

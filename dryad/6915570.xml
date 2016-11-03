@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915570</identifier><datestamp>2015-10-28T14:39:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DP157/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Burbrink, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pyron, R. Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McKelvy, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Myers, Edward</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Damocles Island Simulations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>unified neutral theory of biodiversity</subject>
+      <subject>community phylogenetics</subject>
+      <subject>snakes</subject>
+      <subject>dispersal</subject>
+      <subject>Eastern North America</subject>
+      <subject>Oligocene - Holocene</subject>
+      <subject>Serpentes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DP157</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2543780 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the Damocles-generated island simulations in R format, therefore they are read in R using the dget() command (see R code file).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6542243</identifier><datestamp>2015-08-04T15:49:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.27KK4/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brandon, Christopher S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>James, Tiesha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dudycha, Jeffry L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Eye diameter and body length measures on lab-reared Daphnia obtusa for broad-sense heritability estimation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Natural Selection</subject>
+      <subject>eye size</subject>
+      <subject>selection gradient</subject>
+      <subject>broad-sense heritability</subject>
+      <subject>ponds</subject>
+      <subject>Congaree National Park</subject>
+      <subject>South Carolina</subject>
+      <subject>Holocene</subject>
+      <subject>Daphnia obtusa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.27KK4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>58986 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Eye diameter (um) and body length (um) measurements from a common garden experiment on a number of clones of Daphnia obtusa isolated from ponds in Congaree National Park, South Carolina. Each row corresponds to associated identifiers and measurements for a single individual Daphnia. Pond of origin indicates the name of the pond that the original clone was isolated from. D. obtusa clone refers to the name of the clone (pond abbreviation and a number for specific identity). Daphnia size class was determined as small (&#8804;900 &#956;m), medium (901 &#956;m -1399 &#956;m), and adult (&#8805;1400 &#956;m). These size classes reflect ontogenetic growth from juveniles to adults.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

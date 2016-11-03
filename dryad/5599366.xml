@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5599366</identifier><datestamp>2015-05-29T18:43:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VJ64M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Souche, Erika L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hellemans, Bart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Babbucci, Massimiliano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>MacAoidh, Eoin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guinand, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bargelloni, Luca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chistiakov, Dimitry Alexandrovich</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patarnello, Tomaso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonhomme, Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinsohn, Jann T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Volckaert, Filip A. M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-04-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VJ64M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>153146 bytes</size>
+      <size>331 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-04-14T15:06:05Z (GMT). No. of bitstreams: 2
+SNP genotypes.txt: 153146 bytes, checksum: d9c592668c87d2e4800182e8baba2429 (MD5)
+README.txt: 331 bytes, checksum: e33f6f9dfad7a35b6d948100a3a18638 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

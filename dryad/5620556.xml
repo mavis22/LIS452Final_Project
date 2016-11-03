@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5620556</identifier><datestamp>2015-06-04T20:24:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K4Q1Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Guarnizo, Carlos E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mu&#241;oz-Ortiz, Astrid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crawford, Andrew J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Aligned DNA sequences for CO1 and 16S genes from Colombian frogs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA barcoding</subject>
+      <subject>candidate species</subject>
+      <subject>species delimitation</subject>
+      <subject>species discovery</subject>
+      <subject>Colombia</subject>
+      <subject>Eastern Andes</subject>
+      <subject>Anura</subject>
+      <subject>Amphibia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K4Q1Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>304592 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nexus file of aligned DNA sequence data representing two mitochondrial gene fragments, 16S (bases 1-604) and CO1 (bases 605-1262) obtained for 235 frog specimens collected along the Eastern Cordillera of the Colombian Andes, South America. Alignments were accomplished using default settings in the software package, MUSCLE (Edgar, 2004).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

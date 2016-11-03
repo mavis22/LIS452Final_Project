@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6563247</identifier><datestamp>2015-08-05T16:50:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7NJ7N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pilakouta, Natalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smiseth, Per T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PilakoutaRichardsonSmisethJEB2015.csv</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biparental care</subject>
+      <subject>burying beetles</subject>
+      <subject>negotiation</subject>
+      <subject>sealed bid</subject>
+      <subject>sexual conflict</subject>
+      <subject>Great Britain</subject>
+      <subject>Holocene</subject>
+      <subject>Nicrophorus vespilloides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7NJ7N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5710 bytes</size>
+      <size>58126 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data on biparental cooperation in the burying beetle Nicrophorus vespilloides. The data file contains information on contributions towards parental care by male and female parents and information on the body size of male and female parents.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

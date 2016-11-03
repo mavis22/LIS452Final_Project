@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6670104</identifier><datestamp>2015-08-20T15:03:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.579KJ/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cammen, Kristina M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Smoothed pairwise genetic differentiation (FST) and overall nucleotide diversity (pi)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>common bottlenose dolphin</subject>
+      <subject>harmful algal bloom</subject>
+      <subject>restriction site-associated DNA sequencing</subject>
+      <subject>Adaptation</subject>
+      <subject>Florida</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>Tursiops truncatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12496369 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Smoothed pairwise genetic differentiation (FST) and overall nucleotide diversity (pi) across bottlenose dolphin RAD loci.  Sample pool abbreviations as in description for &#8220;Stacks analysis of common bottlenose dolphin RAD sequences.&#8221;  FST was calculated from nucleotide diversity at each population and across the pooled populations, where nucleotide diversity was calculated using allele counts (see equation 2 in Hohenlohe et al. 2010). Accession numbers refer to scaffolds in the killer whale genome (Oorc_1.1, GCA_000331955.2). Smoothed average FST was calculated using a Gaussian function with theta of 150kb and windows truncated at 3&#963; from centre in both directions</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

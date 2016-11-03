@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5965539</identifier><datestamp>2015-06-16T22:28:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F5124/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Warburton, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohler, Steven L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vonhof, Maarten</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Study Site Nonspatial Explanatory Variables</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>helminths</subject>
+      <subject>community dissimilarity</subject>
+      <subject>Midwestern USA</subject>
+      <subject>Paralecithodendrium naviculum</subject>
+      <subject>Paralecithodendrium swansoni</subject>
+      <subject>Paralecithodendrium transversum</subject>
+      <subject>Paralecithodendrium macnabi</subject>
+      <subject>Acanthatrium pipistrelli</subject>
+      <subject>Acanthatrium microacanthum</subject>
+      <subject>Acanthatrium eptesici</subject>
+      <subject>Acanthatrium alacati</subject>
+      <subject>Glyptoporus noctophilius</subject>
+      <subject>Ototrema breckenridgei</subject>
+      <subject>Plagiorchis vespertilionis</subject>
+      <subject>Litomosoides guiteresi</subject>
+      <subject>Rictularia lucifugus</subject>
+      <subject>Hymenolepis roudabushi</subject>
+      <subject>Eptesicus fuscus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-06-03</date>
+      <date dateType="Accepted">2015-06-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F5124</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12098 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-06-03</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains landcover and climatic data relevant to each study site.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

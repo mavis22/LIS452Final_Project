@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1008708</identifier><datestamp>2014-05-29T22:14:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S3H97</identifier>
+  <creators>
+      <creator>
+         <creatorName>Staubach, Fabian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lorenc, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messer, Philipp W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tang, Kun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petrov, Dmitri A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tautz, Diethard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome patterns of selection and introgression of haplotypes in natural populations of the house mouse (Mus musculus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>adaptation</subject>
+      <subject>introgression</subject>
+      <subject>SNP analysis</subject>
+      <subject>selective sweeps</subject>
+      <subject>Mus musculus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Staubach F, Lorenc A, Messer PW, Tang K, Petrov DA, Tautz D (2012) Genome patterns of selection and introgression of haplotypes in natural populations of the house mouse (Mus musculus). PLoS Genetics 8(8): e1002891.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S3H97/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PGEN.1002891</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

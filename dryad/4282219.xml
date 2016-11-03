@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282219</identifier><datestamp>2015-02-09T19:18:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K1J51/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nilsson-&#214;rtman, Viktor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rogell, Bjorn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoks, Robby</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johansson, Frank</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>NilssonOrtman2014_Headwidth_Data-1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ontogeny</subject>
+      <subject>growth rate</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>genetic variance</subject>
+      <subject>latitude</subject>
+      <subject>Coenagrion</subject>
+      <subject>Europe</subject>
+      <subject>Sweden</subject>
+      <subject>Belgium</subject>
+      <subject>France</subject>
+      <subject>Spain</subject>
+      <subject>Odonata</subject>
+      <subject>Coenagrionidae</subject>
+      <subject>Coenagrion armatum</subject>
+      <subject>Coenagrion johanssoni</subject>
+      <subject>Coenagrion pulchellum</subject>
+      <subject>Coenagrion puella</subject>
+      <subject>Coenagrion mercuriale</subject>
+      <subject>Coenagrion scitulum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K1J51</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1062021 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Head widths (&#8221;hw&#8221;) of larvae of six species of damselflies (&#8221;spec&#8221;) reared in the laboratory at three or four temperatures ("temp"). Head widths are in the unit of millimeter. Head widths were measured at four different ages (&#8221;day&#8221;). These measurements were made immediately following hatching (day = 0),and at the age of 42, 84 and 126 days. Different species and populations were reared in three different years (&#8221;year&#8221;). Each species was sampled from populations at three different latitudes, namely near its southern range limit, at the core of its range and near the northern range limit (&#8221;lat&#8221;, coded as s, c and n, respectively). At each latitude, between two and four subpopulations were sampled (&#8221;pop&#8221;). The latitude (&#8221;lat&#8221;) and longitude (&#8221;long&#8221;) is given for each subpopulation. For a list of populations and abbreviations, please refer to Table S1 in the published paper. From each subpopulations, full-sib larvae were reared from several families (&#8221;fam&#8221;), i.e. they were hatched from eggs laid by a single female, and from each family we reared 5 individual larvae (&#8221;ind&#8221;) at each temperature.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

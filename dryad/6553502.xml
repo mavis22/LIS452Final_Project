@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553502</identifier><datestamp>2015-08-21T13:59:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PM37B/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Reichert, Michael S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#246;bel, Gerlinde</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Call Duration Preference Function data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sexual selection</subject>
+      <subject>animal communication</subject>
+      <subject>preference functions</subject>
+      <subject>multimodal integration</subject>
+      <subject>Wisconsin</subject>
+      <subject>Hyla versicolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PM37B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>947 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Descriptive measurements for female preference functions measured in response to the call duration stimuli</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

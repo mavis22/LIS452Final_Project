@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6667050</identifier><datestamp>2015-09-02T18:47:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4GG88/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>House, Clarissa M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rapkin, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lane, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okada, Kensuke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hosken, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunt, John</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>House et al. ConditionData-Survival&amp;Development&amp;MorphologicalData</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Condition-dependence</subject>
+      <subject>genitalia</subject>
+      <subject>larval diet</subject>
+      <subject>nutritional geometry</subject>
+      <subject>sexual selection</subject>
+      <subject>weapons</subject>
+      <subject>Gnatocerus cornutus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4GG88</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>77847 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sheet 1 includes survival (0 = died, 1 = survived), development time and body size. Diet is a number from 1 - 24, Plate number is a number from 1 - 96. The %P and %C is the percentage P and C in that diet. Sheet 2 includes the morphometric data - body size, mean eye area, mandible size &amp; genital size. As before, Diet is a number from 1 - 24, Plate number is a number from 1 - 71. The %P and %C is the percentage P and C in that diet. Please refer to the manuscript for information explaining why some diets aren't represented in the morphological data and the 'plate' effect.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6334772</identifier><datestamp>2015-07-16T15:46:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1S138/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petersen, Carola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saebelfeld, Manja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbosa, Camilo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pees, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hermann, Ruben Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schalkowski, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strathmann, Eike Andreas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirksen, Philipp</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulenburg, Hinrich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Results of C. elegans choice assay</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>natural variation</subject>
+      <subject>Bacterial choice assay</subject>
+      <subject>Northern Germany</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1S138</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>134943 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data for C. elegans choice assay. During this assay, C. elegans was given the choice between two bacteria, using the standardized C. elegans choice assay. The table includes information on strain code (first column), origin of the strain (second column), strain genotype as inferred with microsatellites (third column), year of C. elegans sampling (fourth column), replicate of choice assay within a particular run of the experiment (fifth column), run of experiment (sixth column), scoring time point (seventh column), position of the two bacterial strains/species (eighth and nineth columns), and the inferred choice index (tenth column) - always relative to the first listed bacterium.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

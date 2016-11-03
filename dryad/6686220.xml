@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6686220</identifier><datestamp>2015-09-02T18:07:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8JQ92/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nijaguna, Mamatha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patil, Vikas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hegde, Alangar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bangalore, Chandramouli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arimappamagan, Arivazhaganc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vani, Santosh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Somasundaram, Kumaravel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>An eighteen serum cytokine signature for discriminating glioma from normal healthy individuals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>glioma</subject>
+      <subject>cytokine</subject>
+      <subject>serum biomarker</subject>
+      <subject>signature</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8JQ92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>84135 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Serum cytokine profiling was done using serum samples from normal (n=26), GBM (n=148), DA (n=24) and AA (n=22) by bead array method.  We used commercially available human cytokine kits: 21-plex and 27-plex (Bio-rad) and followed the protocol according to manufacturer&#8217;s instructions.  The basic principle is based on sandwich ELISA. In this assay, serum samples were diluted 4 times with dilution buffer and incubated with beads containing specific antibodies directed against different cytokines.  After thorough washing step, a biotinylated detection antibody was added.  Next, a streptavidin-phycoerythrin reporter complex was added and incubated for 15 mins.  The plate was washed and read using bio-plex system, a dual-laser flow-based microplate reader.  The lasers and associated optics detect the internal fluorescence of the individual bead as well as the fluorescent reporter signal on the bead surface.  The standard curve was generated using known concentrations of purified cytokines which later allowed the quantification (pico gram /mL) of each cytokine in the serum samples.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

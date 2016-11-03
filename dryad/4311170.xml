@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4311170</identifier><datestamp>2014-12-18T18:30:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B8NF6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rey, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;lisson, Pierre-Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bel-Venner, Marie-Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Voituron, Yann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venner, Samuel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>antioxidant and oxidative stress markers in C. elephas and C. glandium</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Trade-Offs</subject>
+      <subject>Life-History Evolution</subject>
+      <subject>Physiology</subject>
+      <subject>Competition</subject>
+      <subject>France</subject>
+      <subject>R&#233;gion Rh&#244;ne Alpes (N45&#176; 45&#8242;; E5&#176; 16&#8242;)</subject>
+      <subject>Curculio elephas</subject>
+      <subject>Curculio glandium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B8NF6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25448 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contain measures of antioxidant defences (total antioxidant:TEAC; superoxide dismutase: SOD; and catalase: CAT activities) and oxidative damage (malondialdehyde: MDA) expressed per mg of body mass and per mg of protein.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

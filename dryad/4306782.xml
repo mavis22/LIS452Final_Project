@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4306782</identifier><datestamp>2015-05-20T14:58:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0P468/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Catton, Haley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lalonde, Robert G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Clerck-Floate, Rosemarie A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Catton et al Fig 2 data June 10 2013</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>biological control</subject>
+      <subject>nontarget attack</subject>
+      <subject>refuges</subject>
+      <subject>weed biocontrol</subject>
+      <subject>plant dissections</subject>
+      <subject>Alberta</subject>
+      <subject>Canada</subject>
+      <subject>Present</subject>
+      <subject>Mogulones crucifer</subject>
+      <subject>Mogulones cruciger</subject>
+      <subject>Cynoglossum officinale</subject>
+      <subject>Hackelia micrantha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0P468</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21888 bytes</size>
+      <size>70136 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file was used to generate Figure 2 in Catton et al. (2015). It contains the results of dissectionsfor M. crucifer eggs and larvae in Cynoglossum officinale and Hackelia micrantha plants on M. crucifer release sites where both plant species were present.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

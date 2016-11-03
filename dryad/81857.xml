@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81857</identifier><datestamp>2015-10-26T20:50:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8013</identifier>
+  <creators>
+      <creator>
+         <creatorName>Humphreys, Aelys Muriel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Antonelli, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pirie, Michael D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linder, H. Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ecology and evolution of the diaspore 'burial syndrome'</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>ancestral state reconstruction</subject>
+      <subject>character loss</subject>
+      <subject>correlated evolution</subject>
+      <subject>Danthonioideae</subject>
+      <subject>Poaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Humphreys AM, Antonelli A, Pirie MD, Linder HP (2010) Ecology and evolution of the diaspore 'burial syndrome'. Evolution 65(4): 1163&#8211;1180.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8013/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2010.01184.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

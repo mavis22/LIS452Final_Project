@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5718131</identifier><datestamp>2015-05-11T16:05:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q06C4/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moreira, Ant&#243;nio S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Horgan, Finbarr G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murray, Tom&#225;s E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kakouli-Duarte, Thomais</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S6</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation Biology</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Population Ecology</subject>
+      <subject>Ireland</subject>
+      <subject>Britain and Continental Europe</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q06C4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>225837 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table S6 &#8211; Migration rates among B. terrestris populations estimated using BAYESASS. Values shown are the means of the posterior distributions of m, the migration rate into each population, and their respective 95% CI in parenthesis. Values along the diagonal (in bold) are the proportion of individuals derived from the source population each generation. The expected mean and CI of non-migrants is 0.833 (0.675, 0.992), the expected mean and CI for migration is 0.013 (1.31x10-15, 0.104).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4258841</identifier><datestamp>2015-02-12T21:26:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M2V4M</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ellington, E. Hance</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bastille-Rousseau, Guillaume</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Austin, Cayla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Landolt, Kristen N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pond, Bruce A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rees, Erin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robar, Nicholas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murray, Dennis L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Using multiple imputation to estimate missing data in meta-regression</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>multiple imputation</subject>
+      <subject>missing data</subject>
+      <subject>meta-analysis</subject>
+      <subject>meta-regression</subject>
+      <subject>complete case removal</subject>
+      <subject>partial data</subject>
+      <subject>ecological synthesis</subject>
+      <subject>model selection</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ellington EH, Bastille-Rousseau G, Austin C, Landolt KN, Pond BA, Rees EE, Robar N, Murray DL (2014) Using multiple imputation to estimate missing data in meta-regression. Methods in Ecology and Evolution 6(2): 153-163.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M2V4M/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M2V4M/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12322</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

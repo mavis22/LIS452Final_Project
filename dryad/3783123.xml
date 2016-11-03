@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3783123</identifier><datestamp>2014-08-12T20:04:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8H022</identifier>
+  <creators>
+      <creator>
+         <creatorName>Green, Walton A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Little, Stefan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Price, Charles A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wing, Scott L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Selena Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kotrc, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doria, Gabriela</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Reading the leaves: a comparison of leaf rank and automated areole measurement for quantifying aspects of leaf venation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Automated image quantification</subject>
+      <subject>Leaf architecture</subject>
+      <subject>Leaf rank</subject>
+      <subject>Leaf venation</subject>
+      <subject>Repeatability</subject>
+      <subject>Recent</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Green WA, Little SA, Price CA, Wing SL, Smith SY, Kotrc B, Doria G (2014) Reading the leaves: a comparison of leaf rank and automated areole measurement for quantifying aspects of leaf venation. Applications in Plant Sciences 2(8): 1400006.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8H022/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/APPS.1400006</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

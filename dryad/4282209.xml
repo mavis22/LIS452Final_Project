@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282209</identifier><datestamp>2014-12-31T15:47:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F082M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Houte, Stineke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Oers, Monique M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yue, Han</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vlak, Just M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ros, Vera I.D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>raw_data_Fig1A</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F082M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42949 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Height (mm) at which each individual larva (n=31) was found at time points t=0 hours post-infection (hpi) until 166 hpi. At each time point survival was monitored (alive/dead =A/D).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2040031</identifier><datestamp>2014-05-30T06:14:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q7S8K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Myers, Erin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harwell, Tiffany I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yale, Elizabeth L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lamb, Abigail M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frankino, W. Anthony</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Multifaceted, cross-generational costs of hybridization in sibling Drosophila species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>postzygotic isolation</subject>
+      <subject>natural selection</subject>
+      <subject>reinforcement</subject>
+      <subject>Western North America</subject>
+      <subject>D. persimilis</subject>
+      <subject>D. pseudoobscura</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Myers EM, Harwell TI, Yale EL, Lamb AM, Frankino WA (2013) Multifaceted, cross-generational costs of hybridization in sibling Drosophila species. PLoS ONE 8(11): e80331.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q7S8K/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0080331</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

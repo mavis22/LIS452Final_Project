@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6351705</identifier><datestamp>2015-11-16T22:23:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PM4V7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maxwell, Erin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vincent, Peggy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Specimen list and measurement data for Stenopterygius quadriscissus; Plot of lower jaw length against stratigraphic occurrence for all specimens of S. quadriscissus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Posidonia Shale</subject>
+      <subject>Body Size</subject>
+      <subject>Baden-W&#252;rttemberg</subject>
+      <subject>Germany</subject>
+      <subject>Mesozoic</subject>
+      <subject>Jurassic</subject>
+      <subject>Toarcian</subject>
+      <subject>Reptilia</subject>
+      <subject>Ichthyosauria</subject>
+      <subject>Stenopterygius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PM4V7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>103073 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplementary Table 1.&#8212;Specimen list and measurement data for Stenopterygius quadriscissus. Note that only approximate geographic provenance is available as these are historical finds. All measurements are in millimetres. Specimens for which all 6 measurements were not available were included in the lower jaw mean length analysis, but not the PCA analysis.; Supplementary Figure 1.&#8212;Plot of lower jaw length against stratigraphic occurrence for all specimens of S. quadriscissus (juveniles included).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

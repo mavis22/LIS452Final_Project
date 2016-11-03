@@ -1,0 +1,144 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6797807</identifier><datestamp>2015-11-06T21:52:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC688</identifier>
+  <creators>
+      <creator>
+         <creatorName>Geijzendorffer, Ilse R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Targetti, Stefano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schneider, Manuel K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brus, Dick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jeanneret, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jongman, Robert H. G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knotters, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viaggi, Davide</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angelova, Siyka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arndorfer, Michaela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bailey, Debra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balzacs, Katalin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>B&#225;ldim, Andr&#225;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bogers, Marion M. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunce, Robert G.H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choisis, Jean-Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dennis, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eiter, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fjellstad, Wendy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Friedel, J&#252;rgen F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomiero, Tiziano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griffioen, Arjan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kainz, Max</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kov&#225;cs-Hosty&#225;nszki, Anik&#243;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#252;scher, Gisela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moreno, Gerardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nascimbene, Juri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paoletti, Maurizio G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pointereau, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sarthou, Jean-Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siebrecht, Norman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Staritsky, Igor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoyanova, Siyka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolfrum, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herzog, Felix</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: How much would it cost to monitor farmland biodiversity in Europe?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Species richness</subject>
+      <subject>Farmland biodiversity</subject>
+      <subject>Habitat</subject>
+      <subject>Plants</subject>
+      <subject>Spiders</subject>
+      <subject>Bees</subject>
+      <subject>Earth worms</subject>
+      <subject>Agriculture</subject>
+      <subject>Agri-environment schemes</subject>
+      <subject>Biodiversity indicator</subject>
+      <subject>Common agricultural policy</subject>
+      <subject>Empirical data</subject>
+      <subject>Farming system</subject>
+      <subject>Sampling design</subject>
+      <subject>Species trend</subject>
+      <subject>Power analysis</subject>
+      <subject>Europe</subject>
+      <subject>2010</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Schneider MK, Geijzendorffer IR, Herzog F, L&#252;scher G (2015) Data from: How much would it cost to monitor farmland biodiversity in Europe? Journal of Applied Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KC688/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2664.12552</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

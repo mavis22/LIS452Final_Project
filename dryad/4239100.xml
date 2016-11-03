@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239100</identifier><datestamp>2014-12-19T17:39:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.485QQ/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zaman, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Justin R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Devangam, Suhas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bryson, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lenski, Richard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ofria, Charles</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>coevolving-complexity-time_to_MRCA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>host-parasite coevolution</subject>
+      <subject>evolution of complexity</subject>
+      <subject>evolutionary ecology</subject>
+      <subject>experimental evolution</subject>
+      <subject>digital evolution</subject>
+      <subject>community ecology</subject>
+      <subject>evolvability</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.485QQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2080 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data are used to generate Figure 8 in the manuscript. The MRCA is identified by essentially building the phylogenetic tree of all living Avida programs at the end of each run and identifying the first branching event. The tree is constructed using data included in the  **detail** files, which are provided in the compressed files coevolving-complexity-details_and_phenotype_grids.tar.gz. These detail files record the parent/offspring relationship for every genotype alive as well as their entire line of decent. The summarized data are summarized with the following columns: &#13;
+&#13;
+1. Treatment - Name of the treatment where these data are from (Coevolved/Evolved)&#13;
+2. Replicate - The replicate population within the treatment&#13;
+3. UpdateLCABorn - The update that the last common ancestor of all the organisms present at the end of the experiment  (MRCA) was born&#13;
+4. lost_parasites - Did this population drive parasites extinct? (0/1)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

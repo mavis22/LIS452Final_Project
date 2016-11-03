@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6837585</identifier><datestamp>2015-10-20T19:04:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.534NG/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Borkenhagen, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooper, David J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Trench Sept 2014_NoO</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Boreal</subject>
+      <subject>constructed fens</subject>
+      <subject>hydrologic niches</subject>
+      <subject>mineral sediment</subject>
+      <subject>moss establishment</subject>
+      <subject>mulch cover</subject>
+      <subject>fen moss</subject>
+      <subject>vascular plant cover</subject>
+      <subject>water table gradient</subject>
+      <subject>Fort McMurray</subject>
+      <subject>Alberta</subject>
+      <subject>Canada</subject>
+      <subject>Drepanocladus aduncus (Hedw.) Warnst.</subject>
+      <subject>Ptychostomum (Bryum) pseudotriquetrum (Hedw.) D.T.Holyoak et N.Pedersen</subject>
+      <subject>Campylium stellatum (Hedw.) C.Jens.</subject>
+      <subject>Tomentypnum nitens (Hedw.) Loeske</subject>
+      <subject>and Aulacomnium palustre (Hedw.) Schwaegr</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.534NG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16159 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Percent cover of vascular and non-vascular species. Absolute and relative for moss species, relativized by total moss cover. &#13;
+&#13;
+plotid = Plot ID;&#13;
+Rep = Replicate;&#13;
+Trt = Water level treatment (0 cm, -10 cm, -20 cm, -30 cm);&#13;
+Cover = Cover treatment (HP = Herbaceous plants, LS = Low shrub, WM = Wood-strand mulch, NC = No-cover control, C = No-moss no-cover control);&#13;
+Litter = Percent cover of litter;&#13;
+WtoS = Soil to average water level;&#13;
+Tdiff = Temperature difference between surface and 5 cm depth in the soil (C o);&#13;
+SOM = Percent soil organic matter;&#13;
+Weeds = Percent cover of unplanted vascular plants;&#13;
+HP = Percent cover of herbaceous plants;&#13;
+LS = Percent cover of low shrubs;&#13;
+TMB = total moss biomass; (g) GWC = Gravimetric water content;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

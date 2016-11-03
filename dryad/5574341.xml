@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574341</identifier><datestamp>2015-04-06T19:59:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B80F6/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cheeke, Tanya E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sch&#252;tte, Ursel M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hemmerich, Chris M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cruzan, Mitchell B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rosenstiel, Todd N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bever, James D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S4 Growth AMF and OTU data_molecular plots</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agriculture</subject>
+      <subject>Biotechnology</subject>
+      <subject>Fungi</subject>
+      <subject>Genetically Modified Organisms</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Species Interactions</subject>
+      <subject>44.50N 123.23W</subject>
+      <subject>Glomeromycota</subject>
+      <subject>Zea mays</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B80F6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>160768 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file of growth responses, percent root colonization by arbuscular mycorrhizal fungi (AMF), and operational taxonomic units (OTU) obtained by 454 pyrosequencing for Bacillus thuringiensis (Bt) maize and non-Bt parental isolines harvested from a subset of five plots in a field experiment 60 days after sowing (Corvallis, OR, USA). The X,Y coordinates (cm) for each plant were used in the analysis of spatial variability of AMF communities (Mantel Correlogram; Fig. 4). The Legend, which provides information pertaining to each column heading, is located on the second sheet of the Excel file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

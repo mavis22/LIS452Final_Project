@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3636155</identifier><datestamp>2015-06-24T15:22:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F55C5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Oliver, Jeffrey C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beaulieu, Jeremy M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gall, Lawrence F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piel, William H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monteiro, Ant&#243;nia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data and phylogenetic estimates for Oliver et al. 2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>homology</subject>
+      <subject>modularity</subject>
+      <subject>network</subject>
+      <subject>wing patterns</subject>
+      <subject>Lepidoptera</subject>
+      <subject>Nymphalidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F55C5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>186891 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Each NEXUS-formatted file includes (1) a phylogenetic estimate of relationships among nymphalid butterfly families based on Wahlberg et al. (2009) and (2) a data matrix for wing pattern characters.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

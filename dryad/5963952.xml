@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5963952</identifier><datestamp>2015-07-01T18:41:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R6B0P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rosengren, Frida</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cronberg, Nils</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Rosengren_Cronberg_Sporegermination</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bryophytes</subject>
+      <subject>dwarf males</subject>
+      <subject>sexual reproduction</subject>
+      <subject>sporophytes</subject>
+      <subject>spore</subject>
+      <subject>germination</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R6B0P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46894 bytes</size>
+      <size>854 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-06-03T15:03:39Z (GMT). No. of bitstreams: 2
+Rosengren_Cronberg_Sporegermination.xlsx: 46894 bytes, checksum: bb1e18b35a5ed82bc1cdc47f6417295a (MD5)
+README.txt: 854 bytes, checksum: fd50af4b21a517e374c012e8d0da7207 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

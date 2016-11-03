@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4290166</identifier><datestamp>2014-12-14T17:21:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8G55G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lendemer, James C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harris, Richard C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>changes_MACP_datapacket</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Sandhills</subject>
+      <subject>maritime forest</subject>
+      <subject>barrier island</subject>
+      <subject>taxonomy</subject>
+      <subject>floristics</subject>
+      <subject>North America</subject>
+      <subject>southern Appalachians</subject>
+      <subject>Coastal Plain</subject>
+      <subject>Mid-Atlantic</subject>
+      <subject>Anthropocene</subject>
+      <subject>Cladonia apodocarpa</subject>
+      <subject>Lecanora cinereofusca</subject>
+      <subject>Lecanora saxigena</subject>
+      <subject>Lecanora cinereofusca var. appalachensis</subject>
+      <subject>Phlyctis boliviensis</subject>
+      <subject>Phlyctis ludoviciensis</subject>
+      <subject>Leucodecton willeyi</subject>
+      <subject>Phlyctis willeyi</subject>
+      <subject>Piccolia nannaria</subject>
+      <subject>Schismatomma rappii</subject>
+      <subject>Tylophoron hibernicum</subject>
+      <subject>Tylophoron protrudens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8G55G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21322 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a zipped folder containing the following items: 1) alignments of Cladonia nrITS sequences used in Bayesian Inference (BI), maximum likelihood (ML), and maximum parsimony (MP) analyses in this study; 2) alignment of nrITS sequences of Lecanora cinereofusca s.l. used for examination of genetic distance; 3) alignments of mtSSU sequences of Lecanoraceae illustrating the monophyly and phylogenetic placement of Lecanora cinereofusca s.l. used in in Bayesian Inference (BI) and maximum likelihood (ML) analyses in this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

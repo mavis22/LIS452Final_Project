@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3605168</identifier><datestamp>2015-06-18T06:30:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.20CF2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Perrier, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Normandeau, &#201;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dionne, M&#233;lanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richard, Antoine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernatchez, Louis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DATA1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Animal Mating/Breeding Systems</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Fisheries Management</subject>
+      <subject>Inbreeding</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Population Genetics - Empirical</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.20CF2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>341076 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypes of the fish sampled: ID(A:fry ; P:anadromous)	type(fry/anadromous); sex of the anadromous fish; father and mother assigned to each fry. " * " corresponds to precocious parr.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

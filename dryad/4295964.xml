@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4295964</identifier><datestamp>2014-12-06T00:48:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JK2M0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sakaluk, Scott K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Alastair J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bowers, E. Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, L. Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Masters, Brian S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Bonnie G.P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vogel, Laura A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Forsman, Anna M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Charles F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sakaluk et al house wren pedigree and trait values</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>animal model</subject>
+      <subject>condition</subject>
+      <subject>haematocrit</subject>
+      <subject>heritability</subject>
+      <subject>genetic variation</subject>
+      <subject>immunity</subject>
+      <subject>life-history theory</subject>
+      <subject>PHA response</subject>
+      <subject>Illinois</subject>
+      <subject>McLean County</subject>
+      <subject>Parklands Nature Preserve</subject>
+      <subject>40.665N</subject>
+      <subject>88.89W</subject>
+      <subject>Troglodytes aedon</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JK2M0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>207542 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the pedigree on which the animal model was based (tab labeled 'Pedigree') and the trait values of nestlings that were analyzed (tab labeled 'Nestling trait values'.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

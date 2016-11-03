@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687436</identifier><datestamp>2015-06-09T17:54:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.47NM0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, Laura N. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McLeod, Brenna A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burns, Lynne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arseneault, Krista</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frasier, Timothy R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broders, Hugh G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MYLU_microsatellites_Genepop_infile.txt</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>population structure</subject>
+      <subject>nuclear DNA</subject>
+      <subject>microsatellites</subject>
+      <subject>migration</subject>
+      <subject>swarming</subject>
+      <subject>regional migration</subject>
+      <subject>temperate bat</subject>
+      <subject>Nova Scotia</subject>
+      <subject>New Brunswick</subject>
+      <subject>Canada</subject>
+      <subject>Maritime Canada</subject>
+      <subject>Holocene</subject>
+      <subject>Myotis lucifugus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.47NM0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1426 bytes</size>
+      <size>73738 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the genotypes (at 9 loci) of M. lucifugus bats at 29 sites in New Brunswick and Nova Scotia, Canada.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

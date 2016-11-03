@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4883559</identifier><datestamp>2015-02-25T16:50:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4GV50/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wright, Alison E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrison, Peter W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zimmer, Fabian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montgomery, Stephen H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pointer, Marie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mank, Judith E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RPKM data for each of the six Galloanserae species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Faster-Z evolution</subject>
+      <subject>effective population size</subject>
+      <subject>sexual selection</subject>
+      <subject>genetic drift</subject>
+      <subject>UK</subject>
+      <subject>90 million years</subject>
+      <subject>Anas platyrhynchos</subject>
+      <subject>Meleagris gallopavo</subject>
+      <subject>Phasianus colchicus</subject>
+      <subject>Numida meleagris</subject>
+      <subject>Pavo cristatus</subject>
+      <subject>Anser cygnoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-02-16</date>
+      <date dateType="Accepted">2015-02-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4GV50</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>49978052 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-02-16</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains a file of RPKM expression data for each of the six species. APL = Anas platyrhynchos, ACY = Anser cygnoides, MGA = Meleagris gallopavo, NME = Numida meleagris, PCO = Phasianus colchicus, PCR = Pavo cristatus. Gene expression was quantified using only adult gonad samples and estimated as reads per kilobase per million mappable reads (RPKM) using RSEM v1.1.21 with default parameters (Li and Dewey 2011).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

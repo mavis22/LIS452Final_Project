@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665809</identifier><datestamp>2014-05-29T23:56:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VQ587/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bertone, Matthew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mik&#243;, Istv&#225;n</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoder, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seltmann, Katja C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Arthropod_Alignment_obo_xrefs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>ontology</subject>
+      <subject>matching</subject>
+      <subject>alignment</subject>
+      <subject>LOOM</subject>
+      <subject>correspondences</subject>
+      <subject>domain expert</subject>
+      <subject>Drosophila melanogaster</subject>
+      <subject>Hymenoptera</subject>
+      <subject>Araneae</subject>
+      <subject>Ixodidae</subject>
+      <subject>Culicidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-01-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VQ587</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

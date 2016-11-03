@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3507907</identifier><datestamp>2014-10-28T19:33:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HB169</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jordaens, Kurt</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Backeljau, Thierry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Oosten, A. Raoul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heylen, Dieter J. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthysen, Erik</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Population genetic structure of the tree-hole tick Ixodes arboricola (Acari: Ixodidae) at different spatial scales</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>microsatellites</subject>
+      <subject>host-parasite interactions</subject>
+      <subject>dispersal</subject>
+      <subject>null alleles</subject>
+      <subject>population genetics</subject>
+      <subject>population structure</subject>
+      <subject>relatedness</subject>
+      <subject>Belgium</subject>
+      <subject>Ixodes arboricola</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Van Oosten AR, Heylen DJA, Jordaens K, Backeljau T, Matthysen E (2014) Population genetic structure of the tree-hole tick Ixodes arboricola (Acari: Ixodidae) at different spatial scales. Heredity 113(5): 408-415.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HB169/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HB169/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HB169/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HB169/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2014.41</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

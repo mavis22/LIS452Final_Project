@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4305513</identifier><datestamp>2014-12-23T18:39:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VN2SH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matos, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pinho, Pedro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arag&#243;n, Gregorio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez, Isabel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nunes, Alice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soares, Amadeu M. V. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Branquinho, Cristina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Relative percentage of species LDV (lichen diversity value) per sampling site</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>drylands</subject>
+      <subject>photobiont type</subject>
+      <subject>semi-arid</subject>
+      <subject>functional response groups</subject>
+      <subject>growth form</subject>
+      <subject>reproduction</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VN2SH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>37842 bytes</size>
+      <size>6804 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Relative percentage of species LDV (lichen diversity value) collected along an aridity gradient in SW Europe (Iberian Pen&#237;nsula). Columns are species, sows are sampling sites. Species can be decoded in the ReadMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

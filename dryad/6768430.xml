@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768430</identifier><datestamp>2015-10-01T17:06:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F6G68/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gibson, Amanda Kyle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoy, Kayla S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gelarden, Ian A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Penley, McKenna J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lively, Curtis M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morran, Levi T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Frequency of the ruby-throated phenotype</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Evolution of virulence</subject>
+      <subject>experimental evolution</subject>
+      <subject>experimental coevolution</subject>
+      <subject>Caenorhabditis elegans</subject>
+      <subject>Serratia marcescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F6G68</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7918 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Frequency of the ruby-throated phenotype assayed in different combinations of host and parasite lines. "Pairing" indicates the specific pairing of host and parasite lines being made. "Host" and "Parasite" columns provide additional details. In these columns, Ancestor and Ancestor-sm2170 refer to the ancestral populations of host and parasite, respectively, used to initiate experimental evolution. Similarly, control, singly, and co-passaged refer to the products of 20 generations of experimental selection under the Control, Singly-passaged, and Co-passaged treatments, respectively. "Line" indicates the replicate lineage being tested, and "Replicate" indicates the replicate assay plate within each replicate lineage. "Frequency" indicates the proportion of adult hermaphrodites displaying the ruby-throated phenotype in the assay population.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

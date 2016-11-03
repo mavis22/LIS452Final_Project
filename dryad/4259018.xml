@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4259018</identifier><datestamp>2014-11-29T18:57:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HN4TN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pruvost, Nicolas B. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikul&#237;&#269;ek, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choleva, Luk&#225;&#353;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reyer, Heinz-Ulrich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DNA microsatelitte allele data set</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Amphibians &amp; reptiles</subject>
+      <subject>Comparative studies</subject>
+      <subject>Ecological genetics</subject>
+      <subject>Molecular evolution</subject>
+      <subject>Natural selection</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population genetics</subject>
+      <subject>Pelophylax esculentus</subject>
+      <subject>Pelophylax lessonae</subject>
+      <subject>Pelophylax ridibundus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HN4TN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>96126 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">DNA microsatelitte data file for the 16 loci used in the study (RlCA5 and Res16 were not used for any of the analyses). (txt tabulated format)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

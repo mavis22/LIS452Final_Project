@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2417920</identifier><datestamp>2014-05-30T08:57:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J15Q6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chavez, Andreas S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kenagy, George James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maher, Sean P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arbogast, Brian S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Diversification and gene flow in nascent lineages of island and mainland North American tree squirrels (Tamiasciurus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Gene Flow</subject>
+      <subject>Hybridization</subject>
+      <subject>Phylogenetics</subject>
+      <subject>North America</subject>
+      <subject>Pacific Northwest</subject>
+      <subject>Vancouver Island</subject>
+      <subject>Pleistocene</subject>
+      <subject>Tamiasciurus douglasii</subject>
+      <subject>Tamiasciurus hudsonicus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chavez AS, Maher SP, Arbogast BS, Kenagy GJ (2013) Diversification and gene flow in nascent lineages of island and mainland North American tree squirrels (Tamiasciurus). Evolution 68(4): 1094&#8211;1109.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J15Q6/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J15Q6/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J15Q6/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J15Q6/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J15Q6/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12336</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

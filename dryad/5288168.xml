@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5288168</identifier><datestamp>2015-04-15T18:29:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H0H90/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Z&#252;st, Marc Alain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colella, Patrizio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reber, Thomas Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vuilleumier, Patrik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hauf, Martinus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruch, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Henke, Katharina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fMRI_RT_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>MRI</subject>
+      <subject>fMRI</subject>
+      <subject>EPI</subject>
+      <subject>relational memory</subject>
+      <subject>unconscious</subject>
+      <subject>hippocampus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H0H90</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3653917921 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">fMRI and reaction time data from an unconscoious relational memory paradigm. All data are prepared to be processed with SPM 8 for MATLAB. Additional information about the data structure, acquisition parameters and processing instructions are included in the downloadable package (zip format). Use an archive manager such as 7-zip, winrar or similar to access data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

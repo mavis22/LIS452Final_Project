@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4036839</identifier><datestamp>2014-11-07T13:59:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.974K0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stover, John G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallett, Timothy B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Zunyou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warren, Mitchell</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gopalappa, Chaitra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pretorius, Carel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ghys, Peter D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montaner, Julio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartl&#228;nder, Bernhard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Model output by country and indicator</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>HIV infections averted</subject>
+      <subject>Indicators</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.974K0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>14902 bytes</size>
+      <size>3413630 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file contains the output of the model for each of the countries by indicator and year.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

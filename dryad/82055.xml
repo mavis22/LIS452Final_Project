@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82055</identifier><datestamp>2015-10-27T21:04:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8394/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Capellini, Isabella</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venditti, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barton, Robert A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Capellini et al2011_AmNat_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>reproduction</subject>
+      <subject>placentation</subject>
+      <subject>brain evolution</subject>
+      <subject>parent-offspring conflict</subject>
+      <subject>life history</subject>
+      <subject>gestation</subject>
+      <subject>prenatal development</subject>
+      <subject>maternal investment</subject>
+      <subject>global</subject>
+      <subject>Mammalia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-01-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8394</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>59392 bytes</size>
+      <size>51071 bytes</size>
+      <size>13305 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-01-18T20:27:33Z (GMT). No. of bitstreams: 2
+README.pdf: 51071 bytes, checksum: 52c7620b1f9309d5865ffccaa63ec697 (MD5)
+Capellini et alAmNat_Data.xls: 59392 bytes, checksum: de8e5debd156e5eb7953e22cfcd96c7d (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

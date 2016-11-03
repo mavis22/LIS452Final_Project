@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3857971</identifier><datestamp>2015-04-01T01:33:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P32P0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Takagi, Haruka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moriya, Kazuyoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ishimura, Toyoho</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suzuki, Atsushi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawahata, Hodaka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hirano, Hiromichi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplementary Figure 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>photosymbiosis</subject>
+      <subject>planktic foraminifers</subject>
+      <subject>stable isotopes</subject>
+      <subject>ontogeny</subject>
+      <subject>chamber-by-chamber</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P32P0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8176011 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Location map (A), seasonal temperature and salinity difference (B), and depth profiles of each physical and chemical property of the water column (C&#8211;I). For (C) and (D), in addition to National Oceanographic Data Center (NODC) Cruise Station 127 (black square), two Argo stations are selected as references (March, 2013 and September 2013), representing summer and winter conditions, respectively (see Supplementary Tables 1 and 2 for detailed information). (H) represents estimated &#948;18O values of equilibrium calcite calculated from temperature and salinity using equations of LeGrande and Schmidt (2006) and Kim and O&#8217;Niel (1997). &#948;18&#927;cal; &#948;18O values of equilibrium calcite. &#948;13CDIC; &#948;13C values of dissolved inorganic carbon. NODC; National Oceanographic Date Center. Stn; Station. Argo floats data (WMO (World Meteorological Organisation) ID: 5901905) are cited from Global Data Assembly Centre (Argo GDAC) (ftp://ftp.ifremer.fr/ifremer/argo/dac/aoml/5901905/). Vertical oceanographic data of Station 127 are cited from the World Ocean Database 2009 (http://www.nodc.noaa.gov/OC5/WOD09/pr_wod09.html).&#13;
+Kim, S. T., and J. R. O&#8217;Niel. 1997. Equilibrium and nonequilibrium oxygen isotope effects in synthetic carbonates. Geochimica et Cosmochimica Acta 61:3461&#8211;3475.&#13;
+LeGrande, A.N., and G.A. Schmidt. 2006. Global gridded data set of the oxygen isotopic composition in seawater. Geophysical Research Letters 33:L12604.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4562012</identifier><datestamp>2015-01-13T19:31:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.061QT/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Holman, Luke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Price, Thomas A. R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wedell, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kokko, Hanna</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R script for Model 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Sex Ratio</subject>
+      <subject>Selection - Sexual</subject>
+      <subject>Mating Systems</subject>
+      <subject>Chromosomal Evolution</subject>
+      <subject>Coevolution</subject>
+      <subject>Extinction</subject>
+      <subject>Model</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.061QT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10617 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains the script to run the deterministic simulation used to investigate Model 1. The code is annotated.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

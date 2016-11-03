@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6672217</identifier><datestamp>2015-08-19T15:06:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50125/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Razzauti, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galan, Maxime</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernard, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maman, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klopp, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charbonnel, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vayssier-Taussat, Muriel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eloit, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cosson, Jean-Fran&#231;ois</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MiSeq raw sequences of the V4 region 16S rRNA gene from the spleens of 190 bank voles (part 2)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>NGS</subject>
+      <subject>RNA-Seq</subject>
+      <subject>16S metagenomics</subject>
+      <subject>metabarcoding</subject>
+      <subject>454-pyrosequencing</subject>
+      <subject>MiSeq</subject>
+      <subject>bacteria</subject>
+      <subject>rodent-borne zoonoses</subject>
+      <subject>coinfections</subject>
+      <subject>pathobiome</subject>
+      <subject>French Ardennes</subject>
+      <subject>Myodes glareolus</subject>
+      <subject>Bacteria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.50125</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>982189323 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This ZIP file contains the FASTQ files of the paired-end reads (R1: reads 1; R2: reads 2) produced for each individual using the MiSeq platform. The 190 multiplexed amplicons were indexed using both forward and reverse indexes. The list of the 190 multiplexed samples and associated indexes are provided in the following CSV file titled:  Information concerning the samples multiplexed in the MiSeq run.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

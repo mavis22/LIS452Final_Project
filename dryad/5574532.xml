@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574532</identifier><datestamp>2015-03-31T16:18:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M5298/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rollins, Lee Ann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Mark F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shine, Richard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CaneToad_muscle_denovo_transcriptome_Australia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Rapid evolution</subject>
+      <subject>Invasive Species</subject>
+      <subject>Cane toad</subject>
+      <subject>Transriptomics</subject>
+      <subject>Australia: Innisfail QLD</subject>
+      <subject>Australia: El Questro WA</subject>
+      <subject>Australia: Purnululu WA</subject>
+      <subject>Australia: Rossville QLD</subject>
+      <subject>Rhinella marina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M5298</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66725618 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">De novo transcriptome assembly of Cane toad muscle (triceps femurs) tissue using the Trinity assembler, with default settings. We filtered out any transcripts with less that 1% of the per-gene expression level using a script bundled with Trinity. Raw reads from one individual per geographic population (RM0021M, RM0094M, RM0108M and RM0169M) were pooled to produce the representative read set across all populations that was used in de novo assembly. File contains assembled sequences in fast format</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

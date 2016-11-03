@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4310923</identifier><datestamp>2015-01-27T17:17:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.742GV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zhao, Guolin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marceau, Rachel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Daowen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tzeng, Jung-Ying</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>simulation data and code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Binary traits</subject>
+      <subject>Gene-Environment interaction</subject>
+      <subject>Rare variant association</subject>
+      <subject>GLMM</subject>
+      <subject>Marker-set interaction analysis</subject>
+      <subject>Variance-Component Methods</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.742GV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>35624 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">(1) The codes and relevant files for simulation studies can also be downloaded at &#13;
+    http://www4.stat.ncsu.edu/~tzeng/Data/Genetics2014.GxE.binary/   &#13;
+&#13;
+(2) Code for simulations:&#13;
+    &#8226; "simulation_code.sas" is the SAS code to perform the simulation, including data generation and analyses&#13;
+    &#8226; "glmm_em_sim.sas" is the SAS macro to calculate the estimates of the variance component and covariate coefficients&#13;
+    &#8226; "COSI_geno.zip" is the zipped version of "COSI_geno.csv", which contains the 10K haplotypes of 100 rare loci generated from COSI. From COSI_geno.csv, we randomly drew two haplotypes with replacement to form a subject&#8217;s genotype.&#13;
+&#13;
+(3) One replication of the simulated data (1500 subjects): &#13;
+    &#8226; "simu.dataset1.Y.E.txt" contains the trait variable and the environmental variable&#13;
+    &#8226; "simu.dataset1.geno.txt" contains the simulated genotypes</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

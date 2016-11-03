@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915879</identifier><datestamp>2015-10-28T16:23:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S18GK/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hmielowski, Tracy L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carter, Sarah K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spaul, Hannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helmers, David P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Radeloff, Volker C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zedler, Paul H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Frequently Burned Vegetation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Wisconsin</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S18GK</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28861360 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This shapefile is the result of Step 2 and Step 3 in the methods, where we have identified the most frequently burned fire dependent vegetation for the purpose of this study. Key fields: Community group (Group), Mean fire return interval (FireRetInt), and Community Rarity (RarityRank)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

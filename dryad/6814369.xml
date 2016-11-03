@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814369</identifier><datestamp>2015-10-20T17:31:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q6S1F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>P&#233;rez-Escobar, Oscar Alejandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balbuena, Juan Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gottschling, Marc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Concatenated alignment of nuclear and chloroplast loci of Catasetinae</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>chloroplast capture</subject>
+      <subject>cophylogenetic tool</subject>
+      <subject>hybridization</subject>
+      <subject>organelle-nucleus-coevolution</subject>
+      <subject>orchids</subject>
+      <subject>topological incongruence</subject>
+      <subject>Catasetinae</subject>
+      <subject>Eulophiinae</subject>
+      <subject>Cyrtopodiinae</subject>
+      <subject>Cymbidiinae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q6S1F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>398213 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Christine Mayo(christine.mayo@unc.edu), reason: Some of the content you uploaded (the R script pipeline) is marked as copyright to the authors, which is incompatible with the Creative Commons Zero waiver required by Dryad and to which you agreed when initiating the submission. We welcome you to re-submit any content that you are able to release under CC0.&#13;
+&#13;
+We recognize that not all software and scripts are amenable to distribution under CC0. If you are unwilling or unable to release your script under CC0, but still wish to link to it from your Dryad data package, you can upload it to an external repository such as GitHub, and use the 'external identifier' metadata field to add a link to its location to your dataset.&#13;
+&#13;
+Please contact help@datadryad.org with any questions.  on 2015-09-17T14:09:11Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5600163</identifier><datestamp>2015-04-16T15:36:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53686/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Husemann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nguyen, Rachel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ding, Baoqing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Danley, Patrick D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Maylandia_DLoop_dated_tree_Mol_Ecol</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian skyline plots</subject>
+      <subject>biodiversity conservation</subject>
+      <subject>effective population size</subject>
+      <subject>drift</subject>
+      <subject>demographic history</subject>
+      <subject>East Africa</subject>
+      <subject>Malawi</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Maylandia zebra</subject>
+      <subject>Maylandia benetos</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.53686</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>327754 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dated phylogenetic tree for 317 individuals of Maylandia zebra and Maylandia benetos generated with BEAST v.1.7.4. We used the HKY + I model and a substitution rate of 0.0324. The simplest coalescent model (constant size) was used. The best clock model was estimated by running all four available clock models and using Tracer to determine the best model for our data set. All analyses were run for 100 million generations sampling every 10,000 generations for a total of 10,000 samples. Convergence of the run was confirmed with Tracer by checking the highest effective sample size (ESS). The exponential relaxed clock had the best likelihood scores (-1371.613, second best: lognormal relaxed clock -1381.808) and was therefore chosen as best clock model. The tree was summarized with TreeAnnotator v.1.7.4.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

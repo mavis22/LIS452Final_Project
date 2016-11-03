@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4491585</identifier><datestamp>2015-01-29T19:34:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BN547/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Melo-Ferreira, Jos&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemos de Matos, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Areal, Helena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lissovsky, Andrey A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carneiro, Miguel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Esteves, Pedro J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>05IL1RAPL1_phased_full</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Multilocus Coalescent</subject>
+      <subject>Pika</subject>
+      <subject>Relaxed Molecular Clock</subject>
+      <subject>Species-tree</subject>
+      <subject>Systematics</subject>
+      <subject>Asia</subject>
+      <subject>North America</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Ochotona alpina</subject>
+      <subject>Ochotona dauurica</subject>
+      <subject>Ochotona hoffmanni</subject>
+      <subject>Ochotona hyperborea</subject>
+      <subject>Ochotona mantchurica</subject>
+      <subject>Ochotona pallasi</subject>
+      <subject>Ochotona princeps</subject>
+      <subject>Ochotona pusilla</subject>
+      <subject>Ochotona rufescens</subject>
+      <subject>Ochotona rutila</subject>
+      <subject>Ochotona turuchanensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BN547</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28971 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phased sequence alignment of IL1RAPL1 sequences (phase reconstruction for the Ochotona sequences was performed using PHASE v2.1 as implemented in DnaSP v5.10.01).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

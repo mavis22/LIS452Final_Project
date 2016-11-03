@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3868717</identifier><datestamp>2014-11-13T18:26:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8SM01/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Horton, Matthew W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bodenhausen, Natacha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beilsmith, Kathleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meng, Dazhe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muegge, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Subramanian, Sathish</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vetter, Madlen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vilhj&#225;lmsson, Bjarni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nordborg, Magnus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gordon, Jeffrey I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergelson, Joy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>GWAS Results, Abundance (Sqrt(x)) of Individual OTUs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Host-genetics</subject>
+      <subject>Leaf-microbiome</subject>
+      <subject>Genome wide association studies</subject>
+      <subject>Arabidopsis thaliana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>48949170 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The square-root transformed abundances of individual OTUs were used as phenotypes in GWAS. The Methods section of the paper describes the procedure. Please note that files labeled '16S' correspond to the bacterial community, while files labeled 'ITS' correspond to the fungal community.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

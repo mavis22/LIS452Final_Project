@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4197058</identifier><datestamp>2015-10-30T06:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QC700/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Torres-Romero, Erik Joaquin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olalla-T&#225;rraga, Miguel-&#193;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mammal species richness and environmental variables at global scale</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>human accessibility</subject>
+      <subject>human footprint</subject>
+      <subject>macroclimate</subject>
+      <subject>macroecology</subject>
+      <subject>terrestrial vertebrates</subject>
+      <subject>water&#8211;energy dynamics</subject>
+      <subject>Global</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QC700</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>983231 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Include database of the species richness of mammals and different environmental variables at global scale</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

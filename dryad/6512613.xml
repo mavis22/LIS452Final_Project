@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6512613</identifier><datestamp>2015-08-18T15:32:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G1QR6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wood, Spencer A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russell, Roly</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanson, Dieta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Richard J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunne, Jennifer A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Food web data for the Sanak Islands, Alaska</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>complexity</subject>
+      <subject>diet</subject>
+      <subject>diversity</subject>
+      <subject>predation</subject>
+      <subject>sampling area</subject>
+      <subject>scale-dependence</subject>
+      <subject>trophic interactions</subject>
+      <subject>Sanak Islands</subject>
+      <subject>Aleutian Islands</subject>
+      <subject>Alaska</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G1QR6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1660193 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The food web data compiled for this study, consisting of 339 quadrats, 39 transects, five sites, four locales, and one archipelago-wide network. The table provides a unique numeric identifier per food web (WebID), the spatial scale (WebScale; distinguishing quadrats [Q], transects [T], sites [S], locales [L], and the archipelago-scale [A]), a sample number (WebUnit; to identify individual transects [quadrat- and transect-scale samples], sites, or locales), and the Integrated Taxonomic Information System's (ITIS) Taxonomic Serial Number (TSN) and name of each predator and prey (PredTSN, PreyTSN, PredName, and PreyName, respectively). Taxa lacking entries in ITIS have a unique custom TSN prepended with &#8220;san&#8221;.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

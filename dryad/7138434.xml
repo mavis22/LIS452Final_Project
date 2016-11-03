@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7138434</identifier><datestamp>2015-11-24T15:17:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QK826/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lu, Haiwei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viswanath, Venkatesh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ma, Cathleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etherington, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dharmawardhana, Palitha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shevchenko, Olga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strauss, Steven H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pearce, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rood, Stewart B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Busov, Victor</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lu_poplar GA raw data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Cisgenic</subject>
+      <subject>Intragenic</subject>
+      <subject>Transformation</subject>
+      <subject>Plant architecture</subject>
+      <subject>Genetic engineering</subject>
+      <subject>Forest biotechnology</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QK826</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>643365 bytes</size>
+      <size>2471 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-11-24T15:15:56Z (GMT). No. of bitstreams: 2
+Lu_poplar GA raw data.zip: 643365 bytes, checksum: fa9fbf9438c5daca08d82c51b6c71900 (MD5)
+README.txt: 2471 bytes, checksum: 94534c718a7fcf60919860586e470b20 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

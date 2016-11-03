@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6713764</identifier><datestamp>2015-10-14T20:33:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R9C12</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nicholls, James A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pennington, R. Toby</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koenen, Erik J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hughes, Colin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hearn, Jack</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunnefeld, Lynsey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dexter, Kyle G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stone, Graham N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kidner, Catherine A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Using targeted enrichment of nuclear genes to increase phylogenetic resolution in the neotropical rain forest genus Inga (Leguminosae: Mimosoideae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>hybrid capture</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>phylogenomics</subject>
+      <subject>population genomics</subject>
+      <subject>radiation</subject>
+      <subject>targeted enrichment</subject>
+      <subject>Neotropics</subject>
+      <subject>Inga</subject>
+      <subject>Mimosoideae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Nicholls JA, Pennington RT, Koenen EJ, Hughes CE, Hearn J, Bunnefeld L, Dexter KG, Stone GN, Kidner CA (2015) Using targeted enrichment of nuclear genes to increase phylogenetic resolution in the neotropical rain forest genus Inga (Leguminosae: Mimosoideae). Frontiers in Plant Science 6: 710.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R9C12/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R9C12/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R9C12/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3389/FPLS.2015.00710</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

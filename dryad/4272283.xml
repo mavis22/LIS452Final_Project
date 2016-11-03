@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4272283</identifier><datestamp>2014-11-28T22:34:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43100/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ros, Vera</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Houte, Stineke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hemerik, Lia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Oers, Monique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data of infectivity assays</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Insects</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Parasitology</subject>
+      <subject>Spodoptera exigua</subject>
+      <subject>Trichoplusia ni</subject>
+      <subject>Baculoviridae</subject>
+      <subject>Autographa californica multiple nucleopolyhedrovirus</subject>
+      <subject>AcMNPV</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.43100</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12227 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data of infectivity assays for each host species (Trichoplusia ni and Spodoptera exigua). Columns represent &#8216;experiment&#8217; (experiment number; two replicates per host species), &#8216;treatment&#8217; (infection with AcMNPV WT (0) or AcMNPV &#916;egt (1)), &#8216;virus concentration&#8217; (log occlusion bodies per ml), &#8216;N&#8217; (number of larvae infected), and &#8216;dead larvae&#8217; (number of larvae that died of virus infection).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

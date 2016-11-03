@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6098621</identifier><datestamp>2015-07-01T19:04:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C77JN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Piper, Adam T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Manes, Costantino</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siniscalchi, Fabio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marion, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Rosalind M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kemp, Paul S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fish_detections_UL_CH</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>behavioural fish guidance</subject>
+      <subject>computational fluid dynamics</subject>
+      <subject>hydrodynamics</subject>
+      <subject>hydropower</subject>
+      <subject>acoustic telemetry</subject>
+      <subject>ecohydraulics</subject>
+      <subject>Anguilla anguilla</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C77JN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>593204 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fish positions derived from acoustic telemetry contained within excel file with 5 columns. 'Record' denotes tag detection numbered consecutively in sequence; 'tag_number' denotes the fish identification number; &#8216;PosX&#8217; denotes fish x coordinate in UTM; &#8216;PosY&#8217; denotes fish y coordinate in UTM, &#8216;Treatment&#8217; denotes experimental treatment</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

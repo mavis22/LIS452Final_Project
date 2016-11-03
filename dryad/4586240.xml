@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586240</identifier><datestamp>2015-02-03T21:03:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2N6P6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moeller, Andrew H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peeters, Martine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ayouba, Ahidjo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ngole, Eitel Mpoudi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Esteban, Amadine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hahn, Beatrice H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ochman, Howard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Stability of the gorilla microbiome despite simian immunodeficiency virus infection</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bacteria</subject>
+      <subject>Coevolution</subject>
+      <subject>Community Ecology</subject>
+      <subject>Metagenomics</subject>
+      <subject>Conservation Biology</subject>
+      <subject>Microbial Biology</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Moeller A, Peeters M, Ayouba A, Ngole E, Esteban A, Hahn B, Ochman H (2015) Stability of the gorilla microbiome despite simian immunodeficiency virus infection. Molecular Ecology 24(3): 690-697.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2N6P6/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13057</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586534</identifier><datestamp>2015-05-10T15:18:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FJ429/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Galbany, Jordi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tung, Jenny</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altmann, Jeanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alberts, Susan C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Study subjects, including feeding condition, age, maturation status, social rank, and canine length</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>canine length</subject>
+      <subject>tooth development</subject>
+      <subject>tooth wear</subject>
+      <subject>social dominance rank</subject>
+      <subject>Amboseli</subject>
+      <subject>Kenya</subject>
+      <subject>Papio cynocephalus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FJ429</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>159744 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Study subjects  (N=5 food-enhanced and 75 wild-feeding male baboons), including feeding condition, age, maturation status, social rank, and canine length. *Birthdate status indicates whether the birthdate is known or estimated, and what the error interval around the estimate is.  0 indicates an age known to within a few days; 1 indicates an estimate to within  &#177; 1 year, 2 indicates within &#177; 2 years, and so on.  ** &#8216;Researcher&#8217; indicates who measured the canines: JA: Jeanne Altmann, and JG: Jordi Galbany.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

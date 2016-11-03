@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1969910</identifier><datestamp>2014-05-29T23:29:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RV624</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chen, Kai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnston, Jeff</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shao, Wanqing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meier, Samuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Staber, Cynthia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zeitlinger, Julia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A global change in RNA polymerase II pausing during the Drosophila midblastula transition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>transcription</subject>
+      <subject>ChIP-seq</subject>
+      <subject>promoters</subject>
+      <subject>chromatin</subject>
+      <subject>zygotic genome activation</subject>
+      <subject>RNA polymerase pausing</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chen K, Johnston J, Shao W, Meier S, Staber C, Zeitlinger J (2013) A global change in RNA polymerase II pausing during the Drosophila midblastula transition. eLife 2: e00861.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RV624/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.7554/ELIFE.00861</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

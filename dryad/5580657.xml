@@ -1,0 +1,106 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5580657</identifier><datestamp>2015-05-21T14:18:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VN872/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McGaugh, Suzanne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bronikowski, Anne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuo, Chih-Horng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reding, Dawn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Addis, Elizabeth A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flagel, Lex E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Janzen, Fredric J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartz, Tonia S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TRANSCRIPTOMES.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>insulin signaling</subject>
+      <subject>insulin growth factor</subject>
+      <subject>molecular evolution</subject>
+      <subject>positive selection</subject>
+      <subject>protein co-evolution</subject>
+      <subject>reptile</subject>
+      <subject>mammal</subject>
+      <subject>bird</subject>
+      <subject>Reptile</subject>
+      <subject>Transcriptomes</subject>
+      <subject>RNA-seq</subject>
+      <subject>Illumina</subject>
+      <subject>liver</subject>
+      <subject>Agkistrodon piscivorus</subject>
+      <subject>Alligator mississippiensis</subject>
+      <subject>Anolis sagrei</subject>
+      <subject>Candoia aspera</subject>
+      <subject>Cheyldra serpentina</subject>
+      <subject>Elgaria multicarinata</subject>
+      <subject>Eublepharis macularius</subject>
+      <subject>Lamprophis fuliginosus</subject>
+      <subject>Pelusios castaneus</subject>
+      <subject>Pogona vitticeps</subject>
+      <subject>Sceloporus undulatus</subject>
+      <subject>Scincella lateralis</subject>
+      <subject>Sternotherus odoratus</subject>
+      <subject>Terrapene ornata</subject>
+      <subject>Thamnophis couchii</subject>
+      <subject>Thamnophis elegans - lakeshore (fast-living) ecotype</subject>
+      <subject>Xenopeltis unicolor</subject>
+      <subject>Thamnophis elegans - meadow (slow-living) ecotype</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VN872</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>428711475 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">TRANSCRIPTOMES folder includes: &#13;
+(1) The transcriptome assembly for each of the 18 reptile individuals sequenced (e.g. file name: SM1_centroids_nucleotides.fasta), see list below. These contain the longest open reading frames (ORFs) produced by Trinity, which were then clustered by UCLUST into centroids to reduce redundancy within a single species' transcriptome. A centroid may have collapsed multiple isoforms, truncated transcripts, and alleles from a gene, but it may also have collapsed very recent paralogs. Files are named by sequence identifier (e.g. SM) listed below.&#13;
+&#13;
+(2) The Trinotate annotation databases for each transcriptome (e.g. file name: trinotate_annotation_report_SM1.xls). The prot_id corresponds to the centroid sequence in the transcriptome .fasta file.&#13;
+&#13;
+(3) An ortholog key file (Ortholog_Key_3_20_2014.xlsx) that contains a list of each putative ortholog clustered by OrthoMCL, the best blast hit to uniprot, the number of species that were included in the ortholog, and the centroid IDs of those species (corresponding the the transcriptome assembly .fasta files).  OrthoMCL was ran on 74 total species, and we excluded form our alignments 8 species with very poor representation (for a maximum of 66 species contained within the alignments analysed for the paper).		&#13;
+&#13;
+Sequence ID, Common Name, Species ID&#13;
+SM1, Snapping turtle, Cheyldra serpentina &#13;
+SM2, Anolis lizard, Anolis sagrei 	&#13;
+SM3, California alligator lizard, Elgaria multicarinata &#13;
+SM4, African House, Lamprophis fuliginosus &#13;
+SM5, Cottonmouth, Agkistrodon piscivorus &#13;
+SM6, Sunbeam snake, Xenopeltis unicolor &#13;
+SM7, Alligator, Alligator mississippiensis &#13;
+SM8, Fence Lizard, Sceloporus undulatus 	&#13;
+SM9, Bearded dragon, Pogona vitticeps  	&#13;
+SM10, Stinkpot turtle, Sternotherus odoratus &#13;
+SM11, Sideneck turtle, Pelusios castaneus&#13;
+SM12, Skink, Scincella lateralis &#13;
+SM13, Box turtle, Terrapene ornata &#13;
+SM14, Viper Boa, Candoia aspera &#13;
+SM15, Gecko, Eublepharis macularius 	&#13;
+TC, Western aquatic garter snake, Thamnophis couchii &#13;
+HS08, Western terrestrial garter snake &#8211;lakeshore (fast-living) ecotype, Thamnophis elegans &#13;
+HS11, Western terrestrial garter snake &#8211;meadow (slow-living) ecotype, Thamnophis elegans</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1222210</identifier><datestamp>2014-05-29T22:35:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4K739</identifier>
+  <creators>
+      <creator>
+         <creatorName>Milot, Emmanuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perrier, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papillon, Lucie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dodson, Julian J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernatchez, Louis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Reduced fitness of Atlantic salmon released in the wild after one generation of captive-breeding</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Fisheries Management</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Conservation Biology</subject>
+      <subject>Captive Populations</subject>
+      <subject>Malbaie River</subject>
+      <subject>La Malbaie</subject>
+      <subject>Quebec</subject>
+      <subject>Canada</subject>
+      <subject>Salmo salar</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Milot E, Perrier C, Papillon L, Dodson JJ, Bernatchez L (2012) Reduced fitness of Atlantic salmon released in the wild after one generation of captive-breeding. Evolutionary Applications 6(3): 472&#8211;485.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4K739/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12028</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

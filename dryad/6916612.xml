@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6916612</identifier><datestamp>2015-10-28T20:34:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JM7V0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Malhotra, Anita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Creer, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harris, John B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thorpe, Roger S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequence alignment of the entire genomic gene sequence Phospholipase A2 genes from pitvipers and viper outgroups</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Gene turnover</subject>
+      <subject>gene duplication</subject>
+      <subject>Natural selection</subject>
+      <subject>phospholipase A2</subject>
+      <subject>reconciliation methods</subject>
+      <subject>functional inference</subject>
+      <subject>Asia</subject>
+      <subject>50 mya - present</subject>
+      <subject>Crotalinae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JM7V0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>348495 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Full phospholipase A2 gene sequences amplified directly from genomic DNA of Asian pitvipers, including novel sequences sequenced for this study, in FASTA format.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

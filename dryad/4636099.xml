@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4636099</identifier><datestamp>2015-02-11T19:44:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.300FQ/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Reilly, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montuelle, Stephane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Essner, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmidt, Andre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Halsey, Lewis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jorgensen, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naylor, Emily</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cane toad raw data forces and 3D landmarks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>hopping</subject>
+      <subject>frogs</subject>
+      <subject>gait</subject>
+      <subject>cane toad</subject>
+      <subject>range-expansion phenotype</subject>
+      <subject>worldwide</subject>
+      <subject>oligocene to present</subject>
+      <subject>Rhinella marinus</subject>
+      <subject>Anaxyrus americanus</subject>
+      <subject>Anaxyrus fowleri</subject>
+      <subject>Bufo marinus</subject>
+      <subject>Bufo americanus</subject>
+      <subject>Bufo fowleri</subject>
+      <subject>bufonidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.300FQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2423276 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the raw forces and 3d landmarks for the toad hops and bounding sequences used in this study</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

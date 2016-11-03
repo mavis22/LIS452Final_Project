@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6490111</identifier><datestamp>2015-07-21T16:23:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SP5JD/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Monroe, Melanie J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>South, Samuel H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alonzo, Suzanne H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Frogs: clutch size, egg size and body size data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fecundity</subject>
+      <subject>Selection</subject>
+      <subject>Life History</subject>
+      <subject>Sexual Size Dimorphism</subject>
+      <subject>Clutch Size</subject>
+      <subject>Egg Size</subject>
+      <subject>Body Size</subject>
+      <subject>Frogs</subject>
+      <subject>Dendrobates</subject>
+      <subject>Eleutherodactylus</subject>
+      <subject>Hyla</subject>
+      <subject>Rana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SP5JD</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20307 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains mean body length data for both females and males of 70 frog species. Similarly, it contains mean clutch size data for approximately 66 frog species, mean egg size data for approximately 49 frog species and presence or absence of parental care data for approximately  62 species (references are given in the file).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

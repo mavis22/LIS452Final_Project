@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:78926</identifier><datestamp>2015-08-20T18:29:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.384RR593/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Orsini, Luisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spanier, Katina I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Meester, Luc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Orsinietal_sequences_outliers_10kbRegions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Crustaceans</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Experimental Evolution</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Belgium</subject>
+      <subject>Daphnia magna</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-11-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.384RR593.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>385194 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">List of sequences in fasta format obtained by mapping the outlier regions and 10kb up-and downstream to the genome sequence of Daphnia magna (V2.5-95). These sequence data were produced by The Center for Genomics and Bioinformatics at Indiana University and distributed via wFleaBase in collaboration with the Daphnia Genomics Consortium http://daphnia.cgb.indiana.edu. This project is supported in part by NIH award 5R24GM078274 "Daphnia Functional Genomics Resources" and by the METACyt Initiative of Indiana University, funded in part through a major grant from the Lilly Endowment, Inc. Our work benefits from and contributes to the Daphnia Genomics Consortium.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4571841</identifier><datestamp>2014-12-24T16:01:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50KD5/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Davies, Kalina T. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsagkogeorga, Georgia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossiter, Stephen J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Alignments of four conserved non-coding elements located in the same genomic region as HMX2/3</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bats</subject>
+      <subject>Conserved Non-coding Elements</subject>
+      <subject>ear development</subject>
+      <subject>Eidolon helvum</subject>
+      <subject>Pteropus vampyrus</subject>
+      <subject>Rhinolophus ferrumequinum</subject>
+      <subject>Megaderma lyra</subject>
+      <subject>Pteronotus parnellii</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Chiroptera</subject>
+      <subject>Cetacea</subject>
+      <subject>Mammalia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.50KD5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7233 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignments of four conserved non-coding elements located in the same genomic region as HMX2/3 in divergent mammalian species. Sequences were either taken from online sources, such as Ensembl, or sequenced directly using PCR and Sanger sequencing.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

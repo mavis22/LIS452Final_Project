@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5486820</identifier><datestamp>2015-06-11T18:47:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.879C0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hofmann, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lettmayer, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blaschke, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Belgiu, Mariana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wegenkittl, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graf, Roland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lampoltshammer, Thomas Josef</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andrejchenko, Vera</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Towards a framework for agent-based image analysis of remote-sensing data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agent-based image analysis</subject>
+      <subject>agent-based systems</subject>
+      <subject>remote sensing</subject>
+      <subject>object-based image analysis</subject>
+      <subject>autonomous systems</subject>
+      <subject>automation of image analysis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hofmann P, Lettmayer P, Blaschke T, Belgiu M, Wegenkittl S, Graf R, Lampoltshammer TJ, Andrejchenko V (2015) Towards a framework for agent-based image analysis of remote-sensing data. International Journal of Image and Data Fusion 6(2): 115-137.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.879C0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1080/19479832.2015.1015459</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

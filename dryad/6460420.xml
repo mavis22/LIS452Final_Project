@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6460420</identifier><datestamp>2015-07-21T20:18:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8MM58/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Janicki, Amanda F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frick, Winifred F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kilpatrick, A. Marm</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parise, Katy L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Foster, Jeffrey T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCracken, Gary F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Swabbing data for 2012-2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bats</subject>
+      <subject>cryptic infections</subject>
+      <subject>White-Nose Syndrome</subject>
+      <subject>Tennessee</subject>
+      <subject>Missouri</subject>
+      <subject>Alabama</subject>
+      <subject>Kentucky</subject>
+      <subject>Pseudogymnoascus destructans</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Myotis septentrionalis</subject>
+      <subject>Perimyotis subflavus</subject>
+      <subject>Eptesicus fuscus</subject>
+      <subject>Myotis grisescens</subject>
+      <subject>Myotis sodalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8MM58</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56548 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data used to calculate the fungal load of each bat swabbed.  Data includes: swab id (for lab use), date swab was taken, general site name and county of caves, bat species (4 letter genus/species abbreviations), P. destructans visible (0=no, 1=yes), and cycle threshold (ct) value(s) from qPCR assay(s).  Exact cave names and locations are not given to protect the bats from human disturbance.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

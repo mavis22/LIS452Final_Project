@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601628</identifier><datestamp>2015-08-24T17:56:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.31227/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hagen, Oskar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hartmann, Klaas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steel, Mike</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stadler, Tanja</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Reliable estimates of shape on simulated phylogenies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Macroevolution</subject>
+      <subject>Diversification</subject>
+      <subject>Stochastic models</subject>
+      <subject>Birth-death process</subject>
+      <subject>Simulated trees</subject>
+      <subject>R package TreeSimGM</subject>
+      <subject>Methodology testing</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.31227.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>694502 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data and scripts used to test our procedure for parameter estimation over the three sets of simulated phylogenies (SI_Fig 6, 7, and 8). We would like to stress that this is not a complete catalogue of all R-scripts used in our study, especially regarding plotting and investigation of model behavior, once much was simulated with a cluster computer involving multiple outputs, code files and csv parameter tables that changed over time. If you plan to run similar experiments, we strongly encourage the reading of our TreeSimGM R-package help material.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

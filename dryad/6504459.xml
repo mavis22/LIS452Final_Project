@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6504459</identifier><datestamp>2015-08-05T13:55:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.763V6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Larkin, Daniel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hipp, Andrew L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kattge, Jens</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prescott, William</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tonietto, Rebecca K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobi, Sarah K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bowles, Marlin L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenetic measures of plant communities show long-term change and impacts of fire management in tallgrass prairie remnants</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>alpha diversity</subject>
+      <subject>beta diversity</subject>
+      <subject>community assembly</subject>
+      <subject>ecological restoration</subject>
+      <subject>environmental filtering</subject>
+      <subject>fire management</subject>
+      <subject>functional diversity</subject>
+      <subject>temporal dynamics</subject>
+      <subject>Midwest USA</subject>
+      <subject>Chicago</subject>
+      <subject>Illinois</subject>
+      <subject>USA</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Larkin DJ, Hipp AL, Kattge J, Prescott W, Tonietto RK, Jacobi SK, Bowles ML (2015) Phylogenetic measures of plant communities show long-term change and impacts of fire management in tallgrass prairie remnants. Journal of Applied Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.763V6/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.763V6/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.763V6/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.763V6/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2664.12516</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

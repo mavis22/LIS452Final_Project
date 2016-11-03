@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7014212</identifier><datestamp>2015-11-12T15:39:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2KR90/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kutch, Ian C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fedorka, Kenneth M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kutch &amp; Fedorka: YRV &amp; TTD data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Y-linked regulatory variation</subject>
+      <subject>gene expression</subject>
+      <subject>fitness</subject>
+      <subject>Sexual dimorphism</subject>
+      <subject>Drosophila melanogaster</subject>
+      <subject>Serratia marcescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2KR90</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>62717 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an Excel file that contains data in three separate tabs. The first Tab is the YRV data, whose statistical analysis appears in Table 1 of the manuscript. Tab 2 is the Time to Death data, whose analysis appears in Table 2. Tab 3 is the correlation between the two data sets that appears in Figure 2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

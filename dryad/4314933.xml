@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4314933</identifier><datestamp>2015-01-28T22:14:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.68T78/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kaufmann, Joshka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eizaguirre, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinski, Manfred</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lenz, Tobias L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sperm concentration and velocity measurements</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ecological speciation</subject>
+      <subject>gamete preference</subject>
+      <subject>fertilization success</subject>
+      <subject>ecotype</subject>
+      <subject>post-copulatory sexual selection</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.68T78</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>535 bytes</size>
+      <size>12204 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-11T16:05:59Z (GMT). No. of bitstreams: 2
+README.txt: 535 bytes, checksum: 4badd2ca08dbb344ebd67f1e794d8400 (MD5)
+Males_BioLett_Kaufmann_Dryad.txt: 12204 bytes, checksum: 2d86a73b243da938a028aa9dcc2d1268 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

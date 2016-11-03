@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1906939</identifier><datestamp>2014-05-30T02:43:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M9S46</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hirsch, Philipp Emanuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eckmann, Reiner</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oppelt, Claus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Behrmann-Godel, Jasminca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phenotypic and genetic divergence within a single whitefish form &#8211; detecting the potential for future divergence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>resource polymorphisms</subject>
+      <subject>re-speciation</subject>
+      <subject>sympatric speciation</subject>
+      <subject>adaptive radiation</subject>
+      <subject>Central Europe</subject>
+      <subject>Lake Constance</subject>
+      <subject>Holocene</subject>
+      <subject>Coregonus macrophthalmus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hirsch PE, Eckmann R, Oppelt C, Behrmann-Godel J (2013) Phenotypic and genetic divergence within a single whitefish form &#8211; detecting the potential for future divergence. Evolutionary Applications 6(8): 1119&#8211;1132.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M9S46/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M9S46/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M9S46/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12087</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

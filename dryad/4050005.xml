@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4050005</identifier><datestamp>2014-11-13T18:47:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MG54P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kusumoto, Buntarou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shiono, Takayuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miyoshi, Mai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maeshiro, Ryo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fujii, Shin-jiro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuuluvainen, Timo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kubota, Yasuhiro</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data_kusumoto_et_al_JPE</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>biodiversity</subject>
+      <subject>forest management</subject>
+      <subject>functional divergence</subject>
+      <subject>functional richness</subject>
+      <subject>phytosociological data</subject>
+      <subject>seed plants</subject>
+      <subject>Japanese archipelago</subject>
+      <subject>the present day</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MG54P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2518816 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The information of 5,149 vegetation plots across Japanese archipelago, including geographic locations, plot area, elevation, slope inclination, forest types (unmanaged forest = UF; previously clearcut forest = CF), forest zones, species richness, forest age relative to the age of unmanaged forest in the each vegetation zone, and standardized effect size (SES) of functional structure indices for each functional trait. For tree species, community mean (CM), functional richness (FRic), functional divergence (FDiv) were calculated for specific leaf area (SLA), leaf carbon content (LC), leaf nitrogen content (LN), wood density (WD), maximum height (Hmax), flower size (FLsize) and fruit size (FRsize). For herbaceous species, the three indices were calculated for leaf area (LA), Hmax, FLsize and FRsize. These indices were calculated only for the plots containing two or more species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

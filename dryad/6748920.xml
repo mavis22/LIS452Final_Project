@@ -1,0 +1,146 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748920</identifier><datestamp>2015-10-15T15:02:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CF493/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smith, Martin R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Scathascolex NMNH 83939b.1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Lagerst&#228;tten</subject>
+      <subject>Burgess Shale</subject>
+      <subject>Yoho National Park</subject>
+      <subject>British Columbia</subject>
+      <subject>Cambrian Stage 5</subject>
+      <subject>Scathascolex</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CF493</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3402205 bytes</size>
+      <size>198237039 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Photographs and electron micrographs of Scathascolex minor gen. et sp. nov. (NMNH 83939b.1). &#13;
+ &#13;
+ &#13;
+Zipped archive containing the following high-resolution images: &#13;
+ &#13;
+NMNH_83939b.1_0049.tiff&#13;
+NMNH_83939b.1_0052_merge.g.tiff&#13;
+NMNH_83939b.1_0053.tiff&#13;
+NMNH_83939b.1_0054.tiff&#13;
+NMNH_83939b.1_0055.tiff&#13;
+NMNH_83939b.1_0056.tiff&#13;
+NMNH_83939b_i_0047_merge_C.tiff&#13;
+NMNH_83939_slab.jpg&#13;
+x025 NMNH_83939b.1-ii-j.tif&#13;
+x025 NMNH_83939b.1.tif&#13;
+x025 NMNH_83939b.1_008.tif&#13;
+x025 NMNH_83939b.1_008_scale.tif&#13;
+x025 NMNH_83939b.1_009.tif&#13;
+x025 NMNH_83939b.1_010.tif&#13;
+x025 NMNH_83939b.1_011.tif&#13;
+x025 NMNH_83939b.1_1.g.tif&#13;
+x025 NMNH_83939b.1_1.g0.tif&#13;
+x025 NMNH_83939b.1_1.tif&#13;
+x025 NMNH_83939b.1_2.tif&#13;
+x025 NMNH_83939b.1_3.tif&#13;
+x025 NMNH_83939b.1_4.tif&#13;
+x025 NMNH_83939b.1_5.tif&#13;
+x025 NMNH_83939b.1_6.tif&#13;
+x025 NMNH_83939b.1_7.tif&#13;
+x025 NMNH_83939b.1_700.tif&#13;
+x025 NMNH_83939b.1_701.tif&#13;
+x025 NMNH_83939b.1_8.tif&#13;
+x025 NMNH__83939b.1.tif&#13;
+x025 NMNH__83939b.1_032.tif&#13;
+x025 NMNH__83939b.1_032_qm.PNG&#13;
+x037 NMNH_83939b.1_023_1.tif&#13;
+x037 NMNH_83939b.1_030.tif&#13;
+x037 NMNH_83939b.1_030_locate.PNG&#13;
+x037 NMNH_83939b.1_031.tif&#13;
+x037 NMNH_83939b.1_031_locate.PNG&#13;
+x037 NMNH_83939b.1_033.tif&#13;
+x037 NMNH_83939b.1_033_locate.PNG&#13;
+x037 NMNH_83939b.1_034.tif&#13;
+x037 NMNH_83939b.1_034_locate.PNG&#13;
+x069 NMNH_83939b.1_035.tif&#13;
+x069 NMNH_83939b.1_035_locate.PNG&#13;
+x084 NMNH_83939b.1_011.tif&#13;
+x084 NMNH_83939b.1_011_locate.PNG&#13;
+x1000 NMNH_83939b.1_017.PNG&#13;
+x1000 NMNH_83939b.1_017.tif&#13;
+x1409 NMNH_83939b.1_021.PNG&#13;
+x1409 NMNH_83939b.1_021.tif&#13;
+x143 NMNH_83939b.1_001.tif&#13;
+x143 NMNH_83939b.1_001_locate.PNG&#13;
+x143 NMNH_83939b.1_002.tif&#13;
+x143 NMNH_83939b.1_002_locate.PNG&#13;
+x144 NMNH_83939b.1_000.tif&#13;
+x144 NMNH_83939b.1_000_locate.PNG&#13;
+x144 NMNH_83939b.1_008.tif&#13;
+x144 NMNH_83939b.1_008_locate.PNG&#13;
+x1444 NMNH_83939b.1_015.tif&#13;
+x1444 NMNH_83939b.1_016.tif&#13;
+x146 NMNH_83939b.1_702.tif&#13;
+x147 NMNH_83939b.1_006.tif&#13;
+x147 NMNH_83939b.1_006_locate.PNG&#13;
+x148 NMNH_83939b.1_691.tif&#13;
+x152 NMNH_83939b.1_026.tif&#13;
+x154 NMNH_83939b.1_012.tif&#13;
+x154 NMNH_83939b.1_012_locate.PNG&#13;
+x1828 NMNH_83939b.1_018.PNG&#13;
+x1828 NMNH_83939b.1_018.tif&#13;
+x198 NMNH_83939b.1_022.tif&#13;
+x198 NMNH_83939b.1_022_locate.PNG&#13;
+x208 NMNH_83939b.1_028.tif&#13;
+x208 NMNH_83939b.1_028_locate.PNG&#13;
+x213 NMNH_83939b.1_692.tif&#13;
+x237 NMNH_83939b.1_003.tif&#13;
+x237 NMNH_83939b.1_003_locate.PNG&#13;
+x268 NMNH_83939b.1_004.tif&#13;
+x268 NMNH_83939b.1_004_locate.PNG&#13;
+x301 NMNH_83939b.1_009.tif&#13;
+x301 NMNH_83939b.1_009_locate.PNG&#13;
+x316 NMNH_83939b.1_013.tif&#13;
+x316 NMNH_83939b.1_013_locate.PNG&#13;
+x329 NMNH_83939b.1_029.tif&#13;
+x329 NMNH_83939b.1_029_locate.PNG&#13;
+x344 NMNH_83939b.1_698.tif&#13;
+x344 NMNH_83939b.1_699.tif&#13;
+x355 NMNH_83939b.1_693.tif&#13;
+x355 NMNH_83939b.1_694.tif&#13;
+x355 NMNH_83939b.1_695.tif&#13;
+x355 NMNH_83939b.1_696.tif&#13;
+x355 NMNH_83939b.1_697.tif&#13;
+x435 NMNH_83939b.1_019.tif&#13;
+x435 NMNH_83939b.1_019_locate.PNG&#13;
+x450 NMNH_83939b.1_007.tif&#13;
+x473 NMNH_83939b.1_023.tif&#13;
+x473 NMNH_83939b.1_023_locate.PNG&#13;
+x549 NMNH_83939b.1_005.tif&#13;
+x549 NMNH_83939b.1_014.PNG&#13;
+x549 NMNH_83939b.1_014.tif&#13;
+x620 NMNH_83939b.1_024.PNG&#13;
+x620 NMNH_83939b.1_024.tif&#13;
+x747 NMNH_83939b.1_020.PNG&#13;
+x747 NMNH_83939b.1_020.tif&#13;
+x750 NMNH_83939b.1_010.PNG&#13;
+x750 NMNH_83939b.1_010.tif&#13;
+x969 NMNH_83939b.1_027.PNG&#13;
+x969 NMNH_83939b.1_027.tif&#13;
+ &#13;
+Low-resolution thumbnails of the included files are available in the associated README.pdf.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

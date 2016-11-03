@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669588</identifier><datestamp>2015-09-03T16:21:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RD71S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lukasik, Piotr</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guo, Huifang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Asch, Margriet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, Henry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godfray, H. Charles J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferrari, Julia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Infection_success_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Symbiosis</subject>
+      <subject>Fitness</subject>
+      <subject>Coevolution</subject>
+      <subject>Acyrthosiphon pisum</subject>
+      <subject>Sitobion avenae</subject>
+      <subject>Aphis fabae</subject>
+      <subject>Sitobion fragariae</subject>
+      <subject>Utamphorophora sp.</subject>
+      <subject>Hamiltonella defensa</subject>
+      <subject>Regiella insecticola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RD71S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>983 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Spreadsheet "Infection_success" summarizes the results of our attempts to introduce Hamiltonella strains from multiple donors into two recipient genotypes of Sitobion avenae.&#13;
+Rows represent different host genotype - symbiont strain combinations. Columns are as follows:&#13;
+&#13;
+***Recipient_genotype - aphid clonal genotype into which a symbiont was introduced;&#13;
+***Donor_genotype - aphid clonal genotype whose symbiont-containing haemolymph was injected into the recipient;&#13;
+***Donor_species - donor species, abbreviated as Siave (Sitobion avenae), Sifra (S. fragariae), Acpis (Acyrthosiphon pisum), Utsp1 (Utamphorophora sp.), Apfab (Aphis fabae);&#13;
+***Intraspecific - denotes whether a particular symbiont transfer was made between clones of a single host species (S. avenae), or between different species&#13;
+***Injected - the numbers of recipient aphids injected with haemolymph from the donor clone&#13;
+***Surviving - the number of injected aphids which produced offspring after the 14th day from injection&#13;
+***Infected - the number of injected aphids that after the 14th day from injection produced at least one infected offspring&#13;
+***Stable - denotes whether after symbiont establishment in the first generation we observed cases of symbiont loss in subsequent generations&#13;
+***COI_dist - p-distance (the proportion of nucleotide sites at which two sequences differ) between the recipient genotype and the donor genotype, calculated using a 641bp alignment of COI gene&#13;
+***Hami_dist - p-distance between the symbiont strain infecting the donor genotype and the strain that had originally infected the recipient genotype (but was removed with antibiotics prior to the experiment) calculated using concatenation of six household genes, accD, gyrB, hrpA, murE, recJ and rpoS, of the total length of 3905bp.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

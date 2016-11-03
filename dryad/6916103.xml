@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6916103</identifier><datestamp>2015-12-04T19:20:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.98D35</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tong, Xiaoling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aoyama, Hiroshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sudhakar, Swathy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Honghong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shilton, Brian H,</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bai, Donglin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The first extracellular domain plays an important role in unitary channel conductance of Cx50 gap junction channels</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gap junction channel</subject>
+      <subject>single channel conductance</subject>
+      <subject>connexin50</subject>
+      <subject>voltage-dependent gating</subject>
+      <subject>patch clamp</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tong X, Aoyama H, Sudhakar S, Chen H, Shilton BH, Bai D (2015) The first extracellular domain plays an important role in unitary channel conductance of Cx50 gap junction channels. PLoS ONE 10(12): e0143876.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.98D35/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.98D35/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0143876</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

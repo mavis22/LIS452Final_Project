@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566129</identifier><datestamp>2015-06-11T19:16:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N4G95</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lau, Quintin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chow, Natalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gray, Rachael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gongora, Jaime</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Higgins, Damien P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Diversity of MHC DQB and DRB genes in the endangered Australian sea lion (Neophoca cinerea)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>MHC</subject>
+      <subject>pinnipeds</subject>
+      <subject>hookworm</subject>
+      <subject>Australian sea lion Subject area: Conservation genetics and biodiversity</subject>
+      <subject>Seal Bay</subject>
+      <subject>Dangerous Reef</subject>
+      <subject>Neophoca cinerea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lau Q, Chow N, Gray R, Gongora J, Higgins DP (2015) Diversity of MHC DQB and DRB genes in the endangered Australian sea lion (Neophoca cinerea). Journal of Heredity 106(4): 395-402.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N4G95/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/JHERED/ESV022</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

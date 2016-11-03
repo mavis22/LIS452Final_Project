@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5764001</identifier><datestamp>2015-06-11T18:56:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6PR21</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hindel, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sauerbrey, Anika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maa&#223;, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maderwald, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlamann, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#252;demann, Lutz</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Validation of perfusion quantification with 3D gradient echo dynamic contrast-enhanced magnetic resonance imaging using a blood pool contrast agent in skeletal swine muscle</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DCE-MRI</subject>
+      <subject>perfusion quantification</subject>
+      <subject>adenosine vasodilatation</subject>
+      <subject>muscle blood flow</subject>
+      <subject>skeletal swine muscle</subject>
+      <subject>blood pool contrast agent</subject>
+      <subject>F-test model selection</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hindel S, Sauerbrey A, Maa&#223; M, Maderwald S, Schlamann M, L&#252;demann L (2015) Validation of perfusion quantification with 3D gradient echo dynamic contrast-enhanced magnetic resonance imaging using a blood pool contrast agent in skeletal swine muscle. PLOS ONE 10(6): e0128060.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6PR21/7</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0128060</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

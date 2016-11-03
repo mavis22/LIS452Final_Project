@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5750204</identifier><datestamp>2015-05-19T15:19:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.78622/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cheng, Tammy M. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heeger, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaleil, Rapha&#235;l A. G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthews, Nik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart, Aengus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lim, Carmay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bates, Paul A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Uhlmann, Frank</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Condensation of a single chromatin chain in the Type II model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-05-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.78622</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>183734693 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">As previous movie, but the simulation followed the Type II model. Now the rosette-like topologies become dominant and the overall structure is densely packed.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

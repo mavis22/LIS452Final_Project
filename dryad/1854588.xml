@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1854588</identifier><datestamp>2015-04-28T17:52:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VV840</identifier>
+  <creators>
+      <creator>
+         <creatorName>Shedko, Sergei V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miroshnichenko, Irina L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nemkova, Galina A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Complete mitochondrial genome of the poorly known Amur sculpin Mesocottus haitej (Cottoidei: Cottidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>mitochondrial genome</subject>
+      <subject>phylogeny</subject>
+      <subject>Northern Hemisphere</subject>
+      <subject>Western Pacific</subject>
+      <subject>Amur River</subject>
+      <subject>Neogene</subject>
+      <subject>Quaternary</subject>
+      <subject>Cottidae</subject>
+      <subject>Trachidermus</subject>
+      <subject>Rheopresbe</subject>
+      <subject>Leptocottus</subject>
+      <subject>Cottus</subject>
+      <subject>Mesocottus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Shedko SV, Miroshnichenko IL, Nemkova GA (2015) Complete mitochondrial genome of the poorly known Amur sculpin Mesocottus haitej (Cottoidei: Cottidae). Mitochondrial DNA 26(1): 147-148.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VV840/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3109/19401736.2013.819496</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

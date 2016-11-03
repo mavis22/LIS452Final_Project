@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766597</identifier><datestamp>2015-05-27T17:32:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PC5J0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tan, Ge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muffato, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ledergerber, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herrero, Javier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goldman, Nick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gil, Manuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dessimoz, Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw data of enriched species discordance, minimum duplication test, and simulation study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>multiple sequence alignment</subject>
+      <subject>alignment filtering</subject>
+      <subject>alignment trimming</subject>
+      <subject>molecular phylogeny</subject>
+      <subject>phylogenetics</subject>
+      <subject>phylogenetic inference</subject>
+      <subject>phylogeny</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PC5J0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>347345109 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment and trees associated with enriched species-tree discordance test, minimum duplication test, and simulation study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

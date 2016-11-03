@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3866292</identifier><datestamp>2015-02-12T16:03:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FG7PS/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Flanagan, Sarah P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rose, Emily Rose</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Adam G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>selection gradients</subject>
+      <subject>complex traits</subject>
+      <subject>mating systems</subject>
+      <subject>parentage</subject>
+      <subject>Syngnathidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FG7PS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22676 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file contains the data, both unstandardized and standardized, for the selection differentials, selection gradients, and other analyses conducted in our publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

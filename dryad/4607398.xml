@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4607398</identifier><datestamp>2015-02-10T18:01:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2386P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Winney, Isabel S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakagawa, Shinichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hsu, Yu-Hsun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burke, Terry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schroeder, Julia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Models 1,3,4, paired analysis, supplement models, figures - nestling survival and recruitment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Birds</subject>
+      <subject>chick survival</subject>
+      <subject>field methods</subject>
+      <subject>fitness correlates</subject>
+      <subject>nestboxes</subject>
+      <subject>quantitative genetics</subject>
+      <subject>Lundy Island</subject>
+      <subject>UK</subject>
+      <subject>Passer domesticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2017-01-21</date>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2386P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>256258 bytes</size>
+      <size>3042 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2017-01-21</rights>
+  <descriptions>
+      <description descriptionType="Other">Nestling survival and recruitment in relation to morphometrics and demographic data. Data to produce models 1,3,4, and the paired analysis in the main text, models in the supplementary information, and figures in the main text and supplementary information. For a description of the column names, advice on using the data, and units, see the README file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

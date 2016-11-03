@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574533</identifier><datestamp>2015-03-31T16:18:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M5298/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rollins, Lee Ann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Mark F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shine, Richard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CaneToad_West_vs_East_Differential_expression_results</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Rapid evolution</subject>
+      <subject>Invasive Species</subject>
+      <subject>Cane toad</subject>
+      <subject>Transriptomics</subject>
+      <subject>Australia: Rossville QLD 15.705427 S 145.222855 E</subject>
+      <subject>Australia: Innisfail QLD 17.496250 S 146.046506 E</subject>
+      <subject>Australia: El Questro WA 16.007872 S 128.020494 E</subject>
+      <subject>Australia: Purnululu WA 17.433382 S 128.301818 E</subject>
+      <subject>Rhinella marina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M5298</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1667460 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Differential gene expression results in invasive Cane toad muscle tissue between the Western Australia range edge (West) and the Queensland range core (East). Results produced in edgeR from associated RSEM individual expression count files (See attached archive). In edgeR testing was conducted using the classic approach for two groups, CPM-filtered counts were TMM-normalised, quantile-adjusted conditional maximum likelihood method was used to estimate dispersions and the exact test was used to call differentially expressed genes and compute p-values. Columns are: transcript ID, Log Fold-change between the regions (-ve values donate down-regulation in the West and +ve the opposite), Log CPM (counts per million mapped reads), P-value of differential expression, FDR is False discovery rate.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669627</identifier><datestamp>2015-08-26T18:59:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.87JB3/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bourret, Audrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>B&#233;lisle, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pelletier, Fanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garant, Dany</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data: random regression analysis with the within-individual centring technique</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate Change</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Population Ecology</subject>
+      <subject>Habitat Degradation</subject>
+      <subject>Tree swallow</subject>
+      <subject>Laying date</subject>
+      <subject>Within-subject centering</subject>
+      <subject>Random regression</subject>
+      <subject>Southern Qu&#233;bec</subject>
+      <subject>Tachycineta bicolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-08-24</date>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.87JB3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>99892 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-08-24</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for the second plasticity analysis (random regression analysis with the within-individual centring technique), where each line represented an individual observation within a year for all females observed at least in two years. Columns included year (YEAR), female identity (ID)  and its age (AGE; SY=second-year, ASY=after second-year), farm identity (FARM), laying date (LD; julian days), temperature (TEMPs; std), density (DENSITYs; std) and latitude (LATs; std), between-individual component of temperature (M.TEMP; within individual mean of TEMPs) and density (M.DENSITY; within individual mean of DENSITYs), within-individual component of temperature (TEMP.PLAST; deviation from the individual mean) and density (DENSITY.TEMP; deviation from the individual mean).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

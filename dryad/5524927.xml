@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5524927</identifier><datestamp>2015-03-26T14:00:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.67N20/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mebane, Christopher A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eakins, Robert J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fraser, Brian G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data appendix 2. Fish and benthic macroinvertebrate taxonomic data (native Microsoft Excel format)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>river restoration</subject>
+      <subject>long-term monitoring</subject>
+      <subject>acid mine drainage</subject>
+      <subject>benthic macroinvertebrates</subject>
+      <subject>salmonids</subject>
+      <subject>sculpin</subject>
+      <subject>taxonomic data</subject>
+      <subject>Idaho (USA)</subject>
+      <subject>Anthropocene</subject>
+      <subject>Oncorhynchus mykiss</subject>
+      <subject>Oncorhynchus tshawytscha</subject>
+      <subject>Cottus confusus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.67N20</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>686773 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Includes coordinates of sampling sites, fish densities (2002-2013), benthic macroinvertebrate biomass and taxonomic lists (1993, 2003-2013), and abbreviated older community metrics. Workbook (spreadsheet)  begins with a ReadMe page, followed by 16 spreadsheets (tabs) with data organized by year collected or data type.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

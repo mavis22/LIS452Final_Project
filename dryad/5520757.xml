@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5520757</identifier><datestamp>2015-03-20T14:32:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TG0NQ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rutz, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Michael B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burns, Zackory T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burt, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Otis, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>St Clair, James J. H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>James, Richard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from field experiments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animal social network</subject>
+      <subject>biologging</subject>
+      <subject>businesscard tag</subject>
+      <subject>contact network</subject>
+      <subject>direct and indirect encounter mapping</subject>
+      <subject>Encounternet</subject>
+      <subject>reality mining</subject>
+      <subject>transceiver tag</subject>
+      <subject>wireless sensor network</subject>
+      <subject>New Caledonia</subject>
+      <subject>Corvus moneduloides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TG0NQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>109080 bytes</size>
+      <size>5021271 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected during field experiments (relates to &#8216;Step 1&#8217; in the published paper), to assess how signal strength is affected by inter-tag distance, as well as by a set of nuisance parameters (habitat type, tag height above ground, and relative antenna orientation).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

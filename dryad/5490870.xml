@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5490870</identifier><datestamp>2015-07-01T20:37:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.65TH6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Geraldes, Armando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hefer, Charles A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Capron, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kolosova, Natalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez-Nu&#241;ez, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soolanayakanahally, Raju Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stanton, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guy, Robert D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mansfield, Shawn D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Douglas, Carl J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cronk, Quentin C. B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Recent Y chromosome divergence despite ancient origin of dioecy in poplars (Populus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>GWAS</subject>
+      <subject>SNP</subject>
+      <subject>XY-sex-determining system</subject>
+      <subject>gender</subject>
+      <subject>methylation</subject>
+      <subject>North America</subject>
+      <subject>Populus trichocarpa</subject>
+      <subject>Populus balsamifera</subject>
+      <subject>Populus deltoides</subject>
+      <subject>Populus nigra</subject>
+      <subject>Populus tremuloides</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Geraldes A, Hefer CA, Capron A, Kolosova N, Martinez-Nu&#241;ez F, Soolanayakanahally RY, Stanton B, Guy RD, Mansfield SD, Douglas CJ, Cronk QCB (2015) Recent Y chromosome divergence despite ancient origin of dioecy in poplars (Populus). Molecular Ecology 24(13): 3243-3256.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/11</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/12</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/13</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/14</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/15</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/16</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6/17</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13126</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

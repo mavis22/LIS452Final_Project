@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804776</identifier><datestamp>2015-07-21T21:12:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6365V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rey, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loot, G&#233;raldine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bouchez, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blanchet, Simon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: "De novo assembly transcriptome for the rostrum dace (Leuciscus burdigalensis, Cyprinidae: fish) naturally infected by a copepod ectoparasite" in Genomic Resources Notes accepted 1 December 2014 to 31 January 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecological Genetics</subject>
+      <subject>Fish</subject>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Invasive Species</subject>
+      <subject>Parasitology</subject>
+      <subject>Transcriptomics</subject>
+      <subject>C&#233;l&#233; River - South-Western France (X=586643; Y=1962631)</subject>
+      <subject>present</subject>
+      <subject>Leuciscus burdigalensis</subject>
+      <subject>Tracheliastes polycolpus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Genomic Resources Development Consortium, Blanchet S, Bouchez O, Chapman CA, Etter PD, Goldberg TL, Johnson EA, Jones JH, Loot G, Omeja PA, Rey O, Ruiz-Lopez MJ, Switzer WM, Ting N (2015) Genomic Resources Notes accepted 1 December 2014 to 31 January 2015. Molecular Ecology Resources 15(3): 684.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6365V/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6365V/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12388</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

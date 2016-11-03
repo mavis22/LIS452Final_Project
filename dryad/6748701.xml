@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748701</identifier><datestamp>2015-09-15T17:19:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.867TS/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dargent, Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rolshausen, Gregor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hendry, Andrew P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scott, Marilyn E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fussmann, Gregor F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dargentetal.evolsexesJEB</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>resistance</subject>
+      <subject>experimental evolution</subject>
+      <subject>sexual dimorphism</subject>
+      <subject>enemy release</subject>
+      <subject>Trinidad</subject>
+      <subject>Poecilia reticulata</subject>
+      <subject>Gyrodactylus turnbulli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.867TS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19520 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File includes: individual identifier ("identifier"), names of populations used ("pop"), sex of individuals ("sex"), years of  field sample ("year"), individuals standard length in mm ("startsl"), type of treatment ("type", i.e. sham or infected=2 G. turnbulli), peak parasite load ("peakpara"), parasite rate of increase r0 ("ro0to10"), outlier status of the individual ("outlier"), relative condition index ("startkn"),  death during infection ("died"), and last day in which the individual was counted for parasites ("last count", i.e. day of death).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

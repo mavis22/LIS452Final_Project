@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2746712</identifier><datestamp>2014-06-10T18:27:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T114V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pereyra, Mart&#237;n O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cardozo, Dar&#237;o E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baldo, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baldo, Diego</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Description and phylogenetic position of a new species of Oreobates (Anura: Craugastoridae) from northwestern Argentina</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Direct-developing frog</subject>
+      <subject>Morphology</subject>
+      <subject>Phylogenetic analysis</subject>
+      <subject>Taxonomy</subject>
+      <subject>Argentina</subject>
+      <subject>Anura</subject>
+      <subject>Craugastoridae</subject>
+      <subject>Oreobates</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pereyra MO, Cardozo DE, Baldo J, Baldo D (2014) Description and phylogenetic position of a new species of Oreobates (Anura: Craugastoridae) from northwestern Argentina. Herpetologica 70(2): 211-227.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T114V/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T114V/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1655/HERPETOLOGICA-D-13-00072</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

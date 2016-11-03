@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6746356</identifier><datestamp>2015-09-14T21:31:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4Q230/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Slade, Eleanor M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roslin, Tomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santalahti, Minna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Thomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>LH-PCR, Ecoplate, CO2 and Dung mass loss data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecosystem functioning</subject>
+      <subject>below-ground biodiversity</subject>
+      <subject>dung decomposition</subject>
+      <subject>Finland</subject>
+      <subject>Aphodius</subject>
+      <subject>Geotrupes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4Q230</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2881061 bytes</size>
+      <size>12234 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-09-14T19:54:45Z (GMT). No. of bitstreams: 2
+Data_for_Dryad_Slade_Oikos.xlsx: 2881061 bytes, checksum: 5a2016a76e2c6b9011ba368505e58040 (MD5)
+README.docx: 12234 bytes, checksum: 0361c878ea45b5202bf7aff467c3a39c (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3823448</identifier><datestamp>2015-10-24T06:31:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.85223/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Archer, Steve R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Predick, Katharine I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 2, 3 &amp; 5 data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bush clearing</subject>
+      <subject>drylands</subject>
+      <subject>shrub encroachment</subject>
+      <subject>state change</subject>
+      <subject>vegetation change</subject>
+      <subject>woody plant encroachment</subject>
+      <subject>woody weeds</subject>
+      <subject>ecosystem services</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.85223</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>70807 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used in Table 1 and Figures 2, 3 and 5 were derived from published papers obtained from Web of Knowledge search strings about brush management. These searches yielded 1350 unique papers published in refereed journals which were distilled to 364 papers that report quantitative responses to brush management. This database was further refined to 59 papers that directly quantified herbaceous production after brush management and these papers contribute the data shown in Figures 2, 3 and 5. Brush management was defined as mechanical, herbicide, fire, or treatments in combination and excluded studies that were confounded by continued sheep or cattle grazing on treatment sites. Of those 59 papers, 18 provided mean changes in herbaceous production with error on both control and treatment sites. Data from these 18 papers were used to generate Figures 2 and 3. Among those in the database of 1350 papers were 46 papers that directly measured changes in herbaceous diversity after brush management. Of those 46 papers, 29 provided mean changes in diversity (richness or Shannon diversity) with error on both control and treatment sites. Data from these papers were used to generate Figure 5. When multiple tables or figures are listed they represent data reported by site or year and were averaged in our dataset. Data originally published in figure format was quantified using Adobe Illustrator CS6 or DataThief III.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

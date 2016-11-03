@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6679046</identifier><datestamp>2015-08-20T18:21:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.40KQ7.1/2.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Scofield, Douglas G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smouse, Peter E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karubian, Jordan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sork, Victoria L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Scofield-et-al_AmNat_52938_Quercus-agrifolia_pericarp-genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Conservation genetics</subject>
+      <subject>Dispersal</subject>
+      <subject>Foraging: behavior</subject>
+      <subject>Foraging: ecology</subject>
+      <subject>Genetics: population</subject>
+      <subject>Species diversity</subject>
+      <subject>Sedgwick Reserve</subject>
+      <subject>Santa Barbara County</subject>
+      <subject>California</subject>
+      <subject>2006</subject>
+      <subject>Quercus agrifolia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-07-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.40KQ7.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypes of Quercus agrifolia collected from Acorn Woodpecker granaries at Sedgwick Reserve, Santa Barbara County, California, in 2006. Data are in GenAlEx format and represent diploid microsatellite genotypes. Genotypes are grouped by granary as indicated by the second column. Locus names follow Scofield et al. 2010 J. Ecology.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

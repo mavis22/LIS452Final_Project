@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5104928</identifier><datestamp>2015-04-23T00:56:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6246R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fronhofer, Emanuel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altermatt, Florian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biological invasions</subject>
+      <subject>Range expansions</subject>
+      <subject>rapid evolution</subject>
+      <subject>eco-evolutionary dynamics</subject>
+      <subject>dispersal</subject>
+      <subject>Tetrahymena pyriformis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6246R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12113 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data folder contains four files. The file "fronhofer_experimental_evolution_main_data.txt" contains the time series data of population densities, movement patterns and morphology for range core and range margin populations. The file "fronhofer_experimental_evolution_dispersal_rates_font.txt" contains the data used in Fig. 1b, i.e. the dispersal rates of populations from the range margin at the beginning and at the end of the experiment. The file "fronhofer_common_garden_movement_data.txt" contains the data shown in Fig. 1c, i.e. the movement data of margin and core populations after the 2-day common garden period. The file "fronhofer_common_garden_growth_data.txt" contains the data depicted in Fig. 2, i.e. the growth data of margin and core populations (additionally also the data from "residents only"; see Supplementary Information) recorded after 2 days of common garden.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

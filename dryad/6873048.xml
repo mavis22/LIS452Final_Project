@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6873048</identifier><datestamp>2015-10-15T16:00:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6B1H8/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Orsucci, Marion</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Audiot, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pommier, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raynaud, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramora, B&#233;atrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zanetto, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourguet, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streiff, R&#233;jane</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Adult preference - resting sites</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host specialisation</subject>
+      <subject>avoidance</subject>
+      <subject>attraction</subject>
+      <subject>preference</subject>
+      <subject>performance</subject>
+      <subject>phytophagous insect</subject>
+      <subject>Ostrinia spp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6B1H8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66026 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8216;Adult preference &#8211; resting sites&#8217; contains the data obtained of the adult resting site in the &#8216;oviposition experiment&#8217;. - The first column, entitled &#8216;ID_adult&#8217;, gives the unique identifer for each adult (male and female) recovered in the experimental cages. - The second column, entitled &#8216;ID_cage&#8217;, gives the unique numerical identifier of each experimental cage. - The third column, entitled &#8216;Ostrinia_species&#8217;, refer to O. nubilalis (ECB) and O. scapulalis (ABB) species used in the experiment. - The fourth column, called &#8216;Setup&#8217;, corresponds to the three experimental set-ups tested in the oviposition experiment: choice (with maize and mugwort plants), maize_only (with maize plants only) and mugwort_only (with mugwort plants only). - the fifth column, entitled &#8216;Sex&#8217;, corresponds to sex of each individual: female or male. - the sixth column, entitled &#8216;Deposit_Date&#8217;, corresponds to the release date of the adult males and females in the cages. - the seventh column, entitled &#8216;Sampling_Date&#8217;, corresponds to the sampling date of adults in the cages. - the eighth column, entitled &#8216;Resting_site&#8217;, corresponds to the three resting sites where the adults were recovered : mugwort, maize, or the netting cage.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6732949</identifier><datestamp>2015-10-20T16:56:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT69S/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gill, Lisa F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goymann, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maat, Andries Ter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gahr, Manfred</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 2: Group reproductive stages change over time</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social group</subject>
+      <subject>breeding stages</subject>
+      <subject>opportunistic breeding</subject>
+      <subject>Taeniopygia guttata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT69S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7706 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This table contains the percentage of birds assigned to different reproductive stages (nest.stage = summary, breeding.stage = more detailed) for each day of the experiment, along with the absolute numbers (sum) and the number of birds measured (number_birds), for the calculation. Note that only the first 20 days are presented in the graph.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

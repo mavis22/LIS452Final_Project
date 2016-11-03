@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342685</identifier><datestamp>2015-06-22T17:24:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9J850/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petersen, Carola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hermann, Ruben Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barg, Mike-Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schalkowski, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbosa, Camilo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirksen, Philipp</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulenburg, Hinrich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>C. elegans-slug feces experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>C. elegans natural ecology</subject>
+      <subject>Arion slugs</subject>
+      <subject>Northern Germany</subject>
+      <subject>Caenorhabditis elegans</subject>
+      <subject>Arion</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9J850</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15259 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Experimental analysis of the ability of the model nematode to survive the passage of Arion slugs and be excreted with the slug feces. Single slugs of the genus Arion (first column of table) were exposed to red fluorescent C. elegans (labelled IS274). After defined hours of initial exposure (second column of table), the feces of the slugs were collected (third column of table) and inspected for the presence of the red fluorescent nematodes. The table shows the worm count categories, ranging from 0 (=0 worms), 1 (=1-10 worms), 2 (=11-30 worms), 3 (=31-50 worms), to 4 (&gt;50 worms).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

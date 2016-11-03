@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6789418</identifier><datestamp>2015-09-25T13:38:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TS351/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pfenninger, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patel, Simit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arias-Rodriguez, Lenin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feldmeyer, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riesch, R&#252;diger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plath, Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fisher's exact test data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Evolutionary Theory</subject>
+      <subject>Fish</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Mexico</subject>
+      <subject>Poecilia mexicana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TS351</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>389348056 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the fisher's exact test output for each SNP, in each pairwise comparison. The same SNP definition ws used as for the .fst output, so these are the &#13;
+FET results for the same snps included in the Fst output.&#13;
+&#13;
+The structure of the file is the same as for Tac-C_Tac-S_Puy-C_Puy-S.fst. Instead of Fst values, the numbers are -log10 P-values.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

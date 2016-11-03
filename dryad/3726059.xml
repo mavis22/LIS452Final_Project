@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3726059</identifier><datestamp>2014-10-03T18:50:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G4D30/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bou&#233;tard, Anthony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#244;te, Jessica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Besnard, Anne-Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collinet, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coutellec, Marie-Agn&#232;s</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Life history and genotypic data used in this study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>anthropogenic evolutionary impact</subject>
+      <subject>pesticide</subject>
+      <subject>life history traits</subject>
+      <subject>quantitative genetics</subject>
+      <subject>QST-FST analysis</subject>
+      <subject>great pond snail</subject>
+      <subject>Castricum NL 52&#176;33.17N 4&#176;37.22E</subject>
+      <subject>Kuinre NL 52&#176;47.67N 5&#176;47.69E</subject>
+      <subject>Hedendorf DE 53&#176;29.47N 9&#176;36.55E</subject>
+      <subject>Oud-Heverlee BE 50&#176;49.39N 4&#176;39.29E</subject>
+      <subject>Schoorldam NL 52&#176;43.13N 4&#176;42.2E</subject>
+      <subject>Detselbergen BE 51&#176;03.29N 3&#176;49.35E</subject>
+      <subject>Buxtehude DE 53&#176;29.63N 9&#176;42.78E</subject>
+      <subject>Baarn NL 52&#176;13.38N 5&#176;18.53E</subject>
+      <subject>Oosteind NL 51&#176;38.87N 4&#176;55.82E</subject>
+      <subject>Biezenmortel NL 51&#176;38.03N 5&#176;9.53E</subject>
+      <subject>Putten NL 52&#176;45.81N 4&#176;39.82E</subject>
+      <subject>Emmeloord NL 52&#176;46.27N 5&#176;48.26E</subject>
+      <subject>Koenigsreich DE 53&#176;31.6N 9&#176;46.29E</subject>
+      <subject>Agathenburg DE 53&#176;34.54N 9&#176;32.82E</subject>
+      <subject>Lymnaea stagnalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G4D30</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>632555 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Life history traits were measured under common-garden conditions on a set of families stemming from 14 populations of the freshwater snail Lymnaea stagnalis. Each family is identified in the file as G0 (wild-caught parent). A subset of laboratory-born G1s were followed from birth to adulthood. Shell size data were used to estimate growth parameters of the Gompertz model.Trait variance, within and among populations, was used to infer quantitative genetic differentiation (QST). Genotypic data were obtained from 12 microsatellite markers and used to infer population neutral differentiation (FST).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6285481</identifier><datestamp>2015-06-10T18:38:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V56G3/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Putman, Alexander I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tredway, Lane P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carbone, Ignazio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Analysis of duplicated MAT1-2-1 of Sclerotinia homoeocarpa</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mating type</subject>
+      <subject>sexual reproduction</subject>
+      <subject>turfgrass</subject>
+      <subject>asexual</subject>
+      <subject>South Africa</subject>
+      <subject>Dominical Republic</subject>
+      <subject>Italy</subject>
+      <subject>United Kingdom</subject>
+      <subject>Argentina</subject>
+      <subject>Malaysia</subject>
+      <subject>Philippines</subject>
+      <subject>Vietnam</subject>
+      <subject>United States</subject>
+      <subject>Hawaii</subject>
+      <subject>Thailand</subject>
+      <subject>Sclerotinia homoeocarpa</subject>
+      <subject>Rutstroemiaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V56G3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7463 bytes</size>
+      <size>4306 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Amino acid sequences, alignments, and MetaPIGA run parameters used to compare the truncated copy of MAT1-2-1 found outside the mating type locus of the MAT1-1 Sclerotinia homoeocarpa strain MB-01</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4646683</identifier><datestamp>2015-02-24T00:47:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7369P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Spindel, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Begum, Hasina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Akdemir, Deniz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Virk, Parminder</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collard, Bertrand</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Redo&#241;a, Edilberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Atlin, Gary</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jannink, Jean-Luc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCouch, Susan R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genomic selection and association mapping in rice (Oryza sativa): effect of trait genetic architecture, training population composition, marker number and statistical model on accuracy of rice genomic selection in elite, tropical rice breeding lines</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genomic selection</subject>
+      <subject>genomics-assisted breeding</subject>
+      <subject>rice</subject>
+      <subject>genome-wide association study</subject>
+      <subject>genotyping-by-sequencing</subject>
+      <subject>Oryza sativa</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Spindel J, Begum H, Akdemir D, Virk P, Collard B, Redo&#241;a E, Atlin G, Jannink J, McCouch SR (2015) Genomic Selection and Association Mapping in rice (Oryza sativa): effect of trait genetic architecture, training population composition, marker number and statistical model on accuracy of rice genomic selection in elite, tropical rice breeding lines. PLOS Genetics 11(2): e1004982.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7369P/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7369P/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7369P/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7369P/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7369P/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PGEN.1004982</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

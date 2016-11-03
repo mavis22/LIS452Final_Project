@@ -1,0 +1,73 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3734868</identifier><datestamp>2014-10-10T17:07:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F3B77/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Simons, Nadja K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gossner, Martin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boch, Steffen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lange, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;ller, J&#246;rg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pa&#353;ali&#263;, Esther</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Socher, Stephanie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>T&#252;rke, Manfred</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fischer, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weisser, Wolfgang W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>03_Landuse_2007to2009</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Agroecosystems</subject>
+      <subject>Biodiversity Exploratories</subject>
+      <subject>cutting</subject>
+      <subject>Germany</subject>
+      <subject>Schorfheide-Chorin</subject>
+      <subject>Hainich-D&#252;n</subject>
+      <subject>Schw&#228;bische Alb</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F3B77</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>30269 bytes</size>
+      <size>1877 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The files 03_Landuse_2006to2008 and 03_Landuse_2007to2009 include land-use information per plot and year.&#13;
+&#13;
+ID --&gt; Row name based on year and PlotID&#13;
+Year --&gt; Year for which land-use is given&#13;
+PlotID --&gt; plot specific ID&#13;
+Region --&gt; One of three regions in Germany in which plot is located&#13;
+&#13;
+Fertilization --&gt; intensity of fertilization estimated as kg Nitrogen per hectar&#13;
+Grazing --&gt; intensity of grazing estimated as lifestock-units-days per hectar&#13;
+Mowing --&gt; number of cutting events per year</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

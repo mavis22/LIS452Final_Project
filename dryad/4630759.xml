@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4630759</identifier><datestamp>2015-02-12T21:56:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R0005</identifier>
+  <creators>
+      <creator>
+         <creatorName>Silvertown, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harvey, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Greenwood, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dodd, Mike</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rosewell, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rebelo, Tony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ansine, Janice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McConway, Kevin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Crowdsourcing the identification of organisms: a case-study of iSpot</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Citizen Science</subject>
+      <subject>Crowdsourcing</subject>
+      <subject>Identification</subject>
+      <subject>Learning</subject>
+      <subject>Learning design</subject>
+      <subject>social networking</subject>
+      <subject>United Kingdom</subject>
+      <subject>Southern Africa</subject>
+      <subject>2009 - 2014</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Silvertown J, Harvey M, Greenwood R, Dodd M, Rosewell J, Rebelo T, Ansine J, McConway K (2015) Crowdsourcing the identification of organisms: a case-study of iSpot. ZooKeys 480: 125-146.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R0005/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/ZOOKEYS.480.8803</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

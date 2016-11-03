@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5582500</identifier><datestamp>2015-04-06T15:08:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NS7BV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smith, Lauren M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reynolds, Heather L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SmithandReynolds_Ecology_2015_dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Plant-soil feedback</subject>
+      <subject>Eastern decidous forests</subject>
+      <subject>Eastern United States</subject>
+      <subject>Euonymus fortunei</subject>
+      <subject>Asarum canadense</subject>
+      <subject>Lindera benzoin</subject>
+      <subject>Elymus hystrix</subject>
+      <subject>Bromus pubescens</subject>
+      <subject>Conoclinium coelestinum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NS7BV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>83184 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File includes biomass data from a two-phase greenhouse experiment designed to measure net pairwise plant-soil feedback in understory species from Eastern deciduous forests of the United States. In Phase I each species was grown under each light treatment.  In Phase II, soil from each Phase I pot was divided and used to inoculate a new set of plants so that each species was grown in soil conditioned by a conspecific and all possible heterospecifics.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

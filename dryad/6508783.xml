@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6508783</identifier><datestamp>2015-07-21T13:55:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JG613</identifier>
+  <creators>
+      <creator>
+         <creatorName>Veran, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piry, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ternois, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meynard, Christine N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Facon, Benoit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Estoup, Arnaud</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Modeling spatial expansion of invasive alien species: relative contributions of environmental and anthropogenic factors to the spreading of the harlequin ladybird in France</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biological invasions</subject>
+      <subject>occupancy</subject>
+      <subject>spatial dynamics</subject>
+      <subject>France</subject>
+      <subject>Harmonia axyridis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Veran S, Piry S, Ternois V, Meynard CN, Facon B, Estoup A (2015) Modeling spatial expansion of invasive alien species: relative contributions of environmental and anthropogenic factors to the spreading of the harlequin ladybird in France. Ecography, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JG613/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/ECOG.01389</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

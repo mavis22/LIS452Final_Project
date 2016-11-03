@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4204374</identifier><datestamp>2014-11-13T23:33:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1T6S5.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wagner, Maggie R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lundberg, Derek S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coleman-Derr, Devin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tringe, Susannah G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dangl, Jeffery L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell-Olds, Thomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Plant data: sterilized field soil treatments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>flowering time</subject>
+      <subject>microbiome</subject>
+      <subject>bacteria</subject>
+      <subject>phenology</subject>
+      <subject>selection</subject>
+      <subject>plant-microbe interactions</subject>
+      <subject>soil</subject>
+      <subject>plasticity</subject>
+      <subject>Idaho</subject>
+      <subject>Boechera stricta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1T6S5.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plant pedigree information, phenotype data, and fitness data from greenhouse experiment investigating effects of 4 different sterilized field soils. "Block" = experimental block; "Genotype" = genotype code; "Subsp" = Subspecies code: W for west, E for east;  "Treatment" = origin of sterilized field soil; "FLT" = flowering time (days); "elong" = elongation rate (mm/day); "HAF" = height at flowering (mm); "Leafper" = number of leaves per mm stem; "NFr" = number of fruits</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

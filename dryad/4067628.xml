@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067628</identifier><datestamp>2014-12-09T21:38:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H8J92/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Connelley, Timothy K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Degnan, Kathryn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Longhi, Cassandra W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrison, W. Ivan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All TRAV_TRDV phylogenetic tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Cattle</subject>
+      <subject>Bovine</subject>
+      <subject>TCR</subject>
+      <subject>Phylogenetics</subject>
+      <subject>TRA/TRD locus</subject>
+      <subject>Bos taurus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H8J92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>933413 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Neighbour-joining phylogenetic tree of all murine, human and bovine (from the UMD3.1 assembly) TRAV/TRDV genes. Analysis of the nucleotide sequence of the V-REGION (IMGT nomenclature) following pairwise deletion to remove gaps in the alignment. The final dataset included 400 positions. The sequence of bTRBV3a was used to root the tree. Based on a 1000 boot strap replicates the phylogenetically inferred orthologous TRAV/TRDV subgroups were supported by percentage bootstrap values (PB) of &gt;90% in all cases except for bTRAV38 (PB= 83%), bTRAV5 (PB= 59%), bTRAV13 (PB= 85%)  and bTRAV8 (PB= 68%). Sequence identity between bovine and human genes in orthologous groups ranged from 63.1-84.9%, sufficient to assign them as inter-species orthologues. Generally the phylogenetically defined bovine TRAV/TRDV subgroups adhered to the convention of members sharing &gt;75% nucleotide identity. However, within both the bTRDV1 and bTRAV8 subgroups identity between some members was &lt;75% (down to 68.0 and 69.7% respectively) and conversely the identity between some bTRAV5/13 and some bTRAVX/18 members was &gt;75%. Due to difficulties in alignment the following genes were excluded from the analysis i) bovine genes for which only incomplete or partial genomic sequences were available, ii) bTRAV11a &#8211; due to the presence of a large insert and iii) mTRAV15-3, mTRAV15D-3, hTRAV8.5. h = human, b = bovine and m = murine.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

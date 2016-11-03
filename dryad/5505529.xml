@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505529</identifier><datestamp>2015-08-17T16:40:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T40F2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hutchinson, Rebecca A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valente, Jonathon J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emerson, Sarah C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Betts, Matthew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dietterich, Thomas G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Penalized likelihood methods improve parameter estimates in occupancy models</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>occupancy modeling</subject>
+      <subject>maximum likelihood</subject>
+      <subject>penalized likelihood</subject>
+      <subject>detection probability</subject>
+      <subject>parameter estimation</subject>
+      <subject>boundary estimates</subject>
+      <subject>southern Indiana</subject>
+      <subject>summer 2011</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hutchinson RA, Valente JJ, Emerson SC, Betts MG, Dietterich TG (2015) Penalized likelihood methods improve parameter estimates in occupancy models. Methods in Ecology and Evolution 6(8): 949-959.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T40F2/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12368</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

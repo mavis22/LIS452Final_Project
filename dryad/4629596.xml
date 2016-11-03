@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629596</identifier><datestamp>2015-01-20T19:36:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F0NF4/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lau, Jennifer A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lau_and_Strauss_2005_Year_1_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Natural selection</subject>
+      <subject>Local adaptation</subject>
+      <subject>Plant-herbivore interaction</subject>
+      <subject>Diffuse selection</subject>
+      <subject>Ecological indirect effect</subject>
+      <subject>Biological invasion</subject>
+      <subject>Apparent competition</subject>
+      <subject>California</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Medicago polymorpha</subject>
+      <subject>Acmispon wrangelianus</subject>
+      <subject>Hypera brunneipennis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F0NF4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>207074 bytes</size>
+      <size>42496 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Please see associated README file. These data were originally presented in J. A. Lau and S. Y. Strauss. 2005. Insect herbivores drive important indirect effects of exotic plants on native communities. Ecology 86:2990-2997. The data characterize phenotypic traits (flowering time, size, herbivory) of naturally occurring Acmispon wrangelianus individuals growing in a 2 x 2 factorial experiment where the presence of the invasive plant Medicago polymorpha and insect herbivores were experimentally manipulated. The README file also describes a related dataset (see Lau_and_Strauss_2005_Year_2_data).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

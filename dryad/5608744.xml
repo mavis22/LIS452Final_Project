@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5608744</identifier><datestamp>2015-06-02T19:17:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.91D70/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Senner, Nathan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verhoeven, Mo A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abad-G&#243;mez, Jos&#233; M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guti&#233;rrez, Jorge S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hooijmeijer, Jos C. E. W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kentie, Rosemarie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Masero, Jos&#233; A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tibbitts, T. Lee</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piersma, Theunis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Response Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>behavioural flexibility</subject>
+      <subject>carry-over effects</subject>
+      <subject>migration</subject>
+      <subject>stress response</subject>
+      <subject>resource availability</subject>
+      <subject>The Netherlands</subject>
+      <subject>2012-2014</subject>
+      <subject>Limosa limosa limosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-05-29</date>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.91D70</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>70554 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-05-29</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data pertaining to the behavioral response of all individual Black-tailed Godwits that were seen in our study in Friesland during the spring of 2013. It includes their reproductive parameters in both 2013 and 2014, as well as their individual arrival date history. Response type is coded as: 1 (stayed), 2 (reverse migrated), 3 (delayed arrival), and 4 (normally late arriving). For all other categories, 0 denotes a negative result (e.g., nest failed), while 1 denotes a positive result (e.g., fledged successfully).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

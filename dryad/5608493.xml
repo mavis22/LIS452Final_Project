@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5608493</identifier><datestamp>2015-04-17T13:59:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VB53H/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Howard, Richard D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rohrer, Karl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Yiyang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muir, William M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>malemale chases for sas</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life-History Evolution</subject>
+      <subject>Selection - Sexual</subject>
+      <subject>Models/Simulations</subject>
+      <subject>Reproductive Strategies</subject>
+      <subject>Fitness</subject>
+      <subject>Population Genetics</subject>
+      <subject>GMO</subject>
+      <subject>Risk Assessment</subject>
+      <subject>Trojan Gene</subject>
+      <subject>Danio rerio</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VB53H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17542 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data provide the information on the number of male directed chases toward another male and indicate if the male chasing was red or wild type, and if the male being chased was red or wild type.  Data are given for group, %red male category, number of chases, collection, type of chase, and chases per male. Group is referred to as aquarium in the paper; pctred is the %red male category of which there are five types (25%, 33$, 50%, 66%, and 75%; number of chases observed is how many chases were observed during the 10 min observation period each day; collection refers to the number of days that data were collected for each group; Chasetype: 1 = wild-type male chasing a red male, 2 = a red male chasing a wild-type male; chasepermale divides the numbchases by how many males of each type were in the aquarium to allow for comparison of different %red male categories.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

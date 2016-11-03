@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5571165</identifier><datestamp>2015-05-06T19:11:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8HT04/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dennenmoser, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nolte, Arne W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vamosi, Steven M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rogers, Sean M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Landmark raw data for Cottus asper geometric morphometrics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fish</subject>
+      <subject>morphometrics</subject>
+      <subject>multiple colonization events</subject>
+      <subject>parallel evolution</subject>
+      <subject>North America</subject>
+      <subject>Pacific Northwest</subject>
+      <subject>Pleistocene</subject>
+      <subject>Cottus asper</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8HT04</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>420292 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">TPS landmark raw data file, including coordinates for 23 landmarks for 733 individuals.                                                                                                                              Image identifiers read as follows: CL = Cowichan Lake; HL = Harrison Lake; MEL = Meziadin Lake; ML = McLeod Lake; MOL = Mosquito Lake; OL = Okanagan Lake; streamBCRD = Bella Coola River; streamFC = Falls Creek; streamLCRD = Little Campbell River; streamPER = Peace River; streamWCD = Williams Creek; PAR = Parsnip River; PL = Paq Lake ; POIL = Poirier Lake; PROL = Prospect Lake; RL = Ruby Lake; SL = Skidegate Lake; TR = Tlell River; GL Graham Lake= ; KR = Keogh River; LAL = Lakelse Lake; LCRU = Little Campbell River Upstream; MAL = Martins Lake; MALI = Martins Lake Inlet; MALO = Martins Lake Outlet; MCL = McCreight Lake; NAR = Nass River; NIL = Nimpo Lake; NKL = Nimpkish Lake; NL = North Lake;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

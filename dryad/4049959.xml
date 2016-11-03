@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4049959</identifier><datestamp>2014-10-14T17:14:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q4432/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lemieux, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Otis, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turmel, Monique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Degen1_nucleotide_dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Plastid genome</subject>
+      <subject>Phylogenomics</subject>
+      <subject>Trebouxiophyceae</subject>
+      <subject>Chlorellales</subject>
+      <subject>Pedinophyceae</subject>
+      <subject>Ulvophyceae</subject>
+      <subject>Chlorophyceae</subject>
+      <subject>Prasinophyceae</subject>
+      <subject>Chlorophyta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q4432</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3919038 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the Degen1 nucleotide dataset used to infer the phylogeny presented in Figure 4. It contains 46,404 positions and was assembled from 79 chloroplast genes of 63 green algae. The data set is in Phylip format and comprises all three codon positions that were degenerated using the Degen1.pl script of Regier et al. (Nature 2010 463:1079-1083).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

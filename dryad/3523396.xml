@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3523396</identifier><datestamp>2015-05-22T06:30:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M06S2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Berger, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grieshop, Karl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lind, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goenaga, Julieta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maklakov, Alexei A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arnqvist, G&#246;ran</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fitness data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Selection - Sexual</subject>
+      <subject>temperature</subject>
+      <subject>sexually antagonistic</subject>
+      <subject>condition dependence</subject>
+      <subject>genetic quality</subject>
+      <subject>Callosobruchus maculatus (Bruchidae)</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M06S2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>178397 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Gives the lLife Time Reproductive success (LRS = number of offspring) of males and females of 73 isofemale lines belonging to two populations (Lome and Ofuya). LRS was measured at 29C and 36C, in 5 different temporal blocks. LRS is given in raw format (number of offspring) and in relative terms (number offspring/mean) per sex:temperature:population.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

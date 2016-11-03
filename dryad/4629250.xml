@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629250</identifier><datestamp>2015-04-27T16:17:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.554F3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lagebro, Linda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gueriau, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hegna, Thomas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rabet, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butler, Aodh&#225;n D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Budd, Graham E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The oldest notostracan (Upper Devonian Strud locality, Belgium)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Strud</subject>
+      <subject>Famennian</subject>
+      <subject>Notostraca</subject>
+      <subject>Strudops goldenbergi sp. nov.</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lagebro L, Gueriau P, Hegna TA, Rabet N, Butler AD, Budd GE (2015) The oldest notostracan (Upper Devonian Strud locality, Belgium). Palaeontology 58(3): 497&#8211;509.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.554F3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.554F3/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.554F3/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/PALA.12155</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

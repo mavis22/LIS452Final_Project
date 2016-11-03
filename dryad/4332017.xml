@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4332017</identifier><datestamp>2014-12-12T23:41:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4H31P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Araujo, Marcio S</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perez, Ivan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Magazoni, Maria Julia C</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petry, Ana Cristina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Morphometric data of Poecilia vivipara</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Morphometrics</subject>
+      <subject>Body shape</subject>
+      <subject>Southeastern Brazil</subject>
+      <subject>Northern Rio de Janeiro</subject>
+      <subject>Holocene</subject>
+      <subject>Poeciliidae</subject>
+      <subject>Poecilia vivipara</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4H31P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>258238 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The dataset has the Procrustes coordinates on ten anatomical landmarks (ProcCoord1-ProcCoord20), as well as centroid size (CS) and its logarithm (logCS). Specimens have a unique identification code (Id) and are classified according to sex and population of origin.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

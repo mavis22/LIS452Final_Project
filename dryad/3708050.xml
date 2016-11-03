@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3708050</identifier><datestamp>2015-08-11T06:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72181/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bennett, Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wernberg, Thomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bennett&amp;Wernberg_recruit facilitation_JEcol_raw data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>aquatic plant ecology</subject>
+      <subject>competition</subject>
+      <subject>disturbance</subject>
+      <subject>kelp forest</subject>
+      <subject>positive interactions</subject>
+      <subject>recruitment</subject>
+      <subject>seaweed</subject>
+      <subject>stress gradient hypothesis</subject>
+      <subject>supply-side ecology</subject>
+      <subject>temperate reef</subject>
+      <subject>southwestern Australia</subject>
+      <subject>Scytothalia dorycarpa</subject>
+      <subject>Sargassum spp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.72181</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8200 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Net recruitment rates (per 3.14 m2) and standardised net recruitment rates, of Scytothalia dorycarpa and Sargassum spp., into experimental plots of different canopy removal intensity). Collected in the field, at locations in southwestern Australia.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

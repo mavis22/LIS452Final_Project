@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6947117</identifier><datestamp>2015-11-06T19:42:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HP0VD/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hope, Sydney</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stabile, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butler, Luke</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Moult scores of Carolina chickadees in forest and urban habitats</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>urbanization</subject>
+      <subject>phenology</subject>
+      <subject>carryover effect</subject>
+      <subject>New Jersey</subject>
+      <subject>USA</subject>
+      <subject>Poecile carolinensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HP0VD</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52343 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Adult Carolina chickadees were caught in the field in a contiguous forest, a fragmented forest, and an urban habitat in New Jersey in 2010, 2012, and 2013. We estimated the proportion of each growing feather that was newly replaced by comparing it to the lengths of neighboring, fully-grown feathers, and then assigning it a score between 0.05 and 0.95 in increments of 0.05 (e.g., 0.35 = 35% of fully grown length; only birds with at least one growing feather scored &#8805;0.05 were included in moult estimates). Moult score ("% moult") of each individual was calculated as the percent of each feather tract (primary [wing], secondary [wing] feathers, and rectrix [tail]). For "Number of growing flight feathers", a "." indicates that the final feather of each tract (P9,S6, and R6) is growing, and it would not be possible for those individuals to moult a greater number of feathers simultaneously. For the "Most distal growing primary", a "." means that primary moult is complete. It is possible for a moult score to be "0" (ie. new feathers are scored &lt;0.05) but for feathers to still be scored as "growing" if the old feather had just fallen out. "Pair" indicates birds that were caught in the same location on the same day.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

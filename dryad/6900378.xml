@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900378</identifier><datestamp>2015-10-29T20:47:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23QP6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moss, Wynne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alldredge, Mathew W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pauli, Jonathan N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cougar isotopic signature and covariates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Stable isotope analysis</subject>
+      <subject>diet composition</subject>
+      <subject>foraging</subject>
+      <subject>mountain lion</subject>
+      <subject>cougar</subject>
+      <subject>urbanization</subject>
+      <subject>habitat use</subject>
+      <subject>mortality risk</subject>
+      <subject>conflict</subject>
+      <subject>Colorado</subject>
+      <subject>Puma concolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.23QP6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2091 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data describes GPS-collared cougars from the Colorado Front Range, monitored from 2007-2013. Data is in csv format, created with Microsoft Excel. Cougars were subadults (independent offspring &lt; 24 months) or adults (&gt;24 months with established home range). We describe isotopic signature of cougar hair (in delta-13C and delta-15N), sex, age at capture, and housing density. Housing density is the median density of housing units (in units/km2) over all of an individuals night-time GPS positions, and is a measure of the intensity of human influence in an individual's home range. We did not estimate housing density for individuals with fewer than 50 GPS locations, and we use asterisks to represent these individuals.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6908994</identifier><datestamp>2015-12-03T14:49:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.94T53/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mattar, Marcelo G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cole, Michael W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson-Schill, Sharon L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bassett, Danielle S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Resting-state functional connectivity matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fMRI</subject>
+      <subject>Functional Connectivity</subject>
+      <subject>Dynamic Functional Connectivity</subject>
+      <subject>Graph theory</subject>
+      <subject>Network science</subject>
+      <subject>Cognitive systems</subject>
+      <subject>Brain networks</subject>
+      <subject>Behavioral adaptability</subject>
+      <subject>Brain states</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.94T53</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6916150 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Resting-state functional connectivity matrices, in MATLAB data format (.mat).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

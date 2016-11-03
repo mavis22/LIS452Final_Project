@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669447</identifier><datestamp>2015-10-08T22:29:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R3SH7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Powell, Jeff R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karunaratne, Senani</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campbell, Colin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yao, Huaiying</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robinson, Lucinda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Brajesh K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bacterial community data from the second National Soils Inventory of Scotland</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>community assembly</subject>
+      <subject>microbial ecology</subject>
+      <subject>soil</subject>
+      <subject>Scotland</subject>
+      <subject>Bacteria</subject>
+      <subject>Fungi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R3SH7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>486308 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bacterial community data from the second National Soils Inventory of Scotland. 'SAMPLE.ID' refers to the unique sample identifier associated with the NSIS2 database (to be released publically by the James Hutton Institute); 'LAYER' refers to the paedological horizon sampled (L1: topsoil horizon; L2-4: second, third, and fourth horizon in depth from the topsoil horizon); all columns with prefix S16 represent OTUs derived from T-RFLP analysis, with the value representing the proportional abundance of that OTU in that sample based on peak height (the sum of these columns equals 1).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

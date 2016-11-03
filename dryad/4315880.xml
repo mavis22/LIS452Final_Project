@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4315880</identifier><datestamp>2015-01-21T16:43:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2VR4C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Raffel, Thomas R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Halstead, Neal T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMahon, Taegan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Andrew K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rohr, Jason R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Temperature variability and moisture synergistically interact to exacerbate an epizootic disease</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>chytrid fungus</subject>
+      <subject>global warming</subject>
+      <subject>Georgia</subject>
+      <subject>Florida</subject>
+      <subject>Anthropocene</subject>
+      <subject>Notophthalmus viridescens</subject>
+      <subject>Batrachochytrium dendrobatidis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Raffel TR, Halstead NT, McMahon TA, Davis AK, Rohr JR (2015) Temperature variability and moisture synergistically interact to exacerbate an epizootic disease. Proceedings of the Royal Society B 282(1801): 20142039.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2VR4C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2VR4C/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.2039</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

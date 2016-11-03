@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6348147</identifier><datestamp>2015-06-29T20:15:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C61Q0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moore, Jennifer A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Draheim, Hope</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scribner, Kim T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Black bear data_Moore et al</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Animal Mating/Breeding Systems</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Mammals</subject>
+      <subject>Wildlife Management</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Black bear</subject>
+      <subject>Michigan</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Ursus americanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-06-25</date>
+      <date dateType="Accepted">2015-06-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C61Q0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>411280 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-06-25</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains information from black bear samples collected via harvest from the Northern Lower Peninsula of Michigan, USA. File includes bear ID, sex, estimated age at the time of harvest, geographic coordinates of harvest locations (the centroid of the township, range, and section reported by hunters), and the 12-locus microsatellite genotypes. See associated manuscript for specific details about sample collection, bear aging, sexing, geographic locations, and genotyping.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

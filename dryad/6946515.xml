@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6946515</identifier><datestamp>2015-11-06T17:30:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9R295/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Emerson, Brent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alvarado-Serrano, Diego</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hickerson, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mutation rates simulation pipeline</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mutation rate</subject>
+      <subject>ancestral polymorphism</subject>
+      <subject>Bayesian phylogenetics</subject>
+      <subject>calibration</subject>
+      <subject>coalescent</subject>
+      <subject>ancient DNA</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9R295</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2859 bytes</size>
+  </sizes>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">The simulation pipeline generates coalescent-based genealogies that comprise a mixed of current and ancestral samples. These genealogies are then converted into phylograms with branch lengths in units of substitutions per site onto which mutations are simulated. The resultant sequences serve then to estimate substitution rates in BEAST using the simulated date-calibrated data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

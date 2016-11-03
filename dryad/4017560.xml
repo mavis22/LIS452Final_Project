@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017560</identifier><datestamp>2015-07-24T16:48:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MV34V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>DiTommaso, Tia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Lynelle K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cottle, Denny L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>The WTSI Mouse Genetics Program</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gerdin, Anna-Karin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vancollie, Valerie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Watt, Fiona M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramirez-Solis, Ramiro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bradley, Allan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steel, Karen P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sundberg, John P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Jacqueline K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smyth, Ian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gene-FileHeader-Genotype-Phenotype Reference List</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>skin</subject>
+      <subject>epidermis</subject>
+      <subject>hair follicle</subject>
+      <subject>Wellcome Trust Sanger Institute screen</subject>
+      <subject>Mus musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MV34V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>30824 bytes</size>
+      <size>1426 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Master reference file to link Gene to Files and Noted Phenotypes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

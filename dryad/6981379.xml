@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6981379</identifier><datestamp>2015-11-09T16:52:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R94K7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kono, Nobuaki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakamura, Hiroyuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ito, Yusuke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tomita, Masaru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arakawa, Kazuharu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Input and Output Files for DEG analysis using edgeR</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Invertebrates</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>spider</subject>
+      <subject>Parasteatoda tepidariorum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R94K7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>349381920 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Input count data (*_input.txt files, calculated by kallisto software) and output DEG analysis data (*_output.txt files, calculated by edgeR tool). 5M, 20M, or 30M indicates the number of subsampled reads used in the analysis.&#13;
+&#13;
+1. Files with NO80_p[1-7]_[5|20|30]M_[input/output].txt or NO80_s[1-6]_[5|20|30]M_[input/output].txt&#13;
+    These files were for the calculation of Fig. 2b, where&#13;
+NO80_p1_*	NO80 vs RIN1.0, 2.2&#13;
+NO80_p2_*	NO80 vs RIN2.2, 3.8&#13;
+NO80_p3_*	NO80 vs RIN3.8, 5.3&#13;
+NO80_p4_*	NO80 vs RIN5.3, 6.3&#13;
+NO80_p5_*	NO80 vs RIN6.3, 7.1&#13;
+NO80_p6_*	NO80 vs RIN7.1, 8.0&#13;
+NO80_p7_*	NO80 vs RIN8.0, 9.0&#13;
+NO80_s1_*	NO80 vs RIN1.0, 2.2, 3.8&#13;
+NO80_s2_*	NO80 vs RIN2.2, 3.8, 5.3&#13;
+NO80_s3_*	NO80 vs RIN3.8, 5.3, 6.3&#13;
+NO80_s4_*	NO80 vs RIN5.3, 6.3, 7.1&#13;
+NO80_s5_*	NO80 vs RIN6.3, 7.1, 8.0&#13;
+NO80_s6_*	NO80 vs RIN7.1, 8.0, 9.0&#13;
+&#13;
+2. Other files were used for the calculation of Table 3, where&#13;
+AE: Directly submerged in Ethanol&#13;
+AR: Directly submerged in RNAlater&#13;
+CE: Crushed and submerged in Ethanol&#13;
+CR: Crushed and submerged in RNAlater&#13;
+CT: Crushed and submerged in TRIzol&#13;
+NO: Flash-frozen in liquid nitrogen</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

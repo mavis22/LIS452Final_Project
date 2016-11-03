@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4571728</identifier><datestamp>2014-12-24T15:38:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D1NB6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crisp, Michael D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hardy, Nate B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cook, Lyn G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Monocots_cpDNA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>divergence times</subject>
+      <subject>molecular evolution</subject>
+      <subject>uncorrelated molecular clock</subject>
+      <subject>random local clocks</subject>
+      <subject>relative rates test</subject>
+      <subject>life form</subject>
+      <subject>monocots</subject>
+      <subject>Australia</subject>
+      <subject>Cenozoic</subject>
+      <subject>Xanthorrhoea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D1NB6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>279431 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data files for phylogenetic analyses of monocots in RAxML and BEAST using cpDNA alignment with varying combinations of DNA partitioning and clock models.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

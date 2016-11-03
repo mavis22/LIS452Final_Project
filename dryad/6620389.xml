@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6620389</identifier><datestamp>2015-10-12T19:57:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BT7V0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marshall, Tom Rhys</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergmann, Til Ole</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Ole</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Neural data (Figs 3,4,5,6)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Magnetoencephalography</subject>
+      <subject>Neuronal Oscillation</subject>
+      <subject>Attention</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BT7V0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2754 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV sheet containing the data used in the neural data analyses and brain-behaviour correlation analyses shown in figures 3, 4, 5, and 6 of the manuscript. Each row represents one subject. The column headings are as follows:&#13;
+ &#13;
+ Column 1 - Volumetric asymmetry of SLF1&#13;
+ Column 2 - Volumetric asymmetry of SLF2&#13;
+ Column 3 - Volumetric asymmetry of SLF3&#13;
+ Column 4 - Alpha modulation asymmetry, occipital cortex&#13;
+ Column 5 - Alpha modulation asymmetry, frontal cortex, FEF ROI&#13;
+ Column 6 - Alpha modulation asymmetry, frontal cortex, ROI from Olesen et al&#13;
+ Column 7 - Gamma modulation asymmetry, occipital cortex&#13;
+ Column 8 - Gamma modulation asymmetry, frontal cortex, FEF ROI&#13;
+ Column 9 - Gamma modulation asymmetry, frontal cortex, ROI from Olesen et al&#13;
+ Column 10 - Asymmetry of cueing benefit, reaction times&#13;
+ Column 11 - Asymmetry of cueing benefit, accuracy</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

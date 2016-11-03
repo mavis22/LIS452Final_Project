@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4655538</identifier><datestamp>2015-03-02T15:42:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.70M5H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Peng, Shi-Fang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiang, Xue-Hua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zha, Cong</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>The data underlying the findings of the study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>laryngeal carcinoma</subject>
+      <subject>iTRAQ</subject>
+      <subject>S100A2</subject>
+      <subject>Proteomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.70M5H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>48691 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplementary data 1: Patient demographic and clinical characteristics. Supplementary data 2: The list of proteins found to be expressed at different levels between laryngeal carcinoma samples and paired non-cancerous samples by iTRAQ analysisa. a118:117 and 121:119 refer to relative level of protein expression in laryngeal carcinoma samples with respect to non-cancerous samples. Statistical calculation for iTRAQ-based detection and relative quantification were calculated using the Paragon Algorithm in the ProteinPilot software. Supplementary data 3: The biological processes of differentially expressed proteins. Supplementary data 4: The protein classes of differentially expressed proteins. Supplementary data 5: The molecular functions of differentially expressed proteins. a118:117 and 121:119 refer to relative level of protein expression in laryngeal carcinoma samples with respect to non-cancerous samples. Statistical calculation for iTRAQ-based detection and relative quantification were calculated using the Paragon Algorithm in the ProteinPilot software. Supplementary data 3: The biological processes of differentially expressed proteins. Supplementary data 4: The protein classes of differentially expressed proteins. Supplementary data 5: The molecular functions of differentially expressed proteins.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

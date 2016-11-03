@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5496774</identifier><datestamp>2015-04-03T16:09:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1M4GC</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schroeder, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakagawa, Shinichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rees, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mannarelli, Maria-Elena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burke, Terry</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Reduced fitness in progeny from old parents in a natural population</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>senescence</subject>
+      <subject>transgenerational</subject>
+      <subject>aging</subject>
+      <subject>epigenetic</subject>
+      <subject>indirect effects</subject>
+      <subject>UK</subject>
+      <subject>Recent</subject>
+      <subject>Passer domesticus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Schroeder J, Nakagawa S, Rees M, Mannarelli M, Burke T (2015) Reduced fitness in progeny from old parents in a natural population. Proceedings of the National Academy of Sciences of the United States of America 112(13): 4021&#8211;4025.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1M4GC/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1M4GC/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1073/PNAS.1422715112</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

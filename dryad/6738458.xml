@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738458</identifier><datestamp>2015-09-10T14:02:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7T4N0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Aykanat, Tutku</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnston, Susan E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Niemel&#228;, Eero</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Orell, Panu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Erkinaro, Jaakko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Primmer, Craig R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Aykanat_et_al_Dryad_files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Cryptic population structure</subject>
+      <subject>life-history variation</subject>
+      <subject>age at maturity</subject>
+      <subject>growth</subject>
+      <subject>SNPs</subject>
+      <subject>population genetics</subject>
+      <subject>Finland</subject>
+      <subject>Norway</subject>
+      <subject>Salmo salar</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7T4N0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>581 bytes</size>
+      <size>9078374 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">FILES IN THE BUNDLE:&#13;
+&#13;
+mainparams: parameter file for the structure runs. NOTE that k and n are "number of populations" and "number of replicate", respectively and appropriate number should be used instead of these letters when running the software.&#13;
+teno_MS = The GenABEL format main file. The file includes genotype (n= 2874 SNPs), phenotype as well as location information from 662 individuals, which is sufficient to replicate the main results.&#13;
+Structure raw files.zip = Includes raw results from the structure analysis which is sufficient to replicate all structure related results.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

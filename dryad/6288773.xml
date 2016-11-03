@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6288773</identifier><datestamp>2015-07-07T13:44:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q3D2M</identifier>
+  <creators>
+      <creator>
+         <creatorName>van der Meer, Sascha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacquemyn, Hans</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic diversity and spatial genetic structure of the grassland perennial Saxifraga granulata along two river systems</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gene flow</subject>
+      <subject>genetic analysis</subject>
+      <subject>microsatellites</subject>
+      <subject>polyploidy</subject>
+      <subject>riparian grassland</subject>
+      <subject>river system</subject>
+      <subject>seed dispersal</subject>
+      <subject>Simple Sequence Repeat (SSR)</subject>
+      <subject>Europe</subject>
+      <subject>Belgium</subject>
+      <subject>Saxifraga granulata</subject>
+      <subject>Saxifragaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">van der Meer S, Jacquemyn H (2015) Genetic diversity and spatial genetic structure of the grassland perennial Saxifraga granulata along two river systems. PLoS ONE 10(6): e0130463.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q3D2M/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0130463</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

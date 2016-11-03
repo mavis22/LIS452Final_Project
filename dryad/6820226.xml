@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6820226</identifier><datestamp>2015-10-02T16:26:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H6R35.1/2.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Prev&#233;y, Janet S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seastedt, Timothy R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>precipitation_experiment_resources</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>cheatgrass</subject>
+      <subject>climate change</subject>
+      <subject>invasive species</subject>
+      <subject>rainfall manipulation</subject>
+      <subject>Plant&#8211;climate interactions</subject>
+      <subject>precipitation change</subject>
+      <subject>winter-annual grasses</subject>
+      <subject>Colorado</subject>
+      <subject>40&#176; 07&#8242; N</subject>
+      <subject>105&#176; 18&#8242; W</subject>
+      <subject>Bromus tectorum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H6R35.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file contains measurements of soil resources and plant community characteristics from a precipitation experiment in a mixed-grass prairie in Colorado. All measurements were made from 2011-2013. The 'treatment' column heading corresponds to the precipitation treatment received by the plot; &#8216;winwet&#8217; = winter wet, &#8216;winwet_sumdry&#8217; = winter wet/summer dry, &#8216;windry_sumwet&#8217; = winter dry/summer wet, and &#8216;windry_sumwet&#8217; = winter dry/summer wet. &#8216;Spring_nitrogen&#8217; = total nitrogen extracted from resin bags buried in plots at 5 cm depth from April-May (units are &#181;g N / gram resin). &#8216;summer_nitrogen&#8217; = total nitrogen extracted from resin bags from June- September, &#8216;winter_nitrogen&#8217; = total nitrogen extracted from resin bags from October-March. Units for aboveground biomass are g/m2. &#8216;VWC&#8217; = soil volumetric water content (%) from 0 &#8211; 12 cm depth. &#8216;Diversity&#8217; = Shannon-Weiner diversity index. &#8216;April_B_tectorum&#8217; = % cover of Bromus tectorum in plots in April.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

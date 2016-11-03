@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5497609</identifier><datestamp>2015-09-05T21:35:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.418B0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nagy, R. Chelsea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porder, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neill, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brando, Paulo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quintino, Raimundo Mota</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nascimento, Sebasti&#226;o Aviz do</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nagy_et_al_combined_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fragmentation</subject>
+      <subject>riparian</subject>
+      <subject>agriculture</subject>
+      <subject>Amazon</subject>
+      <subject>forest structure</subject>
+      <subject>composition</subject>
+      <subject>diversity</subject>
+      <subject>Mato Grosso</subject>
+      <subject>Brazil</subject>
+      <subject>Amazon</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.418B0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>236609 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the following data in separate sheets: Importance Value Index, Leaf Area Index, large woody plants, microclimate, species composition, environmental data for analysis of species composition, large woody plant distribution, vegetation cover, and water table.  Each of the above sheets in excel has an accompanying metadata sheet offering further explanation of the data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

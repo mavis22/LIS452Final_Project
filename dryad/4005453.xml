@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4005453</identifier><datestamp>2014-10-09T16:52:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G0Q01</identifier>
+  <creators>
+      <creator>
+         <creatorName>Shapiro, Karen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krusor, Colin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazzillo, Fernanda F. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conrad, Patricia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Largier, John L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazet, Jonna A. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Silver, Mary W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Aquatic polymers can drive pathogen transmission in coastal ecosystems</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Extracellular polymeric substances</subject>
+      <subject>Transparent exopolymer particles</subject>
+      <subject>Zoonotic pathogen</subject>
+      <subject>Marine transmission</subject>
+      <subject>Sea otter</subject>
+      <subject>California</subject>
+      <subject>Toxoplasma gondii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Shapiro K, Krusor C, Mazzillo FFM, Conrad PA, Largier JL, Mazet JAK, Silver MW (2014) Aquatic polymers can drive pathogen transmission in coastal ecosystems. Proceedings of the Royal Society B 281(1795): 20141287.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G0Q01/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G0Q01/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.1287</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

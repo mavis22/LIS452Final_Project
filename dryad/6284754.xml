@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6284754</identifier><datestamp>2015-06-10T14:39:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q044D/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stenz, Noah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larget, Bret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baum, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>An&#233;, C&#233;cile</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>A. thaliana 4th Chromosome MDL Blocks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gene tree discordance</subject>
+      <subject>concordance</subject>
+      <subject>quartet</subject>
+      <subject>species concept</subject>
+      <subject>TICR</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Arabidopsis lyrata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q044D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>199107102 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Gzipped archive containing the alignments of the 3,595 recombinational blocks as determined by MDL.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

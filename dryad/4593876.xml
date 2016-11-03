@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4593876</identifier><datestamp>2015-01-29T19:00:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.64716/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Buckley, Lauren B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ehrenberger, Joseph C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angilletta Jr., Michael J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SceloporusThermalData</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>body temperature</subject>
+      <subject>climate change</subject>
+      <subject>critical thermal limits</subject>
+      <subject>niche conservatism</subject>
+      <subject>thermoregulation</subject>
+      <subject>preferred body temperature</subject>
+      <subject>North America</subject>
+      <subject>Holocene</subject>
+      <subject>Sceloporus undulatus</subject>
+      <subject>Sceloporus tristichus</subject>
+      <subject>Sceloporus cowlesi</subject>
+      <subject>Sceloporus consobrinus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.64716</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5515 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Thermal data for lizards from the Sceloporus undulatus species complex.  Data collection was led by Joseph Ehrenberger in the laboratory at Indiana State University as described in the manuscript.  Columns are as follows: state corresponding to collection site, ID for data collection, sex (M: male, F: female, J:juvenile of unknown sex), snout vent length (mm), total length (mm), critical thermal maximum (C), critical thermal minima (C), morning preferred body temperature (C), and afternoon preferred body temperature (C).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

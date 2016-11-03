@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6287694</identifier><datestamp>2015-06-11T14:29:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9HC76/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McNair Sr., Alistair</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakagawa, Shinichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lihoreau, Mathieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simpson, Stephen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raubenheimer, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data.Objects</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecology: statistical</subject>
+      <subject>Fitness</subject>
+      <subject>Foraging: behavior</subject>
+      <subject>Foraging: ecology</subject>
+      <subject>Foraging: theory</subject>
+      <subject>Methods: meta-analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9HC76</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>196690 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">An R data file, which contains all of the data used for the analyses in "An overlooked consequence of dietary mixing: a varied diet reduces inter-individual variance in fitness". All the data objects are stored in a list. There are details of each data object in the accompanying R code.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

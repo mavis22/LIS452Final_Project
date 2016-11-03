@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3555203</identifier><datestamp>2014-05-30T09:44:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G1S47</identifier>
+  <creators>
+      <creator>
+         <creatorName>Oneal, Elen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lowry, David B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Kevin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhu, Zhirui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willis, John H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Divergent population structure and climate associations of a chromosomal inversion polymorphism across the Mimulus guttatus species complex</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>chromosomal inversion</subject>
+      <subject>Adaptation</subject>
+      <subject>cline</subject>
+      <subject>ecotypes</subject>
+      <subject>life-history</subject>
+      <subject>climate</subject>
+      <subject>Western North America</subject>
+      <subject>Mimulus arvensis</subject>
+      <subject>Mimulus cupriphilus</subject>
+      <subject>Mimulus guttatus</subject>
+      <subject>Mimulus laciniatus</subject>
+      <subject>Mimulus micranthus</subject>
+      <subject>Mimulus nasutus</subject>
+      <subject>Mimulus nudatus</subject>
+      <subject>Mimulus pardalis</subject>
+      <subject>Mimulus tilingii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Oneal E, Lowry DB, Wright KM, Zhu Z, Willis JH (2014) Divergent population structure and climate associations of a chromosomal inversion polymorphism across the Mimulus guttatus species complex. Molecular Ecology 23(11): 2844-2860.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G1S47/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G1S47/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12778</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

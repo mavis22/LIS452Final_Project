@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:799895</identifier><datestamp>2015-10-26T19:59:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.70MV450R</identifier>
+  <creators>
+      <creator>
+         <creatorName>Comeault, Aaron A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sommers, Mathew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwander, Tanja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buerkle, C. Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farkas, Timothy E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nosil, Patrik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parchman, Thomas L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: De novo characterization of the Timema cristinae transcriptome facilitates marker discovery and inference of genetic divergence.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>transcriptome</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>Speciation</subject>
+      <subject>isolation with migration</subject>
+      <subject>gene flow</subject>
+      <subject>Coastal California</subject>
+      <subject>Timema cristinae</subject>
+      <subject>Timema californicum</subject>
+      <subject>Timema poppensis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Comeault AA, Sommers M, Schwander T, Buerkle CA, Farkas TE, Nosil P, Parchman TL (2012) De novo characterization of the Timema cristinae transcriptome facilitates marker discovery and inference of genetic divergence. Molecular Ecology Resources 12(3): 549-561.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.70MV450R/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1755-0998.2012.03121.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

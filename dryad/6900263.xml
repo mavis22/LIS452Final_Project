@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900263</identifier><datestamp>2015-10-22T16:31:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DM98K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lin, Yaping</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Yiyong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xiong, Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhan, Aibin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome-wide gene-associated microsatellite markers for the model invasive ascidian, Ciona intestinalis species complex</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biological Invasion</subject>
+      <subject>expressed sequence tags (ESTs)</subject>
+      <subject>Invasive Species</subject>
+      <subject>microsatellite</subject>
+      <subject>microevolution</subject>
+      <subject>transferability</subject>
+      <subject>tunicate</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DM98K/1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

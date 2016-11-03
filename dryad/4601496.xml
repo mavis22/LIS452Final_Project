@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601496</identifier><datestamp>2015-02-23T21:01:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HF7GG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gordon, Christopher E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feit, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gr&#252;ber, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Letnic, Mike</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gordon.et.al.2015_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Dingo</subject>
+      <subject>Non-lethal effects</subject>
+      <subject>Giving Up Density</subject>
+      <subject>Trophic</subject>
+      <subject>Strzelecki Desert</subject>
+      <subject>Australia</subject>
+      <subject>Current day</subject>
+      <subject>Canis dingo</subject>
+      <subject>Notomys fuscus</subject>
+      <subject>Felis catus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HF7GG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16243 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing raw data used in analyses.  The Experiment 1 tab holds data relating to the Experiment 1 section of the paper. The Experiment 2 tab holds data relating to the Experiment 2 section of the paper. The Abundance_SpotlightData tab holds data relating to the Dingo, fox, cat and N. fuscus abundance section of the paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

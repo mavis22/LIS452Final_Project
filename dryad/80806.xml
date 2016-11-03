@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80806</identifier><datestamp>2014-05-30T02:09:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8085</identifier>
+  <creators>
+      <creator>
+         <creatorName>O'Connell, Karen E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noor, Mohamed A. F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Raw whole Drosophila genome sequence traces have contaminant sequences from bacterial symbionts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>Computational genomics</subject>
+      <subject>Genome sequence assembly</subject>
+      <subject>Bacterial symbionts</subject>
+      <subject>Drosophila pseudoobscura pseudoobscura</subject>
+      <subject>Drosophila miranda</subject>
+      <subject>Drosophila persimilis</subject>
+      <subject>Drosophila pseudoobscura bogotana</subject>
+      <subject>Enterobacter cloacae</subject>
+      <subject>Acetobacter pasteurianus</subject>
+      <subject>Gluconobacter oxydans</subject>
+      <subject>Gluconacetobacter diazotrophicus</subject>
+      <subject>Enterococcus faecalis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">O'Connell KE, Noor MAF (2010) Raw whole Drosophila genome sequence traces have contaminant sequences from bacterial symbionts. Drosophila Information Service 93: 127-131.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8085/9</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

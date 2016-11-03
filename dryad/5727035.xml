@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727035</identifier><datestamp>2015-06-03T20:15:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MP238/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Buckley, Lauren B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nufio, C&#233;sar R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kirk, Evan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kingsolver, Joel G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>proportional_composition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>development</subject>
+      <subject>physiology</subject>
+      <subject>resurvey</subject>
+      <subject>temperature-size rule</subject>
+      <subject>Colorado</subject>
+      <subject>Holocene</subject>
+      <subject>Melanoplus sanguinipes</subject>
+      <subject>Camnula pellucida</subject>
+      <subject>Melanoplus boulderensis</subject>
+      <subject>Melanoplus dawsoni</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MP238</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10394 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file describes the species composition of grasshoppers collected during field surveys. Columns are as follows: Species: species name; TimePeriod: observation period in years; Elevation_m: site elevation in meters; JulianDate: Julian date of observation; Proportion_xInstar: proportion of population within instar x.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

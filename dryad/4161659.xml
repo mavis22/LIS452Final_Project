@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4161659</identifier><datestamp>2015-02-10T19:18:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D06J2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pace, Brian A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alexander, Helen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emry, Jason D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mercer, Kristin L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Seed fates in crop-wild hybrid sunflowers: crop allele and maternal effects</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Gene flow</subject>
+      <subject>Hybridization</subject>
+      <subject>introgression</subject>
+      <subject>dormancy</subject>
+      <subject>maternal effects</subject>
+      <subject>sunflower</subject>
+      <subject>seed banks</subject>
+      <subject>Kansas</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Helianthus annuus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pace BA, Alexander HM, Emry JD, Mercer KL (2014) Seed fates in crop-wild hybrid sunflowers: crop allele and maternal effects. Evolutionary Applications 8(2): 121&#8211;132.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D06J2/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12236</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

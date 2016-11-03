@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1221828</identifier><datestamp>2015-08-21T02:56:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.612G8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Broquet, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viard, Fr&#233;d&#233;rique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yearsley, Jonathan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broquet, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viard, Fr&#233;d&#233;rique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yearsley, Jonathan M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic drift and collective dispersal can result in chaotic genetic patchiness</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Gene Flow</subject>
+      <subject>Genetic Drift</subject>
+      <subject>Population Structure</subject>
+      <subject>Models/Simulations</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Broquet T, Viard F, Yearsley JM (2012) Genetic drift and collective dispersal can result in chaotic genetic patchiness. Evolution 67(6): 1660&#8211;1675.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.612G8/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01826.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

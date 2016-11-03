@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:65063</identifier><datestamp>2014-05-29T19:27:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.17VS2D34</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sibly, Richard M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zuo, Wenyun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kodric-Brown, Astrid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, James H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Rensch's rule in large herbivorous mammals derived from metabolic scaling</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Ecology: behavioral</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Life history: ecology</subject>
+      <subject>Life history: evolution</subject>
+      <subject>Mating systems</subject>
+      <subject>Morphology</subject>
+      <subject>Reproduction: strategies</subject>
+      <subject>Sexual dimorphism</subject>
+      <subject>herbivores</subject>
+      <subject>Bovidae</subject>
+      <subject>Cervidae</subject>
+      <subject>Macropodidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sibly RM, Zuo W, Kodric-Brown A, Brown JH (2011) Rensch's rule in large herbivorous mammals derived from metabolic scaling. The American Naturalist 179(2): 169-177.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.17VS2D34/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/663686</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4314928</identifier><datestamp>2015-01-23T16:42:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.64B5P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Richardson, Rodney T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lin, Chia-Hua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sponsler, Douglas B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quijia, Juan O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goodell, Karen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Reed M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genbank-derived ITS2 reference library</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bee foraging landscape</subject>
+      <subject>palynology</subject>
+      <subject>pollen analysis</subject>
+      <subject>Ohio</subject>
+      <subject>United States</subject>
+      <subject>Holocene</subject>
+      <subject>Magnoliophyta</subject>
+      <subject>Apis mellifera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.64B5P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1922874 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a reference library of 2628 plant ribosomal sequences downloaded from Genbank on March 11, 2014. This library represents approximately half of the 4918 plant species potentially present in Ohio and surrounding states (USDA PLANTS database; http://plants.usda.gov/). This file is in FASTA format.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

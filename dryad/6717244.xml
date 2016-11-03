@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717244</identifier><datestamp>2015-09-11T00:27:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QH53F/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schutt, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fu, Jianing</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig1C</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ibrutinib</subject>
+      <subject>chronic GVHD</subject>
+      <subject>acute GVHD</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QH53F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1442 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file is associated with Fig1C of the accompanied publication. Survival data of bone marrow only, vehicle treated, and Ibrutinib treated recipients. Column A is an arbitrary identification number given to each mouse. Column B indicates the time-point at which a survival (marked as "0') or non-survival event (marked as "1") occurred. Column C indicates the bone marrow alone group. Column D indicates mice treated with vehicle. Column E indicates mice treated with Ibrutinib 10mg/kg.  Column F indicates mice treated with 10mg/kg Ibrutinib beginning 14 days post transplantation. Any other relevant information, including experimental conditions and setup is detailed in the accompanied publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

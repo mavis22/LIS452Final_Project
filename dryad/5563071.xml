@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5563071</identifier><datestamp>2015-04-01T14:00:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G6C5Q/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cagua, Edgar Fernando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cochran, Jesse E. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rohner, Christoph A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prebble, Clare E. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinclair-Taylor, Tane H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pierce, Simon J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berumen, Michael L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R script - presence/absence function</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>residency patterns</subject>
+      <subject>movement ecology</subject>
+      <subject>individual photo-identification</subject>
+      <subject>recapture probability</subject>
+      <subject>underwater acoustic telemetry</subject>
+      <subject>visual survey</subject>
+      <subject>Tanzania</subject>
+      <subject>Rhincodon typus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G6C5Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2245 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-03-25T18:23:37Z (GMT). No. of bitstreams: 1
+presence-absence.R: 2245 bytes, checksum: 07eb8c9ef813c5e651354febd8e12dc0 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

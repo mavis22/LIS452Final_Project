@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5582481</identifier><datestamp>2015-08-05T16:58:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.65PM3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Napolitano, Constanza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>D&#237;az, Diego</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanderson, Jim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Warren E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritland, Kermit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritland, Carol E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poulin, Elie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mitochondrial DNA sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>conservation genetics</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>inbreeding</subject>
+      <subject>kinship</subject>
+      <subject>temperate rainforests</subject>
+      <subject>Conservation genetics and biodiversity</subject>
+      <subject>South America</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.65PM3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1552401 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File may be viewed using ProSeq software at http://dps.plants.ox.ac.uk/sequencing/proseq.htm [Filatov DA (2009) Processing and population genetic analysis of multigenic datasets with ProSeq3 software. Bioinformatics 25: 3189-3190].</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

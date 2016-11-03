@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6797808</identifier><datestamp>2015-11-06T21:52:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC688/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schneider, Manuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geijzendorffer, Ilse</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herzog, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#252;scher, Gisela</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Farmland species richness data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Species richness</subject>
+      <subject>Farmland biodiversity</subject>
+      <subject>Habitat</subject>
+      <subject>Plants</subject>
+      <subject>Spiders</subject>
+      <subject>Bees</subject>
+      <subject>Earth worms</subject>
+      <subject>Agriculture</subject>
+      <subject>Agri-environment schemes</subject>
+      <subject>Biodiversity indicator</subject>
+      <subject>Common agricultural policy</subject>
+      <subject>Empirical data</subject>
+      <subject>Farming system</subject>
+      <subject>Sampling design</subject>
+      <subject>Species trend</subject>
+      <subject>Power analysis</subject>
+      <subject>Europe</subject>
+      <subject>2010</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KC688</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15225 bytes</size>
+      <size>2455 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Data contains species richness of plants, earthworm, spiders and bees (wild bees and bumblebees) in 195 farms in 12 study regions in Europe. The observed species richness are complemented by a 5% lower and a 95% upper confidence level derived from species accumulation as well as the number of samples drawn in each farm.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

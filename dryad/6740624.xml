@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6740624</identifier><datestamp>2015-10-14T17:15:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RV766/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Torres-Barcel&#243;, Clara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kojadinovic, Mila</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moxon, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>MacLean, Roderick Craig</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fitness wt-lex cip-no ratios</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bacteria</subject>
+      <subject>stress</subject>
+      <subject>fitness</subject>
+      <subject>evolvability</subject>
+      <subject>antibiotics</subject>
+      <subject>SOS response</subject>
+      <subject>Pseudomonas aeruginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RV766</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9728 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Short-term fitness effects of the SOS response. Competitive fitness of the WT strain relative to the LexA mutant, as measured using overnight competition experiments in the presence of ciprofloxacin or not. Values are the average of 20 independent replicates starting from different WT:LexA frequencies and error bars are SEM.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

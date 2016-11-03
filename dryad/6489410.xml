@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6489410</identifier><datestamp>2015-07-14T13:59:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FC40S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Peiker, Ina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schneider, Till R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milne, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sch&#246;ttle, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vogeley, Kai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;nchau, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schunke, Odette</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siegel, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Engel, Andreas K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>David, Nicole</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig1_Behavioral_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FC40S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46080 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Accuracy data (%) related to Figure 1</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

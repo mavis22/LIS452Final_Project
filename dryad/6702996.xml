@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6702996</identifier><datestamp>2015-08-27T14:40:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HV333/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Poelstra, Jelmer W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vijay, Nagarjun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#246;ppner, Marc P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolf, Jochen B. W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Metadata by library</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Transcriptomics</subject>
+      <subject>colour patterning</subject>
+      <subject>pigmentation</subject>
+      <subject>Speciation</subject>
+      <subject>Birds</subject>
+      <subject>Corvus corone</subject>
+      <subject>Corvus cornix</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HV333</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12596 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Metadata for each RNA-seq library used in this study, including the tissue and individual (see the metadata by individual file for more info on each individual) from which the library is derived, and the SRA accession numbers. Columns: "library_ID" (library identifier 2), "library_code" (library identifier 2), "individual_short" (individual ID, same as in metadata by individual file), "tissue_long" (name of tissue), "use_for_DE" (whether the sample was used for differential expression analysis (if TRUE) or only for annotation improvement (if FALSE), "Biosample_ID" (SRA Biosample identifier), "SRR_ID" (SRA run ID), "SRS_ID" (SRA sample ID), "sample".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

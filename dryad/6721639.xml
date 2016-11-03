@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721639</identifier><datestamp>2015-09-14T17:33:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.92BV3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Boughton, Elizabeth H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quintana-Ascencio, Pedro F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bohlen, Patrick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fauth, John E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenkins, David G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>wetland plant richness and diversity_fire and grazing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agriculture</subject>
+      <subject>biodiversity management</subject>
+      <subject>context dependence</subject>
+      <subject>disturbance</subject>
+      <subject>grazing lands</subject>
+      <subject>management intensity</subject>
+      <subject>restoration</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.92BV3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20760 bytes</size>
+      <size>507 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains plant species richness and diversity metrics from forty wetlands sampled over four years, 2006-2009.  These are response variables for a factorial experimental manipulating fire and grazing management on wetlands embedded in different pasture management intensities.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

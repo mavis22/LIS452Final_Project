@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5579080</identifier><datestamp>2015-05-13T18:47:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FB80V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barrab&#233;s, Jos&#233; A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Inserte, Javier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agull&#243;, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodr&#237;guez-Sinovas, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alburquerque-B&#233;jar, Juan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garcia-Dorado, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ERP in isolated rat hearts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ischemia</subject>
+      <subject>Infarction</subject>
+      <subject>Mechanoelectrical feedback</subject>
+      <subject>Stretch</subject>
+      <subject>Ventricular fibrillation</subject>
+      <subject>Rat</subject>
+      <subject>Domestic hybrid pig</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FB80V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1277 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SPSS data (.sav) file. It contains the effective refractory periods at different loading conditions (0, 20, 40mmHg LVEDP) and with and without GsMtx4 in isolated rat hearts.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

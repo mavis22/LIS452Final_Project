@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4289662</identifier><datestamp>2014-12-11T17:43:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23K27/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lonsinger, Robert C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gese, Eric M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dempsey, Steven J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kluever, Bryan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waits, Lisette P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>coyotes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>DNA degradation</subject>
+      <subject>genotyping error</subject>
+      <subject>noninvasive genetic sampling</subject>
+      <subject>scat deposition</subject>
+      <subject>Dugway Proving Ground</subject>
+      <subject>western Utah</subject>
+      <subject>Canis latrans</subject>
+      <subject>Vulpes macrotis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.23K27</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>128700 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw DNA degradation data for coyote faecal DNA samples used in the mixed-effects logistic regression models for PCR success, allelic dropout (ADO) and false alleles (FA). Faecal DNA samples collected in 2012 during winter and summer at Dugway Proving Ground, Utah. (Coding: 1 indicates successful PCR amplification, presence of ADO, or presence of FA; 0 indicates failed PCR amplification, no detection of ADO, or no detection of FA)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

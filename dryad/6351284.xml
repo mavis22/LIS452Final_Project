@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6351284</identifier><datestamp>2015-07-15T21:18:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q202D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Beeton, Nicholas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMahon, Clive R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williamson, Grant</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Potts, Joanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bloomer, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bester, Marth&#225;n N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Forbes, Lawrence K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Christopher N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Marion Island case study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>invasives</subject>
+      <subject>population ecology</subject>
+      <subject>modelling</subject>
+      <subject>prioritisation</subject>
+      <subject>conservation</subject>
+      <subject>Marion Island</subject>
+      <subject>Holocene</subject>
+      <subject>Felis catus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q202D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1522576 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data files from the Marion Island feral cat eradication covering hunting, killing, sighting and trapping events. Includes files used in order to prepare this dataset for analysis in SPADE.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

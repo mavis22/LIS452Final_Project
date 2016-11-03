@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4160825</identifier><datestamp>2014-12-22T19:17:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.546RD/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Guillemin, Marie-Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valero, Myriam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Faugeron, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nelson, Wendy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Destombe, Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsatellite genotypes of Gracilaria chilensis from New Zealand and Chile</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>microsatellites</subject>
+      <subject>domestication</subject>
+      <subject>Gracilaria chilensis</subject>
+      <subject>bottleneck</subject>
+      <subject>genetic diversity</subject>
+      <subject>Chile</subject>
+      <subject>New Zealand</subject>
+      <subject>Quaternary to present</subject>
+      <subject>Gracilaria chilensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.546RD</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>51563 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This readme file describes the microsatellites genotypes for a red algae: Gracilaria chilensis. The file include data for 187 individuals collected from eight natural populations from New Zealand (including the Chatham Islands) and 410 individuals collected along the Chilean coast. G. chilensis is extensively cultivated in Chile for agar production, however, only natural populations (i.e. non cultivated ones) are reported in this data set. The five microsatellite loci are named according to Guillemin et al. (2005, Development of microsatellites DNA markers in the cultivated seaweed Gracilaria chilensis (Gracilariales Rhodophyta). Mol Ecol Notes 5, 155&#8211;157.). All individuals are diploids. &#8220;0&#8221; correspond to missing data. For any further queries please contact marielaure.guillemin@gmail.com</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

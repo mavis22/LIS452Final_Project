@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6725597</identifier><datestamp>2015-09-09T19:04:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5QV85/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rougemont, Quentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gaigher, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lasne, Emilien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#244;te, Jessica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coke, Ma&#239;ra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Besnard, Anne-Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Launey, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Evanno, Guillaume</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DatasetRougemont_et_al_2015JEB</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Fish</subject>
+      <subject>Population genetics</subject>
+      <subject>Lampetra planeri</subject>
+      <subject>Lampetra fluviatilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5QV85</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>133951 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset of 13 microsatellite and 1023 individuals</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

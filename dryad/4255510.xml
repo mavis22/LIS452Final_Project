@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4255510</identifier><datestamp>2014-12-03T20:02:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7D3S9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ross-Gillespie, Adin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dumas, Zo&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>K&#252;mmerli, Rolf</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from all experiments described in the study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>cooperator-cheat dynamics</subject>
+      <subject>siderophores</subject>
+      <subject>Experimental evolution</subject>
+      <subject>pleiotropy</subject>
+      <subject>regulatory links</subject>
+      <subject>Pseudomonas aeruginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7D3S9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>408804 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data in this file feature in the paper "Evolutionary dynamics of interlinked public goods traits: an experimental study of siderophore production in Pseudomonas aeruginosa", by Adin Ross-Gillespie, Zo&#233; Dumas and Rolf K&#252;mmerli. The paper has been accepted for publication in the Journal of Evolutionary Biology (as of November 2014)&#13;
+The xls file comprises two sheets, namely 'SelectionExperiment' and 'CompetitionExperiment', comprising data from figures 3 and 4; and figures 2 and S1, respectively. Further information, including description of the variables, is provided in each spreadsheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

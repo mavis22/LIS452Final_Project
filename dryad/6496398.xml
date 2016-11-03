@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6496398</identifier><datestamp>2015-07-24T16:16:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F7G6R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Preite, Veronica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Snoek, L. Basten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oplaat, Carla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biere, Arjen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van der Putten, Wim H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verhoeven, Koen J. F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>AFLP/MS-AFLP data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA methylation</subject>
+      <subject>epigenetic inheritance</subject>
+      <subject>range expansion</subject>
+      <subject>natural populations</subject>
+      <subject>apomictic dandelions</subject>
+      <subject>MS-AFLP</subject>
+      <subject>Northern Europe</subject>
+      <subject>Central Europe</subject>
+      <subject>Taraxacum officinale</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F7G6R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>834858 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">AFLP profile and MspI/HpaII combined MS-AFLP profile and the genetic and geographic distances (input files for AMOVA, multivariate dispersion test, Mantel tests and PCoAs).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

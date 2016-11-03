@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6285437</identifier><datestamp>2015-06-24T16:20:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R1H4H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rolan-Alvarez, Emilio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carvajal-Rodriguez, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Coo, Alicia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cort&#233;s, Beatriz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Est&#233;vez-Barcia, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferreira, Mar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonz&#225;lez, Rub&#233;n</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Briscoe, Adriana D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Simulations Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Selection - Natural</subject>
+      <subject>Mating Systems</subject>
+      <subject>Polymorphism</subject>
+      <subject>Behavior</subject>
+      <subject>Reproductive Strategies</subject>
+      <subject>Population Biology</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R1H4H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>245830 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We assayed different values for the number of populations N = {10, 100}, number of mating pairs K={20, 500}, coefficient of variation CV (0 to 1 with increments of 0.1), intrapopulation standard deviation &#963;w = {0.1, 0.3, 0.45} and choice C (-1 to 1 with increments of 0.1), giving a total of 2,772 combinations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

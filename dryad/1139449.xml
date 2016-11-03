@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1139449</identifier><datestamp>2015-10-26T20:06:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.77R3P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dubuc Messier, Gabrielle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garant, Dany</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergeron, Patrick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>R&#233;ale, Denis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data and matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>natal dispersal</subject>
+      <subject>environmental variability</subject>
+      <subject>eastern chipmunks</subject>
+      <subject>Tamias striatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-08-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.77R3P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>73074 bytes</size>
+      <size>3510 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-08-17T19:33:30Z (GMT). No. of bitstreams: 2&#13;
+dryad-data.zip: 73074 bytes, checksum: ae730128a28004c4b55a8052d14326af (MD5)&#13;
+README.rtf: 3510 bytes, checksum: 4b0eff8d862476d422190b8c4372597a (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6557788</identifier><datestamp>2015-09-22T00:10:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CV323/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kok, Kurtulus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ay, Ahmet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arnosti, David N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>HOMER_peak_files.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>transcription</subject>
+      <subject>repression</subject>
+      <subject>chromatin</subject>
+      <subject>gene regulatory network</subject>
+      <subject>East Lansing</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CV323</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4486743 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Using HOMER with default settings, peaks for histone marks and Flag tagged Hairy protein were identified using signals from H3 ChIP and input respectively as background. Peaks called by HOMER were associated with genes by identifying the nearest RefSeq TSS and annotated to a genomic feature such as intergenic, intron, exon etc.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

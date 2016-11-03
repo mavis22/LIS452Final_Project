@@ -1,0 +1,95 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5524897</identifier><datestamp>2015-04-01T16:49:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MJ062/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maeda, Kazuma</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maruyama, Ryuichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nagae, Toru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Inoue, Masashi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aonishi, Toru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miyakawa, Hiroyoshi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>AllinOne</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ca imaging</subject>
+      <subject>dendritic spikes</subject>
+      <subject>field effect</subject>
+      <subject>rat(Wister)</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MJ062</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12387527985 bytes</size>
+      <size>4632 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">AllinOne.zip is an archive file that contains the following files:&#13;
+&#13;
+2011/01/13  18:30       545,024,729 20110113-3-dendrite-31min-1x1.NAF&#8230;&#8230;&#13;
+2012/11/01  16:40       637,909,252 20110922-apiden-208min-2x2.TIF&#8230;&#8230;&#13;
+2011/12/09  16:38       272,682,049 20111210-120map.NAF&#8230;&#8230;&#13;
+2011/12/09  16:54       272,682,049 20111210-150map cock.NAF&#8230;&#8230;&#13;
+2011/12/09  19:10       272,682,049 20111210-320map cockttx.NAF&#8230;&#8230;&#13;
+2012/11/01  17:51       266,962,774 20120106-soma-109min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  12:08       487,208,074 20120417apiden-105min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  10:09       487,208,074 20120417apiden-109min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  10:18       487,208,074 20120417apiden-113min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  10:01       500,556,274 20120417apiden-81min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  14:20       500,556,274 20120426apiden-144min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  14:26       500,556,274 20120426apiden-148min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  14:35       500,556,274 20120426apiden-187min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  14:49       500,556,274 20120426apiden-198min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  14:58       500,556,274 20120426apiden-220min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  15:02       500,556,274 20120426apiden-226min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/27  15:07       500,556,274 20120426apiden-237min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/28  23:41       500,556,274 20120511apiden-193min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/28  23:44       500,556,274 20120511apiden-197min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/28  23:47       500,556,274 20120511apiden-201min-2x2.TIF&#8230;&#8230;&#13;
+2012/09/28  23:50       500,556,274 20120511apiden-216min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:27       503,225,914 20120524apiden-136min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:29       503,225,914 20120524apiden-145min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:32       503,225,914 20120524apiden-164min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:35       503,225,914 20120524apiden-167min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:38       503,225,914 20120524apiden-172min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:45       503,225,914 20120524apiden-176min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/02  19:48       503,225,914 20120524apiden-180min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/06  02:28       500,556,274 20120531apiden-158min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/06  02:31       500,556,274 20120531apiden-162min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/06  02:33       500,556,274 20120531apiden-167min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/06  02:37       500,556,274 20120531apiden-170min-2x2.TIF&#8230;&#8230;&#13;
+2012/10/06  02:56       500,556,274 20120531basden-201min-2x2.TIF&#8230;&#8230;&#13;
+2012/06/08  15:33        52,695,761 20120608-16-87min-1x1.NAF&#8230;&#8230;&#13;
+2012/06/08  15:34        52,695,761 20120608-16-88min-1x1.NAF&#8230;&#8230;&#13;
+2013/04/15  13:52       240,266,374 20130411apiden_227_2x2.TIF&#8230;&#8230;&#13;
+2013/04/15  13:49       240,266,374 20130411apiden_321min_2x2.TIF&#8230;&#8230;&#13;
+2013/04/15  13:59       240,266,374 20130411apiden_69_2x2.TIF&#8230;&#8230;&#13;
+2014/12/19  15:57            47,616 CaTrRiseTime2.xls&#8230;&#8230;&#13;
+2014/09/19  09:43            49,664 DecayTimeConstantFittingDataList.xls&#8230;&#8230;&#13;
+2014/11/06  14:30            44,032 Fig5F-CNQXAPVdata.xls&#8230;&#8230;&#13;
+2014/09/10  13:46            19,748 Fig8-ListOfData.xlsx&#8230;&#8230;&#13;
+2014/12/19  16:08           859,136 Fig8-p_value-transients-frequencyinhemicircles.xls&#8230;&#8230;&#13;
+2014/12/19  23:14             4,324 Readme.txt&#8230;&#8230;&#13;
+END</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

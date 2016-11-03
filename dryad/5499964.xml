@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5499964</identifier><datestamp>2015-03-05T19:30:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.04M3V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Montarry, Josselin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jan, Pierre-Loup</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gracianne, C&#233;cile</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Overall, Andrew D. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bardou-Valette, Sylvie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olivier, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fournet, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grenier, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petit, Eric J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>G_pallida</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>consanguinity</subject>
+      <subject>heterozygote deficit</subject>
+      <subject>microsatellite</subject>
+      <subject>nematode</subject>
+      <subject>null allele</subject>
+      <subject>Wahlund effect</subject>
+      <subject>France</subject>
+      <subject>Globodera pallida</subject>
+      <subject>Globodera tabacum</subject>
+      <subject>Heterodera schachtii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.04M3V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52704 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypic data (Genepop format) for the species Globodera pallida</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

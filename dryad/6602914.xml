@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6602914</identifier><datestamp>2015-08-12T15:15:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0NK1P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lafta, Riyadh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Al-Shatari, Sahar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cherewick, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galway, Lindsay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mock, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hagopian, Amy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flaxman, Abraham</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Takaro, Tim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Greer, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kusner, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burnham, Gilbert</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Iraq Injury Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-08-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0NK1P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2795594 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Christine Mayo(christine.mayo@unc.edu), reason: It appears that the data files you submitted may contain personally identifiable human subject information. Data archived in Dryad is publicly available and any human subject data must be properly anonymized and prepared under applicable legal and ethical guidelines. We welcome you to resubmit any data that is appropriate for sharing. The following article may be helpful:&#13;
+&#13;
+Hrynaszkiewicz I ,Norton ML ,Vickers AJ ,Altman DG. Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers. BMJ 2010;340:c181 http://dx.doi.org/10.1136/bmj.c181&#13;
+&#13;
+As the article notes, published data should contain no more than three indirect identifiers, of which your dataset contains many. Please consider removing what fields you are able to. If you believe that you are unable to sufficiently de-identify your data for publication, please contact your PLOS editor, as exceptions to the data-archiving requirements may be made for sensitive human subject data.&#13;
+&#13;
+If you have any questions, please contact us at help@datadryad.org. on 2015-08-10T15:54:15Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

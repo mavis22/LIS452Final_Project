@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017784</identifier><datestamp>2014-10-30T17:50:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.17JR3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rudgers, Jennifer A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell-Dereske, Lukas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crawford, Kerri M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emery, Sarah M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>VWC</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>plant-fungal interactions</subject>
+      <subject>community ecology</subject>
+      <subject>dune geomorphology</subject>
+      <subject>endophyte</subject>
+      <subject>keystone mutualism</subject>
+      <subject>ontogenetic effects</subject>
+      <subject>positive interaction</subject>
+      <subject>Great Lakes</subject>
+      <subject>Michigan</subject>
+      <subject>Ammophila breviligulata</subject>
+      <subject>Epichloe</subject>
+      <subject>Cirsium pitcheri</subject>
+      <subject>Arabidopis lyrata</subject>
+      <subject>Artemisia campestris</subject>
+      <subject>Calomovilfa longifolia</subject>
+      <subject>Fraxinus americana</subject>
+      <subject>Lithospermum caroliniense</subject>
+      <subject>Pinus strobus</subject>
+      <subject>Populus balsamifera</subject>
+      <subject>Prunus pumila</subject>
+      <subject>Schizachyrium scoparium</subject>
+      <subject>Solidago nemoralis</subject>
+      <subject>Neotyphodium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.17JR3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>75466 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data were collected in the field experiment using a hand-held soil moisture meter (Aquaterr M 300, Costa Mesa, CA) with measurements of volumetric water content taken at 20 cm and 40 cm soil depths.  Plot=unique plot number, row=position of plot in the experimental matrix, col=column position of plot in the experimental matrix, EF=endophyte presence(1) or absence(0),	Water=reduced(L), ambient(M), or augmented(H), Date=date of observation, VWC20=mean volumetric water content per plot at 20 cm soil depth, VWC40=mean volumetric water content per plot at 40 cm soil depth.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

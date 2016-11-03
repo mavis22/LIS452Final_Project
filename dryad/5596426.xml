@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5596426</identifier><datestamp>2015-06-04T16:58:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F8M84</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kovach, Adrienne I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walsh, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramsdell, Jordan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, W. Kelley</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Development of diagnostic microsatellite markers from whole-genome sequences of Ammodramus sparrows for assessing admixture in a hybrid zone</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>admixture</subject>
+      <subject>diagnostic markers</subject>
+      <subject>hybridization</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>northeastern United States</subject>
+      <subject>Ammodramus caudacutus</subject>
+      <subject>Ammodramus nelsoni</subject>
+      <subject>Ammodramus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kovach AI, Walsh J, Ramsdell J, Thomas WK (2015) Development of diagnostic microsatellite markers from whole-genome sequences of Ammodramus sparrows for assessing admixture in a hybrid zone. Ecology and Evolution 5(11): 2267&#8211;2283.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F8M84/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F8M84/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F8M84/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F8M84/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1514</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

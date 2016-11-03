@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3706323</identifier><datestamp>2014-10-30T16:53:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K9M20/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Trisos, Christopher H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wayqecha Peru Bird Community Functional Traits</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Community: structure</subject>
+      <subject>Competition</subject>
+      <subject>Ecology: community</subject>
+      <subject>Methods: computer simulations</subject>
+      <subject>Phylogeny</subject>
+      <subject>Neotropical bird</subject>
+      <subject>Habitat filtering</subject>
+      <subject>Functional Traits</subject>
+      <subject>Functional Diversity</subject>
+      <subject>Andes</subject>
+      <subject>Peru</subject>
+      <subject>Holocene</subject>
+      <subject>Anairetes parulus</subject>
+      <subject>Asthenes helleri</subject>
+      <subject>Asthenes maculicauda</subject>
+      <subject>Asthenes urubambensis</subject>
+      <subject>Atlapetes melanolaemus</subject>
+      <subject>Basileuterus luteoviridis</subject>
+      <subject>Basileuterus signatus</subject>
+      <subject>Catamblyrhynchus diadema</subject>
+      <subject>Chamaeza mollissima</subject>
+      <subject>Cinnycerthia fulva</subject>
+      <subject>Cistothorus platensis</subject>
+      <subject>Colaptes rivolii</subject>
+      <subject>Conirostrum cinereum</subject>
+      <subject>Conirostrum sitticolor</subject>
+      <subject>Grallaria erythroleuca</subject>
+      <subject>Grallaricula ferrugineipectus</subject>
+      <subject>Hemispingus atropileus</subject>
+      <subject>Hemispingus xanthophthalmus</subject>
+      <subject>Hemitriccus granadensis</subject>
+      <subject>Knipolegus aterrimus</subject>
+      <subject>Margarornis squamiger</subject>
+      <subject>Mecocerculus leucophrys</subject>
+      <subject>Mecocerculus stictopterus</subject>
+      <subject>Myiarchus tuberculifer</subject>
+      <subject>Myioborus melanocephalus</subject>
+      <subject>Myiodynastes chrysocephalus</subject>
+      <subject>Myiotheretes fuscorufus</subject>
+      <subject>Myiotheretes striaticollis</subject>
+      <subject>Nephelomyias ochraceiventris</subject>
+      <subject>Ochthoeca pulchella</subject>
+      <subject>Ochthoeca rufipectoralis</subject>
+      <subject>Pseudocolaptes boissonneautii</subject>
+      <subject>Pyrrhomyias cinnamomeus</subject>
+      <subject>Scytalopus parvirostris</subject>
+      <subject>Synallaxis azarae</subject>
+      <subject>Thlypopsis ornata</subject>
+      <subject>Thlypopsis ruficeps</subject>
+      <subject>Troglodytes aedon</subject>
+      <subject>Troglodytes solstitialis</subject>
+      <subject>Veniliornis nigriceps</subject>
+      <subject>Xiphocolaptes promeropirhynchus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K9M20</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2423 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Species average bill, tail, wing and tarsus trait values for 41 primarily insectivorous bird species from a cloudforest&#8211;grassland ecotone at Wayqecha Biological Station, Peru. Please refer to main text for additional details on trait collection methods. Data are in .csv format. Column headings: Species: Species name. Taxonomy follows Remsen et al. (2011). Bill.nares: Average length of bill (mm) measured from bill tip to anterior edge of nares. Bill.width: Average bill width (mm) measured at anterior edge of nares. Bill.depth: Average bill depth (mm) measured at anterior edge of nares. Wing.length: Average wing length (mm) measured on unflattened wing. Tail.length: Average tail length (mm) measured from the tip of the longest rectrix to the point at which the two central rectrices protrude from the skin. Tarsus.length: Average tarsus length (mm) measured as the distance from the notch at the knee to the third crease at the ankle. Sample.size: Number of individuals measured. Measured.on.Site: Y = measurements taken on individuals captured within the survey site at Wayqecha. N = measurements taken on museum specimens.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

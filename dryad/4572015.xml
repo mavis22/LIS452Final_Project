@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4572015</identifier><datestamp>2014-12-24T16:24:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43T7R</identifier>
+  <creators>
+      <creator>
+         <creatorName>Krishnan, Arunkumar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dnyansagar, Rohit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alm&#233;n, Markus S&#228;llman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fredriksson, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Narayanan, Manoj</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schi&#246;th, Helgi B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The GPCR repertoire in the demosponge Amphimedon queenslandica: insights into the GPCR system at the early divergence of animals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Alignments</subject>
+      <subject>Phylogenetic tree</subject>
+      <subject>tree files</subject>
+      <subject>Amphimedon queenslandica</subject>
+      <subject>Porifera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Krishnan A, Dnyansagar R, Alm&#233;n MS, Williams MJ, Fredriksson R, Narayanan M, Schi&#246;th HB (2014) The GPCR repertoire in the demosponge Amphimedon queenslandica: insights into the GPCR system at the early divergence of animals. BMC Evolutionary Biology 14: 270.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.43T7R/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12862-014-0270-4</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

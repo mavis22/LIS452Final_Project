@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7040492</identifier><datestamp>2015-11-20T17:00:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C6829/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Raymond, Ben</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shapiro-Ilan, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raymond, B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raymond Shapiro raw  bioassay and other data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Agriculture</subject>
+      <subject>virulence</subject>
+      <subject>Experimental Evolution</subject>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Heterorhabditis floridensis</subject>
+      <subject>Tenebrio molitor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C6829</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63159 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an excel file with data on baseline bioassays, passage 6 and 12 bioassays, reproductive rate assays, and number of founders per host in the different treatments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

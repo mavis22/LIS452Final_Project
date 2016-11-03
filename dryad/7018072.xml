@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7018072</identifier><datestamp>2015-11-13T17:32:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.82GQ2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>De Long, Jonathan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sundqvist, Maja K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gundale, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giesler, Reiner</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wardle, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Foliar defence/nutrient, soil abiotic, and vegetation community data from subarctic tundra heath fertilization experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>condensed tannins</subject>
+      <subject>decomposition</subject>
+      <subject>global climate change</subject>
+      <subject>litter feedback</subject>
+      <subject>nutrient addition</subject>
+      <subject>plant defence theory</subject>
+      <subject>protein complexation capacity</subject>
+      <subject>subarctic tundra</subject>
+      <subject>Subarctic Tundra</subject>
+      <subject>Northern Sweden</subject>
+      <subject>Betula nana ssp. nana</subject>
+      <subject>Calamagrostis lapponica</subject>
+      <subject>Cassiope tetragona</subject>
+      <subject>Deschampsia flexuosa</subject>
+      <subject>Empetrum hermaphroditum</subject>
+      <subject>Vaccinium myrtillus</subject>
+      <subject>Vaccinium uliginosum</subject>
+      <subject>Vaccinium vitis-idaea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.82GQ2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>96735 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains data from a fertilization experiment in subarctic heath vegetation from near Abisko, Sweden. Data are soil abiotic properties, vegetation pinpoint hits, and plant foliar defence compounds/foliar nutrients. All units and coding is contained within the file. For further information, please see the published manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

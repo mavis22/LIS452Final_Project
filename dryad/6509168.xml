@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6509168</identifier><datestamp>2015-08-24T19:00:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CH206/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Heinig, Rebecca L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paaijmans, Krijn P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hancock, Penelope A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, Matthew B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mosquito mortality data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>temperature</subject>
+      <subject>malaria transmission model</subject>
+      <subject>extrinsic incubation period</subject>
+      <subject>biocontrol</subject>
+      <subject>Anopheles gambiae</subject>
+      <subject>Anopheles stephensi</subject>
+      <subject>Plasmodium falciparum</subject>
+      <subject>Plasmodium vivax</subject>
+      <subject>Beauveria bassiana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CH206</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56175 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mortality data for mosquitoes exposed to Beauveria bassiana fungus. 'Experiment' indicates the experiment and block, with A1 and A2 representing the constant temperature Anopheles stephensi experiments (block 1: 20, 22, 24, 26, 28, 30 and 34 &#176;C; block 2: 10, 14, 18, 26 and 32 &#176;C), B representing the Anopheles gambiae experiment, C representing the blood feeding experiment and D representing the diurnal temperature variation experiment. 'Temperature' indicates the mean experimental temperature.  'AR' indicates fungal application rate. 'Diet' indicates whether mosquitoes were allowed to feed on blood (1) or fed exclusively on glucose-PABA solution (0). 'DTR' indicates the diurnal temperature range in degrees Celsius, with '0' indicating constant temperatures. 'Cup' indicates replicate experimental cups. 'Day' indicates time in days since fungal exposure. 'Event' indicates whether mosquitoes died (1) or were censored (0), i.e. they survived to the end of the experiment. 'Count' indicates the number of individual mosquitoes associated with the 'Event' column for each treatment and time point.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

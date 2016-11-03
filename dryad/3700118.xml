@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3700118</identifier><datestamp>2014-10-07T18:35:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J92FS</identifier>
+  <creators>
+      <creator>
+         <creatorName>Farrington, Heather L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lawson, Lucinda P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Courtney M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petren, Kenneth</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The evolutionary history of Darwin's finches: speciation, gene flow, and introgression in a fragmented landscape</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Population Structure</subject>
+      <subject>Adaptive radiation</subject>
+      <subject>Gene Flow</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Phylogeography</subject>
+      <subject>Speciation</subject>
+      <subject>Galapagos</subject>
+      <subject>Geospiza</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Farrington HL, Lawson LP, Clark CM, Petren K (2014) The evolutionary history of Darwin's finches: speciation, gene flow, and introgression in a fragmented landscape. Evolution 68(10): 2932-2944.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J92FS/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12484</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

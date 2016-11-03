@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6508851</identifier><datestamp>2015-09-08T15:25:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.814G3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Ian M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koptur, Suzanne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Light filter experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Extrafloral nectar</subject>
+      <subject>plant defenses</subject>
+      <subject>Resource allocation</subject>
+      <subject>Senna mexicana var. chapmanii</subject>
+      <subject>Fabaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-09-04</date>
+      <date dateType="Accepted">2015-09-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.814G3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>51727 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-09-04</rights>
+  <descriptions>
+      <description descriptionType="Other">The data file attached describes extrafloral nectar collected from Senna mexicana var. chapmanii plants in a greenhouse experiment conducted at Florida International University. The data set is made up of 12 columns described below.&#13;
+A.	Plant number. Each plant used in the study has a designated number.&#13;
+B.	Light treatment: C=clear film; S=shade film; R=shade film with increased far red/ red light ratio.&#13;
+C.	Damage treatments: D=damage; C=no damage.&#13;
+D.	Factorial treatment numbers: eg: 1= clear film + damage.&#13;
+E.F.G. Quantity of extrafloral nectar collected (E=&#181;l; F=any additional portion of a &#181;l tube filled with nectar; G=total nectar volume collected).&#13;
+H. Nectar concentration measured using a hand held refractometer.&#13;
+I. Sugar production calculated using volume and concentration data.&#13;
+J. Sugar mass (g)/&#181;l &#13;
+K. Sugar mass(mg)/&#181;l&#13;
+L. Total mass of sugar produced by each plant at each time of measurement</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

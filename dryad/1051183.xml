@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1051183</identifier><datestamp>2014-05-29T21:43:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.18NK2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hosoya, Sho</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kai, Wataru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fujita, Masashi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miyaki, Kadoo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suetake, Hiroaki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suzuki, Yuzuru</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kikuchi, Kiyoshi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The genetic architecture of growth rate in juvenile Takifugu species.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Chromosomal Evolution</subject>
+      <subject>Evolutionary Genomics</subject>
+      <subject>Takifugu</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hosoya S, Kai W, Fujita M, Miyaki K, Suetake H, Suzuki Y, Kikuchi K (2012) The genetic architecture of growth rate in juvenile Takifugu species. Evolution 67(2): 590-598.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.18NK2/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.18NK2/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.18NK2/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.18NK2/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01781.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

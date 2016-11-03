@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364748</identifier><datestamp>2015-07-06T18:00:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6K740/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fra&#239;sse, Christelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Belkhir, Khalid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, John J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bierne, Nicolas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Variants files (VCF)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genome scan</subject>
+      <subject>Adaptation</subject>
+      <subject>Selection</subject>
+      <subject>Outlier loci</subject>
+      <subject>Target enrichment sequencing</subject>
+      <subject>BAC assembly</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6K740</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>72471148 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Three VCF files were used in this study: (1) SNP_GQ20_20%missing for FST analyses; (2) SNP_GQ30_20%missing for genealogies; (3) SNP_GQ20_0%missing for multivariate analyses. Only SNPs have been called.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

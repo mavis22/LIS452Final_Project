@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5717241</identifier><datestamp>2015-06-17T20:19:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q7K8J/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kenkel, Carly</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Coral Recruits on Tiles: 13 June 2012</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>growth</subject>
+      <subject>thermal tolerance</subject>
+      <subject>heritability</subject>
+      <subject>adaptation</subject>
+      <subject>Florida Keys</subject>
+      <subject>24&#176;36.346N 81&#176;25.742W</subject>
+      <subject>24&#176;31.887N 81&#176;29.013W</subject>
+      <subject>Porites astreoides</subject>
+      <subject>Symbiodinium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q7K8J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3512657327 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains final photographs of coral recruits by tile. Raw photographs are in .jpg format named by family (1-50). The associated .tif images show how recruit area was obtained and indicate which treatment (C:control, H:Heat) and experimental tank the tile was assigned to. The .xls data files contain the raw area measures that were subsequently combined to calculate change in recruit growth in the .csv data file contained in the R statistical file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,79 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6554081</identifier><datestamp>2015-08-06T15:34:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HM2JF/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Almeida, Pedro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbosa, Raquel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zalar, Polona</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Imanishi, Yumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shimizu, Kiminori</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turchetti, Benedetta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Legras, Jean-Luc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Serra, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dequin, Sylvie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Couloux, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guy, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bensasson, Douda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gon&#231;alves, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sampaio, Jos&#233; Paulo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dadi input file used to infer demographic history of Wine and MO populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Population Ecology</subject>
+      <subject>Fungi</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Europe</subject>
+      <subject>Japan</subject>
+      <subject>America</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HM2JF</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>556582 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The joint allele frequency spectrum of Wine and Mediterranean oak (MO) populations used as input to run the demographic inference in dadi (Gutenkunst et al. 2009). &#13;
+Populations are defined as in the comment lines at the beginning of file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

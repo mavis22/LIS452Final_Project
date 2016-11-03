@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263324</identifier><datestamp>2014-11-29T15:47:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N7396/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Latimer, Camille A. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Foley, Brad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chenoweth, Stephen F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Locomotor activity for D. serrata RILs across 6 temperatures and the 49 QTL markers.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Constraints</subject>
+      <subject>Evolutionary physiology</subject>
+      <subject>Life history evolution</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>Trade-offs</subject>
+      <subject>Australia</subject>
+      <subject>Eungella</subject>
+      <subject>Forster</subject>
+      <subject>Drosophila serrata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N7396</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>354304 bytes</size>
+      <size>1378 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Parental flies originally collected from the field and inbred in the lab. TriKinetic&#8217;s Drosophilla Activity Monitors (DAMs) used to record fly activity. The 49 markers consist of microsatelites, dCAPS, and EST derived SNPs. See the Readme file for more information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

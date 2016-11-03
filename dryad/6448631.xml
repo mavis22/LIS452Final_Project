@@ -1,0 +1,100 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6448631</identifier><datestamp>2015-11-16T21:53:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5B5R1/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kao, Tzu-Tong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pryer, Kathleen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Melvin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Richard A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Korall, Petra</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cyathea_ML_garli</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>island biogeography</subject>
+      <subject>phylogenetic</subject>
+      <subject>analysis</subject>
+      <subject>rbcL</subject>
+      <subject>rbcL-accD</subject>
+      <subject>rbcL-atpB</subject>
+      <subject>trnG-R</subject>
+      <subject>trnL-F</subject>
+      <subject>Central America</subject>
+      <subject>South America</subject>
+      <subject>West Pacific</subject>
+      <subject>New Caledonia</subject>
+      <subject>Cocos Island</subject>
+      <subject>Puerto Rico</subject>
+      <subject>Honduras</subject>
+      <subject>Costa Rica</subject>
+      <subject>Venezuela</subject>
+      <subject>Lord Howe Island</subject>
+      <subject>Australia</subject>
+      <subject>Guadeloupe</subject>
+      <subject>Gal&#225;pagos</subject>
+      <subject>Cenozoic</subject>
+      <subject>Cyathea alata (E. Fourn.) Copel.</subject>
+      <subject>Cyathea alfonsiana L.D. G&#243;mez</subject>
+      <subject>Cyathea andina (H. Karst.) Domin</subject>
+      <subject>Cyathea arborea (L.) Sm.</subject>
+      <subject>Cyathea bicrenata</subject>
+      <subject>Cyathea borinquena (Maxon) Domin</subject>
+      <subject>Cyathea caracasana (Klotzsch) Domin</subject>
+      <subject>Cyathea dejecta Christenh</subject>
+      <subject>Cyathea divergens Kunze</subject>
+      <subject>Cyathea fulva (M. Martens &amp; Galeotti) F&#233;e</subject>
+      <subject>Cyathea furfuracea Baker</subject>
+      <subject>Cyathea gibbosa (Klotzsch) Domin</subject>
+      <subject>Cyathea godmanii (Hook.) Domin</subject>
+      <subject>Cyathea gracilis Griseb.</subject>
+      <subject>Cyathea grandifolia Willd.</subject>
+      <subject>Cyathea horrida (L.) Sm.</subject>
+      <subject>Cyathea howeana Domin</subject>
+      <subject>Cyathea karsteniana (Klotzsch) Domin</subject>
+      <subject>Cyathea microdonta (Desv.) Domin</subject>
+      <subject>Cyathea multiflora Sm.</subject>
+      <subject>Cyathea mutica (Christ) Domin</subject>
+      <subject>Cyathea nesiotica (Maxon) Domin</subject>
+      <subject>Cyathea nigripes (C. Chr.) Domin</subject>
+      <subject>Cyathea notabilis (Maxon) Domin</subject>
+      <subject>Cyathea parvula (Jenman) Domin</subject>
+      <subject>Cyathea poeppigii (Hook.) Domin</subject>
+      <subject>Cyathea robertsiana (F. Muell.) Domin</subject>
+      <subject>Cyathea schiedeana (C. Presl) Domin</subject>
+      <subject>Cyathea senilis (Klotzsch) Domin</subject>
+      <subject>Cyathea speciosa Humb. &amp; Bonpl. ex Willd.</subject>
+      <subject>Cyathea stipularis (Christ) Domin</subject>
+      <subject>Cyathea suprastrigosa (Christ) Maxon</subject>
+      <subject>Cyathea tenera (Hook.) T. Moore</subject>
+      <subject>Cyathea ursina (Maxon) Lellinger</subject>
+      <subject>Cyathea weatherbyana (C.V. Morton) C.V. Morton</subject>
+      <subject>Cyathea</subject>
+      <subject>Cyatheaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5B5R1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1921 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The best maximum likelihood tree inferred from "Cyathea_alignment.nexus", using Garli with genthreshfortopoterm set to 1,000,000.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

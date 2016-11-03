@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5620547</identifier><datestamp>2015-04-21T17:32:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.73870/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sherry, Thomas W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunter, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holmes, Richard T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sherry et al Hubbard Brook precipitation data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Annual cycle</subject>
+      <subject>Climate change</subject>
+      <subject>Multiple limiting factors</subject>
+      <subject>Neotropical migratory songbirds</subject>
+      <subject>Nest predation</subject>
+      <subject>Nesting success</subject>
+      <subject>Reproductive success</subject>
+      <subject>Seasonality</subject>
+      <subject>American redstart</subject>
+      <subject>red squirrel</subject>
+      <subject>eastern chipmunk</subject>
+      <subject>Hubbard Brook Experimental Forest</subject>
+      <subject>New Hampshire</subject>
+      <subject>USA</subject>
+      <subject>Jamaica</subject>
+      <subject>West Indies</subject>
+      <subject>1983-1995</subject>
+      <subject>Setophaga ruticilla</subject>
+      <subject>Tamiasciurus hudsonicus</subject>
+      <subject>Tamias striates</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.73870</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11359 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Text file for period 1983-1995, and for months of May and June, of daily average rainfall for Watersheds 5 and 6 in Hubbard Brook Experimental Forest, NH, USA.  Data used to construct annual covariates for precipitation in analyses of American redstart nesting success.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

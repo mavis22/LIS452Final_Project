@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80514</identifier><datestamp>2014-05-29T20:35:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QG54C627</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Gils, Paul F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Over, Eelco A. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamberg-van Reenen, Heleen H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Wit, G. Ardine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van den Berg, Matthijs</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Engelfriet, Peter M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The polypill in the primary prevention of cardiovascular disease: cost-effectiveness in the Dutch population</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Myocardial infarction</subject>
+      <subject>Health economics</subject>
+      <subject>Public health</subject>
+      <subject>Stroke</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">van Gils PF, Over EAB, Hamberg-van Reenen HH, de Wit GA, van den Berg M, Schuit AJ, Engelfriet PM (2011) The polypill in the primary prevention of cardiovascular disease: cost-effectiveness in the Dutch population. BMJ Open 1(2): e000363.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.QG54C627/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1136/BMJOPEN-2011-000363</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

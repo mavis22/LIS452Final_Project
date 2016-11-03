@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6563465</identifier><datestamp>2015-08-10T18:57:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q28H6/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ames, Gregory M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Steven M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Justin P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Community Weighted Mean Trait Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>community composition</subject>
+      <subject>community weighted mean traits</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>leaf dry matter content</subject>
+      <subject>longleaf pine savanna</subject>
+      <subject>plant functional traits</subject>
+      <subject>specific leaf area</subject>
+      <subject>North Carolina Sandhills</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q28H6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10521 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data used the community weighted mean trait analyses, with the exception of climate data which was obtained from DAYMET (Thornton et al. 2012). The &#8220;Site_Plot&#8221; column lists the site and plot identifier where the data were collected. &#8220;Date&#8221; gives the date that the trait measurements were collected. &#8220;Elevation&#8221; is the height (cm) of the center of the plot above the nearest stream. &#8220;Bulk Density&#8221; is the plot soil bulk density (g/cm3). &#8220;Days Since Burn&#8221; is the number of days since the last fire. &#8220;Shannon Index&#8221; gives the Shannon Diversity Index, H. The remaining columns give the community weighted mean SLA (g/cm3) and LDMC (%) based on the landscape level species trait averages and the plot level species values.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

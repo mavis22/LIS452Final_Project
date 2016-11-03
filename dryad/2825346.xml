@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2825346</identifier><datestamp>2014-09-20T17:51:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.19856</identifier>
+  <creators>
+      <creator>
+         <creatorName>Higgins, Damien P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lau, Quintin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jaratlerdsiri, Weerachai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griffith, Joanna E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gongora, Jaime</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: MHC class II diversity of koala (Phascolarctos cinereus) populations across their range</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>MHC class II</subject>
+      <subject>koala</subject>
+      <subject>positive selection</subject>
+      <subject>inbreeding</subject>
+      <subject>diversity</subject>
+      <subject>Australia</subject>
+      <subject>Phascolarctos cinereus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lau Q, Jaratlerdsiri W, Griffith JE, Gongora J, Higgins DP (2014) MHC class II diversity of koala (Phascolarctos cinereus) populations across their range. Heredity 113: 287&#8211;296.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.19856/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2014.30</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

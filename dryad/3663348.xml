@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3663348</identifier><datestamp>2014-09-04T14:33:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1C617</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zee, Peter C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mendes-Soares, Helena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yu, Yuen-Tsu Nicco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraemer, Susanne A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keller, Heike</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ossowski, Stephan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schneeberger, Korbinian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Velicer, Gregory J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A shift from magnitude to sign epistasis during adaptive evolution of a bacterial social trait</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Epistasis</subject>
+      <subject>Adaptation</subject>
+      <subject>Mutations</subject>
+      <subject>Experimental Selection</subject>
+      <subject>Sociality</subject>
+      <subject>Myxococcus xanthus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Zee PC, Mendes-Soares H, Yu YN, Kraemer SA, Keller H, Ossowski S, Schneeberger K, Velicer GJ (2014) A shift from magnitude to sign epistasis during adaptive evolution of a bacterial social trait. Evolution 68(9): 2701-2708.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1C617/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1C617/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12467</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6505885</identifier><datestamp>2015-07-23T17:15:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1356F/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Heyworth, Eleanor R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferrari, Julia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experiment testing susceptibility to Aphidius ervi</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Host-parasite interaction</subject>
+      <subject>Insects</subject>
+      <subject>Life history evolution</subject>
+      <subject>Trade-offs</subject>
+      <subject>X-type (Pea Aphid X-type Symbiont)</subject>
+      <subject>England</subject>
+      <subject>Acyrthosiphon pisum</subject>
+      <subject>Spiroplasma</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1356F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>780 bytes</size>
+      <size>4289 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data of an experiment that tested the aphids' susceptibility to the parasitoid wasp Aphidius ervi. The aphids either carried X-type or were cured.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

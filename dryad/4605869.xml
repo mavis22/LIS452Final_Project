@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4605869</identifier><datestamp>2015-03-03T21:11:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2P00V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matula, Radim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Damborsk&#225;, Lenka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ne&#269;asov&#225;, Monika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ger&#353;l, Milan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>&#352;r&#225;mek, Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Measuring biomass and carbon stock in resprouting woody plants</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>resprouting</subject>
+      <subject>sprout biomass</subject>
+      <subject>carbon stock</subject>
+      <subject>allometric equations</subject>
+      <subject>coppice</subject>
+      <subject>Quercus petraea</subject>
+      <subject>Tilia cordata</subject>
+      <subject>Carpinus betulus</subject>
+      <subject>Corylus avellana</subject>
+      <subject>Acer campestre</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Matula R, Damborsk&#225; L, Ne&#269;asov&#225; M, Ger&#353;l M, &#352;r&#225;mek M (2015) Measuring biomass and carbon stock in resprouting woody plants. PLOS ONE 10(2): e0118388.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2P00V/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2P00V/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0118388</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

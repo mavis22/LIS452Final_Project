@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5520756</identifier><datestamp>2015-06-17T20:12:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TG0NQ</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rutz, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Michael B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burns, Zackory T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burt, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Otis, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>St Clair, James J. H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>James, Richard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Calibrating animal-borne proximity loggers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animal social network</subject>
+      <subject>biologging</subject>
+      <subject>businesscard tag</subject>
+      <subject>contact network</subject>
+      <subject>direct and indirect encounter mapping</subject>
+      <subject>Encounternet</subject>
+      <subject>reality mining</subject>
+      <subject>transceiver tag</subject>
+      <subject>wireless sensor network</subject>
+      <subject>New Caledonia</subject>
+      <subject>Corvus moneduloides</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rutz C, Morrissey MB, Burns ZT, Burt J, Otis B, St Clair JJH, James R (2015) Calibrating animal-borne proximity loggers. Methods in Ecology and Evolution 6(6): 656-667.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TG0NQ/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12370</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

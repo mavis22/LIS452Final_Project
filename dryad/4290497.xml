@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4290497</identifier><datestamp>2014-12-04T19:39:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KM38G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cronk, Quentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sveinsson, Saemundur</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Trifolium_plastid_coding</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Plastid genome evolution</subject>
+      <subject>plastome rearrangements</subject>
+      <subject>repetitive plastomes</subject>
+      <subject>Trifolium</subject>
+      <subject>Medicago truncatula</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KM38G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>972401 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A concatenated matrix of 59 protein coding plastid genes. Only coding regions were used, introns and intergenic regions were excluded in the alignment, due to plastome rearrangements (see manuscript of further description). The alignment was generated using Mafft v7.053b using -auto flag and trimmed using TrimAl with the -automated1 flag. This process was pipelined using Plast2Phy (https://github.com/saemi/plast2phy).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6451982</identifier><datestamp>2015-07-08T14:03:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PJ620/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kakioka, Ryo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kokita, Tomoyuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumada, Hiroki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Watanabe, Katsutoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okuda, Noboru</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Shape variables of the samples from the natural populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>geometric morphometrics</subject>
+      <subject>QTL mapping</subject>
+      <subject>morphological adaptation</subject>
+      <subject>genetic modularity</subject>
+      <subject>RAD-seq</subject>
+      <subject>ancient Lake Biwa</subject>
+      <subject>Japan</subject>
+      <subject>Lake Biwa</subject>
+      <subject>Gnathopogon caerulescens</subject>
+      <subject>Gnathopogon elongatus elongatus</subject>
+      <subject>Gnathopogon elongatus suwae</subject>
+      <subject>Gobioninae</subject>
+      <subject>Cyprinidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PJ620</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>94151 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Partial warps and uniform components of the samples from the natural populations in NTS format. The numbers and the population codes (see supplementary Table S1) of the analysed populations are: 11 E1T, 20 E1S, 34 E1D, 32 E1M, 8 E2H, 18 E2R, 10 E2K, 6 E2I, 14 E3K, 10 E3I, 3 S, 28 CM, and 12 CN, in this order.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

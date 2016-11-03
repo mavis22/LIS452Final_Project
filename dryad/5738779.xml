@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5738779</identifier><datestamp>2015-05-19T18:48:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DS63C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Descamps, Sebastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tarroux, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lorentsen, Svein H&#229;kon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Love, Oliver P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Varpe, &#216;ystein</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoccoz, Nigel G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Large-scale oceanographic fluctuations drive Antarctic petrel survival and reproduction</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>population dynamics</subject>
+      <subject>Antarctic</subject>
+      <subject>large scale climatic fluctuations</subject>
+      <subject>Antarctica</subject>
+      <subject>Thalassoica antarctica</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Descamps S, Tarroux A, Lorentsen SH, Love OP, Varpe &#216;, Yoccoz NG (2015) Large-scale oceanographic fluctuations drive Antarctic petrel survival and reproduction. Ecography, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DS63C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DS63C/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/ECOG.01659</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

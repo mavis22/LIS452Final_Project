@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748362</identifier><datestamp>2015-09-15T14:45:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.842R3/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bichet, Orph&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dupuch, Ang&#233;lique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#233;bert, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Borgne, H&#233;l&#232;ne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fortin, Daniel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Species_occurrence_probability_Bichet_et_al_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Umbrella species</subject>
+      <subject>Biodiversity</subject>
+      <subject>Single-species management</subject>
+      <subject>Boreal caribou</subject>
+      <subject>Species assemblages</subject>
+      <subject>Ecosystem integrity</subject>
+      <subject>Eastern Canada boreal forest</subject>
+      <subject>Rangifer tarandus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.842R3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>88379 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Mean species occurrence probability in each management scenario, calculated as the sum of species-specific occurrence probability in each pixel divided by the number of pixels in each simulated landscape.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

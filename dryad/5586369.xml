@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586369</identifier><datestamp>2015-04-20T21:19:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72H45/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lawson, James R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fryirs, Kirstie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leishman, Michelle R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hydrological metrics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>community assembly</subject>
+      <subject>climate change</subject>
+      <subject>ecohydrology</subject>
+      <subject>ecological strategy</subject>
+      <subject>environmental unpredictability</subject>
+      <subject>functional traits</subject>
+      <subject>disturbance</subject>
+      <subject>riparian</subject>
+      <subject>wood density</subject>
+      <subject>south-east Australia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.72H45</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2891 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the set of 24 statistical metrics of hydrology for each site, as described in the manuscript. Please refer to the manuscript for definitions of each metric. As of April 2015 Full daily discharge data for these sites is available from the NSW Office of Water Continuous Water Monitoring network website (http://realtimedata.water.nsw.gov.au/water.stm) for NSW sites, and the Victoria State Government&#8217;s Water Measurement Information System website (http://data.water.vic.gov.au/monitoring.htm) for Victorian sites.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3831639</identifier><datestamp>2014-10-17T19:31:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.85K8M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, Ashley M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuller, Rebecca C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pigments_Johnson&amp;Fuller_paired</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>pterin</subject>
+      <subject>carotenoid</subject>
+      <subject>melanin</subject>
+      <subject>badge of status</subject>
+      <subject>dominance</subject>
+      <subject>parasite</subject>
+      <subject>digital photography</subject>
+      <subject>pigment extraction</subject>
+      <subject>Florida</subject>
+      <subject>Cyprinodontiformes</subject>
+      <subject>Fundulidae</subject>
+      <subject>Lucania goodei</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.85K8M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66824 bytes</size>
+      <size>142389 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data on size, condition, coloration, dominance, and spawning for the males described in the paper by Johnson and Fuller.  The data are listed here in a paired format where dominant and subdominant male data are listed in separate columns.  See the README document for further details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

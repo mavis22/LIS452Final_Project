@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4161660</identifier><datestamp>2014-11-29T15:17:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D06J2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pace, Brian A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alexander, Helen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emry, Jason D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mercer, Kristin L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PaceSeedFatesEvoAppDryadDataFile</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Gene flow</subject>
+      <subject>Hybridization</subject>
+      <subject>introgression</subject>
+      <subject>dormancy</subject>
+      <subject>maternal effects</subject>
+      <subject>sunflower</subject>
+      <subject>seed banks</subject>
+      <subject>Kansas</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Helianthus annuus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D06J2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>93823 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plot: Indicates plot number. Block: Indicates block number. #: Indicates strip number, 1-45. S#: Indicates compartment number within strip, 1-15. Removal: 1=Late Fall, 2=Early Spring, 3=Spring. Prop_crop: % crop alleles in each cross type. Cross: cross type identifying name. Mat: Maternal parent of cross type. Pat: Paternal parent of cross type. Q_able: counted dead, R3 only. #peek: open achenes, not yet technically germinated. #_germ: # germinated seeds. #germB: # germinated seeds, but with slight browning, indicating earlier germination date. Total_germ: #_germ + #germB. #_in_GC: # of seeds removed from strip and placed in growth chamber (GC). GC_g&#8217;d1: germinated seeds at first census. GC_g&#8217;d2: germinated seeds at second census. TZ: # seed put into tetrazolium chloride for viability testing. TZ_d: # seed found to be dormant by TZ test. TZ_DEAD: # seed found to be dead by TZ test. #dormant: figure used for &#8220;total ungerminated&#8221; in text. iDead: initial dead seed out of the burial strip. GC_Dead: seed determined to be dead in the growth chamber. Dead_Total:  iDead + TZ Dead + GC_Dead. FG&#8217;d: Seeds determined to have germinated in the Fall, after the Late Fall date. Mt: empty achenes&#8212;never fertilized. Total: seeds &#8211; mt seeds.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

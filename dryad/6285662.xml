@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6285662</identifier><datestamp>2015-07-07T21:01:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K247V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sugie, Koji</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suzuki, Koji</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data_Sugie_and_Suzuki</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>abundance</subject>
+      <subject>biomass</subject>
+      <subject>cell size</subject>
+      <subject>diatoms</subject>
+      <subject>evenness index</subject>
+      <subject>diversity</subject>
+      <subject>microscopy</subject>
+      <subject>phytoplankton</subject>
+      <subject>Shannon-Wiener index</subject>
+      <subject>Simpson index</subject>
+      <subject>size distribution</subject>
+      <subject>species richness</subject>
+      <subject>North Pacific</subject>
+      <subject>Holocene</subject>
+      <subject>Bacillariophyceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K247V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>87 bytes</size>
+      <size>197508 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Figure 2. Species accumulation curves of 6 samples obtained during the KH12-3 cruise. Sample information is provided as follows: sample 1: 5 m, 28&#176;00&#8217; N, 138&#176;00&#8217; E; sample 2: 75 m, 32&#176;19&#8217; N, 133&#176;33&#8217; E; sample 3: 43 m, 33&#176;05&#8217; N, 133&#176;40&#8217; E; sample 4: 75 m, 35&#176;00&#8217; N, 160&#176;00&#8217; E; sample 5: 5 m, 43&#176;31&#8217; N, 160&#176;00&#8217; E; sample 2: 75 m, 15&#176;00&#8217; N, 160&#176;00&#8217; E.&#13;
+&#13;
+Figure 3. Relationships between (a) J&#8242; calculated based on abundance (J&#8242;cell) and biomass (J&#8242;bio), and (b) 2E calculated based on abundance (2Ecell) and biomass (2Ebio). The dotted lines in (a) and (b) represent the 1:1 line. (c) Boxplot of J&#8242;bio/J&#8242;cell and 2Ebio/2Ecell. The upper and lower lines of the box represent the 75% and 25% values. The middle line in the box and circle represents the median and average of the ratios. Crosses represent maximum and minimum values. The ratio = 1 (dotted line), has the same meaning as the 1:1 line shown in Fig. 3a and 3b.&#13;
+&#13;
+Figure 4. Rank order of (a) biomass and (b) abundance of diatoms from the North Pacific. (a-1) and (b-1) show the rank order (line, left axis) and corresponding equivalent spherical diameter (ESD: dots, right axis). Histograms (lower panels) represent the ESD distribution depending on the dominancy shown in (a-1) and (b-1); data were assembled (a-2) and (b-2) 10&#8211;100%, (a-3) and (b-3) 1&#8211;10%, (a-4) and (b-4) 0.1&#8211;1%, and (a-5) and (b-5) &lt;0.1% groups.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

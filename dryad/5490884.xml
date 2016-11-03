@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5490884</identifier><datestamp>2015-03-02T20:55:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.65TH6/13</identifier>
+  <creators>
+      <creator>
+         <creatorName>Geraldes, Armando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hefer, Charles A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Capron, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kolosova, Natalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez-Nu&#241;ez, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soolanayakanahally, Raju Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stanton, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guy, Robert D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mansfield, Shawn D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Douglas, Carl J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cronk, Quentin C. B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>41515_sanger_all_tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>GWAS</subject>
+      <subject>SNP</subject>
+      <subject>XY-sex-determining system</subject>
+      <subject>gender</subject>
+      <subject>methylation</subject>
+      <subject>North America</subject>
+      <subject>Populus trichocarpa</subject>
+      <subject>Populus balsamifera</subject>
+      <subject>Populus deltoides</subject>
+      <subject>Populus nigra</subject>
+      <subject>Populus tremuloides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.65TH6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>79209 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fasta alignment for Figure S2 panel d (Chr19 Amplicon2:Chr19:41515, all P. tremuloides clones included)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

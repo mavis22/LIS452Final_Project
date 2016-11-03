@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4018966</identifier><datestamp>2014-10-08T17:00:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TR61N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Branco, Manuela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brockerhoff, Eckehard G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castagneyrol, Bastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Orazio, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jactel, Herv&#233;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Model input data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Damage</subject>
+      <subject>Exotic trees</subject>
+      <subject>Host expansion</subject>
+      <subject>Native insects</subject>
+      <subject>Plantation forest</subject>
+      <subject>Phylogenetic relatedness</subject>
+      <subject>Europe</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TR61N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2270 bytes</size>
+      <size>13186 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used on model regression, comprising: exotic tree species; phylogenetic relatedness to European native species, geographic distribution and time since introduction; number of native insects expressed in different terms.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

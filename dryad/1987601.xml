@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1987601</identifier><datestamp>2014-05-30T05:43:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2247B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cassidy, Elizabeth J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bath, Eleanor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chenoweth, Stephen F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonduriansky, Russell</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Sex-specific patterns of morphological diversification: evolution of reaction norms and static allometries in neriid flies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Allometry</subject>
+      <subject>Sex-specific selection</subject>
+      <subject>Developmental plasticity</subject>
+      <subject>Diet</subject>
+      <subject>Australia</subject>
+      <subject>Neriidae</subject>
+      <subject>Telostylinus angusticollis</subject>
+      <subject>Telostylinus lineolatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cassidy EJ, Bath E, Chenoweth SF, Bonduriansky R (2013) Sex-specific patterns of morphological diversification: evolution of reaction norms and static allometries in neriid flies. Evolution 68(2): 368&#8211;383.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2247B/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12276</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7047010</identifier><datestamp>2015-11-23T16:47:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6D52B/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Morin, Shai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zidon, Royi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsueda, Hirotsugu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morin, Efrat</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seville-BCC-CSM1.1-RCP4.5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>population dynamics models</subject>
+      <subject>general circulation models</subject>
+      <subject>downscaling</subject>
+      <subject>weather generator</subject>
+      <subject>invasive species</subject>
+      <subject>intra-annual temperature variability</subject>
+      <subject>reproductive performance</subject>
+      <subject>Spain</subject>
+      <subject>Mid 21 century</subject>
+      <subject>Bemisia tabaci</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6D52B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6521966 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Downscaled (bias-corrected) daily temperature data (150 simulations for 10 years) based on the BCC-CSM1.1 CMIP5 model. Seville station Spain. RCP4.5 climate scenario.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

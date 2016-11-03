@@ -1,0 +1,34 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <header>
+                <identifier>oai:oai.datacite.org:1539198</identifier>
+                <datestamp>2013-02-20T09:43:15Z</datestamp>
+                <setSpec>CDL</setSpec>
+                <setSpec>CDL.DRYAD</setSpec>
+            </header>
+            <metadata>
+                <oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd">
+                    <isReferenceQuality>false</isReferenceQuality>
+                    <schemaVersion>2.2</schemaVersion>
+                    <datacentreSymbol>CDL.DRYAD</datacentreSymbol>
+                    <payload>
+                        <resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2     http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+                            <identifier identifierType="DOI">10.5061/RD8VD6WCD</identifier>
+                            <creators>
+                                <creator>
+                                    <creatorName>Hancock-Hanser, Brittany</creatorName>
+                                </creator>
+                            </creators>
+                            <titles>
+                                <title>Data from: Targeted multiplex next-generation sequencing:
+                                    Advances in techniques of mitochondrial and nuclear DNA
+                                    sequencing for population genomics</title>
+                            </titles>
+                            <publisher>Dryad Digital Repository</publisher>
+                            <publicationYear>2012</publicationYear>
+                            <resourceType resourceTypeGeneral="Dataset"/>
+                        </resource>
+                    </payload>
+                </oai_datacite>
+            </metadata>
+        </record>
+        

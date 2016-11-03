@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211125</identifier><datestamp>2015-12-02T16:38:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3J2MP/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Buzatto, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buoro, Mathieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hazel, Wade</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tomkins, Joseph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Earwigs data for Buzatto et al 2015 - Proc B</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Alternative reproductive strategies</subject>
+      <subject>intrasexual dimorphism</subject>
+      <subject>male dimorphism</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>polyphenism</subject>
+      <subject>quantitative genetics</subject>
+      <subject>Farne Islands</subject>
+      <subject>Northumberland</subject>
+      <subject>United Kingdom</subject>
+      <subject>Forficula auricularia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3J2MP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18921 bytes</size>
+      <size>1737 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Two data sets with measurements and male morph information for the male dimorphic earwig Forficula auricularia. Both data sets have pedigree information, one of them (ISLANDS) with information from a half-sib common environment experiment with earwigs from three different islands; and the other one with information from a family level split environment (different diets) experiment (EXPERIMENTS) with earwigs from two different islands. All islands from the the Farne Islands group in Northumberland, UK.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

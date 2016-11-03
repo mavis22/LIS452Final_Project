@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239104</identifier><datestamp>2014-12-19T17:40:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.485QQ/14</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zaman, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Justin R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Devangam, Suhas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bryson, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lenski, Richard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ofria, Charles</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>coevolving-complexity-challenge-data-nands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>host-parasite coevolution</subject>
+      <subject>evolution of complexity</subject>
+      <subject>evolutionary ecology</subject>
+      <subject>experimental evolution</subject>
+      <subject>digital evolution</subject>
+      <subject>community ecology</subject>
+      <subject>evolvability</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.485QQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1750788 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were generated through the challenge experiment, where host and parasite lineages were coevolved through successive "challenge" bouts. The following columns are contained in the csv:&#13;
+&#13;
+1. replicate - The replicate challenge experiment &#13;
+2. completed - Were all 50 rounds of challenges complete?&#13;
+3. step - The round that the data row is from&#13;
+4. host_phenotype - The integer phenotype for the host - computed by considering the phenotype bitstring (e.g., 10100000 = 4)&#13;
+5. parasite_phenotype - The integer phenotype for the parasite&#13;
+6. host_iterations - The number of iterations of generating random host populations that were required to find a succesful mutant&#13;
+7. parasite_iterations - The number of iterations of generating random parasite populations that were required to find a successful mutant&#13;
+8. host_sequence - The genetic sequence of the successful host&#13;
+9. parasite_sequence - The genetic sequence of the successful parasite &#13;
+10. host_avg_task_nands - The number of NANDs required to compute the hosts average task&#13;
+11. host_max_task_nands - The number of NANDs required to compute the hosts most complex task</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

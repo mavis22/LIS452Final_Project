@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4054765</identifier><datestamp>2014-11-28T19:17:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V82B7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Caughlin, Timothy Trevor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferguson, Jake M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lichstein, Jeremy W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zuidema, Pieter A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunyavejchewin, Sarayudh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Levey, Douglas J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fruit production as a function of tree size</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Seed dispersal</subject>
+      <subject>Overhunting</subject>
+      <subject>Tree population</subject>
+      <subject>Tropical forest dynamics</subject>
+      <subject>Extinction</subject>
+      <subject>Spatial model</subject>
+      <subject>Tree demography</subject>
+      <subject>Negative density dependence</subject>
+      <subject>Neighborhood model</subject>
+      <subject>Fruit production</subject>
+      <subject>Frugivory</subject>
+      <subject>Southeast Asia</subject>
+      <subject>Thailand</subject>
+      <subject>Tropical forests</subject>
+      <subject>Huai Kha Khaeng Wildlife Sanctuary</subject>
+      <subject>Anthropocene</subject>
+      <subject>Miliusa</subject>
+      <subject>Saccopetalum</subject>
+      <subject>Annonaceae</subject>
+      <subject>Miliusa horsfieldii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V82B7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>490 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on fruit production of Miliusa horsfieldii trees measured in June-July 2011. Fruits were counted in three 3 m x 3 m quadrats beneath 14 reproductive trees. Column 1 (FRUIT_COUNT) indicates the total number of fruits counted, Column 2 is the DBH of the focal tree (in cm) and Column 3 (TREE_ID) is a unique identifier for each individual tree.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

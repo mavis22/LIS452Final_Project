@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:550007</identifier><datestamp>2014-05-29T22:39:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3MT58823</identifier>
+  <creators>
+      <creator>
+         <creatorName>Weisrock, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Stacey D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chan, Lauren M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biebouw, Karla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kappeler, Peter M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoder, Anne D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Concatenation and concordance in the reconstruction of mouse lemur phylogeny: an empirical demonstration of the effect of allele sampling in phylogenetics.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>allele</subject>
+      <subject>concatenation</subject>
+      <subject>concordance</subject>
+      <subject>gene tree</subject>
+      <subject>phylogenetic analysis</subject>
+      <subject>lemur</subject>
+      <subject>Madagascar</subject>
+      <subject>Microcebus</subject>
+      <subject>Mirza</subject>
+      <subject>Allocebus</subject>
+      <subject>Phaner</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Weisrock DW, Smith SD, Chan LM, Biebouw K, Kappeler PM, Yoder AD (2012) Concatenation and concordance in the reconstruction of mouse lemur phylogeny: an empirical demonstration of the effect of allele sampling in phylogenetics. Molecular Biology and Evolution 29(6): 1615-1630.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3MT58823/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3MT58823/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3MT58823/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/MOLBEV/MSS008</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

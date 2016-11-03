@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5602408</identifier><datestamp>2015-04-24T20:53:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DJ6P6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fishman, Lila</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Female fitness data and D genotype for Iron Mountain M. guttatus (2010-2014)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Chromosomal Evolution</subject>
+      <subject>Fitness</subject>
+      <subject>Genetic Variation</subject>
+      <subject>Models/Simulations</subject>
+      <subject>Population Genetics</subject>
+      <subject>Selection - Natural</subject>
+      <subject>Iron Mountain</subject>
+      <subject>Oregon</subject>
+      <subject>Mimulus guttatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DJ6P6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>102318 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file includes lifetime female fitness (seedset; 2010-2013), fruit numbers (2010-2013), and flower numbers (2012-2013), as well as LG11 centromere associated drive genotype (D = driver, determined by lb5a marker genotype), for individuals sampled from the Iron Mountain, OR population of Mimulus guttatus. All individuals sampled survived to produce at least 1 fruit, so these data do not include variation in survival to reproduction that may be present in the population.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

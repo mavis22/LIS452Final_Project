@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017726</identifier><datestamp>2014-10-31T20:46:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.26K11/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ejsmond, Maciej Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Radwan, Jacek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Anthony B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data files (Matlab worksapces) packed in a ZIP archive - scenarios with no pathogens</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>adaptive immunity</subject>
+      <subject>disassortative mating</subject>
+      <subject>genetic drift</subject>
+      <subject>pathogen-mediated selection</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.26K11</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>105514184 bytes</size>
+      <size>14787 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Scenarios with no interaction between pathogens and hosts&#13;
+&#13;
+Data set is packed in a ZIP archive. Names of catalogue in the archive indicate scenario parameters: host population size N and simulated mechanism of partner choice (RM - random mating, h0 - soft assortative mating, h1 - hard assortative mating; see Materials and Methods for details). Each scenario catalogue contains 100 files (Matlab workspaces) with saved variables of each of 100 independent replications. &#13;
+&#13;
+Saved variables:&#13;
+&#13;
+HED_scen &#8211; partner choice scenario (random mating HED_scen=NaN, soft assortative mating h0 HED_scen=0, hard assortative mating h1 HED_scen=1)        &#13;
+&#13;
+N &#8211; host population size               &#13;
+&#13;
+off_val_occ &#8211; offspring reproductive value at birth in subsequent mating attempts&#13;
+&#13;
+h_mut_rat &#8211; host mutation rate&#13;
+&#13;
+host_n_all &#8211; allelic richness across generations&#13;
+&#13;
+host_time &#8211; host generation number&#13;
+&#13;
+mat_occ_distr &#8211; number of mating pairs in subsequent mating attempts (first row indicate first mating attempt) saved every host generation&#13;
+&#13;
+Compl_all_hist &#8211; frequency distribution of MHC alleles saved in last 1400 host generations (host generations 1600-3000). Matrix of allele frequency distribution is saved as Matlab sparse matrix, (type full(Compl_all_hist) to transform Compl_all_hist into trajectories of allele frequency)&#13;
+&#13;
+in_pres_al &#8211; decimal labels of MHC alleles in allele frequency history matrix Compl_all_hist</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4883062</identifier><datestamp>2015-02-12T16:22:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.534F0.2/1.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matuszewski, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kopp, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SimulateMovingOptimum</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Pleiotropy</subject>
+      <subject>Natural Selection</subject>
+      <subject>Mutations</subject>
+      <subject>Models/Simulations</subject>
+      <subject>Population Genetics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.534F0.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>35075 bytes</size>
+      <size>2891 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">C++ code used for "adaptive-walk" simulations of the multidimensional moving-optimum model. In these simulations, the population is assumed to be monomorphic at all times, and new mutations are  immediately lost or fixed. As a result, adaptation proceeds as a series of discrete "steps". Adaptive-walk simulations are much faster than individual-based simulations, and are more closely related to the analytical results in the paper. Similar assumptions have been used in other models of the genetics of adaptation (Gillespie, Orr...), and have been justified by the so-called strong-selection-weak-mutation assumption.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

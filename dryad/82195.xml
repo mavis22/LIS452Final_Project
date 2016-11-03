@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82195</identifier><datestamp>2014-05-29T18:35:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8081</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rebbeck, Clare A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leroi, Armand M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burt, Austin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Mitochondrial capture by a transmissible cancer</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>mitochondria</subject>
+      <subject>Canine transmissible cancer</subject>
+      <subject>Mexico</subject>
+      <subject>Israel</subject>
+      <subject>South Africa</subject>
+      <subject>Thailand</subject>
+      <subject>Kenya</subject>
+      <subject>Malaysia</subject>
+      <subject>Greece</subject>
+      <subject>Canis lupus familiaris</subject>
+      <subject>Canis lupus</subject>
+      <subject>Canis latrans</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rebbeck CA, Leroi AM, Burt A (2011) Mitochondrial capture by a transmissible cancer. Science 331(6015): 303.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8081/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1126/SCIENCE.1197696</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

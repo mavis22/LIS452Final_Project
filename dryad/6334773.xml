@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6334773</identifier><datestamp>2015-07-16T15:46:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1S138/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petersen, Carola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saebelfeld, Manja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbosa, Camilo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pees, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hermann, Ruben Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schalkowski, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strathmann, Eike Andreas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirksen, Philipp</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulenburg, Hinrich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Results of C. elegans population growth assay</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>natural variation</subject>
+      <subject>C. elegans population growth</subject>
+      <subject>Northern Germany</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1S138</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>61493 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data for C. elegans population growth assay. During this assay, three hermaphrodites of C. elegans were allowed to reproduce over five days on different bacteria. The table includes information on strain code (first column), origin of the strain (second column), strain genotype as inferred with microsatellites (third column), year of C. elegans sampling (fourth column), bacterial strain/species during the population growth assay (fifth column), replicate of population growth assay within a particular run of the experiment (sixth column), run of experiment (seventh column), and the inferred mean number of worms per initial hermaphrodite after the five-day period (eighth column).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

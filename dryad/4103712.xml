@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4103712</identifier><datestamp>2014-11-27T13:39:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M62GJ/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Woodward, Craig A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shulmeister, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsen, Joshua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobsen, Geraldine E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zawadzki, Atun</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Database S3</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Wetlands</subject>
+      <subject>Deforestation</subject>
+      <subject>Human</subject>
+      <subject>Anthropogenic</subject>
+      <subject>Hydrology</subject>
+      <subject>Holocene</subject>
+      <subject>Global coverage</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M62GJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>347136 bytes</size>
+      <size>1737 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This information was extracted from published, peer-reviewed journal articles. Database S3 contains information relating to the meta-analysis.&#13;
+Database S3 contains information from each site where deforestation and wetland change data is available. Post-deforestation wetland changes are identified including; a change in sedimentation rate, eutrophication or change in hydrology.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

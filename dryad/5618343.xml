@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5618343</identifier><datestamp>2015-08-12T19:33:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23835</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saenz, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Cory K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hibbitts, Toby J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Naturally occurring variation in tadpole morphology and performance linked to predator regime</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Anuran larvae</subject>
+      <subject>tadpole</subject>
+      <subject>fast-start velocity</subject>
+      <subject>morphology</subject>
+      <subject>predation</subject>
+      <subject>phenotypic integration</subject>
+      <subject>South East US</subject>
+      <subject>East Texas</subject>
+      <subject>Holocene</subject>
+      <subject>Lithobates clamitans</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Johnson JB, Saenz D, Adams CK, Hibbitts TJ (2015) Naturally occurring variation in tadpole morphology and performance linked to predator regime. Ecology and Evolution 5(15): 2991&#8211;3002.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.23835/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1538</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

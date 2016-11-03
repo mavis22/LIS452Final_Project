@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80011</identifier><datestamp>2014-05-29T20:08:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P515N265</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brown, David S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jarman, Simon N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Symondson, William O.C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Pyrosequencing of prey DNA in reptile faeces: analysis of earthworm consumption by slow worms</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>molecular diagnostics</subject>
+      <subject>next generation sequencing</subject>
+      <subject>prey choice</subject>
+      <subject>reptile diets</subject>
+      <subject>Caerphilly, Wales, UK</subject>
+      <subject>Ringwood, England, UK</subject>
+      <subject>Flat Holm, Wales, UK</subject>
+      <subject>Isle of Wight, England, UK</subject>
+      <subject>Holocene</subject>
+      <subject>Anguis fragilis</subject>
+      <subject>Lumbricus terrestris</subject>
+      <subject>Lumbricus rubellus</subject>
+      <subject>Lumbricus castaneus</subject>
+      <subject>Lumbricus festivus</subject>
+      <subject>Aporrectodea longa</subject>
+      <subject>Aporrectodea  caliginosa</subject>
+      <subject>Aporrectodea tuberculata</subject>
+      <subject>Allolobophora chlorotica</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Brown DS, Jarman SN, Symondson WOC (2011) Pyrosequencing of prey DNA in reptile faeces: analysis of earthworm consumption by slow worms. Molecular Ecology Resources 12(2): 259-266.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P515N265/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P515N265/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P515N265/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P515N265/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1755-0998.2011.03098.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

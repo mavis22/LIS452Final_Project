@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4203072</identifier><datestamp>2014-12-11T18:30:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VM0VC</identifier>
+  <creators>
+      <creator>
+         <creatorName>Konrad, Matthias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grasse, Anna V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tragust, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cremer, Sylvia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Anti-pathogen protection versus survival costs mediated by an ectosymbiont in an ant host</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>symbiosis</subject>
+      <subject>host-parasite interactions</subject>
+      <subject>grooming behaviour</subject>
+      <subject>immune gene expression</subject>
+      <subject>Lasius neglectus</subject>
+      <subject>Laboulbenia formicarum</subject>
+      <subject>Metarhizium brunneum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Konrad M, Grasse AV, Tragust S, Cremer S (2015) Anti-pathogen protection versus survival costs mediated by an ectosymbiont in an ant host. Proceedings of the Royal Society B 282(1799): 20141976.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM0VC/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM0VC/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM0VC/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.1976</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

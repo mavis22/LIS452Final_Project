@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634410</identifier><datestamp>2015-02-06T15:57:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QF53D/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Booth, Warren</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balv&#237;n, Ond&#345;ej</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vargo, Edward L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vil&#237;mov&#225;, Jitka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schal, Coby</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad data_all sequence haplotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host-parasite</subject>
+      <subject>speciation</subject>
+      <subject>host-associated differentiation</subject>
+      <subject>Europe and the Czech Republic</subject>
+      <subject>Holocene</subject>
+      <subject>Cimex lectularius</subject>
+      <subject>Cimicidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QF53D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>232339 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All sequenced individuals in which sequences lacked heteroplasmy.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

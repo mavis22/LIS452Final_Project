@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6558613</identifier><datestamp>2015-08-26T20:34:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6324J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Clements, Cody S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hay, Mark E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Influence of macroalgal contact on coral growth</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral reefs</subject>
+      <subject>indirect interactions</subject>
+      <subject>associational refuge</subject>
+      <subject>crown-of-thorns starfish</subject>
+      <subject>macroalgae</subject>
+      <subject>Fiji</subject>
+      <subject>Holocene</subject>
+      <subject>Acanthaster planci</subject>
+      <subject>Montipora hispida</subject>
+      <subject>Sargassum polycystum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6324J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>38578 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel spreadsheet (.xls) of data from field-based manipulative experiment measuring monthly changes in coral (Montipora hispida) mass from December 2013 to March 2014. Corals were exposed to one of five algal treatments: 0, 2, 4, 6, or 8 fronds of the brown alga Sargassum polycystum (frond length = 15-20 cm). Numbers in column A indicate the parent colony from which a coral originated, and numbers in column B indicate the number of Sargassum fronds in contact with the coral. The percent change in coral mass was determined using the total change in mass (column G) and initial coral mass (column C).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

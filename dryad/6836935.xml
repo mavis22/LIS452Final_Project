@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6836935</identifier><datestamp>2015-10-13T15:46:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M8G90/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jousselin, Emmanuelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clamens, Anne-Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galan, Maxime</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernard, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maman, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gschloessl, Bernhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duport, Marie-Gabrielle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meseguer, Andrea S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Calevro, Federica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coeur d'acier, Armelle</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Illumina_16SCinara</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Metagenomics</subject>
+      <subject>Illumina</subject>
+      <subject>16S rRNA gene</subject>
+      <subject>endosymbiont</subject>
+      <subject>Arthropod</subject>
+      <subject>Aphididae</subject>
+      <subject>Lachninae</subject>
+      <subject>Cinara</subject>
+      <subject>Buchnera aphidicola</subject>
+      <subject>Serratia</subject>
+      <subject>Wolbachia</subject>
+      <subject>Enterobacteriaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M8G90</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12070 bytes</size>
+      <size>609149570 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an archive containing results of the sequencing of 16S rRNA gene for all samples of the publication (the results have been demultiplexed : each file corresponds to the sequecining of a PCR product).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

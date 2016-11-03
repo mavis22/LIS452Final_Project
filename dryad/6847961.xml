@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6847961</identifier><datestamp>2015-10-15T12:02:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.63H33</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lopez, Lua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barreiro, Rodolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fischer, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koch, Marcus A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Mining microsatellite markers from public expressed sequence tags databases for the study of threatened plants</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>conservation</subject>
+      <subject>evolution</subject>
+      <subject>EST-SSR</subject>
+      <subject>functional markers</subject>
+      <subject>population genetics</subject>
+      <subject>threatened plants</subject>
+      <subject>Oryza</subject>
+      <subject>Arabidopsis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lopez L, Barreiro R, Fischer M, Koch MA (2015) Mining microsatellite markers from public expressed sequence tags databases for the study of threatened plants. BMC Genomics 16: 781.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.63H33/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12864-015-2031-1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

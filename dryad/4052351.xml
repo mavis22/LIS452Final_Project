@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4052351</identifier><datestamp>2014-11-06T19:24:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V5012/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Katju, Vaishali</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Packard, Lucille B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bu, Lijing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keightley, Peter David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergthorsson, Ulfar</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mutation Accumulation Generation 409 Fitness Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Deleterious mutation</subject>
+      <subject>Epistasis</subject>
+      <subject>Fitness</subject>
+      <subject>Genome-wide mutation rate</subject>
+      <subject>Productivity</subject>
+      <subject>Survivorship to adulthood</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V5012</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>70349 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Productivity and survivorship to adulthood for MA lines following 409 consecutive generations of mutation accumulation and the ancestral controls.  Column 1 corresponds to the line identifier (MA line or ancestral control line).  Column 2 lists the replicate number for each line (where possible, we aimed for five replicates within each line).  Columns 3-10 list the worm productivity corresponding to Days 1-8 of the productivity assay.  Column 11 is the total productivity summed across Days 1-8.  Column 12 lists the number of surviving adults from a pool of L1 larvae initially isolated.  Column 13 is the final value for survivorship to adulthood and ranges from 0 to 1 (corresponding to 0 to 100% survivorship to adulthood).  Dashes in cells represent lack of data due to hermaphrodite mortality during the assay or inability to enter the replicate line into assay due to sterility or mortality in preceding generations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

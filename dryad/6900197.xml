@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900197</identifier><datestamp>2015-11-09T14:59:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GC72V/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kulaga-Yoskovitz, Jessie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernhardt, Boris C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hong, Seok-Jun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mansi, Tommaso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liang, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van der Kouwe, Andre J. W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smallwood, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernasconi, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernasconi, Neda</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>exam_card_T1wHiRes.pdf</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-11-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GC72V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>38833 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Parameters for the high-resolution T1w sequence (.6x.6x.6 mm^3). Two identical acquisitions of this sequence need to be made to increase SNR; zipped</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

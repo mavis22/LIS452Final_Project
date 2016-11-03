@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5723879</identifier><datestamp>2015-06-12T17:41:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H8D0N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moore, Joel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobson, Andrew D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>moore_jacobson_co2_d13C_meteo_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>urban carbon cycles</subject>
+      <subject>atmospheric CO2</subject>
+      <subject>stable carbon isotopes</subject>
+      <subject>Evanston</subject>
+      <subject>Chicago</subject>
+      <subject>Illinois</subject>
+      <subject>42.051767N</subject>
+      <subject>87.677544W</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H8D0N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>849625 bytes</size>
+      <size>6157 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains hourly averages for concentrations and d13C of atmospheric CO2 measured in Evanston, IL from Aug. 2011 to early March 2012. Concentration and d13C values were measured with a Picarro G1101-i wavelength scanned-cavity ring down spectrometer. Wind direction, wind speed, and other supporting meteorological data are from the Illinois Environmental Protection Agency and the US National Weather Service. For more information, see the ReadMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

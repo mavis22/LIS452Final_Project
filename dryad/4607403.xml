@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4607403</identifier><datestamp>2015-02-03T20:10:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3CP3T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Diniz-Filho, Jos&#233; Alexandre F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodrigues, Hauanny</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Telles, Mariana Pires De Campos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oliveira, Guilherme De</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Terribile, Levi Carina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soares, Thannya Nascimento</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nabout, Jo&#227;o Carlos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Diniz-Filho_etal_MER_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecological Genetics</subject>
+      <subject>Phylogeography</subject>
+      <subject>Ecological Niche Modeling</subject>
+      <subject>Cerrado</subject>
+      <subject>Central Brazil</subject>
+      <subject>Dipteryx alata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3CP3T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>304813 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The following data and achieves are available from DRYAD for Diniz-Filho et al. - Mol. Ecol. Res.&#13;
+1) Sampling localities, codes, latitudes and longitudes, Heterozygosity for 25 populations of D. alata in Brazilian Cerrado (Baru25pops.xlsx);&#13;
+2) Genotypes for 8 microsatellite loci for 642 individuals of D. alata from 25 populations (baru_FSTAT_8loci.dat);&#13;
+3) R-script for the analyses shown in this paper, including generating heterozygosity by resampling and the random selection of ENMs for ensemble correlations (ENM_selection.R);&#13;
+4) Vector of heterozygosity used in the analyses (he.txt);&#13;
+5) Environmental suitabilities of ENMs in the 25 populations of D. alata (ENM.txt);&#13;
+6) Occurrence records for D. alata in Brazilian Cerrado (D_alata_occurrence_records.txt);&#13;
+7) Occurrence records in a Neotropical grid with resolution of 0.5o (D_alata_neotropic_grid.txt), used in BIOENSEMBLES;&#13;
+8) One of the environmental data (CCSM climatic model for current time) in the Neotropical grid used in the modeling process with BIOENSEMBLES (be_biovar_CCSM_0k_neotropic.txt  - other similar data sets are available at www.ecoclimate.org).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

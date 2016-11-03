@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5527978</identifier><datestamp>2015-04-23T01:06:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.ND154/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sharma, Anukriti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sangwan, Naseer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Negi, Vivek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohli, Puneet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rao, Desiraju Lakshmi Narsimha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lal, Rup</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Maximum Likelihood Tree (Newick Format) for 51 Pseudomonas Genomes using Azotobacter vinelandii CA as outgroup.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>integron</subject>
+      <subject>comparative genomics</subject>
+      <subject>metagenomics</subject>
+      <subject>horizontal gene transfer</subject>
+      <subject>selective pressures</subject>
+      <subject>Pseudomonas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.ND154</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3082 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Conserved genes (400) based phylogenetic tree of strain RL and representative Pseudomonas genotypes constructed at 1000 bootstrap with Azotobacter vinelandii CA as an out-group. Branch lengths are drawn to scale, with scale bar indicating the number of amino acid substitutions. Numbers on branches are the bootstrap values of the clusters on the right.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

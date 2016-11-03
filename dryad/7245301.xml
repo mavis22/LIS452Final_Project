@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7245301</identifier><datestamp>2015-12-08T01:56:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.47BS5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lowerre-Barbieri, Susan K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burnsed, Sarah Lyle  Walters</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bickford, Joel William</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mastertelemforpaper</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>acoustic telemetry</subject>
+      <subject>spatial ecology</subject>
+      <subject>natal homing</subject>
+      <subject>spawning</subject>
+      <subject>site fidelity</subject>
+      <subject>reproductive behavior</subject>
+      <subject>connectivity</subject>
+      <subject>stock structure</subject>
+      <subject>maturation</subject>
+      <subject>fisheries management</subject>
+      <subject>Central western Florida estuarine and coastal waters</subject>
+      <subject>Sciaenops ocellatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.47BS5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>81821 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Mastertelemforpaper: data set includes all data used in the telemetry-based analyses&#13;
+a.	TL=total length at implantation; Surg_min=surgery time in minutes; age =is the age in years assigned based on fin rays for subadult red drum collected in the estuary; fishtype is a categorical variable to distinguish between subadults captured in the estuary (1) and adults captured in coastal waters; system is a categorical variable to assign if fish were detected in Tampa Bay estuary (100), Tampa Bay coastal (1), or Charlotte Harbor coastal (2);  num_dates is the number of dates a fish was detected; FishID assigned consecutive numbers to make it easier to follow individual fish; period is a categorical variable to assign the 2012  reproductive period (1); 2013 non-reproductive period (2) and 2013 reproductive period.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

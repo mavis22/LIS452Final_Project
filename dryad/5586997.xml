@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586997</identifier><datestamp>2015-04-23T01:41:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H9M07/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruhlman, Tracey A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Wang-Jung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Jeremy J. W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huang, Yao-Ting</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chan, Ming-Tsair</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liao, De-Chih</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blazier, John C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jin, Xiaohua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shih, Ming-Che</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jansen, Robert K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lin, Choun-Sea</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>alignments_for_phylogeny</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Streptophyta</subject>
+      <subject>NAD(P)H dehydrogenase</subject>
+      <subject>transcriptomics</subject>
+      <subject>cyclic electron flow</subject>
+      <subject>Sig4</subject>
+      <subject>Geraniales</subject>
+      <subject>Gymnospermae</subject>
+      <subject>Orchidaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H9M07</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>197015 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data folder contains three sequence alignments used to construct phylogenetic trees of Geraniales, Gymnospermae and Orchidaceae in this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

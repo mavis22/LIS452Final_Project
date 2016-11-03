@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6560731</identifier><datestamp>2015-08-04T17:19:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1K27/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fleming-Davies, Arietta E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dwyer, Gregory</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Overwinter transmission data for gypsy moth baculovirus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecology: population</subject>
+      <subject>Evolution: host/parasite</subject>
+      <subject>Evolution: virulence</subject>
+      <subject>Interactions: host/pathogen</subject>
+      <subject>Polymorphism</subject>
+      <subject>Trade offs</subject>
+      <subject>Insect</subject>
+      <subject>North America</subject>
+      <subject>Lymantria dispar</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P1K27</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6590 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">A csv file with individual fates (virus killed, survived, or other early death) for neonatal gypsy moth (Lymantria dispar) larvae infected in a field experiment that replicated the overwinter transmission process.  Data also include the location of oviposition and the size of the virus-killed larval cadaver, estimated by image analysis.  The field experiment was conducted in southwest Michigan, U.S., using 16 baculovirus isolates previously collected from virus-killed larvae in the U.S. Midwest.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

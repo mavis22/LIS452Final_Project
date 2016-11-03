@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4311341</identifier><datestamp>2015-01-23T16:34:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GP272/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Franz, Mathias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altmann, Jeanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alberts, Susan C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>interaction matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social networks</subject>
+      <subject>social behavior</subject>
+      <subject>Africa</subject>
+      <subject>Papio cynocephalus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GP272</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>40350 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8216;interaction matrices.zip&#8217; is a compressed folder that contains 232 text files. Each file contains a matrix where each row (and column) represents a single individual. Cell values indicate how often the corresponding row individual groomed the column individual, or how often the column individual was the nearest neighbor of the row individual. Each file name indicates whether the corresponding matrix contains information regarding grooming or association. The first number in the file name indicates the ID of the corresponding knockout and the second number indicates the time period for each knockout. The time period before the knockout is coded as 0, the first 30-day period after the knockout is coded as 1, the second period is coded as 2 and the third period is coded as 3. All matrices of a specific knockout have identical orders of row (and column) individuals.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

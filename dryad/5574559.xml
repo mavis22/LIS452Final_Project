@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574559</identifier><datestamp>2015-03-31T16:29:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT536/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roberts, John M. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Denis L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tay, Wee Tek</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Varroa jacobsoni data Mol Ecol 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host-shifts</subject>
+      <subject>population genetics</subject>
+      <subject>invasion biology</subject>
+      <subject>apiculture</subject>
+      <subject>parasites</subject>
+      <subject>microsatellites</subject>
+      <subject>Papua New Guinea</subject>
+      <subject>Solomon Islands</subject>
+      <subject>Papua</subject>
+      <subject>Indonesia</subject>
+      <subject>Varroa jacobsoni</subject>
+      <subject>Varroa destructor</subject>
+      <subject>Apis mellifera</subject>
+      <subject>Apis cerana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT536</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>62459 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sampling locations and genotype data for Varroa jacobsoni using 12 microsatellite markers</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

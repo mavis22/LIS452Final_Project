@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687728</identifier><datestamp>2015-04-28T17:48:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CD711/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paijmans, Johanna L. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fickel, Joerns</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Courtiol, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hofreiter, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>F&#246;rster, Daniel W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ancestral mitogenome reconstruction</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecological Genetics</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CD711</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17346 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">As interspecific comparisons featured heavily in our analyses, it was important to choose a reference sequence that would limit the introduction of a bias during the mapping of sequences (&#8220;mapping bias&#8221;). Mapping algorithms become less effective when the reference is very dissimilar (Pr&#252;fer et al. 2010; Schubert et al. 2012) impacting the number of sequences identified as &#8216;on-target&#8217;. As some of the species in this study currently do not have a reference sequence available from GenBank (Table 1), we reconstructed an ancestral mitogenome of all Felidae (Appendix S1; Supporting Table S2) to be used as reference. To reconstruct the ancestral sequence, the most appropriate model of substitution for the alignment of the felid mitogenomes was estimated using jModeltest 2.1.4 under the Bayesian Information Criterion (Posada 2008), which was then implemented in PhyML (Guindon et al. 2010) to infer the topology of the phylogeny (as shown in Fig. 1A). Reconstruction of the ancestral sequence was performed using the webserver of Ancestors v1.1 (Diallo et al. 2007, 2010). For additional information, please refer to the manuscript and its supplements.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

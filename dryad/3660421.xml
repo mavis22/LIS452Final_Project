@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3660421</identifier><datestamp>2014-07-11T16:20:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G4T8C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pitchers, William, R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolf, Jason, B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tregenza, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunt, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dworkin, Ian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evolutionary rates for multivariate traits: the role of selection and genetic variation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>quantitative genetics</subject>
+      <subject>evolution</subject>
+      <subject>haldanes</subject>
+      <subject>G matrix</subject>
+      <subject>natural selection</subject>
+      <subject>evolutionary rate</subject>
+      <subject>constraint</subject>
+      <subject>evolvability</subject>
+      <subject>scaling</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pitchers W, Wolf J, Tregenza T, Hunt J, Dworkin I (2014) Evolutionary rates for multivariate traits: the role of selection and genetic variation. Philosophical Transactions of the Royal Society B 369(1649): 20130252.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G4T8C/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSTB.2013.0252</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2918550</identifier><datestamp>2014-05-30T08:30:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4DG60</identifier>
+  <creators>
+      <creator>
+         <creatorName>Coverdale, Tyler C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brisson, Caitlin P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Young, Eric W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yin, Stephanie F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Donnelly, Jeffrey P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bertness, Mark D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Indirect human impacts reverse centuries of carbon sequestration and salt marsh accretion</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>salt marsh die-off</subject>
+      <subject>carbon sequestration</subject>
+      <subject>carbon emission</subject>
+      <subject>human impacts</subject>
+      <subject>climate change</subject>
+      <subject>Cape Cod</subject>
+      <subject>MA</subject>
+      <subject>USA</subject>
+      <subject>1700-present</subject>
+      <subject>Sesarma reticulatum</subject>
+      <subject>Spartina alterniflora</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Coverdale TC, Brisson CP, Young EW, Yin SF, Donnelly JP, Bertness MD (2014) Indirect human impacts reverse centuries of carbon sequestration and salt marsh accretion. PLoS ONE 9(3): e93296.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4DG60/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0093296</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

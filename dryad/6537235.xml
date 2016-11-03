@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6537235</identifier><datestamp>2015-07-29T17:15:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JH2FP/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lanier, Hayley C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Massatti, Rob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>He, Qixin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olson, Link E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knowles, L. Lacey</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Parameters for FastSimCoal2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Mammals</subject>
+      <subject>Climate Change</subject>
+      <subject>Adaptation</subject>
+      <subject>Niche Modelling</subject>
+      <subject>Alaska</subject>
+      <subject>Yukon Territory</subject>
+      <subject>Northwest Territories</subject>
+      <subject>British Columbia</subject>
+      <subject>Pleistocene</subject>
+      <subject>Recent</subject>
+      <subject>Ochotona collaris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JH2FP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>995 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Parameter input file for the coalescence simulation program FastSimCoal2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

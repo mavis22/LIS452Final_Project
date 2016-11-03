@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6358058</identifier><datestamp>2015-08-11T19:18:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8HQ3S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Salisbury, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Armitage, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bostock, Helen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perry, Joe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tatchell, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Ken</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw abundance data - Pollinators</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Bumblebees</subject>
+      <subject>Floral resources</subject>
+      <subject>Garden flowers</subject>
+      <subject>Honeybee</subject>
+      <subject>Hoverflies</subject>
+      <subject>Plant choice</subject>
+      <subject>Pollinators</subject>
+      <subject>Solitary bees</subject>
+      <subject>Bombus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8HQ3S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>45565 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The raw abundance data for insects visiting flowers used in the publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

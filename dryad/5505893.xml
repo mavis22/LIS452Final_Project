@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505893</identifier><datestamp>2015-03-20T20:04:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SC6BP/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Abts, Kendra C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>trinotate annotation report of spleen/buffy coat trinity transcripts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spleen</subject>
+      <subject>buffy coat</subject>
+      <subject>annotation</subject>
+      <subject>San Diego Zoo koala colony</subject>
+      <subject>San Diego</subject>
+      <subject>Phascolarctos cinereus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SC6BP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15353944 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The Trinity transcripts (contained within spleen/buffy coat combined trinity assembly) were annotated using the Trinotate pipeline (part of the Trinity package version r2013-02-25).  Briefly this pipeline searches the transcripts for open reading frames, BLASTs the resulting protein sequences to the NCBI's SwissProt database, and assigns GO terms off of the best hit.  It also searches the transcripts for conserved PFAM domains.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

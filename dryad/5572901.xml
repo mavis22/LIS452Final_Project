@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5572901</identifier><datestamp>2015-04-21T19:17:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MK44C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paquet, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doutrelant, Claire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hatchwell, Ben J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spottiswoode, Claire N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Covas, Rita</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CMR Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cooperative breeding</subject>
+      <subject>family conflicts</subject>
+      <subject>investment</subject>
+      <subject>life history strategies</subject>
+      <subject>sex-specific selection</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MK44C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13295 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Detail of the capture recapture data and covariates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

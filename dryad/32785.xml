@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:32785</identifier><datestamp>2015-07-20T19:21:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0MQ34/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gefen, Eran</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brendzel, Orit</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nahal_Oren_D_simulans</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>desiccation resistance</subject>
+      <subject>adaptation</subject>
+      <subject>mating success</subject>
+      <subject>assortative mating</subject>
+      <subject>reproductive isolation</subject>
+      <subject>population divergence</subject>
+      <subject>Lower Nahal Oren</subject>
+      <subject>Israel</subject>
+      <subject>Drosophila simulans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0MQ34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>76800 bytes</size>
+      <size>22528 bytes</size>
+      <size>975 bytes</size>
+      <size>966 bytes</size>
+      <size>1013 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-07-14T16:08:55Z (GMT). No. of bitstreams: 3
+README.txt: 975 bytes, checksum: ee3eafd7a760747783b74fb213d1584a (MD5)
+README.doc: 22528 bytes, checksum: 8eb43f17a161368e5ef06a427474ba07 (MD5)
+Nahal_Oren_D_simulans.xls: 76800 bytes, checksum: 4e6878aefebf541c502645119166ce78 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

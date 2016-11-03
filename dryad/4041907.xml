@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4041907</identifier><datestamp>2015-01-21T15:20:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BT52F</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brock, Kinsey M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bednekoff, Peter A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pafilis, Panayiotis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Foufopoulos, Johannes</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evolution of antipredator behavior in an island lizard species, Podarcis erhardii (Reptilia: Lacertidae): the sum of all fears?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Antipredator Behavior</subject>
+      <subject>Predation</subject>
+      <subject>Selection - Natural</subject>
+      <subject>Islands</subject>
+      <subject>Flight Initiation Distance</subject>
+      <subject>Autotomy</subject>
+      <subject>Mediterranean</subject>
+      <subject>Greece</subject>
+      <subject>Cyclades</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Podarcis erhardii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Brock KM, Bednekoff PA, Pafilis P, Foufopoulos J (2015) Evolution of antipredator behavior in an island lizard species, Podarcis erhardii (Reptilia: Lacertidae): the sum of all fears? Evolution 69(1): 216-231.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.BT52F/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.BT52F/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.BT52F/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.BT52F/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12555</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

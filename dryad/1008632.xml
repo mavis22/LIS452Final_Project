@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1008632</identifier><datestamp>2014-05-29T21:33:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4291N</identifier>
+  <creators>
+      <creator>
+         <creatorName>Allen, William Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baddeley, Roland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cuthill, Innes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scott-Samuel, Nicholas E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A quantitative test of the predicted relationship between countershading and lighting environment.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Endocrinology: androgens</subject>
+      <subject>Endocrinology: behavioral</subject>
+      <subject>Evolution: social</subject>
+      <subject>salamanders</subject>
+      <subject>Anurans (frogs and toads)</subject>
+      <subject>Reptile</subject>
+      <subject>crocodilians</subject>
+      <subject>lizards</subject>
+      <subject>snakes</subject>
+      <subject>turtles</subject>
+      <subject>Adaptation</subject>
+      <subject>Crypsis</subject>
+      <subject>Crypsis: coloration</subject>
+      <subject>Phylogenetics: comparative</subject>
+      <subject>Ruminantia</subject>
+      <subject>Cervidae</subject>
+      <subject>Bovidae</subject>
+      <subject>Cetartiodactyla</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Allen WL, Baddeley R, Cuthill I, Scott-Samuel NE (2012) A quantitative test of the predicted relationship between countershading and lighting environment. The American Naturalist 180(6): 762-776.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4291N/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4291N/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/668011</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

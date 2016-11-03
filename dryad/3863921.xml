@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3863921</identifier><datestamp>2014-11-13T19:43:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H8C79</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bastianelli, Giacomo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bouillon, Anthony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nguyen, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le-Nguyen, Dung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nilges, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barale, Jean-Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Computational design of protein-based inhibitors of Plasmodium vivax subtilisin-like 1 protease</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Malaria</subject>
+      <subject>Drug target</subject>
+      <subject>protease</subject>
+      <subject>subtilisin</subject>
+      <subject>In silico</subject>
+      <subject>inhibitor</subject>
+      <subject>worldwide</subject>
+      <subject>Plasmodium vivax</subject>
+      <subject>Plasmodium falciparum</subject>
+      <subject>Ecballium elaterium</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bastianelli G, Bouillon A, Nguyen C, Le-Nguyen D, Nilges M, Barale J (2014) Computational design of protein-based inhibitors of Plasmodium vivax subtilisin-like 1 protease. PLoS ONE 9(10): e109269.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H8C79/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0109269</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

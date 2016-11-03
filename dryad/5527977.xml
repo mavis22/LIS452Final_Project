@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5527977</identifier><datestamp>2015-04-23T01:06:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.ND154</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sharma, Anukriti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sangwan, Naseer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Negi, Vivek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohli, Puneet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Khurana, Jitendra Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rao, Desiraju Lakshmi Narsimha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lal, Rup</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Pan-genome dynamics of Pseudomonas gene complements enriched across hexachlorocyclohexane dumpsite</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>integron</subject>
+      <subject>comparative genomics</subject>
+      <subject>metagenomics</subject>
+      <subject>horizontal gene transfer</subject>
+      <subject>selective pressures</subject>
+      <subject>Pseudomonas</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sharma A, Sangwan N, Negi V, Kohli P, Khurana JP, Rao DLN, Lal R (2015) Pan-genome dynamics of Pseudomonas gene complements enriched across hexachlorocyclohexane dumpsite. BMC Genomics 16: 313.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND154/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND154/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.ND154/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12864-015-1488-2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

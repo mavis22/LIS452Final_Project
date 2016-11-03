@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5747892</identifier><datestamp>2015-05-19T16:14:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.181QQ</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hobbs, N. Thompson</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geremia, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Treanor, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wallen, Rick L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Patrick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hooten, Mevin B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rhyan, Jack C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: State-space modeling to support management of brucellosis in the Yellowstone bison population</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>adaptive management</subject>
+      <subject>population modeling</subject>
+      <subject>population ecology</subject>
+      <subject>disease ecology</subject>
+      <subject>disease transmission</subject>
+      <subject>net reproductive ratio</subject>
+      <subject>model selection</subject>
+      <subject>Greater Yellowstone ecoystem</subject>
+      <subject>Holocene</subject>
+      <subject>Bison bison</subject>
+      <subject>Brucella abortus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hobbs NT, Geremia C, Treanor J, Wallen RL, White PJ, Hooten MB, Rhyan JC (2015) State-space modeling to support management of brucellosis in the Yellowstone bison population. Ecological Monographs, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.181QQ/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1890/14-1413.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

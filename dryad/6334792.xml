@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6334792</identifier><datestamp>2015-08-26T20:34:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KB418/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Janes, Jasmine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roe, Amanda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rice, Adrianne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gorrell, Jamieson</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langor, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sperling, Felix</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Janes et. al. (2015). Heredity - Polygamy and fine-scale structure of mountain pine beetle</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fine-scale structure</subject>
+      <subject>mountain pine beetle</subject>
+      <subject>mating system</subject>
+      <subject>management</subject>
+      <subject>Canada</subject>
+      <subject>Alberta</subject>
+      <subject>Fairview</subject>
+      <subject>Grande Prairie</subject>
+      <subject>Fort Saint James</subject>
+      <subject>Fox Creek</subject>
+      <subject>2008</subject>
+      <subject>2005</subject>
+      <subject>2007</subject>
+      <subject>Dendroctonus ponderosae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KB418</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>396823 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains individual, population, geographic, sex and life stage information for samples. The alleles for each SNP and a corresponding 200 base sequence for each are provided also. Accession numbers for SNPs previously used in Janes et al. (2014). How the mountain pine beetle (Dendroctonus ponderosae) breached the Canadian Rocky Mountains. Molecular Biology and Evolution. 31(7):1803-1815 are supplied in the dbSNP format.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

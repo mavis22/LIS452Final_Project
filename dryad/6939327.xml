@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6939327</identifier><datestamp>2015-12-02T17:16:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.90CV2/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Alice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fordham, Damien</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>REFERENCE best case female only RAMAS model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>Demographic modelling</subject>
+      <subject>Long-term-monitoring</subject>
+      <subject>Population viability analysis</subject>
+      <subject>Reptile</subject>
+      <subject>Australia</subject>
+      <subject>South Australia</subject>
+      <subject>Holocene</subject>
+      <subject>Anthropocene</subject>
+      <subject>Tiliqua rugosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.90CV2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22805 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the RAMAS metapopulation model file for estimating the the best case effect of 'hot and dry' and 'cool and wet' winter and spring conditions on the sleepy lizard study population in the future. The probabilities of extreme conditions are based on regional temperature and rainfall forecasts from an ensemble climate model under reference greenhouse gas emission scenarios.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

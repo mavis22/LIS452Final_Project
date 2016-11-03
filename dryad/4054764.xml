@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4054764</identifier><datestamp>2014-11-28T19:16:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V82B7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Caughlin, Timothy Trevor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferguson, Jake M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lichstein, Jeremy W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zuidema, Pieter A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunyavejchewin, Sarayudh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Levey, Douglas J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seed germination from seed addition experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Seed dispersal</subject>
+      <subject>Overhunting</subject>
+      <subject>Tree population</subject>
+      <subject>Tropical forest dynamics</subject>
+      <subject>Extinction</subject>
+      <subject>Spatial model</subject>
+      <subject>Tree demography</subject>
+      <subject>Negative density dependence</subject>
+      <subject>Neighborhood model</subject>
+      <subject>Seed addition experiment</subject>
+      <subject>Germination</subject>
+      <subject>Southeast Asia</subject>
+      <subject>Thailand</subject>
+      <subject>Tropical forests</subject>
+      <subject>Huai Kha Khaeng Wildlife Sanctuary</subject>
+      <subject>Anthropocene</subject>
+      <subject>Miliusa</subject>
+      <subject>Saccopetalum</subject>
+      <subject>Annonaceae</subject>
+      <subject>Miliusa horsfieldii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V82B7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10457 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on seed germination of Miliusa horsfieldii collected using a seed addition experiment in 95 plots. In these plots, a total of 6,500 marked seeds were added in 3 piles of 5, 15 or 45 seeds during June-July 2009 and monitored for survival for three months, at which time all seeds had either germinated or died. Column 1 (PLOT) is the unique identifier of each seed addition plot, Column 2 (GERMINANTS) is the total number of seeds that successfully germinated, column 3 (TOTAL_ADDED) is the total number of seeds added to each pile, and CONSPECIFIC_SEEDLINGS is the count of conspecific seedlings in 1 m x 1 m quadrats containing the focal seed pile. The four columns titled "DBH_1" to "DBH_4" are the DBH (in cm) of neighboring conspecific trees in a 10 m radius. The four columns titled "DIS_1" to "DIS_4" are the distance (in m) of neighboring conspecific trees in a 10 m radius.  "NA" values in the neighborhood matrices indicate 0 trees were present.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

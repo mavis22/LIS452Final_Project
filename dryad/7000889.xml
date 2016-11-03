@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7000889</identifier><datestamp>2015-12-04T22:37:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B15BH/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lin, Kuei-Han</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liao, Ben-Yang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Hao-Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huang, Shiao-Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Ting-Yan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Cheng-Yu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Yu-Bin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lin, Yu-Teh K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Yu-Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tang, Sen-Lin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yu, Hon-Tsen</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Blastn results</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Prokaryote microbial genomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B15BH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1660678 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Applying blastn to obtain the taxonomic information of each direct shotgun sequencing read that contain 16S rRNA gene sequence</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3107049</identifier><datestamp>2015-09-17T10:21:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JM5S0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lang, Zhihong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wills, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemmon, Zachary H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shannon, Laura M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bukowski, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Yongrui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messing, Joachim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doebley, John F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>pdf all trait data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>RNAseq</subject>
+      <subject>selection</subject>
+      <subject>teosinte</subject>
+      <subject>Gene action</subject>
+      <subject>regulation and transmission</subject>
+      <subject>Genomics</subject>
+      <subject>gene mapping</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-03-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JM5S0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26359 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">data for kernel traits.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

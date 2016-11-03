@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4148509</identifier><datestamp>2014-12-12T20:02:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M07BN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maxwell, Sean L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rhodes, Jonathan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Runge, Michael C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Possingham, Hugh P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ng, Chooi Fei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDonald-Madden, Eve</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Value-of-information &amp; sensitivity analysis code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>budget</subject>
+      <subject>conservation</subject>
+      <subject>cost effective</subject>
+      <subject>decision</subject>
+      <subject>koala</subject>
+      <subject>rule of thumb</subject>
+      <subject>strategy</subject>
+      <subject>value-of-information analysis</subject>
+      <subject>Australia</subject>
+      <subject>south east Queensland</subject>
+      <subject>Koala Coast</subject>
+      <subject>Phascolarctos cinereus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M07BN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12035217 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This script enables the user to carry out Value fo Information analysis to evaluate the benefits of resolving uncertainty surrounding a declining koala population in south-east Queensland. &#13;
+&#13;
+The script is supposed to be flexible and implementable by managers, thus it takes a management budget level as an input, and returns the maximum expected population growth rate possible for that level of investment, with current levels of information. It then evaluates the population growth rate that could be achieved if uncertainty were to be resolved. Comparing these two levels of management performance is a way of subjectivly evaluating the benefits of resolving uncertainty. &#13;
+The code uses the concept of Expected Value of Perfect information to evaluate the benefits of resolving all uncertainty, and to evaluate the benefits of resolving structural uncertainty, where structural uncertainty is uncertainty about how forest cover affects koala birth and death rates (refered to as  EVPXI_model in code). The code also uses the concept of Expected Value of  Partial Information to evaluate the benefits of resolving particular  links between forest cover, and koala mortality related to disease, vehicle collisions or dog attacks. &#13;
+&#13;
+The code also converts a benefit, in terms of population growth rate, into a benefit in terms of dollars (millions). This makes it easier for the manager to know an upper limit of money to allocate to information gain, and similarly, if it would be more cost effective to just invest in direct management action without gaining additional information</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

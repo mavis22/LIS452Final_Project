@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5531371</identifier><datestamp>2015-04-27T19:45:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3GN80/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TC YASI RAW DATA PONE_D_14_40836</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Tropical Cyclones</subject>
+      <subject>Coral Reefs</subject>
+      <subject>Impact Assessment</subject>
+      <subject>Cyclone Damage</subject>
+      <subject>Reef Recovery</subject>
+      <subject>Resilience</subject>
+      <subject>Great Barrier Reef</subject>
+      <subject>Australia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3GN80</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>168854 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel spreadsheet containing three sheets: A) Reef Health and Impact Survey data from the TC Yasi impact assessment conducted in February / March 2011. The sheet includes the data used to produce figures 2 and 7. B) Size, intensity and persistence data from 44 tropical cyclones between 1985 and 2014 used to create figure 5. C) Reef Health and Impact Survey data collected in 2011 and 2013 recovery surveys used to produce figures 9a and 9b.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

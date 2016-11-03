@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6563188</identifier><datestamp>2015-11-05T12:58:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1RP0S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dale, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dey, Cody J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delhey, Kaspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kempenaers, Bart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valcu, Mihai</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Plumage coloration in passerine birds</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>birds</subject>
+      <subject>plumage</subject>
+      <subject>coloration</subject>
+      <subject>sexual selection</subject>
+      <subject>life history</subject>
+      <subject>social selection</subject>
+      <subject>tropical ecology</subject>
+      <subject>cooperative breeding</subject>
+      <subject>migration</subject>
+      <subject>Aves</subject>
+      <subject>Passeriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1RP0S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>696677 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plumage colour scores (N=5831 species) and  predictor variables (N = 2471 species) in passerine birds. This data set includes plumage scores for males and females as calculated from RGB (red, green, blue) values measured from plates in the Handbook of the Birds of the World (see text of article for details). Additionally we include the values of the 5 key predictor variables: 1) body size (first phylogenetic principle component (PPC1) of body mass and wing length), 2) tropical life history (PPC1 of latitude, seasonality and clutch size), 3) sexual selection (PPC1 of mating system, sexual size dimorphism and paternal care), 4) cooperative breeding (no = 0 and yes = 1) and 5) migration (none = 0, partial = 0.5 and complete = 1). All predictor variables were scaled to a mean = 0 and standard deviation = 1. These variables were used in the multiple predictor phylogenetic generalized least squares model, Markov Chain Monte Carlo generalized linear mixed models and phylogenetic controlled d separation path analysis (Table 1b, Figure 4 and Figure 5 of the article respectively). Scientific names, English names and TipLabels correspond to the phylogenetic trees provided by www.birdtree.org (Jetz, W., Thomas, G., Joy, J., Hartmann, K., &amp; Mooers, A. 2012. The global diversity of birds in space and time. Nature, 491(7424), 444-448).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

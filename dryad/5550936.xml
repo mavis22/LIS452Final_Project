@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5550936</identifier><datestamp>2015-03-24T18:28:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5DD67/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Schaik, Jaap</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dekeukeleire, Daan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kerth, Gerald</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>BasiliaNanaMicrosatelliteData</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host-parasite interaction</subject>
+      <subject>population genetics</subject>
+      <subject>Wurzburg</subject>
+      <subject>Germany</subject>
+      <subject>Holocene</subject>
+      <subject>Basilia nana</subject>
+      <subject>Nycteribiidae</subject>
+      <subject>Myotis bechsteinii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5DD67</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>34663 bytes</size>
+      <size>35976 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the microsatellite data for Basilia nana analyzed in the paper:&#13;
+van Schaik J, Dekeukeleire D, Kerth G (2015) Host and parasite life history interplay to yield divergent population genetic structures in two ectoparasites living on the same bat species. Molecular Ecology.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

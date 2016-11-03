@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4029084</identifier><datestamp>2014-12-11T20:05:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.758TV</identifier>
+  <creators>
+      <creator>
+         <creatorName>Segoli, Michal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffmann, Ary A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lloyd, Jane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Omodei, Gavin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritchie, Scott A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The effect of virus-blocking Wolbachia on male competitiveness of the dengue vector mosquito, Aedes aegypti</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>dengue fever</subject>
+      <subject>mosquitoes</subject>
+      <subject>endosymbiont</subject>
+      <subject>disease control</subject>
+      <subject>cytoplasmic incompatibility</subject>
+      <subject>Cairns</subject>
+      <subject>Queensland</subject>
+      <subject>Australia</subject>
+      <subject>Aedes aegypti</subject>
+      <subject>Wolbachia pipientis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Segoli M, Hoffmann AA, Lloyd J, Omodei GJ, Ritchie SA (2014) The effect of virus-blocking Wolbachia on male competitiveness of the dengue vector mosquito, Aedes aegypti. PLoS Neglected Tropical Diseases 8(12): e3294.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.758TV/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PNTD.0003294</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

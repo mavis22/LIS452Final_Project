@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4006754</identifier><datestamp>2014-11-18T18:24:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q4Q52/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Alexander, Brittany E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liebrand, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Osinga, Ronald</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van der Geest, Harm G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Admiraal, Wim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cleutjens, Jack P. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schutte, Bert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verheyen, Fons</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ribes, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Loon, Emiel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Goeij, Jasper M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Detritus production vs shedder type R script</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>cell turnover</subject>
+      <subject>sponges</subject>
+      <subject>tissue homeostasis</subject>
+      <subject>cell shedding</subject>
+      <subject>detritus</subject>
+      <subject>Curacao</subject>
+      <subject>Halisarca caerulea</subject>
+      <subject>Chondrilla caribensis</subject>
+      <subject>Scopalina ruetzleri</subject>
+      <subject>Haliclona vansoesti</subject>
+      <subject>Monanchora arbuscula</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q4Q52</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>815 bytes</size>
+      <size>2115 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R script for daily detritus production as percentage of body weight for various species and shedder types.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

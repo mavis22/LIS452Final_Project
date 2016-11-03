@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6802759</identifier><datestamp>2015-09-30T15:00:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N0432/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Silva, Catarina N. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gardner, Jonathan P. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotype data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>connectivity</subject>
+      <subject>genetic structure</subject>
+      <subject>microsatellite</subject>
+      <subject>recent evolutionary history</subject>
+      <subject>migration</subject>
+      <subject>bivalve</subject>
+      <subject>New Zealand</subject>
+      <subject>Pecten novaezelandiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N0432</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>87892 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotype data used in the manuscript "Emerging patterns of genetic variation in the New Zealand endemic scallop Pecten novaezelandiae". The file contains data for each sample with the locality and microsatellite genotypes for all individuals.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

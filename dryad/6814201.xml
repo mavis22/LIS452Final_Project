@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814201</identifier><datestamp>2015-10-19T14:23:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8H9B1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Campbell, Lindsay P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Finley, Andrew O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benbow, Mark Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gronseth, Jenni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Small, Pamela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Roch Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sopoh, Ghislain E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Merritt, Richard M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williamson, Heather</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Qi, Jiaguo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>BU_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Buruli ulcer</subject>
+      <subject>Bayesian spatial statistics</subject>
+      <subject>landscape ecology</subject>
+      <subject>Benin</subject>
+      <subject>West Africa</subject>
+      <subject>Mycobacterium ulcerans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8H9B1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10377680 bytes</size>
+      <size>327 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Geographic coordinates, numbers of cases, and community population used in this analysis. Land use land cover classification at 30 m resolution in .img format. Values corresponding to land cover classes available in the ReadMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

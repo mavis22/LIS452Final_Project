@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4582137</identifier><datestamp>2015-02-12T18:20:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7SS03/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tanger, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vega-S&#225;nchez, Miguel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fleming, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tran, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Seema</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abrahamson, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jahn, Courtney E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santoro, Nicholas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naredo, Elizabeth B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baraoidan, Marietta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Danku, John M. C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Salt, David E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McNally, Kenneth L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simmons, Blake A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ronald, Pamela C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leung, Hei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bush, Daniel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McKay, John K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leach, Jan E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>all data files and directory structure for processing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-02-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7SS03.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1291828 bytes</size>
+      <size>2027 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file contains all raw data in the "input" directory, and the fieldvsgh_final/README.md contains instructions on how to obtain and run R scripts to process the data.  Once the scripts are obtained, a README.md file provides further information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

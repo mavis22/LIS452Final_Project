@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3550183</identifier><datestamp>2014-08-06T16:29:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.351H3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Evans, Melissa L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pr&#230;bel, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peruzzi, Stefano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amundsen, Per-Arne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernatchez, Louis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phenotype-environment association of the oxygen transport system in trimorphic European whitefish (Coregonus lavaretus) populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>Physiology</subject>
+      <subject>Population Structure</subject>
+      <subject>Fennoscandia</subject>
+      <subject>Coregonus lavaretus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Evans M, Praebel K, Peruzzi S, Amundsen P, Bernatchez L (2014) Phenotype-environment association of the oxygen transport system in trimorphic European whitefish (Coregonus lavaretus) populations. Evolution 68(8): 2197-2210.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.351H3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.351H3/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12442</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

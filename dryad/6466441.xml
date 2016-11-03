@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466441</identifier><datestamp>2015-08-27T19:22:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PJ56M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Klinga, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikol&#225;&#353;, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhelev, Petar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#246;glund, Jacob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paule, Ladislav</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>urogallus microsatellite genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>boreal forests</subject>
+      <subject>phylogeography</subject>
+      <subject>refugia</subject>
+      <subject>genetic structure</subject>
+      <subject>Rhodope</subject>
+      <subject>Rila</subject>
+      <subject>Carpathians</subject>
+      <subject>Pyrenees</subject>
+      <subject>Cantabrians</subject>
+      <subject>Quaternary period</subject>
+      <subject>Tetrao urogallus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PJ56M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>24029 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-07-13T15:18:05Z (GMT). No. of bitstreams: 1
+urogallus.csv: 24029 bytes, checksum: c7e423f5a70227fc0a7757a32eec6f59 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

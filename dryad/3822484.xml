@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3822484</identifier><datestamp>2014-10-15T16:47:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P5614/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garc&#237;a-Cerro, Susana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mart&#237;nez, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vidal, Ver&#243;nica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Corrales, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fl&#243;rez, Jes&#250;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vidal, Rebeca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rueda, Noem&#237;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arbon&#233;s, Mar&#237;a L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mart&#237;nez-Cu&#233;, Carmen</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data PONE-D-14-18420</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Dyrk1a</subject>
+      <subject>Ts65Dn</subject>
+      <subject>neurogenesis</subject>
+      <subject>LTP</subject>
+      <subject>cognition</subject>
+      <subject>Mus musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P5614</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44598 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an excel file containing the data underlying the results described in each manuscript. This file contains 11 spreadsheets, containing the raw data of 1) Dyrk1A protein levels, 2) MWM performance, 3) CFC performance, 4) Rotarod Performance, 5) Open Field performance, 6) LTP results, 7) GAD65/67 and VGLUT levels and VGLUT/GAD65/67 ratio, 8) Ki67, DCX, CLR and DAPI values, 9) DG volume and SGZ ratio, 10) Body weight and 11) Motor tests data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

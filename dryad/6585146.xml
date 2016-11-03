@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6585146</identifier><datestamp>2015-08-31T12:21:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0H82M/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Derzelle, Sylviane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Girault, Guillaume</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kokotvic, Branko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angen, &#216;ystein</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>S1 Fig. Evolutionary analyses of 52 strains of B. anthracis based on 29906 chromosomal SNPs.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>whole-genome single nucleotide polymorphisms discovery</subject>
+      <subject>SNP phylogenetic tree</subject>
+      <subject>minimum spanning tree</subject>
+      <subject>Denmark</subject>
+      <subject>1935-1988</subject>
+      <subject>Bacillus anthracis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0H82M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>301463 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">S1 Fig. Evolutionary analyses of 52 strains of B. anthracis based on 29906 chromosomal SNPs. Phylogenetic relationships were inferred using the Maximum Likelihood method (A), the Maximum Parsimony method (B), the Neighbor-Joining method (C) and the UPGMA method (D). Bootstrap values (100 iterations) higher than 70% are shown next to the branches. All evolutionary analyses were conducted in MEGA6 [28]. The maximum likelihood tree with the highest log likelihood (0.000) is shown in A. Tree #1 out of 2 most parsimonious trees (length = 7469, consistency index = 0.815, retention index = 0.947) is shown in B. The optimal neighbour-joining tree with the sum of branch length = 0.251 is shown in C. The optimal UPGMA tree with the sum of branch length = 0.239 is shown in D. The later tree is drawn to scale, with branch lengths in the same units as those of the evolutionary distances used to infer the phylogenetic tree.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

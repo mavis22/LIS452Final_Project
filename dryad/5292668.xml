@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5292668</identifier><datestamp>2015-03-03T21:07:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PC1TH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rezansoff, Andrew M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsattilite genotypes for all individuals at all 16 loci</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Invasion genetics</subject>
+      <subject>Invasive species</subject>
+      <subject>Introduced species</subject>
+      <subject>Bayesian phylogenetics</subject>
+      <subject>Colonization history</subject>
+      <subject>Pleistocene glaciations</subject>
+      <subject>Refugial population</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PC1TH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16330 bytes</size>
+      <size>835 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the microsattilite data that was attained for this study. It is in genepop format. This file contains all loci that were genotyped including those that were removed from the analysis. The 16 numbers at the top of the file represent loci names.  Each entry under a "POP" header represents an individual of that population, where A = Alaska, B = Brannen Lake, E = East Coast, M = Mayliewan (our Alberta population), and N = Norway. Each of the 16 sets of 4 digits represent diploid genotypes at each of the 16 loci for that individual.  For example, 0414 would represent a heterozygous call  for allele 4 and allele 14 for that individual for whatever locus it is under. The first column of 4 digits represents locus 51 and the last represents locus 222 (the rest are ordered accordingly). 00s represent missing data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6867523</identifier><datestamp>2015-10-29T20:45:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1HN2B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Graham, Sean A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mendelssohn, Irving A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Coastal Wetland Belowground Biomass</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>belowground biomass</subject>
+      <subject>ecosystem function</subject>
+      <subject>fertilization</subject>
+      <subject>ingrowth method</subject>
+      <subject>nitrogen</subject>
+      <subject>nutrient enrichment</subject>
+      <subject>oligohaline marsh</subject>
+      <subject>phosphorus</subject>
+      <subject>plant-soil interactions</subject>
+      <subject>standing crop method</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1HN2B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3272 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were collected in the field in 2008 from a Sagittaria lancifolia L. dominated, oligohaline marsh located along the west bank of the Tchefuncte River, approximately 1 km north of Lake Pontchartrain, LA, USA (30&#176; 23.205&#8217;N, 90&#176; 09.551&#8217; W). Two methods were used to estimate belowground biomass: the ingrowth method and the standing crop method. Abbreviated headings are as follows: "Block" = statistical block; "N" = nitrogen enrichment treatment (kg/ha/yr); "P" = phosphorus enrichment treatment (kg/ha/yr); "LRoot IG" = live root biomass in ingrowth cores (g/m2); "LRhiz IG" = live rhizome biomass in ingrowth cores (g/m2); "Live IG" = live root+rhizome biomass in ingrowth cores (g/m2); "Dead IG" = dead root+rhizome biomass in ingrowth cores (g/m2); "Total IG" = total live+dead biomass in ingrowth cores (g/m2);  "LRoot SC" = live root biomass in standing crop cores (g/m2); "LRhiz SC" = live rhizome biomass in standing crop cores (g/m2); "Live SC" = live root+rhizome biomass in standing crop cores (g/m2); "Dead SC" = dead root+rhizome biomass in standing crop cores (g/m2); "Total SC" = total live+dead biomass in standing crop cores (g/m2).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

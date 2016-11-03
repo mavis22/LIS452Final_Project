@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4306814</identifier><datestamp>2015-06-18T19:16:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5CB17</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barreto, Felipe S</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schoville, Sean D</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burton, Ronald S</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Reverse genetics in the tidepool: knockdown of target gene expression via RNA interference in the copepod Tigriopus californicus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>RNA interference</subject>
+      <subject>heat-shock protein</subject>
+      <subject>copepod</subject>
+      <subject>gene suppression</subject>
+      <subject>Ct values</subject>
+      <subject>qPCR</subject>
+      <subject>gene expression</subject>
+      <subject>San Diego</subject>
+      <subject>California</subject>
+      <subject>Tigriopus californicus</subject>
+      <subject>copepoda</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Barreto FS, Schoville SD, Burton RS (2015) Reverse genetics in the tidepool: knockdown of target gene expression via RNA interference in the copepod Tigriopus californicus. Molecular Ecology Resources 15(4): 868-879.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5CB17/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5CB17/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12359</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

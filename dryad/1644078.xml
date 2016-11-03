@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1644078</identifier><datestamp>2014-05-30T02:09:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RP187</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rajpurohit, Subhash</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oliveira, Cassia C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etges, William J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gibbs, Allen G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Functional genomic and phenotypic responses to desiccation in natural populations of a desert drosophilid</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Insects</subject>
+      <subject>Transcriptomics</subject>
+      <subject>Sonoran Desert</subject>
+      <subject>Baja California</subject>
+      <subject>Sonora</subject>
+      <subject>Mexico</subject>
+      <subject>Arizona</subject>
+      <subject>Drosophila mojavensis</subject>
+      <subject>Stenocereus gummosus</subject>
+      <subject>Stenocereus thurberi</subject>
+      <subject>Ferocactus cylindraceus</subject>
+      <subject>Dipodascus starmeri</subject>
+      <subject>Candida sonorensis</subject>
+      <subject>Candida valida</subject>
+      <subject>Starmera amethionina</subject>
+      <subject>Pichia cactophila</subject>
+      <subject>Pichia mexicana</subject>
+      <subject>Sporopachydermia cereana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rajpurohit S, Oliveira CC, Etges WJ, Gibbs AG (2013) Functional genomic and phenotypic responses to desiccation in natural populations of a desert drosophilid. Molecular Ecology 22(10): 2698-2715.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RP187/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RP187/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RP187/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RP187/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12289</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

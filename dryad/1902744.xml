@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1902744</identifier><datestamp>2014-05-30T02:59:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.85066</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kamler, Jan F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gray, Melissa M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oh, Annie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macdonald, David W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic structure, spatial organization, and dispersal in two populations of bat-eared foxes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>density</subject>
+      <subject>group size</subject>
+      <subject>home range overlap</subject>
+      <subject>philopatry</subject>
+      <subject>near Kimberley</subject>
+      <subject>South Africa</subject>
+      <subject>Holocene</subject>
+      <subject>Otocyon megalotis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kamler JF, Gray MM, Oh A, Macdonald DW (2013) Genetic structure, spatial organization, and dispersal in two populations of bat-eared foxes. Ecology and Evolution 3(9): 2892&#8211;2902.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.85066/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.683</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

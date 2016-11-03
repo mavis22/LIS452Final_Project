@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3845695</identifier><datestamp>2014-12-10T18:19:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.93CP6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lambert, Guillaume</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kussell, Edo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PGENETICS-D-14-01205R1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>phenotypic memory</subject>
+      <subject>bacterial growth</subject>
+      <subject>metabolic switching</subject>
+      <subject>physiological adaptation</subject>
+      <subject>gene expression levels</subject>
+      <subject>chemoflux</subject>
+      <subject>microfluidics</subject>
+      <subject>mathematical modeling</subject>
+      <subject>microscopy</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.93CP6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1579 bytes</size>
+      <size>11332225 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Entered publication blackout by Christine Mayo(christine.mayo@unc.edu) on 2014-08-19T15:18:47Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,80 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3706322</identifier><datestamp>2014-10-30T16:52:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K9M20/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Trisos, Christopher H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wayqecha Peru Bird Community Census Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Community: structure</subject>
+      <subject>Competition</subject>
+      <subject>Ecology: community</subject>
+      <subject>Methods: computer simulations</subject>
+      <subject>Phylogeny</subject>
+      <subject>Neotropical bird</subject>
+      <subject>Habitat filtering</subject>
+      <subject>Andes</subject>
+      <subject>Peru</subject>
+      <subject>Holocene</subject>
+      <subject>Anairetes parulus</subject>
+      <subject>Asthenes helleri</subject>
+      <subject>Asthenes maculicauda</subject>
+      <subject>Asthenes urubambensis</subject>
+      <subject>Atlapetes melanolaemus</subject>
+      <subject>Basileuterus luteoviridis</subject>
+      <subject>Basileuterus signatus</subject>
+      <subject>Catamblyrhynchus diadema</subject>
+      <subject>Chamaeza mollissima</subject>
+      <subject>Cinnycerthia fulva</subject>
+      <subject>Cistothorus platensis</subject>
+      <subject>Colaptes rivolii</subject>
+      <subject>Conirostrum cinereum</subject>
+      <subject>Conirostrum sitticolor</subject>
+      <subject>Grallaria erythroleuca</subject>
+      <subject>Grallaricula ferrugineipectus</subject>
+      <subject>Hemispingus atropileus</subject>
+      <subject>Hemispingus xanthophthalmus</subject>
+      <subject>Hemitriccus granadensis</subject>
+      <subject>Knipolegus aterrimus</subject>
+      <subject>Margarornis squamiger</subject>
+      <subject>Mecocerculus leucophrys</subject>
+      <subject>Mecocerculus stictopterus</subject>
+      <subject>Myiarchus tuberculifer</subject>
+      <subject>Myioborus melanocephalus</subject>
+      <subject>Myiodynastes chrysocephalus</subject>
+      <subject>Myiotheretes fuscorufus</subject>
+      <subject>Myiotheretes striaticollis</subject>
+      <subject>Nephelomyias ochraceiventris</subject>
+      <subject>Ochthoeca pulchella</subject>
+      <subject>Ochthoeca rufipectoralis</subject>
+      <subject>Pseudocolaptes boissonneautii</subject>
+      <subject>Pyrrhomyias cinnamomeus</subject>
+      <subject>Scytalopus parvirostris</subject>
+      <subject>Synallaxis azarae</subject>
+      <subject>Thlypopsis ornata</subject>
+      <subject>Thlypopsis ruficeps</subject>
+      <subject>Troglodytes aedon</subject>
+      <subject>Troglodytes solstitialis</subject>
+      <subject>Veniliornis nigriceps</subject>
+      <subject>Xiphocolaptes promeropirhynchus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K9M20</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7491 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bird species presence/absence for 41 species at 72, 0.8 ha, survey points of radius 50 m, arranged 120 m apart on a 6 by 12 point grid across a grassland&#8211;forest ecotone (See publication Fig. 1 and Fig. A1). Species were recorded as present at a survey point if detected by either sight or song. Spatial grid references for survey points are also given. Y coordinates are grid rows and X coordinates grid columns. This enables the calculation of species presence/absence at larger spatial scales by grouping together neighboring survey points (e.g. grouping the data for two neighboring survey points creates a survey area of 1.6 ha). Data are in .csv format. Column headings: Site: 0.8 ha survey point names. X: X coordinate on survey grid. Y: Y coordinate on survey grid. Other columns are species names (genus and species separated by an underscore): 1= species presence, 0 = species absence.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

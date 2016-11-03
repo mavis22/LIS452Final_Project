@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4650029</identifier><datestamp>2015-03-20T18:27:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53KH1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wijesena, Hiruni R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmutz, Sheila M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SLC45A2 genotypes and phenotypes of albino and control drogs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Oculocutaneous Albinism</subject>
+      <subject>albino</subject>
+      <subject>Lhasa Apso</subject>
+      <subject>Pekingese</subject>
+      <subject>Pomeranian</subject>
+      <subject>Pug Subject area: Gene action</subject>
+      <subject>regulation and transmission</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.53KH1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53181 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Two missense mutations were observed in an albino dog: P250L in exon 3 and G493D in exon 7 of SLC45A2. The genotypes of all the tested albino and control dogs for these two mutations and their coat colours are included in the file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

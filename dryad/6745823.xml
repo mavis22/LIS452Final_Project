@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6745823</identifier><datestamp>2015-10-12T21:03:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.74MS0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fitzer, Susan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vittert, Liberty</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bowman, Adrian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamenos, Nicholas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phoenix, Vernon R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cusack, Maggie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mussel shell growth data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biomineralisation</subject>
+      <subject>ocean acidification</subject>
+      <subject>temperature</subject>
+      <subject>mussels</subject>
+      <subject>CO2</subject>
+      <subject>shell shape</subject>
+      <subject>shell thickness</subject>
+      <subject>Mytilus edulis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.74MS0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15163 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mussel shell growth data for figures 2, 3 and 4. The first worksheet entitled 'Mussel shell growth' lists all growth measurements for individual mussel shells used for mussel shell growth (mean &#177; SD) during 9 months of experimental culture (n=4 per treatment) used for figure 2. Shells were grown at 380, 550, 750 and 1000 &#956;atm CO2 at ambient temperature and 750 and 1000 &#956;atm CO2 ambient temperature + 2&#176;C. The second worksheet entitled 'Aragonite_Calcite thickness' list all shell aragonite and calcite thickness measurements for individual mussels to calculate mussel shell calcite and aragonite in new growth (mean &#177; SD) (n=4 per treatment) used for figure 3. Aragonite and calcite in mm and the ratio of aragonite/ calcite. Shells were grown at 380, 550, 750 and 1000 &#956;atm CO2 at ambient temperature and 750 and 1000 &#956;atm CO2 ambient temperature + 2&#176;C. The third worksheet entitled 'STI' lists all measurements taken to calculate Shell Thickness Index (STI) for mussel shells grown under experimental conditions for 9 months (n=4 per treatment) used for figure 4. Measurements for weight (g), height (mm), length (mm) and width (mm) of shell are provided for use of calculating STI. A higher shell thickness index indicates a thicker shell. Shells were grown at 380, 550, 750 and 1000 &#956;atm CO2 at ambient temperature and 750 and 1000 &#956;atm CO2 ambient temperature + 2&#176;C, treatments were labelled as CO2 &#956;atm and temperature in the spreadsheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

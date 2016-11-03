@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492668</identifier><datestamp>2015-04-16T19:51:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M6T1M</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grimm, Guido W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kapli, Pashalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bomfleur, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mcloughlin, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Renner, Susanne S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Using more than the oldest fossils: dating Osmundaceae with three Bayesian clock approaches</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bayesian inference</subject>
+      <subject>molecular clock calibration</subject>
+      <subject>fossilized birth-death process</subject>
+      <subject>divergence time estimation</subject>
+      <subject>royal ferns</subject>
+      <subject>extinction rate</subject>
+      <subject>World</subject>
+      <subject>Triassic</subject>
+      <subject>Jurassic</subject>
+      <subject>Cretaceous</subject>
+      <subject>Paleogene</subject>
+      <subject>Neogene</subject>
+      <subject>Quaternary</subject>
+      <subject>Osmundaceae</subject>
+      <subject>Osmunda</subject>
+      <subject>Todea</subject>
+      <subject>Leptopteris</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Grimm GW, Kapli P, Bomfleur B, Mcloughlin S, Renner SS (2015) Using more than the oldest fossils: dating Osmundaceae with three Bayesian clock approaches. Systematic Biology 64(3): 396-405.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M/7</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/SYSBIO/SYU108</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

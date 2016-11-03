@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634509</identifier><datestamp>2015-01-22T21:09:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N6SN0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Velando, Alberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barros, Alvaro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moran, Paloma</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Heterozygosity-Fitness correlation in European Shag</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Birds</subject>
+      <subject>Population Dynamics</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Parque Nacional Islas Atl&#225;nticas de Galicia</subject>
+      <subject>Phalacrocorax aristotelis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N6SN0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>23168 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file includes 3 spreadsheets:&#13;
+&#13;
+1) Micros spreadsheet; &#13;
+Number: numeric code for each bird; year: year of capture; colony: island of capture, Sex: sex of each bird; Phaari02 to Phaari16: alleles at seven microsatellite loci; HL: homozygosity weighted by locus by using CERNICALIN&#13;
+&#13;
+2) Survival spreadsheet;&#13;
+Number: numeric code for each bird; year: year of capture; colony: island of capture; HL: homozygosity weighted by locus by using CERNICALIN; Sex: sex of each bird; V2007toV2013: capture recapture data &#13;
+&#13;
+3) Reproduction spreadsheet;&#13;
+Number: numeric code for each bird; RS: Reproductive success; year: year of capture; colony: island of capture; Sex: sex of each bird; HL: homozygosity weighted by locus by using CERNICALIN</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

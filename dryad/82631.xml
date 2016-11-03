@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82631</identifier><datestamp>2014-05-29T18:47:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8743</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bierne, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loire, Etienne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonhomme, Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>David, Patrice</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The coupling hypothesis: why genome scans may fail to map local adaptation genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Evolutionary Theory</subject>
+      <subject>Hybridization</subject>
+      <subject>Natural Selection</subject>
+      <subject>Population Genetics</subject>
+      <subject>Mytilus</subject>
+      <subject>Bombina</subject>
+      <subject>Gryllus</subject>
+      <subject>Ostrinia</subject>
+      <subject>Littorina</subject>
+      <subject>Semibalanus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bierne N, Welch J, Loire E, Bonhomme F, David P (2011) The coupling hypothesis: why genome scans may fail to map local adaptation genes. Molecular Ecology 20(10): 2044&#8211;2072.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8743/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05080.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

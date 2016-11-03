@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6672118</identifier><datestamp>2015-09-22T19:07:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.33PS4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lengyel, Bal&#225;zs</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Varga, Attila</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#225;gv&#225;ri, Bence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jakobi, &#193;kos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kert&#233;sz, J&#225;nos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>iWiW_town_network</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>online social network</subject>
+      <subject>iWiW</subject>
+      <subject>towns</subject>
+      <subject>location</subject>
+      <subject>Hungary</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.33PS4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4885433 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data is stored in two csv files. &#13;
+1. iWiW_town_nodes.csv includes characteristics of 2558 towns. The file is structured into 7 coloumns as follows: &#13;
+&#8220;id&#8221; &#8211; key to match node characteristics into edgelist.&#13;
+&#8220;town&#8221; &#8211; name of towns.&#13;
+&#8220;user&#8221; &#8211; number of registered iWiW users in the town.&#13;
+&#8220;pop&#8221; &#8211; number of inhabitants in the town.&#13;
+&#8220;latitude&#8221; &#8211; geo-coordinates (latitude) of the town.&#13;
+&#8220;longitude&#8221; &#8211; geo-coordinates (longitude) of the town.&#13;
+&#8220;code&#8221; &#8211; unique identifier of the town in databases of the Hungarian Statistical Office. This key can be used to match the data with further town characteristics.&#13;
+&#13;
+2. iWiW_town_edges.csv includes &#13;
+&#8220;id1&#8221; &#8211; identifier of town i, which can be used as a key to match node characteristics into edgelist.&#13;
+&#8220;id2&#8221; &#8211; identifier of town j, which can be used as a key to match node characteristics into edgelist. &#13;
+&#8220;connect&#8221; &#8211; the number of friendship ties between towns i and j.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

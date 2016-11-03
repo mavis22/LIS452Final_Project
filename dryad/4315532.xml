@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4315532</identifier><datestamp>2014-12-16T18:31:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5D079/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequences RFP full length genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Climate Change</subject>
+      <subject>Cnidarians</subject>
+      <subject>Gene Structure and Function</subject>
+      <subject>Phenotypic Plasticity</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5D079</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>121344 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All raw sequences used to reconstruct the amilFP597 gene in A. millepora.Full-length sequences of indel (-) and indel (+) promoter variants of the amilFP597 gene were obtained for the MR morph. These sequences, extending from the promoter region to the 3&#8217;UTR, were produced by joining the&#13;
+sequences of two overlapping PCR products covering the 5&#8217; region [promoter to exon 3 amplified using primers&#13;
+pRFPlargeF (+) or pRFPsmallF (-) and RFP SP1] and the 3&#8217; region (intron 2 to 3&#8217;UTR amplified using primers&#13;
+RFP_I2-3&#8217;U_F and RFP_I2-3&#8217;U_R2). Sequence differences in the overlap between the 5&#8217; and 3&#8217; region&#13;
+fragments were used to assign the latter to either the indel (+) or indel (-) promoter variant genes. The&#13;
+promoter-exon 3 and intron 2-3&#8217;UTR fragments were cloned and sequenced on both strands using vector&#13;
+primers and by primer walking. The assembled sequences have been submitted to GenBank as accessions&#13;
+KC818413 [indel (-) gene] and KC818414 [indel (+) gene].</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6351727</identifier><datestamp>2015-06-25T17:15:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J2D35</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mihlbachler, Mathew C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campbell, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ayoub, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Charlotte</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ghani, Ishrat</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Comparative dental microwear of ruminant and perissodactyl molars: implications for paleodietary analysis of rare and extinct ungulate clades</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>microwear</subject>
+      <subject>dental wear</subject>
+      <subject>paleoecology</subject>
+      <subject>ungulates</subject>
+      <subject>Perissodactyla</subject>
+      <subject>Ruminantia</subject>
+      <subject>Rhinocerotidae</subject>
+      <subject>Tapiriidae</subject>
+      <subject>Equidae</subject>
+      <subject>Bovidae</subject>
+      <subject>Giraffidae</subject>
+      <subject>Cervidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J2D35/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J2D35/2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263553</identifier><datestamp>2015-01-30T15:37:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7B187/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Petrilli, Christopher Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mack, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petrilli, Jennifer Janowitz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hickner, Andy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saint, Sanjay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chopra, Vineet</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PHYSICIAN ATTIRE DATA ABSTRACTION FILE (EXCEL)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Health policy</subject>
+      <subject>Physician Attire</subject>
+      <subject>Quality Improvement</subject>
+      <subject>Patient Satisfaction</subject>
+      <subject>United States</subject>
+      <subject>Japan</subject>
+      <subject>Korea</subject>
+      <subject>Brazil</subject>
+      <subject>Canada</subject>
+      <subject>Italy</subject>
+      <subject>United Kingdom</subject>
+      <subject>Slovenia</subject>
+      <subject>Saudi Arabia</subject>
+      <subject>Netherlands</subject>
+      <subject>France</subject>
+      <subject>New Zealand</subject>
+      <subject>Ireland</subject>
+      <subject>Scotland</subject>
+      <subject>England</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7B187</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>131515 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The "Raw Excel Table 1" tab is where we input the abstracted data from each included study in our systematic review including Author name (for reference), Study Design, Region, Clinical Setting (Context), Patient Characteristics (Number, Age, Gender, Education Level, D&amp;B Score, Attire Compared, Whether a physician wearing a white coat was specified, Whether or not study followed a clinical encounter, Perceptions/Preferences Measured, Influence/Preference Expressed for each study and reviewer comments on each study. Each pivot table corresponds to figures that are associated with the study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

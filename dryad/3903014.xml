@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3903014</identifier><datestamp>2014-10-21T18:41:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QP499/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bellini, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cox, Martin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harper, Danielle J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stott, Sebastian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ashok, Praveen C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dholakia, Kishan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawaguchi, So</creatorName>
+      </creator>
+      <creator>
+         <creatorName>King, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Horton, Tammy J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Christian T. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Archive of data of OCT on Euphasia superba</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Antarctic krill</subject>
+      <subject>Optical Coherence</subject>
+      <subject>Tomography</subject>
+      <subject>imaging</subject>
+      <subject>Biophotonics</subject>
+      <subject>Euphausia superba</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QP499</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>620479490 bytes</size>
+      <size>1389 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This .zip file contains the OCT data used to obtain quantitative measurements and to produce 3D images.  The MATLAB cods used to rescale the data, produce movies and obtain automated estimates for physiological features are also provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

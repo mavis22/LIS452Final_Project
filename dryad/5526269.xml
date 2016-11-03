@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5526269</identifier><datestamp>2015-04-14T19:33:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4J169/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rodrigues, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vuille, Yvan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loman, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perrin, Nicolas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S2 - raw LG2-15 genotypes dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sex chromosomes</subject>
+      <subject>sex ratio</subject>
+      <subject>Gonadal development</subject>
+      <subject>XY recombination</subject>
+      <subject>epigenetic sex determination</subject>
+      <subject>Sweden</subject>
+      <subject>Rana temporaria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4J169</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>219136 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw genotypic data for the 62 adults and 594 offspring from the two Swedish populations of Ammarn&#228;s and Tved&#246;ra.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

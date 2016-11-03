@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5541989</identifier><datestamp>2015-05-01T19:24:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9MT2V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Murray, Maureen</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Murray et al Coyote 3-hour GPS locations March 14 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Spatial ecology</subject>
+      <subject>Urban adapters</subject>
+      <subject>Habitat selection</subject>
+      <subject>Movement</subject>
+      <subject>Edmonton</subject>
+      <subject>Alberta</subject>
+      <subject>Canis latrans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-04-15</date>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9MT2V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1005224 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-04-15</rights>
+  <descriptions>
+      <description descriptionType="Other">Spreadsheet containing GPS location data used in "Poor health is associated with use of anthropogenic resources in an urban carnivore". GPS fixes were collected from 19 coyotes every 3 hours. Description of column headings are found in the spreadsheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

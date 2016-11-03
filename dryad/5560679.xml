@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5560679</identifier><datestamp>2015-04-01T20:00:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T4T1Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liefting, Maartje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Grunsven, Roy H. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Michael B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timmermans, Martijn J. T. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ellers, Jacintha</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Springtails measured traits</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>temperature</subject>
+      <subject>ecotype-specific</subject>
+      <subject>reaction norm</subject>
+      <subject>life history theory</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>random regression mixed model</subject>
+      <subject>inflation of variance</subject>
+      <subject>Netherlands</subject>
+      <subject>Orchesella cincta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T4T1Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>77847 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Collected data on offspring from field collected spingtails, at two temperatures. Column headings: familie = family of sibs from same egg batch, location = origin of original population, either Kampina nature reserve (k) or Hilversumse heide nature reserve (h), ecotype = forest (f) or heath (h), temp = temperature at which eggs were placed (12 or 22 C), time = age at maturity in days, sex = sex of individual (m= male or f= female), mass = mass at maturity in ug, rate = growth rate ug/days, lnmass/lnrate/lntime = natural logarithm of the traits mass, rate and time as used in random regression model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

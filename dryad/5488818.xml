@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5488818</identifier><datestamp>2015-03-19T17:01:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8112F/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Peloso, Pedro L. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frost, Darrel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards, Stephen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodrigues, Miguel T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Donnellan, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matsui, Masafumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raxworthy, Cristopher J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biju, S. D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemmon, Emily M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wheeler, Ward C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supporting Information - Text S3</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Anchored Phylogenomics</subject>
+      <subject>Narrow-mouthed frogs</subject>
+      <subject>Systematics</subject>
+      <subject>Phylogeny</subject>
+      <subject>Maximum Likelihood</subject>
+      <subject>Parsimony</subject>
+      <subject>Data Exploration</subject>
+      <subject>Microhylidae</subject>
+      <subject>Amphibia</subject>
+      <subject>Anura</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8112F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5674084 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Implied alignment of the optimal tree inferred with POY (tree-alignment) and the TE142 dataset. This file is the same as the one available at Wiley Online Library and published together with the manuscript (Supporting Information Text S3). It is reproduced here as a backup for the original.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

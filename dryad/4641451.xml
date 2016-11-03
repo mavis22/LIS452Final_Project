@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4641451</identifier><datestamp>2015-03-23T18:39:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3D727/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Corthals, Angelique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Alynn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warsi, Omar M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Woller-Skar, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lancaster, Winston</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russell, Amy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davalos, Liliana M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DNA quantification by Nanodrop Spectrophotometer</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA preservation</subject>
+      <subject>Field protocols</subject>
+      <subject>Field preservation</subject>
+      <subject>Mammals</subject>
+      <subject>Wing punches</subject>
+      <subject>ETOH</subject>
+      <subject>Silica gel</subject>
+      <subject>DMSO</subject>
+      <subject>Affordable field preservation solutions</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3D727</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17857 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Analysis data of DNA yield from buccal swabs and wing punches harvested from live bats using nucleic acid quantification as well as DNA yields from wing tissue preserved in three media: ethanol, NaCl-saturated dimethyl sulfoxide (DMSO), and silica desiccant.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

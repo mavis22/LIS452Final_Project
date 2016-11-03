@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5677410</identifier><datestamp>2015-07-21T23:44:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.645H2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>O'Shea, Kaitlyn L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Nadia D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw data file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Sex ratio</subject>
+      <subject>tetracycline</subject>
+      <subject>Fitness</subject>
+      <subject>Drosophila</subject>
+      <subject>Wolbachia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.645H2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>219648 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel workbook has a separate worksheet for each experiment. There are data for the treated P0 files, and F1 sons and F2 grandsons of these treated files. "w-" denotes the flies that were cured of Wolbachia prior to the experiment, while "w+" describes those that were infected at the time of experimentation. The numbers of males and females produced in each replicate is presented.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,148 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492696</identifier><datestamp>2015-01-27T17:39:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HG549/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Forister, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Novotny, Vojtech</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Panorska, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baje, Leontine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Basset, Yves</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butterill, Philip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cizek, Lukas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coley, Phyllis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dem, Francesca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Diniz, Ivone</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drozd, Pavel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fox, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Glassmire, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hazen, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hrcek, Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jahner, Joshua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaman, Ondrej</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kozubowski, Tomasz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kursar, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lewis, Owen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lill, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marquis, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morais, Helena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murakami, Masashi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nickel, Herbert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pardikes, Nick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ricklefs, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singer, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smilanich, Angela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stireman, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Villamar&#237;n-Cortez, Santiago</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vodka, Stepan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Volf, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wagner, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walla, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weiblen, George</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dyer, Lee</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dietBreadthArchived</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>host range</subject>
+      <subject>latitudinal gradient</subject>
+      <subject>niche width</subject>
+      <subject>Pareto distribution</subject>
+      <subject>specialization</subject>
+      <subject>Global</subject>
+      <subject>Current</subject>
+      <subject>Lepidoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HG549</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66048 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Diet breadth data: each row indicates the number of herbivores ("Count") with a given diet breadth at a given site.  Further details (such as species or family-level diet breadth) under the "Data" column.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

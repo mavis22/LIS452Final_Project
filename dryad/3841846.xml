@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3841846</identifier><datestamp>2015-02-19T22:35:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5TQ80/28</identifier>
+  <creators>
+      <creator>
+         <creatorName>Plooij, Frans X.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van de Rijt-Plooij, Hetty</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fischer, Martha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pusey, Anne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All Infants_3July2014final.xlsx</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>chimpanzee</subject>
+      <subject>vocalizations</subject>
+      <subject>development</subject>
+      <subject>sound recordings</subject>
+      <subject>infants</subject>
+      <subject>Gombe National Park</subject>
+      <subject>Tanzania</subject>
+      <subject>East Africa</subject>
+      <subject>present</subject>
+      <subject>Pan troglodytes schweinfurthii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5TQ80.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4664 bytes</size>
+      <size>544534 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">The first column of the spreadsheet contains the Macaulay catalog number and that is the link to the Macaulay database. The spreadsheet is basically the same as the Macaulay database except that the columns are organized in a slightly different way. From left to right the following columns can be found: &#8216;Macaulay catalog number&#8217;, &#8216;Recording Device&#8217;, &#8216;Focal individual&#8217;, &#8216;Focal Birthdate&#8217;, &#8216;Recordist record number&#8217;, the &#8216;Level of Recording&#8217; as selected on the Nagra sound recorder, the &#8216;Quality outstanding&#8217;  column where an x indicates a recording that is outstanding for various reasons (such as a very clear, good-quality recording, a recording where the vocalization is without other, simultaneous vocalizations, a recording that is a good example of the development of infant vocalizations, a recording showing nice mother-infant interaction, a recording that illustrates how the infant &#8216;follows&#8217; the vocalizations of the mother), the &#8216;Month&#8217;, &#8216;Day&#8217; and &#8216;Year&#8217; of the recording, the &#8216;Other individuals Vocalizing&#8217; in the recording of the Focal Individual, the &#8216;Date&#8217; of the recording, the &#8216;Focal age&#8217; (the age in years of the focal individual at the date of recording), the &#8216;Individual(s) with sound/call type&#8217;, the &#8216;Observation of context&#8217; and behaviors surrounding the vocalizations, the &#8216;Macaulay Library Public Notes&#8217; field, the &#8216;Microphone&#8217;, the &#8216;Recorder&#8217;, and the &#8216;Tape Speed&#8217;. As is described in the Usage Notes section, the grammar of the column containing  individual(s) with sound/call type is such that the sequence of vocalizing is preserved. This gives information on who initiated calling, if several individuals called. This is important because it shows that vocalizations of others often triggered infants to vocalize. In the column &#8220;Observation of the context and behaviors surrounding the vocalizations&#8221; the presence of nearby individuals was also noted, even if they did not vocalize. "All Infants_3July2014final.xlsx" is available in version 1 of this data package.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7244317</identifier><datestamp>2015-12-07T17:57:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC826/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dennis, Alice B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunning, Luke T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinclair, Brent J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buckley, Thomas R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>11_Transcriptome_Assemblies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KC826</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>123928529 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Transcriptome assemblies, each constructed from 6 individuals: 3 control and 3 cold shocked (1 h + 1 h recovery).&#13;
+&#13;
+Acanthoxyla sp (6Acanth_Trinity_cdhit.fasta)&#13;
+Argosarchus horridus (6Argo_Trinity_cdhit.fasta)&#13;
+Asteliaphasma jucundum (6Ast_Trinity_cdhit.fasta)&#13;
+Clitarchus hookeri (6Cli_Trinity_cdhit.fasta)&#13;
+Micrarchus hystriculeus (6Paeng_cdhit.fasta)&#13;
+Micrarchus nov. sp. 2. Sewell Peak (6Sewell_cdhit.fasta)&#13;
+Spinotectarchus acornutus (6spino_Trinity_cdhit.fasta)&#13;
+Tectarchus ovobesus (6Tovo_Trinity_cdhit.fasta)&#13;
+Tectarchus salebrossus (6Tsal_Trinity_cdhit.fasta)&#13;
+Micrarchus nov. sp. 2. Mt. Arthur (12Arthur_cdhit.fasta)*&#13;
+Niveahpasma annulata (21Niv_Trinity_cdhit.fasta)**&#13;
+&#13;
+* Micrarchus nov. sp. 2. Mt. Arthur assembly constructed from 6 control and 6 cold shocked individuals&#13;
+** Niveahpasma annulata assembly constructed from 6 individuals (3 treatment, 3 control) from two locales (Dunedin and Remarkables), plus 9 additional individuals from an unpublished dataset (Nevis)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

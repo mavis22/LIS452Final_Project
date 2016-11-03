@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3650439</identifier><datestamp>2015-07-24T16:47:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F6C34/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marcussen, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sandve, Simen R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heier, Lise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spannagl, Manuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfeifer, Matthias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>The International Wheat Genome Sequencing Consortium</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jakobsen, Kjetill S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wulff, Brande B. H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steuernagel, Burkhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mayer, Klaus F. X.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsen, Odd-Arne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Marcussen_et_al_alignments_gene_trees_and_coalescent_model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Multiple sequence alignments for 275 ortholog groups of diploid and hexaploid wheats</subject>
+      <subject>Multiple sequence alignments for 2269 ortholog groups of hexaploid wheats</subject>
+      <subject>275 gene trees including diploid and hexaploid wheat genomes</subject>
+      <subject>2269 gene trees from hexaploid wheat genomes</subject>
+      <subject>WINBUGS model for multi species coalescent</subject>
+      <subject>0-7 million years</subject>
+      <subject>Triticum spp.</subject>
+      <subject>Aegilops spp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F6C34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5579279 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This .zip file contains multiple sequence alignments in fasta format, gene trees in newick format, and a WINBUGS model for coalescent estimates of genome divergence times</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

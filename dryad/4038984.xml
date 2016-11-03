@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4038984</identifier><datestamp>2014-11-26T17:45:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.66V6Q/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Padua, Michael V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zeh, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonilla, Melvin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zeh, Jeanne A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mitochondrial ND2 gene alignment from: Sisters&#8217; curse: sexually antagonistic effects constrain the spread of a mitochondrial haplogroup superior in sperm competition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>mitochondrial haplotype</subject>
+      <subject>sexually antagonistic selection</subject>
+      <subject>sperm competition</subject>
+      <subject>maternal inheritance</subject>
+      <subject>polyandry</subject>
+      <subject>Central America</subject>
+      <subject>Cordylochernes scorpioides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.66V6Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18714 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Nexus file contains a MAFT alignment of 15 Cordylochernes scorpioides mitochondrial ND2 gene sequences.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

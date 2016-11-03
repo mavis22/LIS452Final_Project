@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6912688</identifier><datestamp>2015-11-20T21:31:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0NR72/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Franklin, Ashley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marker, Laurie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Captive/Wild cheetah pedigree file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>acute phase response</subject>
+      <subject>amyloidosis</subject>
+      <subject>cheetah</subject>
+      <subject>serum amyloid A</subject>
+      <subject>genetic typing of insertion/deletion</subject>
+      <subject>Molecular adaptation and selection</subject>
+      <subject>Conservation genetics and biodiversity</subject>
+      <subject>Acinonyx jubatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0NR72</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9922 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Pedigree file required for MENDEL software with full pedigree information available for captive/wild cheetahs measured in this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

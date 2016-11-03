@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4540642</identifier><datestamp>2015-01-05T15:19:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PC8M3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gallotti, Riccardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barthelemy, Marc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>The Multilayer Temporal Network of Public Transport in Great Britain</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Multilayer Network</subject>
+      <subject>Multiplex Network</subject>
+      <subject>Temporal Network</subject>
+      <subject>Spatial Network</subject>
+      <subject>Multimodal Mobility</subject>
+      <subject>Public Transport</subject>
+      <subject>Transportation</subject>
+      <subject>Transit</subject>
+      <subject>Timetables</subject>
+      <subject>Great Britain</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PC8M3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6929 bytes</size>
+      <size>320185886 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The dataset describes the Public Transport Network of Great Britain by use of a Multilayer node-list and edge-list, where each layer is associated to a mode of transport. Each node is geo-referenced, thus defining a spatial network, and associated to a wide list of administrative meta-data. &#13;
+ For each edge, the minimal travel-time in minutes is indicated. For the case of inter-layer edges, this is defined as the walking time needed for the inter-modal connection. For each intra-layer edge, we also specify a list of temporal events representing the vehicles' rides along the edges, with origin time and travel duration expressed in minutes with a precision of one minute. &#13;
+ In Multilayer networks, each node may have several &#8216;copies&#8217; in different layers. For that reason, nodes are identified by two numbers, one specifying the node itself, and another the layer where it belongs. As a consequence, the edges are identified by four numbers, two for the origin and two for the destination (node and layer). The ordering of the fields in edge-list has been chosen to conform to the tensorial notation widely used for this kind of networks.&#13;
+ There is no established standard format for the temporal event list. Therefore, we decided to use a format, derived from the idea of adjacency lists, which has been specifically adapted to this dataset.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

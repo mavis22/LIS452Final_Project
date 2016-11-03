@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2419749</identifier><datestamp>2015-07-26T06:30:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.29NK3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vergara, Daniela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jokela, Jukka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lively, Curtis M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Infection dynamics in coexisting sexual and asexual populations: support the Red Queen hypothesis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Red Queen hypothesis</subject>
+      <subject>asexual reproduction</subject>
+      <subject>sexual reproduction</subject>
+      <subject>host-parasite coevolution</subject>
+      <subject>infection dynamics</subject>
+      <subject>New Zealand</subject>
+      <subject>Potamopyrgus antipodarum</subject>
+      <subject>Microphallus sp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-12-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.29NK3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>81276 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Long-term field data from Vergara et al: Infection dynamics in coexisting sexual and asexual populations: support the Red Queen hypothesis.  Column headings: "year" gives year of sample; "site" gives the location of the study site at Lake Alexandrina, New Zealand; "gender" gives male or female; "Microphallus" gives infection status: 1 = infected with Microphallus, 2 = not infected with Microphallus; "ploidy" gives reproductive strategy: sexual = diploid; asexual = triploid.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

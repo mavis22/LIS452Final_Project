@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4642920</identifier><datestamp>2015-02-17T19:42:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SN034/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sovic, Michael G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fries, Anthony C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gibbs, H. Lisle</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Compare_PyRAD_vs_AftrRAD</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>Genomics/Proteomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SN034</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12940 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Perl script to compare AftrRAD loci to PyRAD loci.  Note that the Compare_Stacks_vs_AftrRAD.pl script must be run prior to running Compare_PyRAD_vs_AftrRAD.pl.  Also note that both of these scripts are starting points for analysis, and that any loci identified as not shared among programs should be double-checked manually.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

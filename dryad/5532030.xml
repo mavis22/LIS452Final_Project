@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5532030</identifier><datestamp>2015-03-20T16:15:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.221MV/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fincke, Ola M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Male distractor Experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>crypsis</subject>
+      <subject>damselfly</subject>
+      <subject>signal detection</subject>
+      <subject>mimicry</subject>
+      <subject>sexual recognition</subject>
+      <subject>sexual conflict</subject>
+      <subject>Michigan</subject>
+      <subject>USA</subject>
+      <subject>Enallagma hageni</subject>
+      <subject>Enallagma boreale</subject>
+      <subject>Odonata</subject>
+      <subject>Enallagma</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-18</date>
+      <date dateType="Accepted">2015-03-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.221MV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>64512 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-18</rights>
+  <descriptions>
+      <description descriptionType="Other">Data are results of male distractor experiment. Controls were 3 individuals of the same color type (males, blue female andromorphs, or green female heteromorphs) glued to a dowel. Experimentals were two males plus a female (i.e. either green or blue) glued to a dowel in one of 3 positions. Analysis was identical to Fern Crypsis and High Contrast experiments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

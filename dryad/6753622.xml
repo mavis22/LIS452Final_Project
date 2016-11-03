@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753622</identifier><datestamp>2015-09-17T15:07:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TR87V/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bousquet, Jean</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pavy, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gagnon, France</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Desch&#234;nes, Astrid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyle, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beaulieu, Jean</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP_dataset_Varscan_software_part_01</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Environmental DNA</subject>
+      <subject>Gymnosperms</subject>
+      <subject>Species Interactions</subject>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TR87V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11035940 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SNP dataset from Varscan software, part 1: contig number, SNP position, reference and variant alleles and number of reads, variant frequency (VarFreq), Varscan P value, contig length, annotation with Picea glauca paired transcript and percent of homology.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

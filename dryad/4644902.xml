@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4644902</identifier><datestamp>2015-06-25T18:22:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P6678</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gorsich, Erin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ezenwa, Vanessa O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cross, Paul C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bengis, Roy G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jolles, Anna E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Context-dependent survival, fecundity, and predicted population-level consequences of brucellosis in African buffalo</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>African buffalo</subject>
+      <subject>bacteria</subject>
+      <subject>chronic disease</subject>
+      <subject>conservation biology</subject>
+      <subject>disease ecology</subject>
+      <subject>population growth</subject>
+      <subject>Kruger National Park</subject>
+      <subject>South Africa</subject>
+      <subject>Syncerus caffer</subject>
+      <subject>Brucella abortus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Gorsich EE, Ezenwa VO, Cross PC, Bengis RG, Jolles AE (2015) Context-dependent survival, fecundity, and predicted population-level consequences of brucellosis in African buffalo. Journal of Animal Ecology 84(4): 999-1009.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P6678/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P6678/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12356</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

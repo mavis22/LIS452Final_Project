@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6703766</identifier><datestamp>2015-10-24T06:31:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PD670.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ward, Derek J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slade, Angharad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Genus, Tracey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martino, Orsolina I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stevens, Andrew J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: How innovative are new drugs launched in the UK? A retrospective study of new drugs listed in the British National Formulary (BNF) 2001-2012</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Pharmaceuticals</subject>
+      <subject>Innovation</subject>
+      <subject>New drug launches</subject>
+      <subject>time trends</subject>
+      <subject>United Kingdom</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ward DJ, Slade A, Genus T, Martino OI, Stevens AJ (2014) How innovative are new drugs launched in the UK? A retrospective study of new drugs listed in the British National Formulary (BNF) 2001-2012. BMJ Open 4(10): e006235.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PD670.2/1.2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1136/BMJOPEN-2014-006235</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

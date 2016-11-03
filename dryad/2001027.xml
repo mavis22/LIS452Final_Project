@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2001027</identifier><datestamp>2014-05-30T06:51:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53T4C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rockmill, Beth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lefrancois, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Voelkel-Meiman, Karen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oke, Ashwini</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roeder, G. Shirleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fung, Jennifer C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: High throughput sequencing reveals alterations in the recombination signatures with diminishing spo11 activity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>meiosis</subject>
+      <subject>Double strand break</subject>
+      <subject>high throughput sequencing</subject>
+      <subject>crossover control</subject>
+      <subject>Recombination</subject>
+      <subject>quantitative modeling</subject>
+      <subject>SPO11</subject>
+      <subject>Ndt80</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rockmill B, Lefrancois P, Voelkel-Meiman K, Oke A, Roeder GS, Fung JC (2013) High throughput sequencing reveals alterations in the recombination signatures with diminishing spo11 activity. PLoS Genetics 9(10): e1003932.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.53T4C/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PGEN.1003932</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

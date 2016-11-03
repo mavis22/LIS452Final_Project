@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7028256</identifier><datestamp>2015-12-01T17:40:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SP72P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Morrison, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holdo, Ricardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, T. Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ELE_DAM_09-14_DRYAD</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>demography</subject>
+      <subject>disturbance</subject>
+      <subject>herbivory</subject>
+      <subject>nutrient gradient</subject>
+      <subject>savannah</subject>
+      <subject>vegetation dynamics</subject>
+      <subject>Serengeti National Park</subject>
+      <subject>Tanzania</subject>
+      <subject>2009-2014</subject>
+      <subject>Acacia robusta</subject>
+      <subject>Acacia senegal</subject>
+      <subject>Acacia tortillis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SP72P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>78078 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Overstorey tree survival (&gt;1.5m tall), fire (0/1) and elephant damage (0-10) over time.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

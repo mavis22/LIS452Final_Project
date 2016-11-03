@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4238922</identifier><datestamp>2015-01-15T18:37:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HB558/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kirk, Emily H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bogan, Michael T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mims, Meryl C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olden, Julian D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lytle, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stats in R_MLPE_VanStrien_ABHE</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>aquatic insects</subject>
+      <subject>isolation by distance</subject>
+      <subject>microsatellites</subject>
+      <subject>landscape genetics</subject>
+      <subject>gene flow</subject>
+      <subject>freshwater</subject>
+      <subject>desert</subject>
+      <subject>United States</subject>
+      <subject>Arizona</subject>
+      <subject>Mesocapnia arizonensis</subject>
+      <subject>Abedus herberti</subject>
+      <subject>Boreonectes aequinoctialis</subject>
+      <subject>Stictotarsus aequinoctialis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HB558</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8594 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R scripts for running MLPE on Abedus herberti msat data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

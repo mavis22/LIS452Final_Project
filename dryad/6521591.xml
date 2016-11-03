@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6521591</identifier><datestamp>2015-09-04T15:40:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HM926/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Konijnendijk, Nellie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shikano, Takahito</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daneels, Dorien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Volckaert, Filip A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raeymaekers, Joost A. M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Multilocus genotypes of three-spined stickleback, Belgian-Dutch lowlands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>adaptation</subject>
+      <subject>candidate gene</subject>
+      <subject>evolution</subject>
+      <subject>fish</subject>
+      <subject>genome scan</subject>
+      <subject>population genomics</subject>
+      <subject>selection</subject>
+      <subject>Belgium</subject>
+      <subject>North Sea</subject>
+      <subject>the Netherlands</subject>
+      <subject>Holocene</subject>
+      <subject>Gasterosteus aculetus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HM926</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63823 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypes for 87 loci in four populations (L01, L02, L12, U01) of three-spined stickleback. The first and second column identify the population and the fish ID, respectively. Subsequent columns contain diploid genotype data (3+3 digits). Missing values are entered as 000000.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5019088</identifier><datestamp>2015-02-16T15:34:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N914N/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sellas, Anna B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bassos-Hull, Kimbrough</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;rez-Jim&#233;nez, Juan Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angulo-Vald&#233;s, Jorge Alberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernal, Mois&#233;s A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hueter, Robert E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>A. narinari microsatellite genotype data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mtDNA</subject>
+      <subject>microsatellites</subject>
+      <subject>conservation genetics</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>Carribean Sea</subject>
+      <subject>Cenozoic</subject>
+      <subject>Aetobatus narinari</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N914N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26885 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nuclear genotype data from 10 microsatellite loci collected from A. narinari in the Gulf of Mexico and northern Carribean Sea.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

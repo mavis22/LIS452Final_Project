@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3718587</identifier><datestamp>2014-10-03T18:18:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S1P14</identifier>
+  <creators>
+      <creator>
+         <creatorName>de Polo, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Margiotta-Casaluci, Luigi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lockyer, Anne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scrimshaw, Mark D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A new role for carbonic anhydrase 2 in the response of fish to copper and osmotic stress: implications for multi-stressors studies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>copper</subject>
+      <subject>salinity</subject>
+      <subject>carbonic anhydrase (CA2)</subject>
+      <subject>multiple stressors</subject>
+      <subject>Cyprinodon variegatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">de Polo A, Margiotta-Casaluci L, Lockyer AE, Scrimshaw MD (2014) A new role for carbonic anhydrase 2 in the response of fish to copper and osmotic stress: implications for multi-stressors studies. PLoS ONE 9(10): e107707.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S1P14/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0107707</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

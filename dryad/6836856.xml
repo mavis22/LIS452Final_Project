@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6836856</identifier><datestamp>2015-10-08T12:39:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0G6HQ/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hecht, Benjamin Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matala, Andrew P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hess, Jon E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Narum, Shawn R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hardy Weinberg equilibrium</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Fish</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>western coast of North America</subject>
+      <subject>Oncorhynchus tshawytscha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0G6HQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>47181039 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Hardy Weinberg equilibrium: Locus summary by population including estimates of the genotyping success rate (GSR), the P-value from a chi-square test of the deviation from Hardy-Weinberg Equilibrium (HWE, * reported is the raw uncorrected p-value, the Bonferroni threshold p-value for 19,703 comparisons at &#945;=0.05 level is 0.05/19703 = 0.00000254), the observed heterozygosity (Ho), the expected heterozygosity based on HWE (He), and the minor allele (Q) frequency (MAF).  Populations are numbered according to Table 1, and the colored font corresponds to the lineage of the population (blue, North Coastal Lineage; red, South Coastal Lineage; green, Interior Columbia River Stream-Type Lineage).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

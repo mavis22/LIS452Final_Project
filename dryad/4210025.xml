@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4210025</identifier><datestamp>2015-02-24T00:02:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KT2G7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kleyheeg, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Leeuwen, Casper H. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morison, Mary A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nolet, Bart A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soons, Merel B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Results flume tank experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>connectivity</subject>
+      <subject>dispersal kernels</subject>
+      <subject>waterbird-mediated dispersal</subject>
+      <subject>seed size</subject>
+      <subject>wetland ecology</subject>
+      <subject>Anas platyrhynchos</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KT2G7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>252099 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Seed retrieval data of feeding trials with eight individual mallards in the five experimental treatments. This file reports individual mallard, date of feeding trial, experimental treatment (0=resting, 1=floating, 2-4=swimming at increasing speed), swimming speed (m/s), retention time (hours after feeding), seed species name, number of seeds retrieved per hour and seed size (length in mm).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

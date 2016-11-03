@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3523398</identifier><datestamp>2015-05-20T06:30:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P534S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Velando, Alberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beamonte-Barrientos, Rene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torres, Roxana</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dryad_jeb</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Birds</subject>
+      <subject>Life history evolution</subject>
+      <subject>Sexual selection &amp; conflicts</subject>
+      <subject>Mexico</subject>
+      <subject>Sula nebouxii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P534S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13514 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Response of male bluefooted boobies to immune challenge num: bird number&#13;
+TRAT: experimental treatment (C: control, E: Experimental)&#13;
+Date_initial: date of initial capture&#13;
+Date_first_recapture: date of first recapture&#13;
+Date_second_recapture: date of second recapture&#13;
+initial_body_mass: body mass at initial capture&#13;
+1recap_bodymass: body mass at the first recapture&#13;
+2recap_bodymass: body mass at the second recapture&#13;
+initial_gchroma: green chroma at initial capture&#13;
+1recap_gchroma: green chroma at first recapture&#13;
+2recap_gchroma: green chroma at second recapture&#13;
+prob_laying : probability to estabish a clutch&#13;
+laying_date: julian laying date&#13;
+clutchvolume: clutch volume in cm3</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

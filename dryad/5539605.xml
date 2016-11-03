@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539605</identifier><datestamp>2015-03-18T17:24:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7N1Q4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Burridge, Alice K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goetze, Erica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raes, Niels</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huisman, Jef</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peijnenburg, Katja T. C. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Global biogeography and evolution of Cuvierina pteropods</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>zooplankton</subject>
+      <subject>integrative taxonomy</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>molecular clock</subject>
+      <subject>ecological niche modelling</subject>
+      <subject>Atlantic Ocean</subject>
+      <subject>Pacific Ocean</subject>
+      <subject>Indian Ocean</subject>
+      <subject>Holocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Miocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Eocene</subject>
+      <subject>Cuvierina</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Burridge AK, Goetze E, Raes N, Huisman J, Peijnenburg KTCA (2015) Global biogeography and evolution of Cuvierina pteropods. BMC Evolutionary Biology, 15(39).</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7N1Q4/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7N1Q4/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7N1Q4/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12862-015-0310-8</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

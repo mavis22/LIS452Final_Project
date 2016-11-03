@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6278367</identifier><datestamp>2015-06-16T18:47:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3JF15/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bailey, Richard I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tesaker, Maria R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trier, Cassandra N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#230;tre, Glenn-Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>AlpsSparrowdata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Birds</subject>
+      <subject>Speciation</subject>
+      <subject>Hybrid zone</subject>
+      <subject>European Alps and surrounding area</subject>
+      <subject>Passer italiae</subject>
+      <subject>Passer domesticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-06-01</date>
+      <date dateType="Accepted">2015-06-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3JF15</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>104845 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-06-01</rights>
+  <descriptions>
+      <description descriptionType="Other">All individual-level SNP and plumage data used in cline-fitting. This includes: genotypes of 75 SNPs; plumage trait values (discriminant axis scores for multivariate traits) for crown colour, cheek colour and eyebrow colour; a molecular hybrid index based on 75 SNPs; a molecular hybrid index based on 4 SNPs. See publication for more details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

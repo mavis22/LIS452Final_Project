@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687206</identifier><datestamp>2015-09-10T19:41:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7VH21/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marion, Zachary H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fordyce, James A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fitzpatrick, Benjamin M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Final American Toad Bufadienolide Concentrations after 5 months of paratoid expression</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Ecology: chemical</subject>
+      <subject>Ecology: community</subject>
+      <subject>Ecology: statistical</subject>
+      <subject>Interactions: plant/herbivore</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Statistics: multivariate</subject>
+      <subject>Anurans (frogs and toads)</subject>
+      <subject>Southeastern United States</subject>
+      <subject>Michigan</subject>
+      <subject>United States</subject>
+      <subject>Bufo americanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7VH21</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5705 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Parotoid secretions were collected on pre-weighed filter paper after manual expression by compressing each gland between two fingers. Following an initial sampling, toads were randomly assigned to one of three expression-frequency treatments (N = 42)&#8212;frequent expression (5x), medium expression (1x), or low expression (0x)&#8212;and sampled over five months. At the experiment&#8217;s conclusion, toad glands were expressed one final time for comparison, followed by high-performance liquid chromatography (HPLC) of the secretions. Here we compare the baseline chemotypes to the final chemotypes among treatments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

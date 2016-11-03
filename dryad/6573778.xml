@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6573778</identifier><datestamp>2015-09-17T21:25:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DP2F7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Molina, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chung, Kyong-Sook</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hipp, Andrew L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>"all.ITS.2014.08.21"</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>infrageneric classification</subject>
+      <subject>morphology</subject>
+      <subject>nuclear ribosomal DNA</subject>
+      <subject>phylogeny</subject>
+      <subject>North America</subject>
+      <subject>Eurasia</subject>
+      <subject>Oceania</subject>
+      <subject>Middle Miocene (12 to 15 mya) to now</subject>
+      <subject>Cyperaceae</subject>
+      <subject>Carex</subject>
+      <subject>subgenus Vignea</subject>
+      <subject>section Heleoglochin</subject>
+      <subject>Carex diandra</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DP2F7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>69412 bytes</size>
+      <size>1886 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequences used to conduct the ITS analysis</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

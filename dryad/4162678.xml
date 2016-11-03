@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4162678</identifier><datestamp>2014-12-09T16:34:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4129D/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Raghuram, Hanumanthan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deb, Rittik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nandi, Diptarup</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balakrishnan, Rohini</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Flight_initiation_attempts_playback_expt</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bushcrickets</subject>
+      <subject>eavesdropping</subject>
+      <subject>sex-biased predation</subject>
+      <subject>paleotropics</subject>
+      <subject>lesser false vampire</subject>
+      <subject>Karnataka</subject>
+      <subject>India</subject>
+      <subject>Megaderma spasma</subject>
+      <subject>Onomarchus uninotatus</subject>
+      <subject>Mecopoda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4129D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13906 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the raw data on the number of successful and unsuccessful attempts to initiate katydid flight in the behavioural experiment with Megaderma spasma</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

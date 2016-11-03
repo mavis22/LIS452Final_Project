@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5615359</identifier><datestamp>2015-04-24T21:11:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FB48N/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Symes, Laurel B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplemental amplitude data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biomechanics</subject>
+      <subject>Performance constraints</subject>
+      <subject>Sexual selection</subject>
+      <subject>Signal divergence</subject>
+      <subject>Speciation</subject>
+      <subject>Trade-Offs</subject>
+      <subject>Oecanthus argentinus</subject>
+      <subject>Oecanthus celerinictus</subject>
+      <subject>Oecanthus forbesi</subject>
+      <subject>Oecanthus latipennis</subject>
+      <subject>Oecanthus nigricornis</subject>
+      <subject>Oecanthus texensis</subject>
+      <subject>Oecanthus quadripunctatus</subject>
+      <subject>Oecanthus varicornis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FB48N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13762 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Provides mass and relative amplitude (used to create supplemental figure).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

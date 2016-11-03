@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3845846</identifier><datestamp>2014-10-29T22:35:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.94NK8/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Goldsmith, Gregory R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fulton, Andrew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Witherill, Colin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Espeleta, Javier F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data used for the analysis of visitation and visitor behavior to the website Canopy in the Clouds</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>broader impacts</subject>
+      <subject>clickstream analytics</subject>
+      <subject>ecoliteracy</subject>
+      <subject>educational data mining</subject>
+      <subject>internet</subject>
+      <subject>learning analytics</subject>
+      <subject>science education</subject>
+      <subject>social media</subject>
+      <subject>worldwide web</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.94NK8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1978598 bytes</size>
+      <size>2625 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file Goldsmithetal_datafile.csv contains the data used for the analysis of visitation and visitor behavior to the website Canopy in the Clouds (www.canopyintheclouds.com) associated with Goldsmith et al. (2014) in Ecosphere. The file Goldsmithetal_readme.txt contains the relevant description, permissions and contacts.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

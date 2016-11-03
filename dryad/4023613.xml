@@ -1,0 +1,91 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4023613</identifier><datestamp>2014-10-17T19:07:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0P36H/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, Matthew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Granath, Gustaf</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tahvanainen, Teemu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pouliot, Remy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sten&#248;ien, Hans K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rochefort, Line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rydin, H&#229;kan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, A. Jonathan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DNA Alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>comparative methods</subject>
+      <subject>phylogenetic signal</subject>
+      <subject>peatland ecology</subject>
+      <subject>bryophyte</subject>
+      <subject>Sphagnum</subject>
+      <subject>Sphagnum affine</subject>
+      <subject>Sphagnum angermanicum</subject>
+      <subject>Sphagnum annulatum</subject>
+      <subject>Sphagnum aongstroemii</subject>
+      <subject>Sphagnum austinii</subject>
+      <subject>Sphagnum balticum</subject>
+      <subject>Sphagnum capillifolium</subject>
+      <subject>Sphagnum centrale</subject>
+      <subject>Sphagnum compactum</subject>
+      <subject>Sphagnum contortum</subject>
+      <subject>Sphagnum cuspidatum</subject>
+      <subject>Sphagnum fallax</subject>
+      <subject>Sphagnum fimbriatum</subject>
+      <subject>Sphagnum flavicomans</subject>
+      <subject>Sphagnum flexuosum</subject>
+      <subject>Sphagnum fuscum</subject>
+      <subject>Sphagnum girgensohnii</subject>
+      <subject>Sphagnum jensenii</subject>
+      <subject>Sphagnum lenense</subject>
+      <subject>Sphagnum lindbergii</subject>
+      <subject>Sphagnum magellanicum</subject>
+      <subject>Sphagnum majus</subject>
+      <subject>Sphagnum obtusum</subject>
+      <subject>Sphagnum pacificum</subject>
+      <subject>Sphagnum platyphyllum</subject>
+      <subject>Sphagnum pulchrum</subject>
+      <subject>Sphagnum riparium</subject>
+      <subject>Sphagnum rubellum</subject>
+      <subject>Sphagnum russowii</subject>
+      <subject>Sphagnum squarrosum</subject>
+      <subject>Sphagnum subfulvum</subject>
+      <subject>Sphagnum subsecundum</subject>
+      <subject>Sphagnum tenellum</subject>
+      <subject>Sphagnum teres</subject>
+      <subject>Sphagnum warnstorfii</subject>
+      <subject>Sphagnum wulfianum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0P36H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>617787 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment used to reconstruct phylogenies using BEAST v1.7 from 18 genes (8 chloroplast, 2 mitochondrial, 8 nuclear). Substitution models used for each partition are indicated in the supplemental information. Sphagnum lapazense (now Eosphagnum inretortum) and Sphagnum sericeum (now Flatbergium sericeum) used as outgroups.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

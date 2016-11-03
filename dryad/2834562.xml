@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2834562</identifier><datestamp>2015-02-24T20:16:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JP8R1/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lagerholm, Vendela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sandoval-Castellanos, Edson</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ehrich, Dorothee</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abramson, Natalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nadachowski, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kalthoff, Daniela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Germonpr&#233;, Mietje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angerbj&#246;rn, Anders</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart, John R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dal&#233;n, Love</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lemmus.partial.50.result.BEAST</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Climate Change</subject>
+      <subject>Mammals</subject>
+      <subject>Phylogeography</subject>
+      <subject>Speciation</subject>
+      <subject>Pleistocene</subject>
+      <subject>Ancient DNA</subject>
+      <subject>Europe</subject>
+      <subject>Scandinavia</subject>
+      <subject>Holocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Lemmus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JP8R1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>38052 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tree file obtained from BEAST and summarised in TreeAnnotator. For the partial dataset using a mutation rate of 50 % per million years</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5571306</identifier><datestamp>2015-04-02T15:05:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50KT0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ayll&#243;n, Nieves</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Villar, Margarita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galindo, Ruth C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kocan, Katherine M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sima, Radek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#243;pez, Juan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#225;zquez, Jes&#250;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alberdi, Pilar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cabezas-Cruz, Alejandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kop&#225;&#269;ek, Petr</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de la Fuente, Jos&#233;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>File nymphs_replica 2.raw.zip</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>systems biology</subject>
+      <subject>transcriptomics</subject>
+      <subject>tick</subject>
+      <subject>RNA interference</subject>
+      <subject>apoptosis</subject>
+      <subject>Ixodes scapularis</subject>
+      <subject>Anaplasma phagocytophilum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.50KT0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2940860766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the mass spectrometry data of iTRAQ labeled nymph sample (A. phagocytophilum-infected and uninfected control) replicate 2 (RAW.ZIP). Files may be viewed with Thermo Scientific Qual Browser.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

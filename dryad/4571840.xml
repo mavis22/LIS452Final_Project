@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4571840</identifier><datestamp>2014-12-24T16:01:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50KD5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Davies, Kalina T. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsagkogeorga, Georgia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossiter, Stephen J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Concatenated alignments of vertebrate-specific CNEs for 89 genomic regions based on data from 26 mammalian genomes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bats</subject>
+      <subject>Conserved Non-coding Elements</subject>
+      <subject>ear development</subject>
+      <subject>Eidolon helvum</subject>
+      <subject>Pteropus vampyrus</subject>
+      <subject>Rhinolophus ferrumequinum</subject>
+      <subject>Megaderma lyra</subject>
+      <subject>Pteronotus parnellii</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Chiroptera</subject>
+      <subject>Cetacea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.50KD5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2588482 bytes</size>
+      <size>1249 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-24T16:00:27Z (GMT). No. of bitstreams: 2
+Vert_specCNEs.zip: 2588482 bytes, checksum: 2a2c9b9de15ed3fd1f1f8ac7f5cb5938 (MD5)
+README.txt: 1249 bytes, checksum: 8d53e1da10bfd1ccb39ad5ef08cf17e5 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

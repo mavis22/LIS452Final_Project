@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5104983</identifier><datestamp>2015-04-27T16:10:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.528NM</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tatarenkov, Andrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Earley, Ryan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perlman, Benjamin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, D. Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Bruce J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Avise, John C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic subdivision and variation in selfing rates among Central American populations of the mangrove rivulus, Kryptolebias marmoratus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>heterozygosity</subject>
+      <subject>gene flow</subject>
+      <subject>dispersal</subject>
+      <subject>outcrossing</subject>
+      <subject>microsatellites Subject area: Population structure and phylogeography</subject>
+      <subject>Belize</subject>
+      <subject>Honduras</subject>
+      <subject>Kryptolebias marmoratus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tatarenkov A, Earley RL, Perlman BM, Taylor DS, Turner BJ, Avise JC (2015) Genetic subdivision and variation in selfing rates among Central American populations of the mangrove rivulus, Kryptolebias marmoratus. Journal of Heredity 106(3): 276-284.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.528NM/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/JHERED/ESV013</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

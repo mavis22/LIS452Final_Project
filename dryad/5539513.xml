@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539513</identifier><datestamp>2015-03-18T17:10:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1PJ04/24</identifier>
+  <creators>
+      <creator>
+         <creatorName>Olarte, Rodrigo A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Worthington, Carolyn J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Horn, Bruce W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Geromy G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Rakhi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monacell, James T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dorner, Joe W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stone, Eric A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xie, De-Yu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carbone, Ignazio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CEL file for isolate IC1719</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agriculture</subject>
+      <subject>Fungi</subject>
+      <subject>Hybridization</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Population Dynamics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1PJ04</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5128540 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">aCGH raw data submitted to Gene Expression Omnibus</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

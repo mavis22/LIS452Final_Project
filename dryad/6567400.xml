@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6567400</identifier><datestamp>2015-09-04T15:34:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VP18T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Baasch, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hefley, Trevor J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cahis, Staci D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Breeding Pair Estimator Spreadsheet</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>BPE</subject>
+      <subject>breeding pair</subject>
+      <subject>breeding population size</subject>
+      <subject>breeding population estimator</subject>
+      <subject>ground-nesting birds</subject>
+      <subject>interior least tern</subject>
+      <subject>piping plover</subject>
+      <subject>threatened and endangered species</subject>
+      <subject>Platte River</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VP18T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>864483 bytes</size>
+      <size>2206799 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a user-friendly spreadsheet that allows users the ability to obtain estimates of avian breeding pairs using the Breeding Pair Estimator (BPE). The associated 'ReadMe' file is a tutorial with instructions for how to input data successfully into the BPE spreadsheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

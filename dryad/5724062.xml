@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5724062</identifier><datestamp>2015-06-09T19:19:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.66K59/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>North, Alexandra C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodgson, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Price, Stephen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griffiths, Amber G. F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Frog Mortality Project dataset 1992-2000 (Froglife)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Emerging diseases</subject>
+      <subject>Garden chemicals</subject>
+      <subject>Biological communities</subject>
+      <subject>Transmission dynamics</subject>
+      <subject>Ornamental fish</subject>
+      <subject>United Kingdom</subject>
+      <subject>Rana temporaria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.66K59</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>414622 bytes</size>
+      <size>16131 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This CSV data file contains amphibian mortality reports submitted by members of the public between 1992-2000 to the Frog Mortality Project, administered by Froglife. Those wishing to use this data should acknowledge Froglife (Charity number 1093372). For more details please see the Read Me file. For any further queries with regards to this data or to request more recent data, please contact Froglife info@froglife.org.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6794878</identifier><datestamp>2015-09-28T15:08:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G00V5/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Alexander, Heather J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Jean M. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edmands, Suzanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anholt, Bradley R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>QTL raw data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>polygenic sex determination</subject>
+      <subject>sex ratio</subject>
+      <subject>artificial selection</subject>
+      <subject>genetic architecture</subject>
+      <subject>quantitative trait loci</subject>
+      <subject>copepod</subject>
+      <subject>British Columbia</subject>
+      <subject>California</subject>
+      <subject>eastern Pacific ocean</subject>
+      <subject>Tigriopus californicus</subject>
+      <subject>Harpacticoida</subject>
+      <subject>copepoda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G00V5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>198837 bytes</size>
+      <size>662 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-09-28T15:02:58Z (GMT). No. of bitstreams: 2
+qtl_all_raw.csv: 198837 bytes, checksum: 35b2e1168af445a8b6c7f36b0c236690 (MD5)
+README.txt: 662 bytes, checksum: 22adcc8583c38f1f47c36b856dad0d2c (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1955719</identifier><datestamp>2014-05-30T05:55:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7H7TK</identifier>
+  <creators>
+      <creator>
+         <creatorName>McGhee, Katie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pintor, Lauren M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Alison M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Reciprocal behavioral plasticity and behavioral types during predator-prey interactions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Behavior</subject>
+      <subject>Behavior: antipredator</subject>
+      <subject>Ecology: behavioral</subject>
+      <subject>Foraging: behavior</subject>
+      <subject>Fish</subject>
+      <subject>stickleback</subject>
+      <subject>predator-prey</subject>
+      <subject>Northern pike</subject>
+      <subject>metabolism</subject>
+      <subject>behavioral type</subject>
+      <subject>behavioral plasticity</subject>
+      <subject>feedback</subject>
+      <subject>organ sizes</subject>
+      <subject>Gasterosteus aculeatus</subject>
+      <subject>Esox lucius</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">McGhee KE, Pintor LM, Bell AM (2013) Reciprocal behavioral plasticity and behavioral types during predator-prey interactions. The American Naturalist 182(6): 704-717.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7H7TK/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7H7TK/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/673526</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

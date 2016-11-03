@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738574</identifier><datestamp>2015-10-05T19:29:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10278/13</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller-Struttmann, Nicole E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geib, Jennifer C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franklin, James D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kevan, Peter G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ebert-May, Diane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lynn, Austin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kettenbach, Jessica A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedrick, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galen, Candace</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bumble bee foraging data - Lubinski</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>rapid evolution</subject>
+      <subject>bumble bees</subject>
+      <subject>climate change</subject>
+      <subject>Colorado Rocky Mountains</subject>
+      <subject>Bombus balteatus</subject>
+      <subject>Bombus sylvicola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.10278</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13784 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Foraging behavior of bumble bees (B. balteatus) followed while foraging in the field on Pennsylvania Mountain, CO. &#13;
+&#13;
+COLUMN DETAILS:&#13;
+SEQUENCE - the order in which a given flower was visited by a bee&#13;
+SPECIES FROM - the plant from which a bee departs&#13;
+SPECIES TO -  the plant which the bee visits next&#13;
+SWITCH - describes whether a bee chose to switch to a different plant species (1) or remained consistent (0) between SPECIES FROM and SPECIES TO visits&#13;
+FLOWER DENSITY - density of flowers (flowers per m2) in the original foraging patch&#13;
+FLIGHT DISTANCE - distance flown between SPECIES FROM and SPECIES TO (m)&#13;
+FROM TUBE - tube depth (mm) of species the bee departs &#13;
+TO TUBE - tube depth (mm) of plant species the individual bee visits next</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

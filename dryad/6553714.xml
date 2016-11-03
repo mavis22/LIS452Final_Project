@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553714</identifier><datestamp>2015-09-09T20:26:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H75RK/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hunt, Vicky L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhong, Weihao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McClure, Colin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mlynski, David T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duxbury, Elizabeth M. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charnley, A. Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Priest, Nicholas K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hunt_et_al_2015_Dryad_data_sheets</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behvaioural fever</subject>
+      <subject>Behavioural anapyrexia</subject>
+      <subject>Fecundity</subject>
+      <subject>Life-history traits</subject>
+      <subject>Temperature preference</subject>
+      <subject>Metarhizium robertsii</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H75RK</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>226602 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data collected from laboratory experiments used for the following analyses: sheet 1.  Age-specific fecundity, sheet 2. In vivo fungal growth, sheet 3. Tolerance (Mortality vs. CFUs), sheet 4. Intrinsic rate of increase, sheet 5. Lifetime reproductive success, sheet 6. Survival (individual vials), sheet7. Mortality (population cages), sheet 8. Temperature preference. Key: NT - no treatment, HT - heat-killed fungal treatment, MR - Live fungal treatment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

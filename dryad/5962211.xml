@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5962211</identifier><datestamp>2015-06-23T20:21:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.650CN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bouchard, Sarah S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenney O'Leary, Chelsea R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wargelin, Lindsay J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charbonnier, Julie F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warkentin, Karen M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Larval Dissections</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>compensatory growth</subject>
+      <subject>complex life cycle</subject>
+      <subject>diet retention time</subject>
+      <subject>gut plasticity</subject>
+      <subject>intake</subject>
+      <subject>latent effects</subject>
+      <subject>metamorph</subject>
+      <subject>Neotropical treefrog</subject>
+      <subject>Panama</subject>
+      <subject>Central America</subject>
+      <subject>Agalychnis callidryas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.650CN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3514 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the dissection data for Agalychnis callidryas larvae reared at 5, 25, or 45 individuals per mesocosm at the Smithsonian Tropical Research Institute in Gamboa, Panama. The file provides the density, tank number and larval ID for each individual.  There are total body lengths and body masses for each individual, as well as  liver masses, fat body masses, and total gut masses.  There are also measures of length and projected area for each section of the gut including the manicotto, small intestine, and large intestine.  These values were obtained by photographing the gut and a ruler from above and analyzing the photo using ImageJ software from the National Institute of Health.  The area represents the area of each gut section as seen in the photo, not the surface area of the gut.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

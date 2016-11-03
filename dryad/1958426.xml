@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1958426</identifier><datestamp>2014-05-30T03:00:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G2B10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bodare, Sofia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsuda, Yoshiaki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ravikanth, Gudasalamani</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaanker, Ramanan Uma</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lascoux, Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic structure and demographic history of the endangered tree species Dysoxylum malabaricum (Meliaceae) in Western Ghats, India: implications for conservation in a biodiversity hotspot</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Western Ghats</subject>
+      <subject>India</subject>
+      <subject>Dysoxylum malabaricum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bodare S, Tsuda Y, Ravikanth G, Shaanker RU, Lascoux M (2013) Genetic structure and demographic history of the endangered tree species Dysoxylum malabaricum (Meliaceae) in Western Ghats, India: implications for conservation in a biodiversity hotspot. Ecology and Evolution 3(10): 3233&#8211;3248.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G2B10/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G2B10/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.669</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

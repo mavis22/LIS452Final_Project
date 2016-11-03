@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6771426</identifier><datestamp>2015-09-23T17:07:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H5S2Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Subirana, Juan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alba, M. Mar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messeguer, Xavier</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>malig: DNA multialignment software</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Nematodes</subject>
+      <subject>Satellite DNA</subject>
+      <subject>Tandem repeat sequences</subject>
+      <subject>mitosis</subject>
+      <subject>DNA elimination</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H5S2Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>204800 bytes</size>
+      <size>2139 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Malig has been implemented in C. Just untar malig.tar  and run the make file utility. Malig has been designed to global align DNA sequences with similar length using the progressive multialignment method whose pairwise alignment uses the dynamic programming algorithm designed by Needlema and Wunsch, both with the affine gap penalty function.&#13;
+&#13;
+As a progressive multialignment method malig first computes the similarity score between all pairs of sequences. This computation is made under the following criteria:&#13;
+	Normalized score: the idea is that a multialignment of identical sequences has to be scored one. &#13;
+	Reverse sequences: the input file is increased by adding the reverse sequences.&#13;
+	Cycle permutations:  to compute the score between two sequences, we choose the cycle permutation of the second one with the greatest score, and this cycle is applied when the multialignment is built.&#13;
+&#13;
+Then the progressive multialignment is started. Recall that in a classic multialignment algorithm this process finishes when all sequences are aligned. In our case the process finish when the score is smaller than a similarity threshold (input parameter).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

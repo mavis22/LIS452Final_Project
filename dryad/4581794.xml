@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4581794</identifier><datestamp>2015-03-31T18:22:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SC286.3/4.3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mitchell, Nora</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Timothy E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mollmann, Hayley Kilroy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carlson, Jane E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mocko, Kerri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez-Cabrera, Hugo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Silander Jr., John A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Cynthia S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlichting, Carl D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holsinger, Kent E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>traits-environment-with-phylo</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Plant</subject>
+      <subject>Statistics: multivariate</subject>
+      <subject>Multivariate statistics</subject>
+      <subject>Evolutionary ecology</subject>
+      <subject>Ecology</subject>
+      <subject>South Africa</subject>
+      <subject>Cape Floristic Region</subject>
+      <subject>Protea</subject>
+      <subject>Pelargonium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SC286.3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9123 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R code for running JAGS model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

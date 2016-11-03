@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6536887</identifier><datestamp>2015-08-15T17:27:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.58445/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Soranno, Patricia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cheruvelil, Kendra Spence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wagner, Tyler</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Webster, Katherine E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bremigan, Mary Tate</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Soranno_MI_LULC</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Land use</subject>
+      <subject>nutrients</subject>
+      <subject>lakes</subject>
+      <subject>lake connectivity</subject>
+      <subject>ecoregion</subject>
+      <subject>lake classification</subject>
+      <subject>landscape limnology</subject>
+      <subject>Michigan</subject>
+      <subject>USA</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.58445</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>197516 bytes</size>
+      <size>372800 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We compiled lake water quality and land use/land cover (LULC) data on Michigan lakes. We broadly define lakes to include both lakes and reservoirs. MSU&#8217;s Remote Sensing and GIS Outreach and Services (RS/GIS) staff conducted all landscape analyses that have been incorporated into this database. At RS/GIS, Justin Booth and Sarah Acmoody were the analysts creating the landscape portions of the database. Lakes were selected that had historical water quality data collected from ~ 1975-1985 by the Michigan Department of Environmental Quality. The lakes were further selected based on whether they had lake depth associated with them, lake classifications, and other metrics. All lakes that the MI-DEQ sampled only were &gt; 20 ha and had public access.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

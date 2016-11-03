@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4032174</identifier><datestamp>2014-11-25T17:19:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GP30N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vinicius, Lucio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mace, R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Migliano, Andrea B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Vinicus et al. BaSTA files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ageing</subject>
+      <subject>last reproduction</subject>
+      <subject>hunter-gatherers</subject>
+      <subject>pastoralists</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GP30N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>982566 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file includes the R code and worskpace required for replicating the Bayesian estimation of age-dependent curves of survival and last reproduction presented in the main article.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

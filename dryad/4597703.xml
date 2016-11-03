@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597703</identifier><datestamp>2015-01-09T18:08:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8134.2/17.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pennings, Pleuni S</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Achenbach, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Foitzik, Susanne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RPairw_D_Gst_MtDna_Penningsjeb2011</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Host-parasite interaction</subject>
+      <subject>Insects</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population genetics</subject>
+      <subject>Northeastern United States</subject>
+      <subject>North America</subject>
+      <subject>Canada</subject>
+      <subject>Massachusetts</subject>
+      <subject>Ohio</subject>
+      <subject>West Virginia</subject>
+      <subject>New York</subject>
+      <subject>Connecticut</subject>
+      <subject>Illinois</subject>
+      <subject>Long Island</subject>
+      <subject>Michigan</subject>
+      <subject>Maryland</subject>
+      <subject>Quebec</subject>
+      <subject>Vermont</subject>
+      <subject>Pennsylvania</subject>
+      <subject>Virginia</subject>
+      <subject>Temnothorax longispinosus</subject>
+      <subject>Temnothorax curvispinosus</subject>
+      <subject>Protomagnatus americanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8134.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11128 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is R code to calculate Jost D and Gst and the associated p-values (using a permutation test) for MtDNA sequences. There are two versions. The first one (RPairw_D_MtDna_Penningsjeb2011.r) calculates pairwise values (between all pairs of populations in your data) and the second one (RAllPops_D_MtDNA_PenningsJEB2011.r) calculates one global value.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

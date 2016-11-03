@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282232</identifier><datestamp>2015-11-13T07:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H95H0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jacobs, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bastian, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bam, Lunga</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>External measurements_Nov 2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bite force</subject>
+      <subject>diet</subject>
+      <subject>Evolution</subject>
+      <subject>3D-geometric morphometrics</subject>
+      <subject>Phylogenetically informed regression (PGLS)</subject>
+      <subject>resting frequency</subject>
+      <subject>skull shape</subject>
+      <subject>southern Africa</subject>
+      <subject>Anthropocine</subject>
+      <subject>Rhinolophus blasii</subject>
+      <subject>Rhinolophus capensis</subject>
+      <subject>Rhinolophus clivosus</subject>
+      <subject>Rhinolophus damarensis</subject>
+      <subject>Rhinolophus darlingi</subject>
+      <subject>Rhinolophus denti</subject>
+      <subject>Rhinolophus fumigatus</subject>
+      <subject>Rhinolophus hildebrandtii</subject>
+      <subject>Rhinolophus simulator</subject>
+      <subject>Rhinolophus swinnyi</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H95H0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29631 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Individual size, bite force and call frequency measurements for ten species of horseshoe bats (Rhinolophidae).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

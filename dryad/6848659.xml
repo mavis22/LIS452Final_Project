@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848659</identifier><datestamp>2015-11-13T20:18:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3PF61/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stephenson, Jessica F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Oosterhout, C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cable, Joanne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for Pace of life, predators and parasites: Stephenson et al. Biology Letters</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>scaled mass index</subject>
+      <subject>pace of life hypothesis</subject>
+      <subject>parasite tolerance</subject>
+      <subject>enemy ecology</subject>
+      <subject>trait-mediated indirect effects</subject>
+      <subject>Trinidad</subject>
+      <subject>Poecilia reticulata</subject>
+      <subject>Gyrodactylus spp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3PF61</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>253561 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data are from guppies, Poecilia reticulata, from several sample sites across Trinidad. For each fish, we recorded the sex, weight, condition (using the scaled mass index), and the presence and number of Gyrodactylus spp. parasites infecting the fish. We provide the drainage, river, course and site, as well as the nested terms where appropriate, where each fish was collected.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

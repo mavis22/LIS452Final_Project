@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721613</identifier><datestamp>2015-10-09T16:15:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D0325/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rummer, Jodie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brauner, Colin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All human delta PO2 values</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bohr effect</subject>
+      <subject>oxygen delivery</subject>
+      <subject>oxygen equilibrium curve</subject>
+      <subject>red blood cell</subject>
+      <subject>Root effect</subject>
+      <subject>Oncorhynchus mykiss</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D0325</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>49715 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These human delta PO2 values were calculated by fitting data from Tyuma and Ueda, 1975 with the Equation 1 in the manuscript. These values are graphically displayed in Fig. 1B.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

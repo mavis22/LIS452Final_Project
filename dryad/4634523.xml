@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634523</identifier><datestamp>2015-03-16T18:18:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M1S8S/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blenckner, Thorsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Llope, Marcos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#246;llmann, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Voss, Rudi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quaas, Martin F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Casini, Michele</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindegren, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Folke, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stenseth, Nils Chr.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Blenckner model simulation results</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>food web dynamics</subject>
+      <subject>regime shift</subject>
+      <subject>multiple drivers</subject>
+      <subject>shifting baseline</subject>
+      <subject>ecosystem-based management</subject>
+      <subject>Baltic Sea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M1S8S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>360741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the results from the model simulation, where the mean and confidence intervalls are shown in Fig 4. The data file contains the results from the forward (black in Fig 4a-, 100 simulation for each F) and backward (red in Fig 4a-c, 100 simulation for each F) for cod, sprat, herring and Pseudocalanus accuses biomass.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

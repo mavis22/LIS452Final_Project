@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6285661</identifier><datestamp>2015-07-07T21:01:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K247V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sugie, Koji</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suzuki, Koji</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Size of dominant diatom species can alter their evenness</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>abundance</subject>
+      <subject>biomass</subject>
+      <subject>cell size</subject>
+      <subject>diatoms</subject>
+      <subject>evenness index</subject>
+      <subject>diversity</subject>
+      <subject>microscopy</subject>
+      <subject>phytoplankton</subject>
+      <subject>Shannon-Wiener index</subject>
+      <subject>Simpson index</subject>
+      <subject>size distribution</subject>
+      <subject>species richness</subject>
+      <subject>North Pacific</subject>
+      <subject>Holocene</subject>
+      <subject>Bacillariophyceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sugie K, Suzuki K (2015) Size of dominant diatom species can alter their evenness. PLOS ONE 10(6): e0131454.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.K247V/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0131454</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

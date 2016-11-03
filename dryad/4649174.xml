@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4649174</identifier><datestamp>2015-08-04T17:30:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D0H7S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller, Peter I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scales, Kylie L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ingram, Simon N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Southall, Emily J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sims, David W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Basking sharks and oceanographic fronts: quantifying associations in the north-east Atlantic</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animal tracking</subject>
+      <subject>biologging</subject>
+      <subject>remote sensing</subject>
+      <subject>front mapping</subject>
+      <subject>marine vertebrate</subject>
+      <subject>marine megavertebrate</subject>
+      <subject>habitat use</subject>
+      <subject>habitat preference</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Miller PI, Scales KL, Ingram SN, Southall EJ, Sims DW (2015) Basking sharks and oceanographic fronts: quantifying associations in the north-east Atlantic. Functional Ecology 29(8): 1099-1109.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D0H7S/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12423</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

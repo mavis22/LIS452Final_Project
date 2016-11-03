@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5691802</identifier><datestamp>2015-06-08T17:43:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SF103/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rushing, Clark S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dudash, Michele R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marra, Peter P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dispersal Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>conspecific attraction</subject>
+      <subject>deuterium</subject>
+      <subject>habitat selection</subject>
+      <subject>location cues</subject>
+      <subject>public information</subject>
+      <subject>social information</subject>
+      <subject>United States</subject>
+      <subject>Maryland</subject>
+      <subject>Setophaga ruticilla</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SF103</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>50 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Total number of individuals and the number of immigrants under the 4:1, 9:1, and 19:1 odds ratios. First row corresponds to the general populations, second row to individuals that responded to location cue treatments</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

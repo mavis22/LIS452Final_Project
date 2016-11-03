@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342673</identifier><datestamp>2015-07-23T20:20:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KP6J2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lamer, James T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruebush, Blake C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arbieva, Zarema H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McClelland, Michael A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Epifanio, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sass, Gregory G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Diagnostic SNPs reveal widespread introgressive hybridization between introduced bighead and silver carp in the Mississippi River Basin</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNP</subject>
+      <subject>hybridization</subject>
+      <subject>introgression</subject>
+      <subject>invasive species</subject>
+      <subject>bighead carp</subject>
+      <subject>silver carp</subject>
+      <subject>Mississippi River Basin</subject>
+      <subject>1998-2012</subject>
+      <subject>Hypophthalmichthys nobilis</subject>
+      <subject>Hypophthalmichthys molitrix</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lamer JT, Ruebush BC, Arbieva ZH, McClelland MA, Epifanio JM, Sass GG (2015) Diagnostic SNPs reveal widespread introgressive hybridization between introduced bighead and silver carp in the Mississippi River Basin. Molecular Ecology 24(15): 3931&#8211;3943.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KP6J2/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KP6J2/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KP6J2/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13285</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

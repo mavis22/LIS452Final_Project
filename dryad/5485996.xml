@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5485996</identifier><datestamp>2015-03-25T15:19:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DJ17C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tsuda, Yoshiaki T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakao, Katsuhiro N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ide, Yuji I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsumura, Yoshihiko T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The population demography of Betula maximowicziana, a cool temperate tree species in Japan, in relation to the last glacial period: Its admixture-like genetic structure is the result of simple population splitting not admixing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>simple sequence repeats</subject>
+      <subject>demographic inference</subject>
+      <subject>genetic structure</subject>
+      <subject>Japan</subject>
+      <subject>Holocene</subject>
+      <subject>Betula maximowicziana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tsuda YT, Nakao KN, Ide YI, Tsumura YT (2015) The population demography of Betula maximowicziana, a cool temperate tree species in Japan, in relation to the last glacial period: The admixture-like genetic structure is the result of simple population splitting not admixing. Molecular Ecology 24(7): 1403-1418.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DJ17C/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13123</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5768958</identifier><datestamp>2015-07-07T15:53:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K53G5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marczewski, Tobias</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Original AFLP data matrix</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>speciation</subject>
+      <subject>species differentiation</subject>
+      <subject>population genetics</subject>
+      <subject>evolution</subject>
+      <subject>China</subject>
+      <subject>Yunnan</subject>
+      <subject>Holocene</subject>
+      <subject>Subatlantic</subject>
+      <subject>Rhododendron aganniphum</subject>
+      <subject>Rhododendron phaeochrysum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K53G5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>187336 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">this file has the following structure:&#13;
+   - data for individuals are in rows, and loci are in columns&#13;
+   - additionally, there are two columns in the beginning giving &#13;
+     the population (pop), and species (species) of each individual;&#13;
+     pop is either the population identifier&#13;
+     [aga1 = aga-1, aga3 = aga-3, hyb1 = hyb-1, hyb2 = hyb-2, pha1 = pha-1,&#13;
+     pha3 = pha-3]&#13;
+     or indicates individuals repeated for error estimation&#13;
+     [con (control) = individuals repeated on each plate, with A-E as part of&#13;
+      the identifier indicating the plate;&#13;
+      test = individuals repeated on a different plate]&#13;
+   - the last row (quality) gives an indication of the peak quality for each&#13;
+     locus (separation from other peaks, clarity of peak)&#13;
+     [A - very good, B - good, C - bad, X - extremely bad; intermediate&#13;
+      categories, e.g. A-B for between A and B are used as well;&#13;
+      generally A and B are good for use]</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

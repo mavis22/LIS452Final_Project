@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6934854</identifier><datestamp>2015-11-03T18:10:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T50J5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moghe, Gaurav D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hufnagel, David E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tang, Haibao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xiao, Yongli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dworkin, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Town, Christopher D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conner, Jeffrey K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shiu, Shin-Han</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Consequences of whole-genome triplication as revealed by comparative genomic analyses of the wild radish Raphanus raphanistrum and three other Brassicaceae species.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genome sequencing</subject>
+      <subject>comparative genomics</subject>
+      <subject>plant genomics</subject>
+      <subject>duplicate genes</subject>
+      <subject>Raphanus raphanistrum</subject>
+      <subject>Brassica rapa</subject>
+      <subject>Arabidopsis thaliana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Moghe GD, Hufnagel DE, Tang H, Xiao Y, Dworkin I, Town CD, Conner JK, Shiu S (2014) Consequences of whole-genome triplication as revealed by comparative genomic analyses of the wild radish Raphanus raphanistrum and three other Brassicaceae species. The Plant Cell 26(5): 1925-1937.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T50J5/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T50J5/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T50J5/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T50J5/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.&#8203;1105/&#8203;TPC.114.124297</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

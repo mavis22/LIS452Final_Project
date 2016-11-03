@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3664365</identifier><datestamp>2014-05-29T20:54:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75NV22QJ/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crawford, Nicholas G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Faircloth, Brant C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCormack, John E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brumfield, Robb T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winker, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Glenn, Travis C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>turtles-probe-matches-to-reptiles.sqlite</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>ultraconserved elements</subject>
+      <subject>phylogenomic</subject>
+      <subject>phylogenetics</subject>
+      <subject>reptiles</subject>
+      <subject>turtles</subject>
+      <subject>Pantherophis guttata</subject>
+      <subject>Pelomedusa subrufa</subject>
+      <subject>Chrysemys picta</subject>
+      <subject>Alligator mississippiensis</subject>
+      <subject>Crocodylus porosus</subject>
+      <subject>Sphenodon tuatara</subject>
+      <subject>Gallus gallus</subject>
+      <subject>Taeniopygia guttata</subject>
+      <subject>Anolis carolinensis</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-05-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.75NV22QJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

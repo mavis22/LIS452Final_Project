@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6367794</identifier><datestamp>2015-07-02T14:15:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2R5R9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Franklin, Janet</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>plot and tree data Abaco and Eleuthera</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Vegetation classification</subject>
+      <subject>Broadleaf subtropical evergreen forest</subject>
+      <subject>Forest community</subject>
+      <subject>Tropical seasonal evergreen forest</subject>
+      <subject>The Bahamas</subject>
+      <subject>The West Indies</subject>
+      <subject>Abaco</subject>
+      <subject>Eleuthera</subject>
+      <subject>Bursera simaruba</subject>
+      <subject>Metopium toxiferum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2R5R9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>371204 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Location and environmental data for 42 vegetation plots (10 m radius circular) located on Abaco and Eleuthera in The Bahamas, collected between 2009-2013 followed by species and diameter at 1.3m height on tree for each tree &gt;=5cm diameter in each plot.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

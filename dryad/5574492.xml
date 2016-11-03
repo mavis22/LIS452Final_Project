@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574492</identifier><datestamp>2015-04-06T20:23:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4CV02/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stoffel, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dufresnes, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okello, John B. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noirard, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joly, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nyakaana, Silvester</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muwanika, Vincent B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alcala, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vuilleumier, S&#233;verine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siegismund, Hans R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fumagalli, Luca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Codes used for EBSP simulation analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Population Genetics</subject>
+      <subject>Conservation</subject>
+      <subject>Population expansion</subject>
+      <subject>Population contraction</subject>
+      <subject>Sub-Saharan Africa</subject>
+      <subject>Late Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Hippopotamus amphibius</subject>
+      <subject>Hexaprotodon liberiensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4CV02</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15626 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Set of codes used for generating simulated datasets and performing EBSP analyses. File "ms_beast.R" runs the coalescent simulator MS (via package "phyclust" providing a R version of MS) to generate sequences from the template file "testalt_template" and create XML input files for use in BEAST. File "run.sh" runs these XML inputs in BEAST. File "plots.R" is used to visualize generated skyline plots.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

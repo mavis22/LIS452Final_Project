@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553773</identifier><datestamp>2015-09-04T20:51:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2R732/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Akanni, Wasiu A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siu-Ting, Karen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pisani, Davide</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>A set of input tree dataset inferred using RaxMl overlapping on 443 prokaryotic genera taxon set.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian supertree</subject>
+      <subject>Symbiosis</subject>
+      <subject>Archaebacteria</subject>
+      <subject>Tree of Life</subject>
+      <subject>Archaea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2R732</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1383342 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a directory containing 5 input tree datasets in newick format. Prok_dataset: is composed of input trees overlapping on 443 prokaryotic genera taxon set. Prok_MinusRogue_dataset: The same as Prok dataset except the taxa that were identified as unstable by a concatabomination analysis have been pruned out. Eubac_dataset: Also a subset of Prok, this time with the archaebacterial taxon set pruned out. Eubac_MinusRogue_dataset: A subset of Eubac_dataset with the unstable taxa pruned out. Finally Arc_dataset: Another subset of Prok, this time with all the eubacterial taxon set pruned out.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

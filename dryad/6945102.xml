@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6945102</identifier><datestamp>2015-11-06T07:56:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.46786</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bieniek, Magdalena M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bennett, Patrick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sekuler, Allison B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rousselet, Guillaume A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A robust and representative lower bound on object processing speed in humans</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eeg</subject>
+      <subject>erp</subject>
+      <subject>single-trial</subject>
+      <subject>onset</subject>
+      <subject>processing speed</subject>
+      <subject>face</subject>
+      <subject>noise</subject>
+      <subject>robust statistics</subject>
+      <subject>shift function</subject>
+      <subject>ageing</subject>
+      <subject>bootstrap</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bieniek MM, Bennett PJ, Sekuler AB, Rousselet GA (2015) A robust and representative lower bound on object processing speed in humans. European Journal of Neuroscience, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.46786/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EJN.13100</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

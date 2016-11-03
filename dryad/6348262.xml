@@ -1,0 +1,114 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6348262</identifier><datestamp>2015-09-04T20:10:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.62F0R</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rothfels, Carl J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Fay-Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sigel, Erin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huiet, Layne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsson, Anders</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burge, Dylan O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruhsam, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deyholos, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Douglas E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart Jr., C. Neal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, Shane W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pokorny, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Tao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>dePamphilis, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeGironimo, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wei, Xiaofeng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Xiao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Korall, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stevenson, Dennis W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graham, Sean W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wong, Gane Ka-Shu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pryer, Kathleen M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The evolutionary history of ferns inferred from 25 low-copy nuclear genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>codon models</subject>
+      <subject>curated phylogenomics</subject>
+      <subject>model selection</subject>
+      <subject>monilophytes</subject>
+      <subject>transcriptome</subject>
+      <subject>divergence time dating</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>low-copy nuclear gene</subject>
+      <subject>Ferns</subject>
+      <subject>fern chronogram</subject>
+      <subject>Pteridophyta</subject>
+      <subject>Equisetum</subject>
+      <subject>Polypodiopsida</subject>
+      <subject>Marattiales</subject>
+      <subject>Ophioglossales</subject>
+      <subject>Psilotales</subject>
+      <subject>Polypodiidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rothfels CJ, Li F, Sigel EM, Huiet L, Larsson A, Burge DO, Ruhsam M, Deyholos M, Soltis DE, Stewart Jr. CN, Shaw SW, Pokorny L, Chen T, dePamphilis C, DeGironimo L, Chen L, Wei X, Sun X, Korall P, Stevenson DW, Graham SW, Wong GK, Pryer KM (2015) The evolutionary history of ferns inferred from 25 low-copy nuclear genes. American Journal of Botany 102(7): 1089-1107.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R/7</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/AJB.1500089</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

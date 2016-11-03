@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5577996</identifier><datestamp>2015-04-28T19:03:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T2F47/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vermeer-de Bondt, Patricia E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schoffelen, Teske</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vanrolleghem, Ann M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Isken, Leslie D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Deuren, Marcel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sturkenboom, Miriam C. J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timen, Aura</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Risk-conditions chronic Q fever vaccination datasets</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>chronic Q fever</subject>
+      <subject>vaccination coverage</subject>
+      <subject>risk- conditions</subject>
+      <subject>prevalence</subject>
+      <subject>heart valve defect</subject>
+      <subject>aortic aneurysm</subject>
+      <subject>congenital heart malformation</subject>
+      <subject>endocarditis</subject>
+      <subject>Netherlands</subject>
+      <subject>Coxiella burnetii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T2F47</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>232174 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The IPCI-dataset contains all extracted patients from a 5% sample of the population based general practice database, based on selection criteria described in the article. Patients age, sex and risk conditions are supplied with level of diagnostic certainty. The Q fever vaccination dataset contains accepted referrals and registered chronic Q fever risk conditions with sex, age and living area of patients. Code books are included.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

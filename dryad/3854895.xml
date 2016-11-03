@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3854895</identifier><datestamp>2015-01-30T21:07:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R867B/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Luo, Yonghai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Widmer, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karrenberg, Sophie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phenotypic data_140826_Arabidopsis thaliana</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Qst Fst</subject>
+      <subject>altitude</subject>
+      <subject>Switzerland</subject>
+      <subject>Valais</subject>
+      <subject>Arabidopis thaliana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R867B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>146224 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Measurements of ecologically relevant traits in 14 Arabidopsis thaliana populations from the Swiss Alps collected at 850 to 2700 m a.s.l.. Plants were grown in a greenhouses with and without vernalization.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

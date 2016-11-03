@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4244030</identifier><datestamp>2015-06-30T15:37:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2832V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Corbin, Clay E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lowenberger, Lauren K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gray, Brandan L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for FE-2013-00888.R2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>bite-force</subject>
+      <subject>bill</subject>
+      <subject>closing-velocity</subject>
+      <subject>ecomorphology</subject>
+      <subject>North America</subject>
+      <subject>Holocene</subject>
+      <subject>Aves</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2832V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1046871 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Appendix I. Bill closing velocity for 18 species of North American birds. First columns include: AOU Species Codes, vernacular and latin binomials. Other columns include: BC = bill closing velocity in cm/s (for analyses, I used the maximum value for each individual). Location: 1= Private residence in Pittsburgh, PA (PPA), 2 = Beechwood Farms Nature Reserve (PPA), 3 = North Park Latodami Nature Center (PPA), 4 = Bloomsburg University campus, Bloomsburg, PA, 5 = National Aviary in Pittsburgh, (PPA). Sex, M = Male, F = Female, &#8220;.&#8221; = unknown.&#13;
+Appendix II. Bite-force for 18 species of North American birds. First columns as in appendix I. Band # = USGS aluminum band number for each individual. Asterisk next to four-letter code denotes bite-force inferred by regression from a larger data set (Corbin, et al. in prep). Recap = recaptured individual; the highest value for captured or recaptured bird was used in analysis. Bite-force (N); these are the calibrated amplifier readings. Location = 1 Bloomsburg University campus, Bloomsburg, PA. 2 = private residence in Orange Township, Columbia County, PA, 3 = taken from a data set on netted birds in Coconino Forest, AZ in 2011 (Corbin, et al. in prep).&#13;
+&#13;
+Appendix III. Skull/jaw morphological measurements for 18 species of North American birds. Measurements are in mm. First columns as Appendix I, M = male, F = female. Museum specimen numbers available upon request from CEC (BAHS, Bloomsburg University, Bloomsburg, PA 17815, ccorbin@bloomu.edu, 570-389-4134)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

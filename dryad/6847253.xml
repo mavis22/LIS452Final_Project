@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6847253</identifier><datestamp>2015-10-12T07:26:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F37D0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Slap&#353;inskait&#279;, Agn&#279;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Razon, Selen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balagu&#233;, Nat&#224;lia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hristovski, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tenenbaum, Gershon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data Set of Local Pain Dynamics during Constant Exhaustive Exercise</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Constant-power cycling</subject>
+      <subject>Constant-power running</subject>
+      <subject>Exertive pain</subject>
+      <subject>Volitional exhaustion</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F37D0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>204082 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The group pulled probabilities of locations with pain or discomfort during  running (left) and cycling (right) tasks in 5 temporal windows in a given sample (n = 11) are observed in  the first sheet of excel  and is named Fig.2.The following 22 sheets of excel, provide a data matrix of 11 participants who performed two tasks cycling and running. The last letter of each participants' data matrix is identified by the abbreviation of the used equipment - bike (b) or treadmill (t). Row headers identifies 50 body locations of the body map while column headers identifies the number of the obtained prompt.  All locations for each participant were transformed to binary vectors, where 1 means presence of discomfort and/or pain, and 0 &#8211; no discomfort or pain, in order to obtain the time series with topological configuration of the perceived discomfort and/or pain areas while performing the constant cycling and running tasks.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

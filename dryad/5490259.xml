@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5490259</identifier><datestamp>2015-08-17T16:33:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.20CP7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Carrara, Francesco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giometto, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seymour, Mathew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rinaldo, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altermatt, Florian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Inferring species interactions in ecological communities: a comparison of methods at different levels of complexity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>interaction matrix</subject>
+      <subject>community dynamics</subject>
+      <subject>interaction strength</subject>
+      <subject>ecological network</subject>
+      <subject>equilibrium</subject>
+      <subject>asymptotic stability</subject>
+      <subject>rotifer</subject>
+      <subject>cephalodella</subject>
+      <subject>chilomonas</subject>
+      <subject>colpidium</subject>
+      <subject>cyclidium</subject>
+      <subject>dexiostoma</subject>
+      <subject>euglena</subject>
+      <subject>euplotes</subject>
+      <subject>paramecium aurelia</subject>
+      <subject>paramecium bursaria</subject>
+      <subject>spirostomum</subject>
+      <subject>tetrahymena</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Carrara F, Giometto A, Seymour M, Rinaldo A, Altermatt F (2015) Inferring species interactions in ecological communities: a comparison of methods at different levels of complexity. Methods in Ecology and Evolution 6(8): 895-906.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20CP7/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12363</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

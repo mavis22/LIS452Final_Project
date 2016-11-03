@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:549313</identifier><datestamp>2014-05-29T19:45:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.09KF4G02</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bates, Karl T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benson, Roger B. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Falkingham, Peter L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A computational analysis of locomotor anatomy and body mass evolution in Allosauroidea (Dinosauria Theropoda)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>locomotion</subject>
+      <subject>body size</subject>
+      <subject>scaling</subject>
+      <subject>dinosaur</subject>
+      <subject>modelling</subject>
+      <subject>moment arms</subject>
+      <subject>Mesozoic</subject>
+      <subject>Allosauroidea</subject>
+      <subject>Allosaurus</subject>
+      <subject>Acrocanthosaurus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bates KT, Benson RBJ, Falkingham PL (2012) A computational analysis of locomotor anatomy and body mass evolution in Allosauroidea (Dinosauria Theropoda). Paleobiology 38(3): 486-507.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.09KF4G02/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1666/10004.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

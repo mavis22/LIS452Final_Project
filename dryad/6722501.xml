@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6722501</identifier><datestamp>2015-09-03T17:41:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HB2BT/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Arceo-Gomez, Gerardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raguso, Robert A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geber, Monica</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Heterospecific pollen tolerance_Clarkia 2014 pollen tube data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>co-flowering community</subject>
+      <subject>heterospecific pollen</subject>
+      <subject>pollinator sharing</subject>
+      <subject>2014</subject>
+      <subject>Clarkia xantiana</subject>
+      <subject>Clarkia speciosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-08-26</date>
+      <date dateType="Accepted">2015-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HB2BT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>43781 bytes</size>
+      <size>1869 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-08-26</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-09-03T17:39:22Z (GMT). No. of bitstreams: 2
+Clarkia 2014 pollen tube data.xlsx: 43781 bytes, checksum: dca49381475e84197a5d828ff6812dfc (MD5)
+README.txt: 1869 bytes, checksum: 29c74d0feeaae3121cb57db039f48ae3 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

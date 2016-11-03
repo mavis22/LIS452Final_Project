@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6455185</identifier><datestamp>2015-07-20T15:33:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3V4HN/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blanckenhorn, Wolf</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FehratorfLabCGMeanSizesAppendixTableS2-DRYAD</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Temperature</subject>
+      <subject>Body size evolution</subject>
+      <subject>Climate change</subject>
+      <subject>Common garden experiment</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Selection</subject>
+      <subject>north-central Switzerland</subject>
+      <subject>20 years</subject>
+      <subject>1993-2009</subject>
+      <subject>Scathophaga stercoraria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3V4HN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>37888 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the MEAN laboratory sizes analyzed for the Fehraltorf population between 1993 and 2009. Some of these means were taken from the papers, for others the raw data are available from the author.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

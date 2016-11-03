@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4272280</identifier><datestamp>2015-01-15T19:52:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43100</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ros, Vera</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Houte, Stineke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hemerik, Lia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Oers, Monique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Baculovirus-induced tree-top disease: how extended is the role of egt as a gene for the extended phenotype?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Insects</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Parasitology</subject>
+      <subject>Spodoptera exigua</subject>
+      <subject>Trichoplusia ni</subject>
+      <subject>Baculoviridae</subject>
+      <subject>Autographa californica multiple nucleopolyhedrovirus</subject>
+      <subject>AcMNPV</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ros V, van Houte S, Hemerik L, van Oers M (2015) Baculovirus-induced tree-top disease: how extended is the role of egt as a gene for the extended phenotype? Molecular Ecology 24(1): 249-258.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.43100/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.43100/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13019</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

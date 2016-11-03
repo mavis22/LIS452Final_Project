@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6460203</identifier><datestamp>2015-08-18T17:11:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VQ2TN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Henschen, Amberleigh E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whittingham, Linda A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunn, Peter O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>KRL data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>antioxidants</subject>
+      <subject>bird</subject>
+      <subject>carotenoid</subject>
+      <subject>immunity</subject>
+      <subject>glutathione</subject>
+      <subject>melanin</subject>
+      <subject>ornament</subject>
+      <subject>oxidative stress</subject>
+      <subject>Wisconsin</subject>
+      <subject>United States of America</subject>
+      <subject>Geothlypis trichas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VQ2TN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2298 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Time to hemolysis for 50% of red blood cells in the KRL assay.  File is tab-delimited text file with 11 variables (columns). The first row is the headers for each column and there are 39 subsequent rows of data.Variables names are:Band No&#13;
+Breed Experience (Experienced = known prior breeding experience; inexperienced = no known prior breeding experience on the main study area; blanks indicate unknown because the bird was captured off the main study area)&#13;
+Time to 50% hemolysis (the response variable)&#13;
+Jdate for KRL (date blood was sampled for KRL assay; 1=1 May)&#13;
+Tarsus (tarsus length of bird, mm)&#13;
+Mass (total body mass of bird, g)&#13;
+Mask (facial mask size of bird, mm^2)&#13;
+bib size (size of yellow throat patch, mm^2)&#13;
+Yellow brightness (see Methods)&#13;
+Ccar (see Methods)&#13;
+N replicates (number of different assays performed; see Methods)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

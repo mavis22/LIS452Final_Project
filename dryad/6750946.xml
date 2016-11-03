@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6750946</identifier><datestamp>2015-09-16T16:06:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CV461/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bartkowska, Magdalena P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnston, Mark O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Literature survey of selection and pollen limitation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Competition</subject>
+      <subject>flower size</subject>
+      <subject>phenology</subject>
+      <subject>selection gradient</subject>
+      <subject>pollinator-mediated selection</subject>
+      <subject>selection differential</subject>
+      <subject>flowering time</subject>
+      <subject>Ontario Canada</subject>
+      <subject>1983 to present for literature review</subject>
+      <subject>2009-2011 for Lobelia cardinalis</subject>
+      <subject>Lobelia cardinalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CV461</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20348 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data is summary of the literature survey used to explore the relationship between selection and pollen limitation. Using Web of Science, we searched for studies citing Lande and Arnold (1983).Based on publication title, 396 studies were found to contain selection estimate(s) for a natural population. For each of these studies, we searched for the occurrence of the words "pollen&#8221;, &#8220;limitation&#8221;, or &#8220;limited&#8221;. If any of the words was found, the abstract and/or methods of the study were read to determine whether an estimate of selection was reported as well as an estimate of pollen limitation. For each study we categorized traits into the following five classes: flower size, flower number, plant size, phenology and vegetative. Because different fitness measures were used to assess pollen limitation and a single study often reported multiple estimates, we used the &#8220;best pollen limitation" estimate available&#8221; by prioritizing the estimates from each study as follows: (1) mean number (or percentage) of seeds, (2) mean number (or percentage) of fruits, (3) mean number (or percentage) of seeds per flower, (4) mean number (or percentage) of seeds per fruit, (5) mean number (or percentage) of fruits per flower and (6) mean number (or percentage) of seeds per ovule.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

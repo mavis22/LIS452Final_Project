@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553883</identifier><datestamp>2015-08-21T14:02:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V4T80/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rollinson, Njal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rowe, Locke</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>KD-Database</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>selection</subject>
+      <subject>body size</subject>
+      <subject>microevolution</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V4T80</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>207915 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data represent the K-D Database, as defined in the main text. These selection estimates are not new; they were extracted from previously-compiled databases on phenotypic selection. They are presented here in Dryad only to facilitate replication of results presented in the main text, and to allow the reader to determine which studies estimated selection on juvenile size traits, and which studies estimated selection on adult size traits. For original data, consult: [Kingsolver, J., and S. Diamond. 2011. Data from: Phenotypic selection in natural populations: what limits directional selection? Dryad Digit. Repos. doi10.5061/dryad.7996.] and [Siepielski, A. M., K. M. Gotanda, M. B. Morrissey, S. E. Diamond, J. D. DiBattista, and S. M. Carlson. 2013. The spatial patterns of directional phenotypic selection. Ecol. Lett. 16:1382&#8211;92.]</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

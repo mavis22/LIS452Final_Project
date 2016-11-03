@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6348885</identifier><datestamp>2015-08-06T12:01:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3BF67/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Takasuka, Keizo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yasui, Tomoki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Toru, Ishigami</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakata, Kensuke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matsumoto, Rikio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ikeida, Kenichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maeto, Kaoru</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Appendix 4 frames in resting webs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Cocoon web</subject>
+      <subject>Fibrous thread decoration (FTD)</subject>
+      <subject>Resting web</subject>
+      <subject>Tensile test</subject>
+      <subject>Japan</subject>
+      <subject>Holocene</subject>
+      <subject>Hymenoptera</subject>
+      <subject>Ichneumonidae</subject>
+      <subject>Reclinervellus nielseni</subject>
+      <subject>Araneae</subject>
+      <subject>Araneidae</subject>
+      <subject>Cyclosa algenteoalba</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3BF67</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>759909 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data of tensile test of frame threads in resting webs with graphs regarding force-strain curve. In all graphs, X-axis is strain and Y-axis is force [mN]. First graph (above) is raw force-strain curve, second (middle) is thirty points' moving-averaged force-strain curve, and third (below) is extract of initial slope used for calculation of Young's modulus. All sample names described in each sheet in this category are designated as RF (meaning resting web frame thread) with the number behind hyphen representing each sample (individual web). In this category, there is no replicates (a thread from one web).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

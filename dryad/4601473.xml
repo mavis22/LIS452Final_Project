@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601473</identifier><datestamp>2015-01-13T17:00:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.510TP/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wachter, Gregor A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muster, Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arthofer, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raspotnig, G&#252;nther</creatorName>
+      </creator>
+      <creator>
+         <creatorName>F&#246;ttinger, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Komposch, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steiner, Florian M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlick-Steiner, Birgit C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>nuDNA Meg15 fasta file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Invertebrates</subject>
+      <subject>Phylogeography</subject>
+      <subject>Development and Evolution</subject>
+      <subject>European Alps</subject>
+      <subject>Megabunus armatus</subject>
+      <subject>Megabunus vignai</subject>
+      <subject>Megabunus bergomas</subject>
+      <subject>Megabunus rhinoceros</subject>
+      <subject>Megabunus lesserti</subject>
+      <subject>Megabunus cryptobergomas</subject>
+      <subject>Megabunus lentipes</subject>
+      <subject>Megabunus coelodonta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.510TP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>79838 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains fasta sequences of anonymous locus Meg15 for all individuals used in this study</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

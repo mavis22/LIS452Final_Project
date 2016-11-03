@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5588677</identifier><datestamp>2015-04-13T20:08:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F61BP/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>And&#250;jar, Carmelo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arribas, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruzicka, Filip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crampton Platt, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timmermans, Martijn J. T. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vogler, Alfried P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>#8. Phylogenetic_tree_in Figure_S2_Andujar_et_al. 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>NGS</subject>
+      <subject>Genome skimming</subject>
+      <subject>phylogenetic community structure</subject>
+      <subject>beta diversity</subject>
+      <subject>soil biodiversity</subject>
+      <subject>South Spain</subject>
+      <subject>Coleoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F61BP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>211428 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phylogenetic tree in figure S3 in Andujar et al. 2015 Mol. Ecol.: Maximum likelihood phylogenetic tree including all reference mitogenomes (named in black), contigs in the 3KB dataset (green), contigs in BC dataset (blue) and Sanger cox1 barcodes (red). A backbone tree was obtained on the 3KB dataset including references using Phylobayes and BEAST software and subsequently metagenomic contigs from the BC dataset and the Sanger cox1 barcodes were added using a backbone tree approach in RAxML.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

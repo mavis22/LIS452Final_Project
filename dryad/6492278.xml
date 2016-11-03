@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6492278</identifier><datestamp>2015-07-15T14:43:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.82GN0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cajigas, Ivelisse</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leib, David E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cochrane, Jesse</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Luo, Hao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swyter, Kelsey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Sean</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Brain S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yates III, John R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kingston, Robert E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohtz, Jhumku D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mass Spectrometry Data.Evf2++ Evf2TSTS</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>long non-coding RNA</subject>
+      <subject>chromatin remodeling</subject>
+      <subject>homeodomain proteins</subject>
+      <subject>Evf2</subject>
+      <subject>BRG1 (SMARCA4)</subject>
+      <subject>Coffin Siris</subject>
+      <subject>Ribonucleic acid protein complex (RNP)</subject>
+      <subject>mass spectrometry</subject>
+      <subject>DLX1</subject>
+      <subject>transcriptional regulation</subject>
+      <subject>promiscuous RNA binding</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.82GN0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>220851 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mass spectrometry sequencing of DLX1 complexes isolated by affinity purification of mouse E13.5 embryonic brain ganglionic eminence nuclear extracts.  Complexes are analyzed from Evf2+/+ (wildtype) and Evf2TSTS (lacking the Evf2 long noncoding RNA) mice, and shown in two Excel sheets.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

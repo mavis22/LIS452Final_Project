@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669538</identifier><datestamp>2015-09-09T19:27:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KD00N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crawford, Douglas L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sailfin_Molly_total_Hapmap</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genotyping by sequencing (GBS)</subject>
+      <subject>Sailfin Molly</subject>
+      <subject>Florida</subject>
+      <subject>Poecilia latipinna</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KD00N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5398386 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Initial unfiltered SNP (18,255 SNP) for 144 individual Sailfin Mollies (Poecilia latipinna) were collected from five populations in the spring of 2014. Of the 144 individual sequenced, 122 (thirty per site) were had sufficient sequences and depth of reads for analyses (see filter data set)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4203252</identifier><datestamp>2014-12-30T19:01:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50HF0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nakajima, Yuichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matsuki, Yu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lian, Chunlan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fortes, Miguel D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Uy, Wilfredo H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campos, Wilfredo L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakaoka, Masahiro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nadaoka, Kazuo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Enhalus acoroides microsatllite genotypic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Plant Mating Systems</subject>
+      <subject>Yaeyama Islands</subject>
+      <subject>Hainan Island</subject>
+      <subject>Philippines</subject>
+      <subject>Enhalus acoroides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.50HF0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>202085 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Enhalus acoroides microsatllite genotypic data, 9 loci, 47 populations, 1950 samples. Column A: collection site. Row 1: microsatellite locus name. Allele sizes (base pairs) were output by Applied Biosystems Genetic Analyzer 3130xl.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

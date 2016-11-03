@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211531</identifier><datestamp>2015-12-02T19:36:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C1B54</identifier>
+  <creators>
+      <creator>
+         <creatorName>Colles, Frances</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cain, Russell</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nickson, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Adrian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, Steve</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maiden, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lunn, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dawkins, M</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Monitoring chicken flock behaviour provides early warning of infection by human pathogen Campylobacter</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Campylobacter</subject>
+      <subject>Broiler chickens</subject>
+      <subject>Animal welfare</subject>
+      <subject>Zoonoses</subject>
+      <subject>Food safety</subject>
+      <subject>UK</subject>
+      <subject>present</subject>
+      <subject>Gallus gallus</subject>
+      <subject>Campylobacter spp</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C1B54/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C1B54/3</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3845827</identifier><datestamp>2015-08-28T06:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GV682/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Angert, Amy L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kimball, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterson, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huxman, Travis E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venable, D. Lawrence</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Angert et al. Desert Annuals Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>genetic correlation</subject>
+      <subject>G-matrix</subject>
+      <subject>community assembly</subject>
+      <subject>winter annual plants</subject>
+      <subject>growth rate</subject>
+      <subject>stress tolerance</subject>
+      <subject>Sonoran Desert</subject>
+      <subject>Eriophyllum lanosum</subject>
+      <subject>Stylocline micropoides</subject>
+      <subject>Erodium texanum</subject>
+      <subject>Pectocarya recurvata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GV682</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>129764 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phenotypic measurements of relative growth rate (RGR, measured based on change in leaf area per day) and water-use efficiency (as measured by carbon isotope discrimination, Delta, in ppm) for winter annual plants grown in a greenhouse common garden at Colorado State University. Note that Delta is negatively related to water-use efficiency. Design includes replicate individuals of up to 30 maternal families from each of 4-5 populations per each of 4 species. Species codes: STMI = Stylocline micropoides, PERE = Pectocarya recurvata, ERTE = Erodium texanum, ERLA = Eriophyllum lanosum. Population codes: TUMH = Tumamoc Hill, AZ; OPNM = Organ Pipe National Monument, AZ; SDNM = Sonoran Desert National Monument, AZ; SENT = Sentinel, AZ; RINC = Rincon Mountains, AZ; CALI = Californian populations (see manuscript for exact locations for each species). Climatic values for winter maximum temperature (Tmax_wt), winter minimum temperature (Tmin_wt), and winter precipitation (PPT_wt) were estimated based on latitude and longitude using the program ClimateWNA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

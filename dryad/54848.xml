@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:54848</identifier><datestamp>2015-05-27T08:51:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q1P71Q5Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller, Zachariah J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tip_species_DATA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Biogeography</subject>
+      <subject>Interactions: host/pathogen</subject>
+      <subject>Interactions: plant/insect</subject>
+      <subject>Phylogenetics: comparative</subject>
+      <subject>Species richness</subject>
+      <subject>Fungi</subject>
+      <subject>Plant</subject>
+      <subject>North America</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-09-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q1P71Q5Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>153430 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data on body size (maximum individual height), sampling intensity (number of citations returned in WOS search of latin binomial), geographic range size (estimated using state and county reports), and number of recorded fungal pathogen species for each plant species used in the analysis. The first six columns give taxonomic data for each species including order, family, genus, and species. &#8220;WOScite&#8221; and &#8220;CI&#8221; are the number of citations and log (number of citations), respectively. &#8220;HtMeters&#8221; and &#8220;Loght1&#8221; are the untransformed and log-transformed values for plant species height in meters. &#8220;ANG-GYM&#8221; column describes which clade (angiosperm or gymnosperm) a plant species belongs to. Wither plant species are native to North America (native) and plant species functional group designations (Functional_group) are listed next. Columns N through T contain estimates of plant species geographic range size (km2) and log10-transformed values. State-based estimates are noted with &#8220;ST&#8221; in column title and county-based estimates with &#8220;Co&#8221;. Log-transformed values for county-based range estimates excluding Alaska are labeled &#8220;logSA48&#8221; and estimates including Alaska are labeled &#8220;logSA49&#8221;. &#8220;PSR&#8221; refers to pathogen species richness, i.e. the number of reported fungal pathogen species for each plant species. The log (PSR+1) values are listed in the column labeled &#8220;LogPSRp1&#8221;.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

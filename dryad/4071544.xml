@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4071544</identifier><datestamp>2014-11-20T19:31:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5Q400/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Laura J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agrawal, Anurag A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraft, Clifford E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from Martin et al. 2014 Journal of Ecology</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Plant&#8211;herbivore interactions</subject>
+      <subject>orange jewelweed</subject>
+      <subject>understory</subject>
+      <subject>defence trait</subject>
+      <subject>white-tailed deer</subject>
+      <subject>eastern deciduous forest</subject>
+      <subject>New York</subject>
+      <subject>USA</subject>
+      <subject>Impatiens capensis</subject>
+      <subject>Odocoileus virginianus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5Q400</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>100859 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data from: Historically browsed jewelweed populations exhibit greater tolerance to deer herbivory than historically protected populations, Martin, Laura, Agrawal, Anurag, Kraft, Clifford</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

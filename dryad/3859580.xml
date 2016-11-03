@@ -1,0 +1,96 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3859580</identifier><datestamp>2015-02-09T19:57:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.465TS/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Young, Hillary S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCauley, Douglas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirzo, Rodolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goheen, Jacob R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agwanda, Bernard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brook, Cara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castillo, Erik O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferguson, Adam W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kinyua, Stephen N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDonough, Molly M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palmer, Todd M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pringle, Robert M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Young, Truman P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helgen, Kristofer M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Rodent abundance and community compositoin by site</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>community structure</subject>
+      <subject>defaunation</subject>
+      <subject>environmental gradients</subject>
+      <subject>exclosure experiment</subject>
+      <subject>diversity</subject>
+      <subject>land-use change</subject>
+      <subject>species richness</subject>
+      <subject>Laikipia</subject>
+      <subject>Kenya</subject>
+      <subject>East Africa</subject>
+      <subject>Mus sp.</subject>
+      <subject>Mus sorella</subject>
+      <subject>Zelotomys hildegardea</subject>
+      <subject>Lemniscomys striatus</subject>
+      <subject>Grammomys dolichurs</subject>
+      <subject>Mus tenellus</subject>
+      <subject>Arvicanthis niloticus</subject>
+      <subject>Dendromus melanotis</subject>
+      <subject>Crocidura hildegardea</subject>
+      <subject>Saccostomus mearnsi</subject>
+      <subject>Gerbilliscus robustus</subject>
+      <subject>Mus musculoides</subject>
+      <subject>Acomys kempi</subject>
+      <subject>Taterillus harringtoni</subject>
+      <subject>Crocidura fuscomurina</subject>
+      <subject>Aethomys hindei</subject>
+      <subject>Acomys percivali</subject>
+      <subject>Mus minutoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-08-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.465TS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21039 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file provides site level data for all analyses in this paper.  Each row in the datasheet is a site (site_number), the paired associations in the site are indicated (pair_number).  For each site a range of properties describing the site are provided.  These include: Categorical descriptions of land use (LAND_USE_TYPE), the interpolated level of annual rainfall (a. rainfall) and seasonal rainfall (s.rainfall), the calculated level of vegetation cover (cover), number of plant species per pin (species.per.pin), the max height of veg at each pin (max.height), the total plant species richness per plot (plant.species.richness), the average cover of dung from somesticated species (Dung.dom) and from wild species (Dung.wild), the proportion of pins with grass (grass), sedge (sedge), shrub (shrub), succulent (succulent), tree (tree), other woody species (woody), and agriculture species (agriculture; these species not counted as grasses or forbs to avoid duplicate counts). Predator density measured from camera traps is reported as number of predators per hour of camera trap data.  Sand to silt ratio in pooled soil sample per site is also provided (sand.silt).  All additional columns report catch per unit effort (CPUE) of mammal species per plot.  Mammal species are abbreviated by the first two letters of genus and species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364500</identifier><datestamp>2015-08-21T13:26:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R4N35/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schmidt-Glenewinkel, Hannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barkai, Naama</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>wildtype cells grown in 0%, 0.01%, 0.1% or 0.2% glucose</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life microscopy</subject>
+      <subject>microfluidics</subject>
+      <subject>cell size control</subject>
+      <subject>glucose sensing</subject>
+      <subject>Saccharomyces Cerevisiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R4N35</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>34462199808 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This .nd2 file can be viewed with the Nikon Viewer, available at http://www.nikoninstruments.com/Products/Software/NIS-Elements-Advanced-Research/NIS-Elements-Viewer.  The file contains 80 fields of view (FOVs), images were taken every 10 minutes. The data corresponds to figures 1A, 1B and 1C. Wildtype cells were grown in SC media supplemented with either no glucose (FOV 1 to 20, up to timepoint 144), 0.01% glucose (FOV 21 to 40), 0.1% glucose (FOV 41 to 60) or 0.2% glucose (FOV 61 to 80).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

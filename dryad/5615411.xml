@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5615411</identifier><datestamp>2015-04-30T19:16:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6K72N/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schrama, Maarten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Boheemen, Lotte A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olff, Han</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berg, Matty P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DATA vegetation biomass after 2-year field experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecosystem engineering</subject>
+      <subject>bioturbation</subject>
+      <subject>salt marsh</subject>
+      <subject>soil redox potential</subject>
+      <subject>N mineralization</subject>
+      <subject>soil fauna</subject>
+      <subject>soil aeration</subject>
+      <subject>macro-detritivores</subject>
+      <subject>seedling predation</subject>
+      <subject>vegetation succession</subject>
+      <subject>Orchestia gammarellus</subject>
+      <subject>Elytrigia atherica</subject>
+      <subject>Limonium vulgare</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6K72N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9631 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File presents data vegetation biomass data from 2-year manipulation experiment with  Orchestia gammarellus was addition, removed and control treatments in early (Limonium vulgare) and late successional (Elytrigia atherica) vegetationtypes. Vegetation biomass was determined in a 50x50 cm square, in July 2010. As a result of a mistake during the sample collection, two data points are missing.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239270</identifier><datestamp>2014-11-20T18:22:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.76F45/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Friedman, Jannice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blackman, Benjamin K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willis, John H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Twyford, Alex D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phenotypic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Population Ecology</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Mimulus guttatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.76F45</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>55559 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Measurements of phenotypic data for wild populations grown in a greenhouse</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

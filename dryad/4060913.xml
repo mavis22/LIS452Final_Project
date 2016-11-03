@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4060913</identifier><datestamp>2014-11-20T18:16:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0318J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Halanych, Kenneth M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kocot, Kevin M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Transcriptome assemblies, TLR/LRR nucleotide sequences, and TLR/LRR amino acid sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Lophotrochozoa</subject>
+      <subject>Toll</subject>
+      <subject>TLR</subject>
+      <subject>Toll-like receptor</subject>
+      <subject>data mining</subject>
+      <subject>Lophotrochozoa</subject>
+      <subject>Barentsia</subject>
+      <subject>Glottidia</subject>
+      <subject>Hemithiris</subject>
+      <subject>Laqueus</subject>
+      <subject>Leptochiton</subject>
+      <subject>Loxosoma</subject>
+      <subject>Magelona</subject>
+      <subject>Novocrania</subject>
+      <subject>Paramphinome</subject>
+      <subject>Paranemertes</subject>
+      <subject>Phoronis</subject>
+      <subject>Phyllochaetopterus</subject>
+      <subject>Proneomenia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0318J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>425679546 bytes</size>
+      <size>1363 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data files for: Halanych, K.M. and Kocot, K.M. 2014. Data from: Repurposed Transcriptomic Data Facilitate Discovery of Innate Immunity Toll-Like Receptor (TLR) Genes Across Lophotrochozoa. See README file for detailed description.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

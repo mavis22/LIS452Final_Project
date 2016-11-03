@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1524270</identifier><datestamp>2014-05-30T00:48:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3DV00</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marra, Francesco P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caruso, Tiziano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Costa, Francesca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Di Vaio, Claudio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mafrica, Rocco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marchese, Annalisa</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic relationships, structure and parentage simulation among the olive tree (Olea europaea L. subsp. europaea) cultivated in Southern Italy revealed by SSR markers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Olive</subject>
+      <subject>SSRs</subject>
+      <subject>genetic relationships</subject>
+      <subject>genetic structure</subject>
+      <subject>morphological characterisation</subject>
+      <subject>Italy</subject>
+      <subject>Olea europaea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Marra FP, Caruso T, Costa F, Di Vaio C, Mafrica R, Marchese A (2013) Genetic relationships, structure and parentage simulation among the olive tree (Olea europaea L. subsp. europaea) cultivated in Southern Italy revealed by SSR markers. Tree Genetics &amp; Genomes 9(4): 961-973.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3DV00/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3DV00/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1007/S11295-013-0609-9</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

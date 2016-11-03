@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1630287</identifier><datestamp>2014-05-30T02:49:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.40RD6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Horne, John B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Momigliano, Paolo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Herwerden, Lynne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newman, Stephen J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Murky waters: searching for structure in genetically depauperate blue threadfin populations of Western Australia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Polynemidae</subject>
+      <subject>self-recuitment</subject>
+      <subject>population genetics</subject>
+      <subject>recruitment cohorts</subject>
+      <subject>Western Australia</subject>
+      <subject>Holocene</subject>
+      <subject>Eleutheronema tetradactylum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Horne JB, Momigliano P, van Herwerden L, Newman SJ (2013) Murky waters: searching for structure in genetically depauperate blue threadfin populations of Western Australia. Fisheries Research 146: 1-6.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.40RD6/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.40RD6/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.FISHRES.2013.03.013</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

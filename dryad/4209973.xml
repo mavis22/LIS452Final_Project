@@ -1,0 +1,113 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4209973</identifier><datestamp>2014-12-11T18:39:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C574H/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Alexandrou, Markos A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hall, John D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delwiche, Charles F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cardinale, Bradley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fritschie, Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bentlage, Bastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Narwani, Anita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venail, Patrick A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pankey, M. Sabrina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakley, Todd H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phylo Test Tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Evolutionary Ecology</subject>
+      <subject>Molecular Phylogenetics</subject>
+      <subject>Community Ecology</subject>
+      <subject>North America</subject>
+      <subject>Actinastrum hantzschii</subject>
+      <subject>Acutodesmus obliquus</subject>
+      <subject>Ankistrodesmus falcatus</subject>
+      <subject>Botryococcus braunii</subject>
+      <subject>Botryosphaerella sudetica</subject>
+      <subject>Chlamydocapsa ampla</subject>
+      <subject>Chlamydomonas moewusii</subject>
+      <subject>Chlorella sorokiniana</subject>
+      <subject>Chlorococcum oleofaciens</subject>
+      <subject>Closteriopsis acicularis</subject>
+      <subject>Closterium acerosum</subject>
+      <subject>Coelastrum pulchrum</subject>
+      <subject>Coelastrum microporum</subject>
+      <subject>Cosmarium botrytis</subject>
+      <subject>Cosmarium turpinii</subject>
+      <subject>Crucigenia tetrapedia</subject>
+      <subject>Dictyosphaerium ehrenbergianum</subject>
+      <subject>Euastrum pectinatum</subject>
+      <subject>Follicularia botryoides</subject>
+      <subject>Fusola viridis</subject>
+      <subject>Chlamydocapsa planctonica</subject>
+      <subject>Gloeomonas kupfferi</subject>
+      <subject>Hegewaldia parvula</subject>
+      <subject>Hariotina reticulata</subject>
+      <subject>Micractinium pusillum</subject>
+      <subject>Monoraphidium arcuatum</subject>
+      <subject>Monoraphidium minutum</subject>
+      <subject>Mougeotia sp.</subject>
+      <subject>Mucidosphaerium pulchellum</subject>
+      <subject>Oocystis parva</subject>
+      <subject>Oocystis polymorpha</subject>
+      <subject>Oocystis solitaria</subject>
+      <subject>Pandorina charkowiensis</subject>
+      <subject>Pediastrum duplex</subject>
+      <subject>Pseudopediastrum boryanum</subject>
+      <subject>Quadrigula closterioides</subject>
+      <subject>Radiococcus polycoccus</subject>
+      <subject>Acutodesmus acuminatus</subject>
+      <subject>Scenedesmus ecornis</subject>
+      <subject>Desmodesmus quadricaudatus</subject>
+      <subject>Raphidocelis subcapitata</subject>
+      <subject>Sphaerocystis schroeteri</subject>
+      <subject>Spondylosium planum</subject>
+      <subject>Staurastrum cingulum</subject>
+      <subject>Staurastrum ophiura</subject>
+      <subject>Staurastrum punctulatum</subject>
+      <subject>Staurastrum tetracerum</subject>
+      <subject>Stauridium tetras</subject>
+      <subject>Staurodesmus convergens</subject>
+      <subject>Tetraedron minutum</subject>
+      <subject>Tetrastrum heteracanthum</subject>
+      <subject>Volvox tertius</subject>
+      <subject>Zygnema cylindricum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C574H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4921 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Resulting maximum likelihood tree from phylotest matrix. These data were used to test models of phylogenetic community structure in picante.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

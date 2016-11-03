@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1053164</identifier><datestamp>2015-09-25T15:58:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CP00B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Turley, Nash</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Odell, Walter C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schaefer, Hanno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Everwand, Georg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crawley, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Marc T. J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>all data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>herbivory</subject>
+      <subject>contemporary evolution</subject>
+      <subject>Silwood Park</subject>
+      <subject>Imperial College</subject>
+      <subject>England</subject>
+      <subject>0.642 W</subject>
+      <subject>51.409 N</subject>
+      <subject>Rumex acetosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CP00B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2156032 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Above and belowground biomass of rumex plants collected from rabbit exclusion plots at Silwood Park England and grown in a common garden (greenhouse) with one tab for all plant data and another for plot means (for regressions). A tab for plant oxalate concentration data measured using phtoteospectometry. Another tab for plant tannin concentration. Finally, another tab for biomass of oenothera (our competitor).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

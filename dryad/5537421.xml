@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5537421</identifier><datestamp>2015-05-22T20:24:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JR531/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>King, Wendy J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>characteristics of adoptive mothers and offspring survival</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>adoption</subject>
+      <subject>allonursing</subject>
+      <subject>maternal care</subject>
+      <subject>misdirected care</subject>
+      <subject>marsupial</subject>
+      <subject>kangaroo</subject>
+      <subject>Wilsons Promontory National Park</subject>
+      <subject>Macropus giganteus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JR531</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56632 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Each line represents an adoptive female and one year.  M condition = maternal condition.  Age 1 = young, Age 2 = prime, Age 3 = old.  Parity 1 = primiparous, Parity 2 = multiparous.  Adoption 0 = no, Adoption 1 = yes.  Survival to 21 months 0 = no, Survival to 21 months 1 = yes.  Switch 0 = no, Switch 1 = yes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

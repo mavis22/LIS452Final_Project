@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017360</identifier><datestamp>2014-10-16T19:09:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QT14R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duncan, Alison B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agnew, Philip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noel, Val&#233;rie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Michalakis, Yannis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Duncan_ParasiteTransmission_Coinfections</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>co-infection</subject>
+      <subject>horizontal transmission</subject>
+      <subject>vertical transmission</subject>
+      <subject>Aedes aegypti</subject>
+      <subject>Edhazardia aedis</subject>
+      <subject>Vavraia culicis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QT14R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>85931 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Entered publication blackout by Elizabeth Hull(elizabeth.dryad@gmail.com) on 2014-09-25T14:13:43Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3786012</identifier><datestamp>2015-06-23T20:44:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D5H1N/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ma, Peng-Fei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Yu-Xiao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zeng, Chun-Xia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guo, Zhen-Hua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, De-Zhu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Temperate woody bamboos</subject>
+      <subject>chloroplast phylogenomics</subject>
+      <subject>low sequence divergence</subject>
+      <subject>data partitioning</subject>
+      <subject>branch length</subject>
+      <subject>sampling</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D5H1N.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5774158 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains 8 data matrices used in the study for phylogenetic analyses. The names of the data sets correspond to those in the main text.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4198263</identifier><datestamp>2014-12-30T21:19:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FM67N</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jeraldo, Patricio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kalari, Krishna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Xianfeng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bhavsar, Jaysheel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mangalam, Ashutosh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Bryan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nelson, Heidi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kocher, Jean-Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chia, Nicholas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: IM-TORNADO: a tool for comparison of 16S reads from paired-end libraries</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>microbiome</subject>
+      <subject>16S rDNA</subject>
+      <subject>paired-end sequencing</subject>
+      <subject>bioinformatics</subject>
+      <subject>Bacteria</subject>
+      <subject>Archaea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Jeraldo P, Kalari K, Chen X, Bhavsar J, Mangalam A, White B, Nelson H, Kocher J, Chia N (2014) IM-TORNADO: a tool for comparison of 16S reads from paired-end libraries. PLoS ONE 9(12): e114804.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FM67N/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0114804</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

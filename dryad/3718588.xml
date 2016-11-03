@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3718588</identifier><datestamp>2014-10-03T18:18:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S1P14/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>de Polo, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Margiotta-Casaluci, Luigi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lockyer, Anne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scrimshaw, Mark D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Enpoints results from in vivo 1 and 2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>copper</subject>
+      <subject>salinity</subject>
+      <subject>carbonic anhydrase (CA2)</subject>
+      <subject>multiple stressors</subject>
+      <subject>Cyprinodon variegatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S1P14</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>39553 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains all the measured endpoints of the two in vivo experiments (Worksheet 1 and 2) described in the manuscript, including: plasma ions concentrations and gene expression levels of NKA and CA2 in samples of gills and intestine. The spreadsheet also reports fish sex, copper exposure concetrations and salinity. The datasets are presented in a format that can be easily used for PCA analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

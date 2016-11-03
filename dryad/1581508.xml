@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1581508</identifier><datestamp>2014-05-30T00:53:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H30T5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Davis, Aaron M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Unmack, Peter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pusey, Bradley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pearson, Richard G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morgan, David L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ontogenetic development of intestinal length and relationships to diet in an Australasian fish family (Terapontidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>dietary radiation</subject>
+      <subject>allometry</subject>
+      <subject>morphological evolution</subject>
+      <subject>phylogenetic comparative method</subject>
+      <subject>herbivory-detritivory</subject>
+      <subject>Australia</subject>
+      <subject>Papua New Guinea</subject>
+      <subject>Indonesia</subject>
+      <subject>Terapontidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Davis AM, Unmack PJ, Pusey BJ, Pearson RG, Morgan DL (2013) Ontogenetic development of intestinal length and relationships to diet in an Australasian fish family (Terapontidae). BMC Evolutionary Biology 13: 53.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H30T5/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H30T5/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H30T5/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H30T5/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H30T5/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1471-2148-13-53</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

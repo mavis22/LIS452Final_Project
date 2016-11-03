@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211363</identifier><datestamp>2015-12-02T18:18:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GN4P4/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Looney, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ryberg, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hampe, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#225;nchez-Garc&#237;a, Marisol</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matheny, Brandon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Russula multigene alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>latitudinal diversity gradient</subject>
+      <subject>Fungi</subject>
+      <subject>Phylogeography</subject>
+      <subject>Phyloinfomatics</subject>
+      <subject>Russulaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GN4P4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>445724 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Multigene alignment of sequences from vouchered specimens identified by taxonomic experts for 4 loci (ITS 1-953, LSU 954-1902, rpb1 (intron 1903-2559, exon 2560-3267), and rpb2 3268-4049).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

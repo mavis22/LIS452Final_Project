@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5690280</identifier><datestamp>2015-05-29T17:43:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9K219/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Czaczkes, Tomer J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Czaczkes, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iglhaut, Carolin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heinze, J&#252;rgen</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ESM 2 - complete netlogo model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Decision making</subject>
+      <subject>memory</subject>
+      <subject>communication</subject>
+      <subject>recruitment</subject>
+      <subject>foraging</subject>
+      <subject>agent based modelling</subject>
+      <subject>Lasius niger</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9K219</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>34407 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The complete Netlogo model, and all files nececcary to run it. Netlogo must be installed in order to run the model. Netlogo is available for free from https://ccl.northwestern.edu/netlogo. Note that the two .nls files must be in the same folder as the .nlogo file in order for the model to work. A full description of the model is available in the "information" tab inside the model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

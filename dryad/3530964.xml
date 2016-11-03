@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3530964</identifier><datestamp>2015-04-12T12:17:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TS98D/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marra, Nicholas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Romero, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeWoody, J. Andrew</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Guide Tree for PAML analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Transcriptomics</subject>
+      <subject>Kidney</subject>
+      <subject>Kangaroo Rat</subject>
+      <subject>desert rodent</subject>
+      <subject>differential expression</subject>
+      <subject>Portal Arizona</subject>
+      <subject>La Selva Biological Station Puerto Viejo Costa Rica</subject>
+      <subject>Dipodomys spectabilis</subject>
+      <subject>Chaetodipus baileyi</subject>
+      <subject>Heteromys desmarestianus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TS98D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>40 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the tree that was used in codeml as a guide tree for the branch and branch-site tests (see text of methods).  The tree is unrooted to as is required for these tests.  The two desert lineages, Dipodomys spectabilis and Chaetodipus baileyi have been marked with #1 to indicate them as foreground branches to be assigned a different rate than the rest of the tree.  D_spec = Dipodomys spectabilis, C_bail = Chaetodipus baileyi, H_desm = Heteromys desmarestianus, M_musc = Mus musculus.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

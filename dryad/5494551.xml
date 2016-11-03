@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5494551</identifier><datestamp>2015-03-16T17:51:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4T83T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hooper, Daniel M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Price, Trevor Douglas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplemental Tables S1-S6</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Chromosomal Evolution</subject>
+      <subject>Gene Flow</subject>
+      <subject>Genetic Drift</subject>
+      <subject>Speciation</subject>
+      <subject>Biogeography</subject>
+      <subject>Estrildidae</subject>
+      <subject>Passeriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4T83T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>114481 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplemental information on: 1) cytological data sources, 2) karyotype data matrix, 3) loci used and Genbank references for phylogenetic analyses, 4) range size and continentality in five clades of Estrildid finches, 5) pairwise range overlap in five clades of Estrildid finches, and 6) summary of karyotype variation across all Passerifomes sorted by family</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

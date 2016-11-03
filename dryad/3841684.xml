@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3841684</identifier><datestamp>2014-10-28T17:55:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DP0QJ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ernest, Holly B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vickers, T. Winston</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrison, Scott A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buchalski, Michael R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyce, Walter M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ernest-etal-Genotypes_PLosOne2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>conservation</subject>
+      <subject>cougar</subject>
+      <subject>effective population size</subject>
+      <subject>gene flow</subject>
+      <subject>genetic bottleneck</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>mountain lion</subject>
+      <subject>puma</subject>
+      <subject>road</subject>
+      <subject>wildlife corridor</subject>
+      <subject>California</subject>
+      <subject>Holocene</subject>
+      <subject>Puma concolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DP0QJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>137208 bytes</size>
+      <size>1765 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">README file: Ernest et al. California puma (mountain lion) genetics published in PLOS ONE 2014. Title: Fractured genetic connectivity threatens a southern California puma (Puma concolor) population. Authors:  Holly B. Ernest, T. Winston Vickers, Scott A. Morrison, Michael R. Buchalski, Walter M. Boyce.  Corresponding author: Holly B. Ernest  hbernest-at-ucdavis-dot-edu and hernest-at-uwyo-dot-edu. Data file (tab-delim. text):&#13;
+Ernest-etal-Genotypes_PLosOne2014_FracturedConnecPumasCalif_14Aug2014.txt. File contents: Sample ID #; Population identifier; 3-digit nuclear microsatellite genotypic data (diploid, one allele per column, two columns per locus) for 46 loci (42 for the focal populations of this paper).  Locus identifier is listed in the first of the two columns for data of each locus. Data in one row per individual sample.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

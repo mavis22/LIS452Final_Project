@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330185</identifier><datestamp>2015-07-14T16:57:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7G02R/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Westermann, Fabian L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McPherson, Iain S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Tappy H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milicich, Lesley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lester, Phillip J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Venom survivability</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ants</subject>
+      <subject>invasive species</subject>
+      <subject>venom</subject>
+      <subject>toxicity</subject>
+      <subject>competition</subject>
+      <subject>New Zealand</subject>
+      <subject>Linepithema humile</subject>
+      <subject>Monomorium antarcticum</subject>
+      <subject>Monomorium sydneyense</subject>
+      <subject>Monomorium smithii</subject>
+      <subject>Monomorium antipodum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7G02R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2634 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The table "Venom survivability.csv" corresponds to the manuscript sections of the same name. It contains the responses of Argentine ants after 1 and 4 hours when treated with different concentrations of venom of four different Monomorium ant species and can be used to calculate the LD 50 of these venoms on Argentine ants. The experimental design is explained in the publication in the methods section with the same name as the datafile, further description of this and the other datafiles associated with this publication can be found in the ReadMe.txt</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

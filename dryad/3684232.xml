@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3684232</identifier><datestamp>2015-10-01T06:31:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N11S7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tully, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Claessen, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Bourlot, Vincent</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Time series of population plotted in Figure 5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Competition</subject>
+      <subject>Density dependence</subject>
+      <subject>Ecology: theoretical</subject>
+      <subject>Modeling: ecological</subject>
+      <subject>Modeling: individual based</subject>
+      <subject>Modeling: population ecology</subject>
+      <subject>Population: cycles</subject>
+      <subject>Population: dynamics</subject>
+      <subject>Population: structure</subject>
+      <subject>Theory</subject>
+      <subject>Folsomia candida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N11S7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>176212 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The collembolans are maintained in the laboratory in polyethylene vials (diameter 52mm, height 65mm) filled with a 30 mm width layer of a plaster of Paris mixed with Indian ink to facilitate detection of the individuals. Food is provided weekly in the form of small dried pellets of a mixture of agar and dried yeast in standardized concentration and volume. Data gives the body length and date of measurement for each individual for the whole time series.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

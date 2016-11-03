@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4643366</identifier><datestamp>2015-02-17T20:32:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7NV0H/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Budischak, Sarah A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoberg, Eric P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abrams, Art</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jolles, Anna E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ezenwa, Vanessa O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequences for adult-matched nematode larvae</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Host parasite interactions</subject>
+      <subject>DNA barcoding</subject>
+      <subject>ITS-2</subject>
+      <subject>helminth identification</subject>
+      <subject>fecal egg count</subject>
+      <subject>molecular diagnostics</subject>
+      <subject>South Africa</subject>
+      <subject>Kruger National Park</subject>
+      <subject>Haemonchus placei</subject>
+      <subject>Syncerus caffer</subject>
+      <subject>Haemonchus bedfordi</subject>
+      <subject>Cooperia fuelleborni</subject>
+      <subject>Trichostrongylus</subject>
+      <subject>Parabronema</subject>
+      <subject>Africanastrongylus giganticus</subject>
+      <subject>Africanastrongylus buceros</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7NV0H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>106224 bytes</size>
+      <size>2433 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File includes the ITS-2 sequences for each larvae from hosts with matching adult nematode specimens. This is the data set used to generate the larval species-specific count data listed in datafile &#8220;Adult-larvae matched nematode samples.csv&#8221;. An explanation of how these data were generated is included in the publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

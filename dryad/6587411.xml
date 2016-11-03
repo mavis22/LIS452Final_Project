@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6587411</identifier><datestamp>2015-08-11T15:38:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V7817/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dearlove, Bethany L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frost, Simon D. W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Trees in newick format</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>tree shape</subject>
+      <subject>asymmetry</subject>
+      <subject>tree balance</subject>
+      <subject>RNA viruses</subject>
+      <subject>phylogenetics</subject>
+      <subject>population structure</subject>
+      <subject>contact rates</subject>
+      <subject>phylodynamics</subject>
+      <subject>epidemiology</subject>
+      <subject>HIV</subject>
+      <subject>ebola virus</subject>
+      <subject>influenza H5N1</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V7817</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8172 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a .zip file containing the within-host HIV, H5N1 influenza and ebola virus trees in Newick &#13;
+format which were analysed in the paper. Many thanks to Andrew Rambaut (University of Edinburgh) for&#13;
+providing the ebola phylogeny.&#13;
+&#13;
+Data originally from:&#13;
+&#13;
+1) Within-host HIV (P83_HIV.nwk)&#13;
+Frost SDW, Wrin T, Smith DM, Kosakovsky Pond SL, Liu Y, et al. (2005) Neutralizing antibody&#13;
+responses drive the evolution of human immunodeficiency virus type 1 envelope during recent HIV&#13;
+infection. Proc Natl Acad Sci USA 102: 18514-9&#13;
+&#13;
+2) H5N1 influenza (H5N1_flu.nwk)&#13;
+Wallace RG, HoDac H, Lathrop RH, Fitch WM (2007) A statistical phylogeography of influenza A&#13;
+H5N1. Proc Natl Acad Sci USA 104: 4473-4478.&#13;
+&#13;
+3) Ebola Virus (Ebola.nwk)&#13;
+Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, et al. (2014) Genomic surveillance elucidates&#13;
+Ebola virus origin and transmission during the 2014 outbreak. Science 345: 1369-1372.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

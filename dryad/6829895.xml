@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6829895</identifier><datestamp>2015-10-29T18:47:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G4N5M/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rahman, Imran A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zamora, Samuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Falkingham, Peter L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phillips, Jeremy C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Video S1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Palaeobiology</subject>
+      <subject>Palaeontology</subject>
+      <subject>Functional morphology</subject>
+      <subject>Evolutionary biology</subject>
+      <subject>Computational fluid dynamics</subject>
+      <subject>Spain</subject>
+      <subject>Cambrian</subject>
+      <subject>Echinodermata</subject>
+      <subject>Protocinctus mansillaensis</subject>
+      <subject>Deuterostomia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G4N5M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27083452 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Results of a CFD simulation using a time-dependent solver to show flow time-evolution. Simulation of passive tentacular feeding with Protocinctus oriented at 180&#176; to the current (ambient velocity of 0.2 m/s) and with the ventral swelling buried within the sediment, visualized as two-dimensional plots (horizontal cross-sections) of flow velocity magnitude (false-colour scale different for each ambient flow velocity) with streamlines over the first 10 s with a time step size of 0.01 s.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

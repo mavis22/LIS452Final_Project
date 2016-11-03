@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5547407</identifier><datestamp>2015-07-24T16:55:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QK835/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sturrock, Anna M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunter, Ewan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milton, J. Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edinburgh Ion Microprobe Facility</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Rachel C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waring, Colin P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trueman, Clive N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Time series elemental and physiological data for experimental plaice serially sampled for 7-12 months</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biochemistry</subject>
+      <subject>fisheries management</subject>
+      <subject>migration</subject>
+      <subject>oxygen isotopes</subject>
+      <subject>population structure</subject>
+      <subject>reproductive cycle</subject>
+      <subject>trace metal</subject>
+      <subject>vital effect</subject>
+      <subject>Irish Sea</subject>
+      <subject>English Channel</subject>
+      <subject>North Sea</subject>
+      <subject>UK</subject>
+      <subject>2009-2010</subject>
+      <subject>Pleuronectes platessa L.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QK835</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>183360 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plaice were serially sampled for 7-12 months under ambient but monitored conditions. Each fish was sampled approximately monthly. Measurements in the attached data file include physiological variables (e.g. plasma protein concentrations, age, weight, length, female gonadosomatic index), otolith growth rates and opacity, and blood plasma and otolith elemental concentrations. Environmental data (salinity, temperature and seawater elemental concentrations) are also displayed. Note that elemental concentrations and element/calcium ratios are denoted as X.El and X.El.Ca for concentrations of element (&#8216;El&#8217;) in medium &#8216;X&#8217;, where &#8216;X&#8217; is either seawater (SW), blood plasma (B) or otolith (O).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

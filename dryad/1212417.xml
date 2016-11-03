@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1212417</identifier><datestamp>2014-11-05T07:33:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.47SD5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crawford, Lindsay A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koscinski, Daria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keyghobadi, Nusha</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Extracted information from AFLP studies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>amplified fragment length polymorphsim (AFLP)</subject>
+      <subject>genotyping error rate</subject>
+      <subject>population genetics</subject>
+      <subject>publishing standards</subject>
+      <subject>reproducibility</subject>
+      <subject>replicate samples</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-11-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.47SD5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>386859 bytes</size>
+      <size>61863 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-09-18T13:38:50Z (GMT). No. of bitstreams: 2&#13;
+README.pdf: 386859 bytes, checksum: 1d6e607c5fe9c64ed99ae60bd519bfb1 (MD5)&#13;
+cv_Extracted_AFLP_Data.csv: 61863 bytes, checksum: 119aa862e3b2cafc1c62fbbe68dca992 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

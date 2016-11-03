@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6735560</identifier><datestamp>2015-09-21T18:13:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3F08F</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kitchen, Sheila A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crowder, Camerron M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poole, Angela Z.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weis, Virginia M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Eli</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: De novo assembly and characterization of four anthozoan (phylum Cnidaria) transcriptomes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral</subject>
+      <subject>phylogenomics</subject>
+      <subject>non-model system</subject>
+      <subject>database</subject>
+      <subject>Anthopleura elegantissima</subject>
+      <subject>Fungia scutaria</subject>
+      <subject>Seriatopora hystrix</subject>
+      <subject>Montastraea cavernosa</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kitchen SA, Crowder CM, Poole AZ, Weis VM, Meyer E (2015) De novo assembly and characterization of four anthozoan (phylum Cnidaria) transcriptomes. G3: Genes - Genomes - Genetics, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3F08F/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3F08F/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3F08F/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3F08F/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1534/G3.115.020164</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

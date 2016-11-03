@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6556897</identifier><datestamp>2015-08-14T14:46:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H58N0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grey, Erin K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiasson, Susan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Hannah G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Troeger, Victoria J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, Caz M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Callinectes sp. megalopae dry weights</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Blue Crab</subject>
+      <subject>Deepwater Horizon</subject>
+      <subject>megalopae</subject>
+      <subject>larval settlement</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>-84.980706 29.726056</subject>
+      <subject>-89.793158 30.064297</subject>
+      <subject>-88.077806	30.251275</subject>
+      <subject>-94.817131 29.312742</subject>
+      <subject>-89.962331 29.262911</subject>
+      <subject>-88.800297 30.39155</subject>
+      <subject>-87.159075 30.337825</subject>
+      <subject>-89.634422 30.152858</subject>
+      <subject>Holocene</subject>
+      <subject>Callinectes sapidus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H58N0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29184 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data includes the mean dry weights of Callinectes sp. megalopae fixed in ethanol as described in the associciated manuscript. The dataset includes four fields. First is "Year", either 2010 or 2011. The second is "Site", one of 7 sites (see notes on Settlement file for site coordinates). The third field is the biweekly weight period. Period A starts on May 16th, B on May 30th, C on June 13th and so on until October 31st for a total of 12 biweekly periods each year. The "WPU_mg" field is the individual dry weight in milligrams measured for that time period.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

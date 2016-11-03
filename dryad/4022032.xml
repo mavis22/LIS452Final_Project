@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4022032</identifier><datestamp>2014-12-11T19:49:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3B4D8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Williams, Caroline Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Watanabe, Miki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guarracino, Mario R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferraro, Maria Brigida</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edison, Arthur S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morgan, Theodore J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boroujerdi, Arezue F. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hahn, Dan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Cold adaptation shapes the robustness of metabolic networks in Drosophila melanogaster.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>energy balance</subject>
+      <subject>thermal limits</subject>
+      <subject>insect</subject>
+      <subject>winter</subject>
+      <subject>correlation networks</subject>
+      <subject>NMR-based metabolomics</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Williams CM, Watanabe M, Guarracino MR, Ferraro MB, Edison AS, Morgan TJ, Boroujerdi AFB, Hahn DA (2014) Cold adaptation shapes the robustness of metabolic networks in Drosophila melanogaster. Evolution 68(12): 3505-3523.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3B4D8/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12541</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

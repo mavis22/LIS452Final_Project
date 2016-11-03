@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6587418</identifier><datestamp>2015-08-11T15:45:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H4F7P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>De Groeve, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van de Weghe, Nico</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ranc, Nathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neutens, Tijs</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ometto, Lino</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rota-Stabelli, Omar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cagnacci, Francesca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Real and simulated habitat use sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>autocorrelation</subject>
+      <subject>data exploration</subject>
+      <subject>dendrograms</subject>
+      <subject>distance</subject>
+      <subject>habitat use</subject>
+      <subject>Hamming</subject>
+      <subject>roe deer</subject>
+      <subject>spatio-temporal sequences</subject>
+      <subject>Trentino</subject>
+      <subject>north-east Italy</subject>
+      <subject>Monte Bondone</subject>
+      <subject>Monte Stivo</subject>
+      <subject>2006-2008</subject>
+      <subject>Capreolus capreolus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H4F7P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15152934 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset contains simulated and real bimonthly spatio-temporal habitat use sequences, distinguishing four habitat use classes (high-closed, 4; high-open, 3; low-closed, 2; low-open,1). Simulated sequences represent four patterns of habitat selection (alternating, random, open, closed) and were simulated in 9 different landscapes with different proportions of availability of open and closed habitats (10-90% open, each saved as a separate csv-file, e.g. Movement_random_10_open_alternance.csv). The real sequences (data_real.csv) give the bimonthly sequential habitat use for 26 roe deer, in total consisting of 111 sequences. Also several variables were associated to the real sequences (e.g. animal, sex, age, migration, home range size, proportion of closed, season). In this dataset we also provide the raw correlation matrices (e.g. Open_10_) for each of the nine landscapes, which were used as input for the substitution weight matrices.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

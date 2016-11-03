@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1980062</identifier><datestamp>2014-10-02T06:32:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8V0C3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Palkovacs, Eric P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hasselman, Daniel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Argo, Emily E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gephard, Stephen R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Limburg, Karin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Post, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schultz, Thomas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willis, Theodore V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Combining genetic and demographic information to prioritize conservation efforts for anadromous alewife and blueback herring</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Conservation Biology</subject>
+      <subject>Fisheries Management</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Western Atlantic coastal rivers</subject>
+      <subject>2009-2012</subject>
+      <subject>Alosa pseudoharengus</subject>
+      <subject>Alosa aestivalis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Palkovacs EP, Hasselman DJ, Argo EE, Gephard SR, Limburg KE, Post DM, Schultz TF, Willis TV (2013) Combining genetic and demographic information to prioritize conservation efforts for anadromous alewife and blueback herring. Evolutionary Applications 7(2): 212&#8211;226.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8V0C3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8V0C3/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12111</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

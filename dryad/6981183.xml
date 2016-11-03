@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6981183</identifier><datestamp>2015-11-09T15:12:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4CC5M</identifier>
+  <creators>
+      <creator>
+         <creatorName>Collins, Murray B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchard, Edward T. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Integrated radar and lidar analysis reveals extensive loss of remaining intact forest on Sumatra 2007&#8211;2010</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>deforestation</subject>
+      <subject>carbon stocks</subject>
+      <subject>carbon emissions</subject>
+      <subject>above ground biomass</subject>
+      <subject>Indonesia</subject>
+      <subject>Sumatra</subject>
+      <subject>Jambi province</subject>
+      <subject>South Sumatra province</subject>
+      <subject>Anthropocene</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Collins MB, Mitchard ETA (2015) Integrated radar and lidar analysis reveals extensive loss of remaining intact forest on Sumatra 2007&#8211;2010. Biogeosciences Discussions 12(11): 8573-8614.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4CC5M/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4CC5M/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.5194/BGD-12-8573-2015</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

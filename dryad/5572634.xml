@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5572634</identifier><datestamp>2015-05-01T19:17:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KH312/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sadowska, Edyta T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stawski, Clare</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rudolf, Agata</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dheyongera, Geoffrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chrz&#261;&#347;cik, Katarzyna M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baliga-Klimczyk, Katarzyna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koteja, Pawe&#322;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw values of BMR</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>basal metabolic rate</subject>
+      <subject>endothermy</subject>
+      <subject>food habits</subject>
+      <subject>aerobic metabolism</subject>
+      <subject>experimental evolution</subject>
+      <subject>Poland</subject>
+      <subject>Myodes glareolus</subject>
+      <subject>Rodentia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KH312</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>93125 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File with raw results of the measurements of basal metabolic rate performed on voles from generation 11 of the selection experiment</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

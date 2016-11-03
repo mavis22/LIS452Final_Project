@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82252</identifier><datestamp>2015-10-26T20:13:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7944</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roe, Amanda D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rice, Adrianne V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooke, Janice E. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sperling, Felix A. H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Comparative phylogeography, genetic differentiation, and contrasting reproductive modes in three fungal symbionts of a multipartite bark beetle symbiosis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>comparative phylogeography</subject>
+      <subject>congruence analysis</subject>
+      <subject>multilocus sequence typing</subject>
+      <subject>Fungi</subject>
+      <subject>multipartite symbiosis</subject>
+      <subject>western Canada</subject>
+      <subject>Alberta</subject>
+      <subject>British Columbia</subject>
+      <subject>Grosmannia clavigera</subject>
+      <subject>Leptographium longiclavatum</subject>
+      <subject>Ophiostoma montium</subject>
+      <subject>Dendroctonus ponderosae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Roe AD, Rice AV, Coltman DW, Cooke JEK, Sperling FAH (2010) Comparative phylogeography, genetic differentiation, and contrasting reproductive modes in three fungal symbionts of a multipartite bark beetle symbiosis. Molecular Ecology 20(3): 584-600.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7944/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7944/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7944/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7944/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2010.04953.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

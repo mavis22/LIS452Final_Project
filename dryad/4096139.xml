@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4096139</identifier><datestamp>2014-12-03T19:47:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QJ597/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>James, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verkhivker, Gennady M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ForceConstantAnalysis_RawData</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>protein kinases</subject>
+      <subject>structural stability</subject>
+      <subject>force constant analysis</subject>
+      <subject>protein structure network analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QJ597</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15903555 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">we analyzed structural stability of the regulatory regions in different functional states of the ErbB kinases and characterized  mutation-induced  changes in stability profiles that may be relevant for activation mechanisms.   For this analysis, we employed a number of complementary approaches, including the force constant profiling of   residue connectivity, the contact network analysis of residue closeness, the relative solvent accessibility (RSA) evaluation of local residue environment, and the network-based analysis of local contact density.  In the  ensemble-based force constant analysis, the equilibrium fluctuations of the mean distance between each residue and the rest of the protein were converted into force constants that measure the energy cost of   the residue displacement during equilibrium simulations.  The high force constants are typically associated with structurally stable residues that display small fluctuations in their distances to other residues   and often correspond to highly connect and effectively communicating rigid sites. Previous studies have linked structural stability of functionally   important residues  with their high connectivity, particularly  indicating that catalytic and binding site residues typically have high force constant values, which reflects functional constraints imposed on their movement.  Abrupt changes between maxima and minima in the force constant profiles   may be   associated with the  regions bridging structurally rigid and flexible regions, often pointing to the  hinge sites. The hypothesis tested in our analysis is that the R-spine  residues  could effectively mediate structural stability and allosteric interactions via regulatory regions.&#13;
+The analysis revealed that high force constant residues in the catalytic domain are assembled near the  &#945;C-helix,  &#945;E-helix and &#945;F-helix regions  suggesting that structural stability of these structural elements may be critical for   allosteric coupling between regulatory regions</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

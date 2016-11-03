@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3651402</identifier><datestamp>2014-05-31T17:20:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.923N7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ljungfeldt, Lina Eva R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Espedal, Per Gunnar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nilsen, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Skern-Mauritzen, Mette</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Glover, Kevin Alan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A common-garden experiment to quantify evolutionary processes in copepods: the case of emamectin benzoate resistance in the parasitic sea louse Lepeophtheirus salmonis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>resistance development</subject>
+      <subject>emamectin benzoate</subject>
+      <subject>common-garden</subject>
+      <subject>phenotypic variability</subject>
+      <subject>parasite evolution</subject>
+      <subject>Lepeophtheirus salmonis salmonis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ljungfeldt LER, Espedal PG, Nilsen F, Skern-Mauritzen M, Glover KA (2014) A common-garden experiment to quantify evolutionary processes in copepods: the case of emamectin benzoate resistance in the parasitic sea louse Lepeophtheirus salmonis. BMC Evolutionary Biology 14: 108.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.923N7/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1471-2148-14-108</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

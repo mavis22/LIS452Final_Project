@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6345611</identifier><datestamp>2015-07-15T20:36:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.91ND2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McNickle, Gordon G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deyholos, Michael K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cahill Jr., James F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Nutrient foraging behaviour of four co-occuring perennial grassland plant species alone does not predict behaviour with neighbours</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>competition</subject>
+      <subject>plant behaviour</subject>
+      <subject>plant-plant competition</subject>
+      <subject>plant foraging</subject>
+      <subject>resource selection function</subject>
+      <subject>root foraging precision</subject>
+      <subject>tragedy of the commons game</subject>
+      <subject>over-proliferation</subject>
+      <subject>Achillea millefolium</subject>
+      <subject>Artemisia ludoviciana</subject>
+      <subject>Koeleria macrantha</subject>
+      <subject>Poa pratensis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">McNickle GG, Deyholos MK, Cahill Jr. JF (2015) Nutrient foraging behaviour of four co-occuring perennial grassland plant species alone does not predict behaviour with neighbours. Functional Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.91ND2/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.91ND2/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.91ND2/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12508</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

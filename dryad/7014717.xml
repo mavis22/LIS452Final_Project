@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7014717</identifier><datestamp>2015-11-12T17:22:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NQ648/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>La Sorte, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hochachka, Wesley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farnsworth, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Doren, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fink, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelling, Steve</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>STEM_probability-of-occurrence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>flight altitude</subject>
+      <subject>mid-latitudes</subject>
+      <subject>polar-front jet stream</subject>
+      <subject>seasonal avian migration</subject>
+      <subject>weather surveillance radar</subject>
+      <subject>wind</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NQ648</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>809078 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Weekly estimates of probability of occurrence for 142 migratory species within 37.5 km radius circles centered on 12 weather surveillance radar stations located in the northeastern USA . Estimates are derived from spatiotemporal exploratory models (STEM) with occurrence information from the eBird citizen science dataset for the combined period 2004 to 2011.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

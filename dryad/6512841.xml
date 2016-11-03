@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6512841</identifier><datestamp>2015-07-22T14:52:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RN745/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Meyer, Wynn K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venkat, Aarti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kermany, Amir R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van de Geijn, Bryce</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Sidi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Przeworski, Molly</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset S1: Annotated transcripts in the 1% FST tail</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Mammals</subject>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Eulemur flavifrons</subject>
+      <subject>Eulemur macaco</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RN745</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63745 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This list contains all transcripts mapped to regions in the 1% tail of FST from the full dataset in either species. Columns represent Ensembl transcript ID, region of high FST where the transcript was annotated, start position of the transcript within the region, end position of the transcript within the region, proportion of the transcript mapped to the region, mean percent identity for parts of the transcript that mapped, Ensembl gene ID, and gene symbol. We annotated genes in the 1% tail of all 20 kb non-overlapping windows by aligning human protein sequences to the blue-eyed black lemur genome. We obtained protein sequences for human genome build hg18 and used TBLASTN version 2.2.22+ (Altschul et al. 1990, 1997), with an e-value threshold of 5 x 10-5 to identify orthologs within the regions of the blue-eyed black lemur reference genome corresponding to the 1% FST tail. We then took the list of all human proteins with hits within candidate regions and performed TBLASTN for these proteins against the entire lemur genome. We retained proteins whose best genome-wide match (containing the lowest e-value or maximum mean percent identity) for any subset of the protein sequence overlapped the candidate region. In cases in which multiple proteins mapped to the same location (&gt;50% protein length overlapping, presumably representing multiple transcripts of the same gene or multiple genes in the same family), we retained the protein with the largest total length spanned by initial TBLASTN hits or the largest mean percent identity.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

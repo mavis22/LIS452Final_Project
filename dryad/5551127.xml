@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5551127</identifier><datestamp>2015-05-19T18:59:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.36B25/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Alstad, Amy O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Damschen, Ellen I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Alstad&amp;Damschen2015_DATA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>connectivity</subject>
+      <subject>patch area</subject>
+      <subject>patch quality</subject>
+      <subject>Wisconsin</subject>
+      <subject>USA</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.36B25</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2655 bytes</size>
+      <size>1812 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file Alstad&amp;Damschen2015_DATA includes all data used for analysis in the 2015 Ecography paper.  This includes, for each of 63 prairie remnant patches in Wisconsin, USA, total plant species richness, historical and contemporary measures of both patch area and patch connectivity, as well as the number of fires documented in the past 60 years.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

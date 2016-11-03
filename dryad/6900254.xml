@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900254</identifier><datestamp>2015-11-25T16:46:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CT849/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gonz&#225;lez-Garza, Blanca Idalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stow, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#225;nchez-Teyer, Lorenzo Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zapata-P&#233;rez, Omar</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ei-genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genetic variation</subject>
+      <subject>multiple paternity</subject>
+      <subject>measures of reproductive succes</subject>
+      <subject>Yucatan Peninsula</subject>
+      <subject>Mexico</subject>
+      <subject>Eretmochelys imbricata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CT849</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>149035 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The database contains the genotypes of 41 nesting hawksbills and 1,188 hatchling that were successfully genotyped at 12 polymorphic microsatellite loci. Paternal reconstructed genotypes are also includes. The name of the rookery is abreviated where: XV=Xicalango-Victoria, CK=Chenkan, CE=Celestun, CL=Las Coloradas, CY=El Cuyo, H=Holbox. Id letters identifies each nesting females, her offspring and the male that sired that clutch. In those cases where offspring contain and Id letter that is not on the females or fathers id indicates that it is a successive clutches of the same previously reported females (i.e. if there are offspring with and Id=B, but there are no females with these Id, then is a successive clutch from female A). In the cases where males Id have letter and number indicate that those multiple males sired a same clutch indicating multiple paternity</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

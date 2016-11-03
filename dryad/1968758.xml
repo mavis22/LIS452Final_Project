@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1968758</identifier><datestamp>2014-05-29T18:16:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1534J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chazot, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willmott, Keith R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santacruz Endara, Paola G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Toporov, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hill, Ryan I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiggins, Chris D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Elias, Marianne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Mutualistic mimicry and filtering by altitude shape the structure of Andean butterfly communities</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>community ecology</subject>
+      <subject>altitudinal gradient</subject>
+      <subject>M&#252;llerian mimicry</subject>
+      <subject>phylogenetic structure</subject>
+      <subject>Ecuador</subject>
+      <subject>Andes</subject>
+      <subject>Holocene</subject>
+      <subject>Ithomiini</subject>
+      <subject>Danainae</subject>
+      <subject>Nymphalidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chazot N, Willmott KR, Santacruz Endara PG, Toporov A, Hill RI, Jiggins CD, Elias M (2013) Mutualistic mimicry and filtering by altitude shape the structure of Andean butterfly communities. The American Naturalist 183(1): 26-39.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1534J/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1534J/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1534J/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/674100</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

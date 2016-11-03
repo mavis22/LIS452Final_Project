@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1956863</identifier><datestamp>2014-05-30T02:21:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J0P62</identifier>
+  <creators>
+      <creator>
+         <creatorName>du Toit, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthee, Sonja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Vuuren, Bettine J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthee, Conrad A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Biogeography and host-related factors trumps parasite life-history: limited congruence among the genetic structures of specific ectoparasitic lice and their rodent hosts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Comparative phylogeography</subject>
+      <subject>co-phylogeny</subject>
+      <subject>southern Africa</subject>
+      <subject>mtDNA</subject>
+      <subject>Southern Africa</subject>
+      <subject>Neogene</subject>
+      <subject>Rhabdomys pumilio</subject>
+      <subject>Rhabdomys dilectus</subject>
+      <subject>Rhabdomys intermedius</subject>
+      <subject>Rhabdomys bechuanae</subject>
+      <subject>Polyplax arvicanthis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">du Toit N, Matthee S, van Vuuren BJ, Matthee CA (2013) Biogeography and host-related factors trumps parasite life-history: limited congruence among the genetic structures of specific ectoparasitic lice and their rodent hosts. Molecular Ecology 22(20): 5185-5204.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J0P62/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J0P62/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J0P62/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J0P62/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12459</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

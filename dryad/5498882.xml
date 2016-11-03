@@ -1,0 +1,28 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5498882</identifier><datestamp>2015-03-04T21:44:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6171J/16</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Global reference database EMBL (gh)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6171J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>507787 bytes</size>
+      <size>710 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains all dereplicated sequences of alpine taxa extracted from the EMBL nucleic database release 117 using the ecopcr program (http://metabarcoding.org/obitools). Sequences have been extracted using the primers &#8220;g&#8221; (5&#8217;-GGGCAATCCTGAGCCAA-3&#8217;) and &#8220;h&#8221; (5&#8217;-CCATTGAGTCTCTGCACCTATC-3&#8217;) (Taberlet et al. 2007).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,78 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5573188</identifier><datestamp>2015-04-16T18:32:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M1G3V/11</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bagley, Justin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alda, Fernando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Breitman, Maria F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bermingham, Eldredge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van den Berghe, Eric P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Jerald B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>concatenated mtDNA + nDNA dataset - X-src alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian species delimitation</subject>
+      <subject>coalescent</subject>
+      <subject>conservation</subject>
+      <subject>cryptic species</subject>
+      <subject>freshwater fishes</subject>
+      <subject>general mixed Yule-coalescent (GMYC)</subject>
+      <subject>hybridization</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>non-adaptive radiations</subject>
+      <subject>species trees</subject>
+      <subject>taxonomy</subject>
+      <subject>Central America</subject>
+      <subject>Mexico</subject>
+      <subject>Guatemala</subject>
+      <subject>El Salvador</subject>
+      <subject>Honduras</subject>
+      <subject>Nicaragua</subject>
+      <subject>Costa Rica</subject>
+      <subject>Panama</subject>
+      <subject>Oligocene</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Poecilia</subject>
+      <subject>Poecilia butleri</subject>
+      <subject>Poecilia catemaconis</subject>
+      <subject>Poecilia gillii</subject>
+      <subject>Poecilia hondurensis</subject>
+      <subject>Poecilia mexicana</subject>
+      <subject>Poecilia mexicana mexicana</subject>
+      <subject>Poecilia mexicana limantouri</subject>
+      <subject>Poecilia orri</subject>
+      <subject>Poecilia sphenops</subject>
+      <subject>Poecilia sulphuraria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M1G3V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42529 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">NEXUS file containing the X-src sequences in the concatenated mtDNA + nDNA dataset.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

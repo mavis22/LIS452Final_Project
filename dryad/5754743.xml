@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5754743</identifier><datestamp>2015-09-04T19:44:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2H5J7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Neubig, Kurt M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blanchard Jr., Orland J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whitten, W. Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDaniel, Stuart F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kost taxa for polyploid</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogeny</subject>
+      <subject>polyploidy</subject>
+      <subject>Africa</subject>
+      <subject>Northa America</subject>
+      <subject>Central America</subject>
+      <subject>South America</subject>
+      <subject>Kosteletzkya</subject>
+      <subject>Hibisceae</subject>
+      <subject>Malvaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2H5J7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25214 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel spreadsheet for all voucher information for each accession.  Note that each accession isidnetified by "greenhouse accession number" in matrices, which directly correspond to the voucher information presented.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

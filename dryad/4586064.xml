@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586064</identifier><datestamp>2014-12-31T15:54:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4G42Q.2/6.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pattinson, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Richard S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piotrowski, Aleks K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Asher, Robert J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure S2. Q accuracy</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>taphonomy</subject>
+      <subject>phylogeny reconstruction</subject>
+      <subject>artificial extinction</subject>
+      <subject>data combination</subject>
+      <subject>missing data</subject>
+      <subject>Cenozoic</subject>
+      <subject>Mammalia</subject>
+      <subject>Primates</subject>
+      <subject>Haplorhini</subject>
+      <subject>Strepsirhini</subject>
+      <subject>Darwinius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4G42Q.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1299514 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fig. S2: Relationship between Q and topological accuracy. Q quantifies the extent to which a dataset is evenly sampled across partitions; as Q approaches 1 all partitions are evenly sampled; as Q approaches 0 only one partition contains data. Topological accuracy is quantified as the number of splits (i.e., unrooted clades) in the well corroborated, extant combined topology (or ECT, Fig. 1) present in the artificial&#13;
+fossil topology (or AFT).  For the 85 fossil templates, there is a&#13;
+statistically significant correlation (Pearson&#8217;s R = 0.694, p &lt;&lt;0.01, Rohlf &amp; Sokal 1995: table R) between Q values (X-axis) and ECT splits present in AFTs (Y-axis). &#8220;All fossils&#8221; (black circles) represent our 85 real fossil templates, with a select few identified with polygons. &#8220;Random templates&#8221; (open circles) indicate artificial fossils generated using real character state data with missing entries inserted at random&#13;
+across partitions (see Fig. 2a and Methods).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

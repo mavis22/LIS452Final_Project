@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6556896</identifier><datestamp>2015-08-14T14:46:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H58N0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grey, Erin K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiasson, Susan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Hannah G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Troeger, Victoria J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, Caz M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Callinectes spp. settlement in 2010 and 2011 at various sites in the Gulf of Mexico</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Blue Crab</subject>
+      <subject>Deepwater Horizon</subject>
+      <subject>megalopae</subject>
+      <subject>larval settlement</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>-84.980706 29.726056</subject>
+      <subject>-89.793158 30.064297</subject>
+      <subject>-88.077806	30.251275</subject>
+      <subject>-94.817131 29.312742</subject>
+      <subject>-89.962331 29.262911</subject>
+      <subject>-88.800297 30.39155</subject>
+      <subject>-87.159075 30.337825</subject>
+      <subject>-89.634422 30.152858</subject>
+      <subject>Holocene</subject>
+      <subject>Callinectes sapidus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H58N0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>85678 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file has 3 fields. "Site" is the site from which the sample was collected. "Date" is the date of collection (note that there were 2-4 replicates at a site each day). "Callinectes_Meg_N" is the number of Callinectes spp. megalopae caught on that replicate collector. All megalopae samples were collected using a standard collection method as described in the associated manuscript. Exact coordinates (Long/Lat in decimal degrees) of the sites were: APALACHICOLA -84.980706, 29.726056, RIGOLETS -89.793158, 30.064297, DAUPHIN -88.077806, 30.251275, GALVESTON -94.817131, 29.312742, GRAND ISLE -89.962331, 29.262911, OCEAN SPRINGS -88.800297, 30.39155, PENSACOLA -87.159075, 30.337825 and RIGOLETS -89.634422, 30.152858. All seven sites were sampled in 2010 and in 2011 only GALVESTON, GRAND ISLE, DAUPHIN, and PENSACOLA were sampled.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

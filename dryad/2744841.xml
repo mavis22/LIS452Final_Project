@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2744841</identifier><datestamp>2014-12-16T07:34:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D2495/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Selz, Oliver M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lucek, Kay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Young, Kyle A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seehausen, Ole</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Complete data set</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>adaptive radiation</subject>
+      <subject>hybridisation</subject>
+      <subject>cichlid</subject>
+      <subject>transgressive segregation</subject>
+      <subject>haplochromine</subject>
+      <subject>Lake Victoria</subject>
+      <subject>Lake Tanganyika</subject>
+      <subject>Lake Malawi</subject>
+      <subject>Astatotilapia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-10-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D2495</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1535 bytes</size>
+      <size>919054 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Complete geometric morphometrics data set with 17 landmarks. See Readme file for details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

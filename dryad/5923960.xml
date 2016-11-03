@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5923960</identifier><datestamp>2015-06-02T18:11:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R24B1/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>van de Water, Jeroen A. J. M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fluorescent Protein Analysis Methodology</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral</subject>
+      <subject>immunity</subject>
+      <subject>injury</subject>
+      <subject>fluorescence</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R24B1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>55425 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This archive file contains the files required for the fluorescent protein spectral analysis. The input file Wounding_Aaspera_fl.csv containing the raw fluorescence values and sample protein concentration is provided along with the reference fluorescent protein data file modelspecs_interp_25sh.csv (based on the spectrum of purified Acropora millepora fluorescent proteins) and the spectral decomposition script specs_regression_WF.R.    The reference fluorescent protein data and the script were provided by Mikhail Matz.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

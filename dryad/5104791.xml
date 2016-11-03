@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5104791</identifier><datestamp>2015-03-23T19:08:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R98G7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vehkala, Minna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shubin, Mikhail</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Connor, Thomas R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomson, Nicholas R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Corander, Jukka</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Biolog data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biolog</subject>
+      <subject>phenotypic microarray</subject>
+      <subject>Yersinia enterocolitica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R98G7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>337028 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Intensity values produced by the Biolog's OmniLog Incubator/Reader. Cells of the Bacterium Yersinia enterocolitica (strains 53/03 and 8081c) were cultured on Biolog's PM1 plate and incubated for 48 hours at 28 and 37 degrees Celcius. Each of the four strain/temperature combinations was replicated three times.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7014718</identifier><datestamp>2015-11-12T17:22:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NQ648/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>La Sorte, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hochachka, Wesley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farnsworth, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Doren, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fink, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelling, Steve</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>WSR_station_reflectivity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>flight altitude</subject>
+      <subject>mid-latitudes</subject>
+      <subject>polar-front jet stream</subject>
+      <subject>seasonal avian migration</subject>
+      <subject>weather surveillance radar</subject>
+      <subject>wind</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NQ648</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>152180 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Daily total effective scattering area (reflectivity) of birds (square centimeters) per unit volume (cubic km) estimated at 12 weather surveillance radar (WSR) stations in the northeastern USA during the autumn of 2010 and 2011 within 37.5 km radius of each WSR station and within 100-m altitudinal bins.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

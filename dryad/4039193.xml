@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4039193</identifier><datestamp>2014-11-28T17:09:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0F1M0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Claidi&#232;re, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Kenny</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kirby, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fagot, Jo&#235;l</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Claidiere et al Supplementary data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Social learning</subject>
+      <subject>Iterated learning</subject>
+      <subject>Cultural evolution</subject>
+      <subject>Human evolution</subject>
+      <subject>Papio papio</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0F1M0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1138528 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used in the analysis of the results presented in the article. The dataset analysed in the article is provided as a comma separated value file (.csv) in which the following columns can be found. TransChain: indicates the number of replications of the experiment, 1 to 6. Generation: indicates the number of generations, 1 to 12. TrialOrder: for each block of 50 trials, gives the order in which each trial was done by the baboon (number 1 was the first trial, 2 the second, etc). TrialName: 1 for all the random trials, 1 to 50 for transmission trials. For transmission trials, the number is fixed for a lineage of grid for each replication of the experiment. TestingPhase: either random or transmission trials. Name: name of the individual. Sex: sex of the individual. AgeMonth: age in month at the time of the experiment. Square1 to 16: color of the square numbered by row from left to right and starting at the top left corner. Touch1 to 4: Number of the square touched by the individual for each trial in order (Touch1 was the first square touched, Touch2 the second one, etc). Takes values 1 to 16. RT1 to 4: cumulative reaction times in milliseconds for the four responses (RT1 is the reaction time for Touch1, RT2 for Touch2, etc).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

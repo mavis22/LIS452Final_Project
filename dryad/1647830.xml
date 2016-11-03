@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1647830</identifier><datestamp>2014-05-30T01:23:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TP02T</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paape, Timothy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bataillon, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Peng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kono, Tom J. Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Briskine, Roman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Young, Nevin D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tiffin, Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Selection, genome-wide fitness effects and evolutionary rates in the model legume Medicago truncatula</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Angiosperms</subject>
+      <subject>Medicago truncatula</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Paape T, Bataillon T, Zhou P, Kono TJY, Briskine R, Young ND, Tiffin P (2013) Selection, genome-wide fitness effects and evolutionary rates in the model legume Medicago truncatula. Molecular Ecology 22(13): 3525&#8211;3538.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TP02T/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TP02T/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12329</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

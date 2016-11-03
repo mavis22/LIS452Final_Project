@@ -1,0 +1,112 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4635933</identifier><datestamp>2015-04-28T22:33:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1MN1N/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>O&#8217;Keefe, Stephen J. D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Jia V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lahti, Leo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ou, Junhai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carbonero, Franck</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Khaled, Mohammed</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Posma, Joram M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kinross, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wahl, Elaine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruder, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vipperla, Kishore</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naidoo, Vasudevan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mtshali, Lungile</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tims, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puylaert, Philippe G. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeLany, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krasinskas, Alyssa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benefiel, Ann C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaseb, Hatem O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newton, Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nicholson, Jeremy K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Vos, Willem M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gaskins, H. Rex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zoetendal, Erwin G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Metadata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>microbiota</subject>
+      <subject>HITChip</subject>
+      <subject>genera</subject>
+      <subject>South Africa</subject>
+      <subject>USA</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1MN1N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8709 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV file containing the sample metadata in the HITChip data matrix. The variables are rounded or aggregated to ensure subject anonymity. 'NA' refers to missing values. The variable units and other information are as follows:&#13;
+  - SampleID: unique sample identified corresponding to samples in the HITChip data matrix&#13;
+  - subject: Subject identifier (some subjects have multiple time points)&#13;
+  - bmi: Standard body-mass classification (underweight: &lt;18.5; lean: 18.5-25; overweight: 25-30; obese: 30-35; severe obese: 35-40; morbid obese 40-45; superobese &gt;45).&#13;
+  - sex (male/female)&#13;
+  - nationality: African American (AAM); Native African (AFR)&#13;
+  - timepoint.group: Time point (1/2) within the group (ED/HE/DI)&#13;
+  - timepoint.total: Time point in the overall data set &#13;
+    (ED1 - HE1 -HE2 - DI1 - DI2 - ED2 ie. 1- 2- 3- 4- 5- 6)&#13;
+  - group: Sample treatment group: as described in the main article; Dietary intervention (DI) / Home environment (HE) / Solid stool pre-colonoscopy (ED)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

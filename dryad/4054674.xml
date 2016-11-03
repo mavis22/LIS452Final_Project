@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4054674</identifier><datestamp>2014-12-10T22:53:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5R7P8/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cox, Christian L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanninen, Amanda F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reedy, Aaron M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cox, Robert M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>T_Implant_Final_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>body size</subject>
+      <subject>dewlap</subject>
+      <subject>hormonal pleiotropy</subject>
+      <subject>metabolism</subject>
+      <subject>sexual conflict</subject>
+      <subject>Anolis sagrei</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5R7P8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19832 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Experimental data for testosterone manipulations in juvenile male and female brown anoles. Sex is either male (M) or female (F). T treatment groups received a testosterone implant, and Blank treatment groups received a blank implant. Growth was calculated as the difference between initial and final values, divided by the elapsed time.VO2_mass is the mass taken at the time of measurement of oxygen consumption.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

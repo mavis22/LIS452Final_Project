@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6368583</identifier><datestamp>2015-07-17T15:13:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.276D6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Selwood, Katherine E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clarke, Rohan H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cunningham, Shaun C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lada, Hania</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGeoch, Melodie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mac Nally, Ralph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Selwood_etal_data_2015_JANE</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate variability</subject>
+      <subject>demography</subject>
+      <subject>extreme events</subject>
+      <subject>Millennium Drought</subject>
+      <subject>Murray Darling Basin</subject>
+      <subject>population viability</subject>
+      <subject>rainfall</subject>
+      <subject>recovery</subject>
+      <subject>Victoria</subject>
+      <subject>Australia</subject>
+      <subject>Gunbower Island</subject>
+      <subject>Barmah Forest</subject>
+      <subject>Holocene</subject>
+      <subject>Aves</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-07-15</date>
+      <date dateType="Accepted">2015-07-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.276D6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>167808 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-07-15</rights>
+  <descriptions>
+      <description descriptionType="Other">Individual species reporting rates per site, per year (worksheet= Reprates and Reprates_description for field descriptors) and measures of breeding per site, per year (worksheet = Breeding and Breeding_description for field descriptors).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

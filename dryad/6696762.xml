@@ -1,0 +1,83 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6696762</identifier><datestamp>2015-10-27T22:22:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FS4CP/30</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lecomte, Emilie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tournaire, Beno&#238;t</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cogn&#233;, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dupont, Jean-Baptiste</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindenbaum, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin-Fontaine, M&#233;lanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broucque, Fr&#233;deric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robin, C&#233;cile</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hebben, Matthias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Merten, Otto-Wilhelm</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blouin, V&#233;ronique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Francois, Achille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Redon, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moullier, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#233;ger, Adrien</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RUN2_S4_R1.fastq</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>AAV</subject>
+      <subject>bioinformatics</subject>
+      <subject>contaminants</subject>
+      <subject>gene therapy</subject>
+      <subject>NGS</subject>
+      <subject>illumina</subject>
+      <subject>quality control</subject>
+      <subject>quantitative PCR</subject>
+      <subject>virus</subject>
+      <subject>vector</subject>
+      <subject>DNA</subject>
+      <subject>Adeno-associated virus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FS4CP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>614597053 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw fastq file containing data for sample id RUN2_S4 R1</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

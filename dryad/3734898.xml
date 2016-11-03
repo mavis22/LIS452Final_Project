@@ -1,0 +1,96 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3734898</identifier><datestamp>2014-10-10T17:07:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F3B77/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Simons, Nadja K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gossner, Martin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lewinsohn, Thomas M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boch, Steffen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lange, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;ller, J&#246;rg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pa&#353;ali&#263;, Esther</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Socher, Stephanie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>T&#252;rke, Manfred</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fischer, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weisser, Wolfgang W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>04_SEMData_2009</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>insects</subject>
+      <subject>Agroecosystems</subject>
+      <subject>tritrophic interaction</subject>
+      <subject>Biodiversity Exploratories</subject>
+      <subject>Carnivores</subject>
+      <subject>cutting</subject>
+      <subject>food-chain</subject>
+      <subject>phytophages</subject>
+      <subject>Germany</subject>
+      <subject>Schorfheide-Chorin</subject>
+      <subject>Hainich-D&#252;n</subject>
+      <subject>Schw&#228;bische Alb</subject>
+      <subject>Araneae</subject>
+      <subject>Heteroptera</subject>
+      <subject>Coleoptera</subject>
+      <subject>Cicadina</subject>
+      <subject>Auchennorrhyncha</subject>
+      <subject>Orthoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F3B77</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22032 bytes</size>
+      <size>3039 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The files 04_SEMData_2008 and 04_SEMData_2009 include compiled information used for structural equation modeling.&#13;
+&#13;
+PlotID --&gt; plot specific ID&#13;
+Region --&gt; One of three regions in Germany in which plot is located (SEM was conducted for each region separately)&#13;
+&#13;
+Fertilization --&gt; intensity of fertilization, averaged over three years and standardized per region&#13;
+Grazing --&gt; intensity of grazing, averaged over three years and standardized per region&#13;
+Mowing --&gt; intensity of mowing, averaged over three years and standardized per region&#13;
+Time_after_mowing --&gt; Number of days between last mowing event and sampling in the year of sampling&#13;
+&#13;
+Plant_SpeciesRichness --&gt; Number of vascular plant species&#13;
+Plant_biomass --&gt; Plant biomass [g dry weight]&#13;
+Herbivore_SpeciesRichness --&gt; Number of herbivorous arthropod species&#13;
+Predator_SpeciesRichness --&gt; Number of arthropod predator species&#13;
+&#13;
+Herbivore_biomass --&gt; Overall biomass [mg] of herbivore species&#13;
+Predator_biomass --&gt; Overaall biomass [mg] of predator species&#13;
+&#13;
+Lifestock --&gt; Type of lifestock on the plot (only for 2008 data)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

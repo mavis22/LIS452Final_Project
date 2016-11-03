@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669618</identifier><datestamp>2015-09-03T20:24:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2M85H/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Albada, Sacha J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helias, Moritz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Diesmann, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ito, Junji</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Python scripts for analysis and plotting</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>asynchronous networks</subject>
+      <subject>network scaling</subject>
+      <subject>correlations</subject>
+      <subject>binary neurons</subject>
+      <subject>integrate-and-fire neurons</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2M85H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>58071 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">fig1.py, fig2.py, fig3.py, fig4.py, fig5.py, fig6.py, fig7.py: reproduce the figures of the paper using the data and additional figure files in this repository. binary_network_asymm.py, binary_network_symm.py, g_gamma_K_scaling.py, ginzburg_network_dist_Kin_scale.py, inhibitory_LIF_network.py: NEST simulation scripts for random recurrent networks. parameters_binary_asymm.py, parameters_binary_symm.py, parameters_ginzburg.py, parameters_inhibitory_LIF_network.py: corresponding parameter files. hambach_run_g_gamma_K_scaling.py, hambach_run_inhibitory_LIF_network.py, hambach_run_sim_dist_Kin_scale.py: scripts for running the corresponding simulations on a cluster. h5py_wrapper.py: for storing and loading h5 files. plotfuncs.py, plot_utils.py, ps_manip.py: general plotting scripts. ginzburg_theory.py, ginzburg_theory_distKin.py, hawkesnet.py, siegert.py: contain functions for computing covariances and related quantities. microcircuit_analysis.py: functions for loading and analyzing data from simulations of the Potjans and Diesmann (Cereb Cortex, 2014) microcircuit model. microcircuit: folder containing NEST simulation scripts for the Potjans and Diesmann microcircuit model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

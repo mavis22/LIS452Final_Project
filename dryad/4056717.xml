@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4056717</identifier><datestamp>2014-11-06T19:58:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F9013/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Reid, Jane M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arcese, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keller, Lukas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Germain, Ryan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duthie, Alexander Bradley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Losdat, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolak, Matthew Ernest</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nietlisbach, Pirmin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ped.data.dryad.use</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Inbreeding</subject>
+      <subject>Mating Systems</subject>
+      <subject>Reproductive Strategies</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Holocene</subject>
+      <subject>Melospiza melodia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F9013</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7321 bytes</size>
+      <size>2180 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data required for the simulation that quantifies the consequences of observation failure due to offspring mortality for estimates of inbreeding avoidance through extra-pair reproduction.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

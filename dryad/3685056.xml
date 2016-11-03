@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3685056</identifier><datestamp>2014-06-09T20:17:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D364T</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hansen, Michael M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Limborg, Morten T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferchaud, Anne-Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pujolar, Jose-Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The effects of Medieval dams on genetic divergence and demographic history in brown trout populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Approximate Bayesian Computation</subject>
+      <subject>divergence time</subject>
+      <subject>effective population size</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>isolation-with-gene-flow model</subject>
+      <subject>microsatellite DNA</subject>
+      <subject>Lake Moss&#248;</subject>
+      <subject>Lake Hald</subject>
+      <subject>Lille&#229; River</subject>
+      <subject>Contemporary</subject>
+      <subject>Salmo trutta</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hansen MM, Limborg MT, Ferchaud A, Pujolar J (2014) The effects of Medieval dams on genetic divergence and demographic history in brown trout populations. BMC Evolutionary Biology 14:122.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D364T/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1471-2148-14-122</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

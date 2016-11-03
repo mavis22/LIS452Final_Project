@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505917</identifier><datestamp>2015-05-19T21:28:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q3R3K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thomas, Matthew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shanley, Daryl P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Houston, Alasdair I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McNamara, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mace, Ruth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kirkwood, Tom B. L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A dynamic framework for the study of optimal birth intervals reveals the importance of sibling competition and mortality risks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Interbirth intervals</subject>
+      <subject>Humans</subject>
+      <subject>Life history evolution</subject>
+      <subject>State-dependent optimality modelling</subject>
+      <subject>Sibling competition</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Thomas MG, Shanley DP, Houston AI, McNamara JM, Mace R, Kirkwood TBL (2015) A dynamic framework for the study of optimal birth intervals reveals the importance of sibling competition and mortality risks. Journal of Evolutionary Biology 28(4): 885&#8211;895.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q3R3K/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q3R3K/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q3R3K/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/JEB.12613</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,90 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5752476</identifier><datestamp>2015-05-21T14:10:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1K8KQ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thompson, Owen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Snoek, L. Basten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nijveen, Harm</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sterken, Mark G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Volkers, Rita J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brenchley, Rachel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van't Hof, Arjen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bevers, Roel P. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cossins, Andrew R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yanai, Itai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hajnal, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmid, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perkins, Jaryn D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spencer, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kruglyak, Leonid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andersen, Erik C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moerman, Donald G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hillier, LaDeana W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kammenga, Jan E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waterston, Robert H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>File_S1_Celegans_N2_to_CB4856_lastz_alignment.txt</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genome assembly</subject>
+      <subject>evolution</subject>
+      <subject>variation</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1K8KQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>533456220 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">LASTZ alignments between C. elegans N2 (WormBase version WS230) and C. elegans Hawaiian CB4856 (Genbank accession: JZEW00000000)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

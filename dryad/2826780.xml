@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2826780</identifier><datestamp>2014-05-30T07:40:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FQ127</identifier>
+  <creators>
+      <creator>
+         <creatorName>Shapiro, Lori R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seidl-Adams, Irmgard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Moraes, Consuelo M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stephenson, Andrew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mescher, Mark C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Dynamics of short- and long-term association between a bacterial plant pathogen and its arthropod vector</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>disease ecology</subject>
+      <subject>epidemiology</subject>
+      <subject>plant pathogen</subject>
+      <subject>insect vector</subject>
+      <subject>bacterial wilt</subject>
+      <subject>Erwinia tracheiphila</subject>
+      <subject>Acalymma vittatum</subject>
+      <subject>Cucurbita pepo ssp. texana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Shapiro LR, Seidl-Adams I, De Moraes CM, Stephenson AG, Mescher MC (2014) Dynamics of short- and long-term association between a bacterial plant pathogen and its arthropod vector.     Scientific Reports 4: 4155.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FQ127/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FQ127/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FQ127/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/SREP04155</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6745832</identifier><datestamp>2015-10-12T21:04:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.74MS0/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fitzer, Susan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vittert, Liberty</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bowman, Adrian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamenos, Nicholas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phoenix, Vernon R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cusack, Maggie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mussel750_001</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biomineralisation</subject>
+      <subject>ocean acidification</subject>
+      <subject>temperature</subject>
+      <subject>mussels</subject>
+      <subject>CO2</subject>
+      <subject>shell shape</subject>
+      <subject>shell thickness</subject>
+      <subject>Mytilus edulis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.74MS0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>48890685 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mussel shape analysis data for figures 1 and 5. There are four .obj files per treatment, one for each individual mussel as titled. The .obj file is a matrix of points in 3d (x,y,z) that make up the mussel with a color attached to each point. A simple triangulation of these 3d points creates the visualized surface of the mussel. These individual .obj files were compared across the experimental condition populations 380, 550, 750 and 1000 &#956;atm pCO2, and 750 and 1000 &#956;atm pCO2 + 2&#176;C (n=4 per treatment). Each file name refers to the treatment, the .obj files are labelled for each individual mussel as mussel&#8217;treatment&#8217;_oo# where # represents the number of the individual mussel, and treatment is the CO2 concentration. The files were produced by Dimensional Imaging OBJ exporter http://www.di3d.com.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

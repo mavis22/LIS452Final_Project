@@ -1,0 +1,30 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634463</identifier><datestamp>2015-01-22T20:47:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.30QM1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Omondi, Emmanuel Chiwo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kniss, Andrew R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Soil Test Results for 2009 PLOS</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.30QM1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12400 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the field in 2009. Column headings include the following: 1) Year &#8211; Year that study was conducted. 2) Stage: Refers to the stage of dry bean development when data was collected including; Plant (Planting Stage) and 2-4TL (two to four trifoliolate leaf stage. 3) Bean: Refers to the bean market class used in the intercropping treatment plots including B - for black beans, N for Navy beans, NONE for when beans were not presents in a plot. 4) Grass: refers to grass species used in the intercropping treatment plot including R (Annual Ryegrass), O (Oats), C (Corn), W (Wheat), and NONE (when grass species was not present in the plot). 5) Rep: refers to replication or block number. 5) Salt - Refers to the soluble salt content in ppm. 6) OM - soil organic matter content in LOI percentage 7) Zn - soil zinc concentration in ppm 8) Fe - soil iron concentration in ppm 8) Mn - soil manganese concentration in ppm 9) Cu - soil copper concentration in ppm 10) NO - soil nitrate nitrogen concentration in ppm.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6367811</identifier><datestamp>2015-09-17T20:51:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8B203/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Clifford, Jacob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adami, Christoph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>https://github.com/jacobclifford/MIBBS</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Transcription Factor Binding Sites</subject>
+      <subject>Position Weight Matrix</subject>
+      <subject>Mutual Information</subject>
+      <subject>Drosophila</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8B203</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">MIBBS, Mutual Information Between Binding Sites, is a set of programs that generate all the figures for our Physical Biology paper, where the current program settings and input data are the same values as used in our Physical Biology paper.  The git project contains a configure script to automatically compile our C/C++ code regardless of platform (see the README file in the MIBBS directory on github).  Once one executes the configure script and runs make, then run masterscript.sh, which will create all eps files for all figures (see the README for necessary dependency programs, such as GNU Scientific Library and matlab (matlab is not necessary if one wishes to generate figures using some other utility)).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

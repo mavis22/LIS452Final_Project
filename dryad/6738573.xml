@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738573</identifier><datestamp>2015-10-05T19:29:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10278/12</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller-Struttmann, Nicole E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geib, Jennifer C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franklin, James D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kevan, Peter G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ebert-May, Diane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lynn, Austin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kettenbach, Jessica A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedrick, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galen, Candace</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from 'Tube depth density function parameter estimation'</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>rapid evolution</subject>
+      <subject>bumble bees</subject>
+      <subject>climate change</subject>
+      <subject>Colorado Rocky Mountains</subject>
+      <subject>Bombus balteatus</subject>
+      <subject>Bombus sylvicola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.10278</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>260265 bytes</size>
+      <size>12300 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sample output (used in the above manuscript) from the R script &#8220;Tube depth density function parameter estimation.r&#8221;. Provides the mean and standard deviation of flowers visited by bumble bees in the past (1966-1969) and present (2012-2014) in the Front Range (visitation data from Mt. Evans Wilderness Area and Niwot Ridge Long Term Ecological Research site combined as in Macior 1974).&#13;
+&#13;
+COLUMN DETAILS:&#13;
+REPLICATE - iteration from the resampling code (ranges from 1-1000)&#13;
+mean - mean tube depth (mm) of flowers visited by resident alpine bumble bees during each of 1000 resampled visitation iterations&#13;
+st.dev - standard deviation in tube depth (mm) of flowers visited by resident alpine bumble bees during each of 1000 resampled visitation iterations&#13;
+variance - variance in tube depth (mm) of flowers visited by resident alpine bumble bees during each of 1000 resampled visitation iterations&#13;
+TIME &#8211; the timeframe of the original visitation data used to simulate the tube depth density function</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7014386</identifier><datestamp>2015-11-12T16:37:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N1432/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Saenz-Agudelo, Pablo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DiBattista, Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piatek, Marek J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gaither, Michelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrison, Hugo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nanninga, Gerrit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berumen, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>candidate_loci_k2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>dispersal</subject>
+      <subject>marine connectivity</subject>
+      <subject>gene flow</subject>
+      <subject>Arabian Peninsula</subject>
+      <subject>Red Sea</subject>
+      <subject>Amphiprion bicinctus</subject>
+      <subject>Amphiprion omanensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N1432</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2469 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">List of candidate loci obtained with the lfmm function when the number of latent factors was set to K = 2. Note that Locus ID in this file is the same locus ID in the vcf file provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

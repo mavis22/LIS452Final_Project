@@ -1,0 +1,85 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6769980</identifier><datestamp>2015-10-02T18:48:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D3J00/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kirmes, Ina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Szczurek, Aleksander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prakash, Kirti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charapitsa, Iryna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heiser, Christina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Musheev, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schock, Florian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fornalczyk, Karolina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ma, Dongyu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Birk, Udo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cremer, Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reid, George</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Part 9 of 11 Zip file of primary data for "A transient ischaemic environment induces reversible compaction of chromatin"</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Myocardial cell</subject>
+      <subject>cardiomyocyte</subject>
+      <subject>ischaemia</subject>
+      <subject>hypoxia</subject>
+      <subject>nutrient deprivation</subject>
+      <subject>chromatin</subject>
+      <subject>chromatin condensation</subject>
+      <subject>ATP</subject>
+      <subject>Mg2+</subject>
+      <subject>polyamines</subject>
+      <subject>spermine</subject>
+      <subject>spermidine</subject>
+      <subject>nucleosome</subject>
+      <subject>microscopy</subject>
+      <subject>FRAP</subject>
+      <subject>DNAseI</subject>
+      <subject>Single Molecule Localization Microscopy</subject>
+      <subject>cytometry</subject>
+      <subject>side-scatter</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D3J00</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5242880000 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All image sets for the Vybrant Violet / H3K14 ac Single Molecule Localization Microscopy work (UT:9 expts; OND:12 expts; 5min:10 expts; 15min:9 expts, 60min:10 expts; 240min:9 expts).&#13;
+All image sets for the YOYO-1 and EdU Single Molecule Localization Microscopy work.&#13;
+All image sets for the DNAseI experiments (UT:11 expts; OND:11 expts).&#13;
+All image sets for the H2B-mCherry FRAP study, (UT:12 expts; OND:10 expts) and for H1.1-GFP FRAP study (euchromatin:10 expts; heterochromatin:11 expts; OND:11 expts).&#13;
+The datasets for flow cytometry: H3, panAc, K9Ac, K27ac, K4me3,K9me3 K27me3 at con, 0, 2, 5, 15 30 mins, 1 and 4 hours.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

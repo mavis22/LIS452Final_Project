@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5685947</identifier><datestamp>2015-05-05T17:14:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B28P1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Christopher Herbert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cutler, Joseph S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Friel, John P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dening T., Cyrille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coop, Graham</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wainwright, Peter C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Coptodon plink nexus STRUCTURE files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Introgression</subject>
+      <subject>Adaptive radiation</subject>
+      <subject>Gene Flow</subject>
+      <subject>admixture</subject>
+      <subject>population genomics</subject>
+      <subject>Cameroon</subject>
+      <subject>Coptodon deckerti</subject>
+      <subject>Coptodon ejagham</subject>
+      <subject>Coptodon fusiforme</subject>
+      <subject>Coptodon bakossi</subject>
+      <subject>Coptodon snyderae</subject>
+      <subject>Coptodon gutterosa</subject>
+      <subject>Coptodon spongotroktis</subject>
+      <subject>Coptodon thysi</subject>
+      <subject>Coptodon bythobates</subject>
+      <subject>Coptodon flava</subject>
+      <subject>Coptodon bemini</subject>
+      <subject>Coptodon kottae</subject>
+      <subject>Coptodon guineensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B28P1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1009871 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Coptodon population genetic data. PLINK formatted files, nexus phylogenetic alignments, and STRUCTURE formatted file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

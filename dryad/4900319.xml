@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4900319</identifier><datestamp>2015-03-13T17:13:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7D5G4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wood, Stephen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bradford, Mark A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilbert, Jack A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGuire, Krista L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palm, Cheryl A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tully, Katherine L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Jizhong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naeem, Shahid</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>GeoChip 4.0 Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>African Green Revolution</subject>
+      <subject>Fertilisation</subject>
+      <subject>Functional diversity</subject>
+      <subject>GeoChip</subject>
+      <subject>Microbial diversity</subject>
+      <subject>Smallholder agriculture</subject>
+      <subject>Agroforestry</subject>
+      <subject>Kenya</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7D5G4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12460590 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Log-transformed results for all GeoChip functional genes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6771425</identifier><datestamp>2015-10-12T19:04:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H5S2Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Subirana, Juan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alba, M. Mar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messeguer, Xavier</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>satfind</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Nematodes</subject>
+      <subject>Satellite DNA</subject>
+      <subject>Tandem repeat sequences</subject>
+      <subject>mitosis</subject>
+      <subject>DNA elimination</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H5S2Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>307200 bytes</size>
+      <size>2139 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Satfind has been designed to find satellites that contain patterns (the seed) of length L (&lt;15)  that appear at least n times in a DNA subsequence of length  N. Once a satellite is found the search is continued until no more seeds are found in N bases, then the search may continue beyond the original length N. Each seed defines a possible repeat that ends at the start of the next seed. The satellite is accepted if we are able to select a percentage p of  possible repeats (selected repeats) with the same length and, in this case,  these selected repeats become the repeats of the satellite. The first one is chosen  as the representative repeat of the satellite.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

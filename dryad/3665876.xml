@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665876</identifier><datestamp>2015-10-13T21:03:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RD250/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Therkildsen, Nina Overgaard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hemmer-Hansen, Jakob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedeholm, Rasmus Berg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wisz, Mary S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meldrup, Dorte</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonanomi, Sara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Retzel, Anja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsen, Steffen Malsk&#230;r</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nielsen, Einar Eg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pampoulie, Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Individual_info_and_genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genetic monitoring</subject>
+      <subject>temporal variation</subject>
+      <subject>population structure</subject>
+      <subject>adaptive divergence</subject>
+      <subject>Contemporary Evolution</subject>
+      <subject>marine fish</subject>
+      <subject>Climate Change</subject>
+      <subject>Greenland</subject>
+      <subject>Greenland</subject>
+      <subject>Iceland</subject>
+      <subject>Canada</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-03-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RD250.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9318 bytes</size>
+      <size>3356086 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This tab-delimited file contains information on the sampling location and time, the available demographic data, and the observed SNP genotypes for all individuals analyzed in the study. See the readme file for descriptions of the variables. In the updated file, the weight data for the Icelandic samples have been corrected from grams to kilograms, and number-based sex encoding for these same samples have been changed to M and F. For the Icelandic samples the maturity key used is as follows: 1 is a resting fish, 2-6 indicates a maturing fish, &gt;6 (e.g. 22) means actively spawning.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

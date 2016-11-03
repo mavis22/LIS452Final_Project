@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5768963</identifier><datestamp>2015-07-07T15:54:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K53G5/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marczewski, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chamberlain, David F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milne, Richard I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R and Structure scripts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>speciation</subject>
+      <subject>species differentiation</subject>
+      <subject>population genetics</subject>
+      <subject>evolution</subject>
+      <subject>China</subject>
+      <subject>Yunnan</subject>
+      <subject>Holocene</subject>
+      <subject>Subatlantic</subject>
+      <subject>Rhododendron aganniphum</subject>
+      <subject>Rhododendron phaeochrysum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K53G5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>69918 bytes</size>
+      <size>2718 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Debra Fagan(dfagan@datadryad.org), reason: This submission is being sent back to you because some of the content you uploaded is under a license that is incompatible with the Creative Commons Zero waiver required by Dryad and to which you agreed when initiating the submission. Copyright statements were found in the following files located in the custom_functions/AFLP_utils directory: AFLPtoGenind.R, estimate_allele_freqs.R, ExNonPoly.R, ExSameFreqLoci.R, PoolPop.R, ReadAFLP.R, RemDataGenind.R, RemoveNA.R. Copyright statements were also found in the following files located in the custom_functions/Structure_utils directory: Align_Structure_Clusters.R, BarplotStructure.R, Import_Structure_Files.R, InputStructure.R, Plot_Structure_Evanno.R, Plot_Structure_Grid.R. Finally, copyright statements were found in the following files located in the custom_functions directory: introgress/introgress.plot.R and utility_functions_TM.R. We welcome you to re-submit any content that you are able to release under CC0. Just an FYI--I noted that some files have names with a &#8220;~&#8221; in them (for example, Scripts/structure/RunStructureBatch~). These files may be outdated temporary files created during editing that you may or may not wish to include with your submission. on 2015-05-26T18:42:57Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

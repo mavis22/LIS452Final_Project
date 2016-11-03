@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6885393</identifier><datestamp>2015-10-29T20:55:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7950F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barner, Allison K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hacker, Sally D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Menge, Bruce A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nielsen, Karina J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Species Names</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>aquatic plant ecology</subject>
+      <subject>benthic</subject>
+      <subject>environmental gradients</subject>
+      <subject>macroalgae</subject>
+      <subject>marine</subject>
+      <subject>plant-plant interactions</subject>
+      <subject>positive interactions</subject>
+      <subject>species coexistence</subject>
+      <subject>Oregon</subject>
+      <subject>California</subject>
+      <subject>United States of America</subject>
+      <subject>Saccharina sessilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7950F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3522 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Names for all the species in both experiments and the abbreviated name found in the other data files.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

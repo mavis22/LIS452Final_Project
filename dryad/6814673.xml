@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814673</identifier><datestamp>2015-10-29T18:43:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7PK05/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Robert, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bolton, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiguet, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bried, Jo&#235;l</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Individual histories</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Demographic heterogeneity</subject>
+      <subject>individual quality</subject>
+      <subject>Monteiro Storm Petrel</subject>
+      <subject>nest fidelity</subject>
+      <subject>multi-event modeling</subject>
+      <subject>Oceanodroma monteiroi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7PK05</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17235 bytes</size>
+      <size>1062 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-10-01T15:44:32Z (GMT). No. of bitstreams: 2
+data.txt: 17235 bytes, checksum: b95f8a1d4695722e350d38ee84b9cfcb (MD5)
+README.txt: 1062 bytes, checksum: 3f9567d5f381ecea8d54d56cfb525cd2 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

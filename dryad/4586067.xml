@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586067</identifier><datestamp>2014-12-31T15:53:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4G42Q.1/2.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pattinson, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thompson, Richard S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piotrowski, Aleks K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Asher, Robert J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset S2. Morphological data matrix in nexus format</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>taphonomy</subject>
+      <subject>phylogeny reconstruction</subject>
+      <subject>artificial extinction</subject>
+      <subject>data combination</subject>
+      <subject>missing data</subject>
+      <subject>Cenozoic</subject>
+      <subject>Eocene</subject>
+      <subject>Mammalia</subject>
+      <subject>Primates</subject>
+      <subject>Haplorhini</subject>
+      <subject>Strepsirhini</subject>
+      <subject>Darwinius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4G42Q.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>91674 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Our morphological dataset was derived primarily from Seiffert et al. (2009), updated by Gladman et al. (2013) and Boyer and Seiffert (2013), and enabled us to sample 85 fossil taxa. In order to improve overlap with the available DNA sequences, several extant taxa were added: Callicebus sp., Cebus sp., Chlorocebus aethiops, Colobus sp., Daubentonia madagascariensis, Hylobates sp., Macaca sp., and a composite Dermoptera consisting of Cynocephalus volans and Galeopithecus variegatus, treated as a single taxon. Characters were coded from direct observations of museum specimens housed at the University Museum of Zoology, Cambridge, based on the descriptions in the matrix of Seiffert et al. (2009), supplemented with images available from www.digimorph.org, and data from Luckett (1976), Wible and Covert (1987), Beard et al. (1988), Dagosto (1990), Yoder (1994), Ross et al. (1998), Gebo (2001), and Pilbeam (2004). Our morphology matrix is available in nexus format as supplementary data (S2) and from http://www.datadryad.org. Postcranial data for Callicebus moloch and Chlorocebus aethiops were derived primarily from Ross et al. (1998) and Yoder (1994), respectively. Alouatta seniculus and Pan troglodytes were added to the matrix using data from Boyer and Seiffert (2013) and Seiffert (pers. comm.). Facial vibrissae (Yoder 1994: character 61) were coded for new taxa according to the presence of vibrissae musculature as reported in Muchlinski et al. (2013). Not all characters have been treated consistently by previous investigators, or were sufficiently described and illustrated so as to enable coding new taxa. Where the anatomical basis for making a particular coding decision was not clear to us, we have left previous codings as-is and added only "?" to our new taxa.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

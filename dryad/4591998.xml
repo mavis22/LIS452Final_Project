@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4591998</identifier><datestamp>2015-01-26T18:17:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4903Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Coster, Stephanie S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Babbitt, Kimberly J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kovach, Adrienne I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>WoodFrogGenotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>microsatellite genotypes</subject>
+      <subject>amphibians</subject>
+      <subject>wood frog</subject>
+      <subject>Maine</subject>
+      <subject>contemporary</subject>
+      <subject>Lithobates sylvaticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4903Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>123210 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file includes individual microsatellite genotypes (7 loci) for wood frogs (N=888) collected from embryonic samples (one sample per eggmass) at breeding ponds (N=39) near Milford, ME. Genotypes were scored manually in PeakScanner and 0 indicates no alleles were identified at that locus. Pond locations (latitude, longitude) are included. See metadata in file for more information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

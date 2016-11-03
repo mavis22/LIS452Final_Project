@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4268216</identifier><datestamp>2014-12-10T19:25:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2JH32/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hollander, Johan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galindo, Juan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butlin, Roger K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>LittorinaSaxatilis_AFLPs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Association analysis</subject>
+      <subject>aflp</subject>
+      <subject>hybrid zone</subject>
+      <subject>gene flow</subject>
+      <subject>Littorina saxatilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2JH32</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1608 bytes</size>
+      <size>1201027 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file LittorinaSaxatilis_AFLPs.txt correspond to the AFLP dataset used in this manuscript where we studied a hybrid zone of the marine gastropod Littorina saxatilis. It contains AFLP genotypes (1 for presence, 0 for absence, 9 for missing data). The first 4 columns contain ISLAND, ECOTYPE, POPULATION and INDIVIDUAL information. The rest of the columns represent the genotypes (0,1) of 1167 AFLP loci studied.&#13;
+The first row contains the loci names according to the analysis of outlier loci. The second row contains the loci names according to their primer combination and size in base pairs.&#13;
+&#13;
+The list of outlier loci detected for each island (RAMS&#214;, RAMSHOLMEN)in this study is available in the file LittorinaSaxatilis_AFLPs_list_outliers.txt.&#13;
+&#13;
+The landmark data from the geometric morphometric analysis is available in the file LittorinaSaxatilis_LandmarkData.txt. The names of the INDIVIDUALS are the same as the names in the LittorinaSaxatilis_AFLPs.txt file.&#13;
+&#13;
+We studied E (exposed) and S (sheltered) Littorina saxatilis ecotypes from 2 islands from shores of Sweden. In each island we sampled one transect along the L. saxatilis hybrid zone which contained two parental populations (2S, 2E) at +27m and -27m from the hybrid population, two populations (1S, 1E) at +9m and -9m from the hybrid population and one hybrid population (H). &#13;
+&#13;
+LOCALITY: RAMS&#214;, RAMSHOLMEN&#13;
+ECOTYPE: E (exposed), S (sheltered), H (hybrid)&#13;
+POPULATION: 2S, 1S, H, 1E, 2E&#13;
+INDIVIDUAL: This is the individual code. &#13;
+&#13;
+The sampling, AFLP analysis and genotyping have been performed by Johan Hollander (johan.hollander@biol.lu.se).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

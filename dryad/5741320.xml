@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5741320</identifier><datestamp>2015-09-30T19:04:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.931H7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>L&#243;pez-Reyes, Alejandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;rez de la Rosa, Jorge A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortiz, Enrique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gernandt, David S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Haplotype_sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Morphometry</subject>
+      <subject>Species distribution modeling</subject>
+      <subject>Pine</subject>
+      <subject>Polymorphism</subject>
+      <subject>M&#233;xico</subject>
+      <subject>Central America</subject>
+      <subject>Pinus douglasiana</subject>
+      <subject>Pinus maximinoi</subject>
+      <subject>Pinus pseudostrobus</subject>
+      <subject>Pinus yecorensis</subject>
+      <subject>Ponderosae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.931H7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>97172 bytes</size>
+      <size>890 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contain aligned sequences of plastid DNA of Pinus aff. douglasiana, P. douglasiana, P. maximinoi, P. pseudostrobus and P. yecorensis, an ~800 bp fragment of ycf1 gene.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

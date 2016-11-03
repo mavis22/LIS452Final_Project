@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4268182</identifier><datestamp>2014-12-22T19:06:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P725K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kramer, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jordan, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kretschmer, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lehmeyer, Veronika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kellermann, Kristine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schaller, Stefan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blobner, Manfred</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kochs, Eberhard F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fink, Heidrun</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PONE-D-14-21748R1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Electromyography</subject>
+      <subject>Denervation</subject>
+      <subject>Reinnervation</subject>
+      <subject>Non-linear signal analysis</subject>
+      <subject>Entropy</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P725K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>253428776 bytes</size>
+      <size>10815 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Explanation: &#13;
+&#13;
+Electromyography (EMG) data is displayed in 5 folders, that are named &#8222;EMG_Day1&#8221;, &#13;
+&#8220;EMG_Day3&#8221;, &#8220;EMG_Day9&#8221;, &#8220;EMG_Day27&#8221;, &#8220;EMG_Day81&#8221; respectively. Each folder contains data &#13;
+from rats that were phrenicotomized at the respective timepoint. The rats are identified by the following numbers:&#13;
+&#13;
+Day 1: 1409, 1410, 1411,1412,1413,1414&#13;
+Day3: 1815, 1816, 1817, 1818, 1819, 1820&#13;
+Day 9: 1821, 1822, 1823, 1824, 1825, 1826&#13;
+Day 27: 1720, 1721, 1722, 1723, 1725&#13;
+Day 81: 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493&#13;
+&#13;
+Folder "EMG" contains primary EMG data (e.g. bursts). According to the Materials and Methods &#13;
+Section in the Manuscript, a mean PeEn was created using the respective EMG bursts. The mean &#13;
+PeEn for each subject (sorted timepoint-wise) is displayed in the pdf-file "EMG_PeEN".&#13;
+&#13;
+Primary data is grouped timepoint-wise, including one folder for each subject. EMG bursts &#13;
+are provided as .wav-files. It has to be considered that the following terminology concerning &#13;
+the area of the diaphragm the EMG bursts (.wav-files) originated was used in the respective folders:&#13;
+&#13;
+"animal number_hinten" = "animal number_crural"&#13;
+"animal number_mitte" = "animal number_mid-costal"&#13;
+"animal number_vorne" = "animal number_sternal"&#13;
+"animal_number_kl" = "animal number_non-denervated side"</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

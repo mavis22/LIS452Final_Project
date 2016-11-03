@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6908836</identifier><datestamp>2015-10-26T13:41:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DD3PH.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paynter, Quentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buckley, Yvonne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterson, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gourlay, A. Hugh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fowler, Simon V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seed weight and seedling survival</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecoevolutionray dynamics</subject>
+      <subject>seed feeder</subject>
+      <subject>trait change</subject>
+      <subject>population dynamics</subject>
+      <subject>bruchid</subject>
+      <subject>invasive species</subject>
+      <subject>weed</subject>
+      <subject>agent selection</subject>
+      <subject>New Zealand</subject>
+      <subject>United Kingdom</subject>
+      <subject>Corsica</subject>
+      <subject>France</subject>
+      <subject>Chile</subject>
+      <subject>Australia</subject>
+      <subject>Switzerland</subject>
+      <subject>USA</subject>
+      <subject>Cytisus scoparius</subject>
+      <subject>Bruchidius villosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DD3PH.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>160172 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Variables:  id: unique identifier of individual seed/seedling, letter indicates the country of origin and the number is the unique seed number. 300 cases. A = Australia, B = England, C = Corsica, CH = Chile, F = France, NZ = New Zealand, S = Switzerland, U = USA.&#13;
+weight: seed weight in mg. country: identifier of country of origin of seeds, 8 cases. AUS = Australia, CHILE  = Chile, CORS = Corsica, ENG = England, FRA = France, NZ = New Zealand, SW = Switzerland, USA = USA. range: identifier of native or exotic status of seed origin, two cases. Native = native range, Exotic = exotic/non-native range. block: identifier of experimental block, 4 blocks. days: day number with day = 1 indicating germination of the seed and entry of the seedling into the experiment. Each date that the seedling was observed as alive added an additional number of days to this number. This column was derived from the date column where observation dates are recorded. days_post_leaf: the number of days since first true leaf was observed. height: seedling height in cm. date: date of germination of seed and entry of seedling into the experiment. censor: indicates if seedling was observed alive (0) or dead (1) at each observation date.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

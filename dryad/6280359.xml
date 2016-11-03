@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6280359</identifier><datestamp>2015-07-08T21:40:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.36TD2/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wong, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seguin, Kimberley</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MIC</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Molecular Evolution</subject>
+      <subject>Epistasis</subject>
+      <subject>Selection - Experimental</subject>
+      <subject>Variation</subject>
+      <subject>Escherichia coli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.36TD2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>631 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Measurements of ciprofloxacin resistance for all strains and populations used in this study. Resistance is measured as the minimal inhibitory concentration (MIC), the concentration of antibiotic required to inhibit growth by 90% in an overnight culture. MIC is given both in absolute terms (ng/mL cup) and in terms of fold-increase over the susceptible ancestor MG1655.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

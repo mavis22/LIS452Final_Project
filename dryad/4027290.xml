@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027290</identifier><datestamp>2014-10-08T18:23:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J9V4P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Larson, Wesley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, James E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dann, Tyler H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schindler, Daniel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Lisa W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>genotypes for 90 neutral SNPs for 27 populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecological genetics</subject>
+      <subject>Landscape genetics</subject>
+      <subject>Natural selection and contemporary evolution</subject>
+      <subject>Population genetics - Empirical</subject>
+      <subject>Major histocompatibility complex</subject>
+      <subject>Sockeye salmon</subject>
+      <subject>Bristol Bay</subject>
+      <subject>Alaska</subject>
+      <subject>Holocene</subject>
+      <subject>Oncorhynchus nerka</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J9V4P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1176900 bytes</size>
+      <size>10263 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A genepop file containing the genotypes for 88 neutral SNPs from 27 populations.  Three mitochondrial SNPs (One_CO1, One_Cytb_17, and One_Cytb_26) were phenotyped according to the methods of Habicht et al. (2010).  SNP names correspond to those found in Dann et al. (2012, http://www.adfg.alaska.gov/FedAidpdfs/sp12-12.pdf).  Population codes are found in the readme file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

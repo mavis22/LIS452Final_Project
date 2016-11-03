@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5588793</identifier><datestamp>2015-05-15T01:48:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G4Q84/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kallio, Eva R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helle, Heikki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koskela, Esa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mappes, Tapio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vapalahti, Olli</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Probability of breeding data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>disease transmission</subject>
+      <subject>endemic pathogen</subject>
+      <subject>female fecundity</subject>
+      <subject>host-pathogen interaction</subject>
+      <subject>resource allocation</subject>
+      <subject>Finland</subject>
+      <subject>Myodes glareolus</subject>
+      <subject>Puumala hantavirus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G4Q84</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>62441 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on field captured female bank voles (n=890) to examine the breeding probability (BRED: 0=no, 1=yes) including individual information PUUV infection status of the female (PUUV_INF: 0=uninfected, 1=infected) and head with (centred value over given period of breeding season), and population level information; the period of breeding season (season: 1=early, 2=mid, 3=late), the phase of vole cycle (cycle: 1= low phase, 2=increase phase, 3= peak phase) and random effect (random).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

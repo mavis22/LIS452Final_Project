@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6539726</identifier><datestamp>2015-07-30T15:42:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P25F8/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martinez-Bakker, Micaela E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sell, Stephanie K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swanson, Bradley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelly, Brendan P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tallmon, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pusa hispida mtDNA COI (bps 92-450)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ringed seal</subject>
+      <subject>population genetics</subject>
+      <subject>Arctic</subject>
+      <subject>United States</subject>
+      <subject>Canada</subject>
+      <subject>Finland</subject>
+      <subject>Baltic Sea</subject>
+      <subject>Pusa hispida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P25F8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>49486 bytes</size>
+      <size>3140 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequences of the mtDNA Cytochrome oxidase I region (COI) from 113 individuals from 8 breeding sites. Uncertainty in sequence accuracy occurred at the ends of each sequence; thus, we used a 359 base pair (bp) subset (bps 92-450) of the COI region. The breeding site (i.e., sample site) associated with each sequence is in the ReadMe file. A map of the sample sites can be found in Figure 2A of our publication ``Combined Genetic and Telemetry Data Reveal High Rates of Gene Flow, Migration, and Long-Distance Dispersal Potential in Arctic Ringed Seals (Pusa hispida)''.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

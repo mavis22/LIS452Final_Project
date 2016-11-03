@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6563152</identifier><datestamp>2015-09-03T16:30:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.22HB2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Horgan-Kobelski, Tim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matesanz, Silvia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sultan, Sonia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Horgan-Kobelski et al 2015 Supporting Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Rapid evolution</subject>
+      <subject>Resurrection experiment</subject>
+      <subject>Novel environments</subject>
+      <subject>FACE (Free Air CO2 Enrichment)</subject>
+      <subject>Polygonum cespitosum</subject>
+      <subject>Persicaria longiseta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.22HB2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>102956 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This spreadsheet contains the data presented in the figures, tables, and results of "Limits to future adaptation in an invasive plant: expression of functional and fitness traits at elevated CO2."</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

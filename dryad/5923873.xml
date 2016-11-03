@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5923873</identifier><datestamp>2015-07-23T20:04:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KG943.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pope, Lisa C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liggins, Libby</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keyse, Jude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carvalho, Silvia B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riginos, Cynthia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Not the time or the place: the missing spatio-temporal link in publicly available genetic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>data archiving</subject>
+      <subject>repurpose</subject>
+      <subject>data accessibility</subject>
+      <subject>metadata</subject>
+      <subject>georeferencing</subject>
+      <subject>data sharing</subject>
+      <subject>biological ontology</subject>
+      <subject>reproducibility</subject>
+      <subject>data standards</subject>
+      <subject>data re-use</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pope LC, Liggins L, Keyse J, Carvalho SB, Riginos C (2015) Not the time or the place: the missing spatio-temporal link in publicly available genetic data. Molecular Ecology 24(15): 3802&#8211;3809.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KG943.2/2.2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KG943.2/3.2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.KG943.2/4.2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13254</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

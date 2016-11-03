@@ -1,0 +1,72 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1998687</identifier><datestamp>2015-05-15T21:50:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N7J8Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Halas, Dominik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simons, Andrew M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cytochrome b matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>biogeography</subject>
+      <subject>ichthyology</subject>
+      <subject>introgression</subject>
+      <subject>recombination</subject>
+      <subject>hybridization</subject>
+      <subject>species tree inference</subject>
+      <subject>Mississippi River</subject>
+      <subject>Missouri River</subject>
+      <subject>Arkansas River</subject>
+      <subject>Ohio River</subject>
+      <subject>Cumberland River</subject>
+      <subject>Tennessee River</subject>
+      <subject>Pearl River</subject>
+      <subject>Pascagoula River</subject>
+      <subject>United States</subject>
+      <subject>Minnesota</subject>
+      <subject>Wisconsin</subject>
+      <subject>Illinois</subject>
+      <subject>Missouri</subject>
+      <subject>Arkansas</subject>
+      <subject>Ohio</subject>
+      <subject>Pennsylvania</subject>
+      <subject>Kentucky</subject>
+      <subject>Tennessee</subject>
+      <subject>Mississippi</subject>
+      <subject>Louisiana</subject>
+      <subject>Ouachita River</subject>
+      <subject>Virginia</subject>
+      <subject>North Carolina</subject>
+      <subject>Georgia</subject>
+      <subject>Neogene</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Etheostoma zonale</subject>
+      <subject>Etheostoma lynceum</subject>
+      <subject>Etheostoma</subject>
+      <subject>Percidae</subject>
+      <subject>Teleostei</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N7J8Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18450 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">zonalecytballindividuals.nex gives the cytochrome b sequence for each individual in the study. zonalecytbmatrix.nex gives the sequence of each cytochrome b haplotype in the study, and is the matrix used to produce Figure 3.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

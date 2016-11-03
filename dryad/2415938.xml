@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2415938</identifier><datestamp>2014-05-29T22:57:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SP0KS</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bonanomi, Sara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Overgaard Therkildsen, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berg Hedeholm, Rasmus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hemmer-Hansen, Jakob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nielsen, Einar Eg</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The use of archived tags in retrospective genetic analysis of fish</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>historical samples</subject>
+      <subject>fish tags</subject>
+      <subject>Atlantic cod</subject>
+      <subject>temporal genetic analysis</subject>
+      <subject>DNA extraction</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bonanomi S, Overgaard Therkildsen N, Berg Hedeholm R, Hemmer-Hansen J, Nielsen EE (2013) The use of archived tags in retrospective genetic analysis of fish. Molecular Ecology Resources 14(3): 616&#8211;621.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SP0KS/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12211</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

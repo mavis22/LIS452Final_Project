@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1580402</identifier><datestamp>2014-05-30T00:44:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C2090</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fernandez-Marin, Hermogenes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bruner, Gaspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomez, Ernesto Bolivar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nash, David R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boomsma, Jacobus J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wcislo, William T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Dynamic disease management in Trachymyrmex fungus-growing ants (Attini: Formicidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Behavior: social</subject>
+      <subject>Coevolution</subject>
+      <subject>Evolution: host/parasite</subject>
+      <subject>Evolution: social</subject>
+      <subject>Interactions: coevolution</subject>
+      <subject>Interactions: host/pathogen</subject>
+      <subject>Interactions: mutualism</subject>
+      <subject>ants</subject>
+      <subject>Trachymyrmex zeteki</subject>
+      <subject>Trachymyrmex cornetzi</subject>
+      <subject>Trachymyrmex sp. 3</subject>
+      <subject>Trachymyrmex sp. 10</subject>
+      <subject>Escovopsis sp.</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fernandez-Marin H, Bruner G, Gomez EB, Nash DR, Boomsma JJ, Wcislo WT (2013) Dynamic disease management in Trachymyrmex fungus-growing ants (Attini: Formicidae). The American Naturalist 181(4): 571-582.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C2090/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/669664</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

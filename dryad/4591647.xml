@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4591647</identifier><datestamp>2015-01-06T17:09:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.ST57B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dutilleul, Morgan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonzom, Jean-Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lecomte, Catherine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goussen, Benoit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daian, Fabrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galas, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>R&#233;ale, Denis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>multiG1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Experimental evolution; phenotypic (co)variance; local adaptation; evolution of generalism; pollutant</subject>
+      <subject>Laboratory</subject>
+      <subject>last year</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.ST57B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27292 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">M. DUTILLEUL, J.M. BONZOM, C. LECOMTE, B. GOUSSEN, F. DAIAN, S. GALAS, D. REALE  2014  &#13;
+Rapid evolutionary responses of life history traits to different experimentally-induced pollution in Caenorhabditis elegans&#13;
+BMC Evolutionary Biology =================================&#13;
+File name:   multiG1.csv&#13;
+File description:   measures of life history traits of Caenorhabditis elegans in different environments during a multi-generationnal experiment. -------------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+&#13;
+Definition of column headings:&#13;
+generation: generation in which the individual* was measured (1 to 22)*&#13;
+environment: environment where the individual* lived (control, salt, uranium, alternating)&#13;
+replicate: population from where the individual* was sampled (A to X)*&#13;
+fertility_B96: number of larvae produced by the hermaphrodite before 96h of life&#13;
+fertility_A96: number of larvae produced by the hermaphrodite after 96h of life&#13;
+fertility_tot: number of larvae produced by the hermaphrodite in its all life&#13;
+length_H: body length of the hermaphrodite (in mm)&#13;
+bend_M: number of body bend of the male in 20 seconds&#13;
+length_M: body length of the male (in mm). &#13;
+Missing data are indicated with NA&#13;
+*Although the data are on the same line to shorten the table, the hermaphrodite and the male measured at each line came from a same replicate but were obviously different individuals&#13;
+===============================&#13;
+Contact information: morgan.dutilleul@hotmail.fr</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

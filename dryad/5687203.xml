@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687203</identifier><datestamp>2015-09-10T19:42:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7VH21</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marion, Zachary H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fordyce, James A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fitzpatrick, Benjamin M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Extending the concept of diversity partitioning to characterize phenotypic complexity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Ecology: chemical</subject>
+      <subject>Ecology: community</subject>
+      <subject>Ecology: statistical</subject>
+      <subject>Interactions: plant/herbivore</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Statistics: multivariate</subject>
+      <subject>Anurans (frogs and toads)</subject>
+      <subject>beetles</subject>
+      <subject>Plant</subject>
+      <subject>Southeastern United States</subject>
+      <subject>Western United States</subject>
+      <subject>Michigan</subject>
+      <subject>United States</subject>
+      <subject>Bufo americanus</subject>
+      <subject>Rhyssomatus lineaticollis</subject>
+      <subject>Asclepius syriaca</subject>
+      <subject>Populus angustifolia</subject>
+      <subject>Populus fremontii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Marion ZH, Fordyce JA, Fitzpatrick BM (2015) Extending the concept of diversity partitioning to characterize phenotypic complexity. The American Naturalist 186(3): 348-361.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7VH21/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7VH21/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7VH21/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7VH21/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/682369</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

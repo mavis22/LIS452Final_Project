@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5718265</identifier><datestamp>2015-06-10T18:35:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.16PJ5/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Beck, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Semple, John C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Squarrosae_30percent_hapmap.hmp</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genotyping by sequencing</subject>
+      <subject>herbarium specimens</subject>
+      <subject>next-generation sampling</subject>
+      <subject>species delimitation</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+      <subject>Solidago</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.16PJ5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>170778 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Hapmap file for Solidago subsection Squarrosae filtered for SNPs present in at least 30% of samples.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6984214</identifier><datestamp>2015-11-10T17:27:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J5F51/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nazarian, Alireza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gezan, Salvador</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>20 simulated datasets for 3,000 individuals over different heritability (h2)  and dominance ratio (d2) conditions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genomic Prediction</subject>
+      <subject>P-BLUP</subject>
+      <subject>G-BLUP</subject>
+      <subject>Complex Traits</subject>
+      <subject>Dominance Effects</subject>
+      <subject>Dominance Relationship Matrix Subject area: Quantitative genetics and Mendelian inheritance</subject>
+      <subject>Genomics and gene mapping</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J5F51</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>962 bytes</size>
+      <size>96449143 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-11-10T17:26:58Z (GMT). No. of bitstreams: 2
+README.txt: 962 bytes, checksum: 96c0a0e16e53e6f752e54c323081e005 (MD5)
+DATA.zip: 96449143 bytes, checksum: ef9679c77127acaf0bcee1f947171b8a (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

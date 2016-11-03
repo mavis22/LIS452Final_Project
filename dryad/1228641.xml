@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1228641</identifier><datestamp>2014-05-29T22:59:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q1CB1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Waminal, Nomar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Park, Hye Mi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ryu, Kwang Bok</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kim, Joo Hyung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Tae Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kim, Hyun Hee</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Karyotype analysis of Panax ginseng C.A. Meyer, 1843 (Araliaceae) based on rDNA loci and DAPI band distribution</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>FISH</subject>
+      <subject>5S rDNA</subject>
+      <subject>45S rDNA</subject>
+      <subject>DAPI band</subject>
+      <subject>Panax ginseng</subject>
+      <subject>Araliaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Waminal N, Park HM, Ryu KB, Kim JH, Yang TJ, Kim HH (2012) Karyotype analysis of Panax ginseng C.A. Meyer, 1843 (Araliaceae) based on rDNA loci and DAPI band distribution. Comparative Cytogenetics 6(4): 425-441.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1CB1/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1CB1/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1CB1/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1CB1/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1CB1/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/COMPCYTOGEN.V6I4.3740</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553750</identifier><datestamp>2015-08-25T18:52:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0M09H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zheng, Yi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Godar, Shelly P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Litovsky, Ruth Y.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stimulus WAVE Files used in localization task</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sound localization</subject>
+      <subject>bilateral cochlear implants</subject>
+      <subject>children</subject>
+      <subject>emergence</subject>
+      <subject>horizontal acoustic space</subject>
+      <subject>preceptual representations</subject>
+      <subject>neural plasticity</subject>
+      <subject>root-mean-square error</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0M09H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1193708 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Stimuli consisted of bi-syllabic Children&#8217;s Spondees that have been previously used for studies on spatial unmasking of speech in children with NH [14], and with BiCIs[15], recorded with a male voice at a sampling rate of 44 kHz. The speech corpus had 25 words. On each trial one of the words was randomly chosen from the list, with replacement. Thus, on any given trial the stimulus was unpredictable, thereby reducing the availability of reliable spectral cues that might be used in the computation of sound source location. Stimuli were balanced for loudness using equal root-mean-square levels for all words. Stimuli were amplified and sent to the loudspeakers via Tucker Davis Technologies System III hardware. Stimulus levels averaged 60 dB SPL, with a random variation between 56 and 64 dB SPL (&#177;4 dB) from trial to trial to minimize the availability of overall level cues.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

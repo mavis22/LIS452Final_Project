@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3712859</identifier><datestamp>2014-10-02T18:29:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3VC1B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Northrup, Joseph M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shafer, Aaron B. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson Jr., Charles R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wittemyer, George</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Fine scale genetic correlates to condition and migration in a wild Cervid</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>genetic differentiation</subject>
+      <subject>heterozygosity fitness correlation</subject>
+      <subject>migration</subject>
+      <subject>mule deer</subject>
+      <subject>multilocus heterozygosity</subject>
+      <subject>single locus heterozygosity</subject>
+      <subject>wildlife</subject>
+      <subject>Odocoileus hemionus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Northrup JM, Shafer ABA, Anderson Jr CR, Coltman DW, Wittemyer G (2014) Fine scale genetic correlates to condition and migration in a wild Cervid. Evolutionary Applications 7(8): 937-948.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3VC1B/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12189</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

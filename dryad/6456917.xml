@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6456917</identifier><datestamp>2015-08-06T13:39:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F6M02/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Eierman, Laura E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hare, Matthew P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Annotation File for the Annotated Reference Transcriptome of the Eastern Oyster</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phenotypic plasticity</subject>
+      <subject>RNA-seq</subject>
+      <subject>viability selection</subject>
+      <subject>osmoregulation</subject>
+      <subject>nucleotide diversity</subject>
+      <subject>linkage disequilibrium</subject>
+      <subject>Molecular adaptation and selection</subject>
+      <subject>Population structure and phylogeography</subject>
+      <subject>Delaware Bay</subject>
+      <subject>Crassostrea virginica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F6M02</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3498115 bytes</size>
+      <size>1425 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The Excel file provides the annotation information, including original source transcriptome, for each contig in the reference transcriptome. The ReadMe files describes the content of each Excel file column.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

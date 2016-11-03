@@ -1,0 +1,75 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4649396</identifier><datestamp>2015-02-03T16:25:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4RR39/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Soininen, Eeva M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gauthier, Gilles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bilodeau, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berteaux, Dominique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gielly, Ludovic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taberlet, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gussarova, Galina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bellemain, Eva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hassel, Kristian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sten&#248;ien, Hans K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Epp, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schr&#248;der-Nilsen, Audun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brochmann, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoccoz, Nigel G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>lemming diet data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>diet analysis</subject>
+      <subject>DNA metabarcoding</subject>
+      <subject>lemming</subject>
+      <subject>Bylot Island</subject>
+      <subject>Lemmus trimucronatus</subject>
+      <subject>Dicrostonyx groenlandicus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4RR39</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9760731 bytes</size>
+      <size>2299 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">DNA metabarcoding diet data on lemming feces samples from Bylot Island. Dataset includes sequence data, environmental variables and validation data for lemming species identification.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

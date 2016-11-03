@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2741921</identifier><datestamp>2014-05-30T09:09:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N5Q05</identifier>
+  <creators>
+      <creator>
+         <creatorName>McFarlane, S. Eryn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boutin, Stan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Humphries, Murray M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McAdam, Andrew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gorrell, Jamieson C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Very low levels of direct additive genetic variance in fitness and fitness components in a red squirrel population</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Robertson-Price Identity</subject>
+      <subject>genetic covariance</subject>
+      <subject>sexual antagonism</subject>
+      <subject>temporal fluctuations in selection</subject>
+      <subject>heritability</subject>
+      <subject>Tamiasciurus hudsonicus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">McFarlane SE, Boutin S, Humphries MM, McAdam AG, Gorrell JC, Coltman DW (2014) Very low levels of direct additive genetic variance in fitness and fitness components in a red squirrel population. Ecology and Evolution 4(10): 1729-1738.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N5Q05/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N5Q05/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N5Q05/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.982</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6338281</identifier><datestamp>2015-07-10T19:53:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QN765</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pietri, Jose E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cator, Lauren J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murdock, Courtney C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ohm, Johanna R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lews, Edwin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Read, Andrew F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Luckhart, Shirley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, Matthew B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Immune response and insulin signalling alter mosquito feeding behaviour to enhance malaria transmission potential</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>parasite manipulation</subject>
+      <subject>insulin signaling</subject>
+      <subject>transmission ecology</subject>
+      <subject>Anopheles stephensi</subject>
+      <subject>Plasmodium falciparum</subject>
+      <subject>Escherichia coli</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cator LJ, Pietri JE, Murdock CC, Ohm JR, Lews EE, Read AF, Luckhart S, Thomas MB (2015) Immune response and insulin signalling alter mosquito feeding behaviour to enhance malaria transmission potential. Scientific Reports 5: 11947.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.QN765/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/SREP11947</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

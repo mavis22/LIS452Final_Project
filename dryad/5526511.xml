@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5526511</identifier><datestamp>2015-04-27T19:37:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.11H73/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grutters, Bart M.C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pollux, Bart J.A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verberk, Wilco C.E.P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bakker, Elisabeth S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Predator-prey survival data for native and non-native aquatic plants</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>exotic species</subject>
+      <subject>invasive species</subject>
+      <subject>structural complexity</subject>
+      <subject>predator-prey interactions</subject>
+      <subject>aquatic macroinvertebrates</subject>
+      <subject>plant rigidity</subject>
+      <subject>aquatic plants</subject>
+      <subject>macrophyte</subject>
+      <subject>Wageningen</subject>
+      <subject>the Netherlands</subject>
+      <subject>Cyprinus carpio</subject>
+      <subject>Anax imperator</subject>
+      <subject>Daphnia pulex</subject>
+      <subject>Gammarus pulex</subject>
+      <subject>Ischnura elegans</subject>
+      <subject>Coenagrion puella</subject>
+      <subject>Coenagrion pulchellum</subject>
+      <subject>Myriophyllum spicatum</subject>
+      <subject>Ceratophyllum demersum</subject>
+      <subject>Potamogeton perfoliatus</subject>
+      <subject>Vallisneria spiralis</subject>
+      <subject>Myriophyllum heterophyllum</subject>
+      <subject>Cabomba caroliniana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.11H73</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>103424 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Prey survival data was collected in a series of three aquarium experiments. The file is split into two tabs: realplant-survival used for Figure 1 and artificialplant-survival used for Figure 2. The first tab contains data about prey survival under mirror carp or dragonfly larvae predation in monocultures of real aquatic plants, at low and high stem density. The column headings in the first tab are: totalID (distinct ID per record), testSpecies (gives scientific name of plant species tested), preySurvival (%-prey survival), stemDensity (plant stem density), plantOrigin (plant native status in Northwestern Europe), dayExperiment (day that data record was collected in predator-prey trial), periodDay (time of the day that data record was collected in predator-prey trial), preySpecies (type of prey for data record), predatorSpecies (type of predator for data record), predatorIndividual (unique ID for dragonfly individual or unique ID for fish pairs). The second tab contains data about prey survival under mirror carp predation, in monocultures of artificial plant analogues resembling aquatic plants, at low and high stem density. For information on column headings in the second tab, see descriptions given for headings in the first tab. Information on the number of prey at t0, the duration of predation trials, plant density and other ifnormation is provided in the corresponding publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

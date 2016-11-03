@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6606767</identifier><datestamp>2015-10-08T22:48:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6RH3P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smith, Brittany N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ghazanfari, Arash M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bohm, Rudolf A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, William P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Bing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Masly, John P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A Flippase-mediated GAL80/GAL4 intersectional resource for dissecting appendage development in Drosophila</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>enhancer-trap Flippase</subject>
+      <subject>imaginal discs</subject>
+      <subject>genetic manipulation</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Smith BN, Ghazanfari AM, Bohm RA, Welch WP, Zhang B, Masly JP (2015) Data from: A Flippase-mediated GAL80/GAL4 intersectional resource for dissecting appendage development in Drosophila. G3: Genes - Genomes - Genetics 5(10):  2105-2112.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6RH3P/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1534/G3.115.019810</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6725550</identifier><datestamp>2015-10-12T21:16:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4429J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Diefenbach, Duane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hansen, Leslie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bohling, Justin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller-Butterworth, Cassandra</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data and R code to estimate abundance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>faecal DNA</subject>
+      <subject>felid</subject>
+      <subject>microsatellites</subject>
+      <subject>population genetics</subject>
+      <subject>population viability</subject>
+      <subject>reintroduction</subject>
+      <subject>scat</subject>
+      <subject>spatially explicit capture-recapture population estimation</subject>
+      <subject>Cumberland Island</subject>
+      <subject>Georgia</subject>
+      <subject>USA</subject>
+      <subject>Lynx rufus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4429J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>68287 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip folder contains: (1) file containing the locations of ID'd individuals on Cumberland Island; (2) the locations of transects (x-y of center of each 200-m segment); (3) shapefiles of island boundary (multiple files); (4) R code for spatially explicit capture-recapture population estimation (SECR) for abundance</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

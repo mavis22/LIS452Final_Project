@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4259006</identifier><datestamp>2015-01-05T16:00:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.612JM</identifier>
+  <creators>
+      <creator>
+         <creatorName>Andreotti, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jann, Kay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melie-Garcia, Lester</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giezendanner, St&#233;phanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abela, Eugenio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wiest, Roland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dierks, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Federspiel, Andrea</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Validation of network communicability metrics for the analysis of brain structural networks.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Structural Connectivity</subject>
+      <subject>Neuroimaging diffusion</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Andreotti J, Jann K, Melie-Garcia L, Giezendanner S, Abela E, Wiest R, Dierks T, Federspiel A (2014) Validation of network communicability metrics for the analysis of brain structural networks. PLOS ONE 9(12): e115503.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.612JM/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.612JM/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0115503</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

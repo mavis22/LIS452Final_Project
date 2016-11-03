@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6877249</identifier><datestamp>2015-10-16T13:58:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT966/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Neustupa, Jiri</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Surfaces, volumes and landmark data of cells</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Morphometrics</subject>
+      <subject>Microbes</subject>
+      <subject>Adaptive dynamics</subject>
+      <subject>Europe</subject>
+      <subject>Holocene</subject>
+      <subject>Desmidiales</subject>
+      <subject>Micrasterias</subject>
+      <subject>Viridiplantae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT966</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1831424 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Estimated surfaces and volumes of Micrasterias cells (sheet 1) and the landmark data of the semicells (sheet 2). The first column of both tables depicts the population affiliation of cells.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

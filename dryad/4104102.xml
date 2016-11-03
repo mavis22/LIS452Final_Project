@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4104102</identifier><datestamp>2015-02-09T18:04:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3JH4R/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sharp, Nathaniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vincent, Crystal</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>immediately_plated_bacterial_counts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Evolution of sex</subject>
+      <subject>mutation accumulation</subject>
+      <subject>sexual selection</subject>
+      <subject>infection</subject>
+      <subject>Drosophila melanogaster</subject>
+      <subject>Pseudomonas aeruginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3JH4R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>113218 bytes</size>
+      <size>492262 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bacterial counts taken from diluted homogenate of males and females immediately following inoculation.  These data are made available in two file formats, for use with Numbers or Excel.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

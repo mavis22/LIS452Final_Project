@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1922332</identifier><datestamp>2014-08-07T06:31:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.81P60</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fitzpatrick, Matthew C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanders, Nathan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Normand, Signe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Svenning, Jens-Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferrier, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gove, Aaron D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunn, Robert R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Environmental and historical imprints on beta diversity: insights from variation in rates of species turnover along gradients</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>beta diversity</subject>
+      <subject>distance decay</subject>
+      <subject>environmental gradients</subject>
+      <subject>history</subject>
+      <subject>plant species distributions</subject>
+      <subject>southwest Australia</subject>
+      <subject>northern Europe</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fitzpatrick MC, Sanders NJ, Normand S, Svenning J, Ferrier S, Gove AD, Dunn RR (2013) Environmental and historical imprints on beta diversity: insights from variation in rates of species turnover along gradients. Proceedings of the Royal Society B 280(1768): 20131201.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.81P60/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.81P60/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.81P60/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2013.1201</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

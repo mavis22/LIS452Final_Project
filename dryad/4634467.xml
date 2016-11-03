@@ -1,0 +1,30 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634467</identifier><datestamp>2015-01-22T20:48:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.30QM1/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Omondi, Emmanuel Chiwo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kniss, Andrew R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bean Yields 2009 and 2010</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.30QM1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3237 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the field in 2009 and 2010. Column headings include the following: 1) Year &#8211; year that study was conducted. 2) Bean: Refers to the bean market class used in the intercropping treatment plots including B - for black beans, N for Navy beans, NONE for when beans were not presents in a plot. 3) Rep: refers to replication or block number. 4) Grass: refers to grass species used in the intercropping treatment plot including R (Annual Ryegrass), O (Oats), C (Corn), W (Wheat), and NONE (when grass species was not present in the plot). 5) Bean Yield per sub-sample per plot in Kg.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

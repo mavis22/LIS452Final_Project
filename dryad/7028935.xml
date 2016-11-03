@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7028935</identifier><datestamp>2015-11-18T03:46:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.18KK6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ciarleglio, Christopher M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Khakhalin, Arseny S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Angelia F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Constantino, Alexander C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yip, Sarah P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aizenman, Carlos D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw Electrophysiological Data, and extracted parameters from Optic Tectum Neurons of Xenopus tadpoles</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Neuroscience</subject>
+      <subject>Electrophysiology</subject>
+      <subject>Optic Tectum</subject>
+      <subject>Neuron</subject>
+      <subject>Xenopus laevis</subject>
+      <subject>Xenopus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.18KK6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>447261841 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset contains the raw electrophysiological recording data that was used to quantify cell diversity in the Optic Tectum of premetamorphic Xenopus tadpoles. The recordings were performed in pClamp, and are stored here as Matlab MAT-files. The raw data is accompanied by a summary table of measurements presented in the paper, and a "master file" that matches raw data files to cell ids from the summary table. The ZIP archive contains several folders that separately store: (1) Voltage gated current traces in response to voltage steps that were used to build Na and K IV-curves (folder "01 IV curve"); (2) Active changes in membrane potential (spiking) in response to step current injections (folder "02 Current step injections"); (3) Spiking in response to cosine current injections (folder "03 Current cosine injections"); (4) Synaptic currents recorded in voltage clamp after synaptic stimulation of the optic nerve with equally spaced impulses and with different inter-stimulus intervals (folder "04 Synaptic bursts"); (5) Miniature spontaneous excitatory postsynaptic currents (folder "05 Minis").</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

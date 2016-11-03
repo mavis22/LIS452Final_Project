@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1972599</identifier><datestamp>2014-05-30T05:41:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JT440</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, Brian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Borowiec, Marek L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiu, Joanna C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, Ernest K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Atallah, Joel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ward, Philip S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenomics resolves evolutionary relationships among ants, bees, and wasps</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>phylogenomics</subject>
+      <subject>transcriptomics</subject>
+      <subject>eusociality</subject>
+      <subject>evolution of aculeates</subject>
+      <subject>Aculeata</subject>
+      <subject>Apis</subject>
+      <subject>Bombus</subject>
+      <subject>Megachile</subject>
+      <subject>Lasioglossum</subject>
+      <subject>Sceliphron</subject>
+      <subject>Harpegnathos</subject>
+      <subject>Stigmatomma</subject>
+      <subject>Linepithema</subject>
+      <subject>Pogonomyrmex</subject>
+      <subject>Crioscolia</subject>
+      <subject>Apterogyna</subject>
+      <subject>Pepsis</subject>
+      <subject>Chyphotes</subject>
+      <subject>Brachycystis</subject>
+      <subject>Mischocyttarus</subject>
+      <subject>Pseudomasaris</subject>
+      <subject>Argochrysis</subject>
+      <subject>Nasonia</subject>
+      <subject>Sphaeropthalma</subject>
+      <subject>Hymenoptera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Johnson BR, Borowiec ML, Chiu JC, Lee EK, Atallah J, Ward PS (2013) Phylogenomics resolves evolutionary relationships among ants, bees, and wasps. Current Biology 23(20): 2058&#8211;2062.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JT440/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.CUB.2013.08.050</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6460959</identifier><datestamp>2015-07-10T19:02:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HS2G9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tin, Mandy Man-Ying</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Economo, Evan Philip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikheyev, Alexander Sergeyevich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genomic reads of 6 Hawaiian Drosophila species mapped to the D. grimshawi genome</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>Phylogenetic Theory and Methods</subject>
+      <subject>DNA methods</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>Drosophila grimshawi</subject>
+      <subject>Drosophila anomalipes</subject>
+      <subject>Drosophila hawaiiensis</subject>
+      <subject>Drosophila paucipuncta</subject>
+      <subject>Drosophila picticornis</subject>
+      <subject>Drosophila silvestris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HS2G9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>268761117 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File is in standard BAM format. Species names are identified by read groups IDs.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

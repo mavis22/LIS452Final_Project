@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1966441</identifier><datestamp>2014-12-13T07:34:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.653K7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Arceo-Gomez, Gerardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ashman, Tia-Lynn</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All data files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Community</subject>
+      <subject>Ecology: community</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Interactions: plant/animal</subject>
+      <subject>Interactions: plant/plant</subject>
+      <subject>Species diversity</subject>
+      <subject>Species richness</subject>
+      <subject>Plant</subject>
+      <subject>California</subject>
+      <subject>Mimulus guttatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-08-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.653K7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>58184 bytes</size>
+      <size>5541 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2013-08-02T15:43:14Z (GMT). No. of bitstreams: 2
+AmNat data for submission.xlsx: 58184 bytes, checksum: 8e3f86b31924992e5a9e7d35d39d6cfe (MD5)
+README.txt: 5541 bytes, checksum: b6aa5349d80239a5e406fb223bd3bb2c (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

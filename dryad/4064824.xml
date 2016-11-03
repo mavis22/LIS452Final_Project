@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4064824</identifier><datestamp>2015-04-29T18:43:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DJ524</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tabak, Michael A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poncet, Sally</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Passfield, Ken</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goheen, Jacob R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez del Rio, Carlos</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Rat eradication and the resistance and resilience of passerine bird assemblages in the Falkland Islands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Community structure</subject>
+      <subject>Detection probability</subject>
+      <subject>Ecological homeostasis</subject>
+      <subject>Eradication</subject>
+      <subject>Invasive species</subject>
+      <subject>Occupancy modeling</subject>
+      <subject>Resilience</subject>
+      <subject>Species-area relationship</subject>
+      <subject>Falkland Islands</subject>
+      <subject>Troglodytes cobbi</subject>
+      <subject>Cinclodes antarcticus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tabak MA, Poncet S, Passfield K, Goheen JR, Martinez del Rio C (2015) Rat eradication and the resistance and resilience of passerine bird assemblages in the Falkland Islands. Journal of Animal Ecology 84(3): 755-764.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DJ524/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DJ524/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12312</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

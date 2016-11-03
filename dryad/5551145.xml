@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5551145</identifier><datestamp>2015-04-16T22:43:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1K7K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Weber de Melo, Vanessa</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsatellite data Myodes glareolus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Hantavirus</subject>
+      <subject>Zoonosis</subject>
+      <subject>Population dynamics</subject>
+      <subject>Host-parasite evolution</subject>
+      <subject>Rodent-borne disease</subject>
+      <subject>Myodes</subject>
+      <subject>Vole</subject>
+      <subject>Central Europe</subject>
+      <subject>Germany</subject>
+      <subject>Osnabr&#252;ck</subject>
+      <subject>Myodes glareolus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P1K7K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>61447 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This table contains the genotypes of Myodes glareolus samples based on 17 microsatellite loci. The first row contains the name of the 17 microsatellite loci. The first column contains the name of the sample, and the following columns contain the length of the alleles for each locus.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

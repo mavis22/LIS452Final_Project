@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6735639</identifier><datestamp>2015-09-25T14:43:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V4CV6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>CaraDonna, Paul J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bain, Justin A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experimental frost damage data for eight subalpine plant species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Plant&#8211;climate interactions</subject>
+      <subject>climate change</subject>
+      <subject>phenology</subject>
+      <subject>frost resistance</subject>
+      <subject>Rocky Mountain Biological Laboratory</subject>
+      <subject>freezing</subject>
+      <subject>phylogeny</subject>
+      <subject>Colorado</subject>
+      <subject>USA</subject>
+      <subject>North America</subject>
+      <subject>Mertensia fusiformis</subject>
+      <subject>Mertensia ciliata</subject>
+      <subject>Delphinium nuttallianum</subject>
+      <subject>Delphinium barbeyi</subject>
+      <subject>Hydrophyllum capitatum</subject>
+      <subject>Hydrophyllum fendleri</subject>
+      <subject>Erigeron flagellaris</subject>
+      <subject>Erigeron speciosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V4CV6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>114630 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data on the frost damage of eight subalpine plant species from the Rocky Mountains of Colorado (USA). These frost damage data can be used to calculate frost sensitivity for each species. Frost damage of plant tissue was determined after specimen were exposed to experimental temperature treatments. In the file, there is a column "temp_treatment_C" which is the target temperature for each treatment (in Celsius); there is another column "temp_observed_C", which is the actual temperature reached during the temperature treatment. Frost damage was scored as binary: damage = 1; no damage = 0. Frost trial number and frost trial start date refer to the specific series of temperature treatments. Collection of plant specimen and experimental procedures were conducted at the Rocky Mountain Biological Laboratory, Gothic, Colorado, USA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

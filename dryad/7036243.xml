@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7036243</identifier><datestamp>2015-11-19T16:46:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M3685/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Strader, Marie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aglyamova, Galina V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matz, Mikhail V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>GO_KOGinputfiles</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral</subject>
+      <subject>fluorescence</subject>
+      <subject>gene expression</subject>
+      <subject>dispersal</subject>
+      <subject>diapause</subject>
+      <subject>Ningaloo Reef</subject>
+      <subject>Western Australia</subject>
+      <subject>Acropora millepora</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M3685</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3611730 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Input files for KOG meta-analysis. Each file has two columns, gene identifier and uncorrected log-transformed p-values (negative if the gene was down-regulated, positive if up-regulated). The file names refers to the datasets specified in the columns of Figure 2A. Two datasets were taken from (Dixon et al 2015), 'tolerance' and 'adult.lt'. Two datasets were taken from (Meyer et al 2011), 'larvae.st' and 'larvae.lt'. One dataset was taken from (Gong et al 2013), diapause, and one dataset was taken from (Sinha et al 2012), dauer. Descriptions of each dataset are given in the Fig 2 legend.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

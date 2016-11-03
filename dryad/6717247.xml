@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717247</identifier><datestamp>2015-09-11T00:35:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QH53F/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schutt, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fu, Jianing</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig2B</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ibrutinib</subject>
+      <subject>chronic GVHD</subject>
+      <subject>acute GVHD</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QH53F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>151 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file is associated with Fig2B of the accompanied publication. Mice treated with either vehicle or 10mg/kg Ibrutinib were injected with 40 x 10^6 CD25 depleted CFSE labeled whole splenocytes. Flow cytometry readings from recipients were taken 4 days post-transplant.  Using the percentage of CFSE diluted or CFSE low, the amount of proliferated cells can be determined. Column and row labels are self-explanatory. Any other relevant information including experimental conditions and setup are included in the accompanied publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

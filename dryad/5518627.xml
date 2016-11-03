@@ -1,0 +1,78 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5518627</identifier><datestamp>2015-03-20T18:29:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BF63C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bordes, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morand, Serge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilosof, Shai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Claude, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cosson, Jean-Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaval, Yannick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ribas, Alexis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaisiri, Kittipong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blasdell, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tran, Annelise</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_habitat</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>parasitism</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>deforestation</subject>
+      <subject>land cover</subject>
+      <subject>network</subject>
+      <subject>rodents</subject>
+      <subject>helminths</subject>
+      <subject>centrality</subject>
+      <subject>modularity</subject>
+      <subject>South-East Asia</subject>
+      <subject>Rattini</subject>
+      <subject>Thailand</subject>
+      <subject>Cambodia</subject>
+      <subject>Laos</subject>
+      <subject>Holocene</subject>
+      <subject>Rattus</subject>
+      <subject>Bandicota</subject>
+      <subject>Mus</subject>
+      <subject>Niviventer</subject>
+      <subject>Maxomys</subject>
+      <subject>Berylmys</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BF63C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33246 bytes</size>
+      <size>31717 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Site: locality in Thailand, Laos and Cambodian. longitude: GPS coordinates. latitude: GPS coordinates. Patch density: density of patches of the different land cover types. Border density: density of the contours of all patches. Annual rate of deforestation: the annual rate of deforestation (r) in each locality is obtained using the following formula r=1/(t2-t1) * Ln (A2/A1), where A1 and A2 are the forest cover at time t1 and t2, and values of A1 and A2 were obtained from the land use changes detection. Rodent species richness: number of rodent species trapped in each locality. Number of individual rodents: number of rodent individuals investigated for helminths. Helminth species richness: number of helminth species in rodents investigated in each locality. Zoonotic helminths: number of zoonotic helminth species. Helminths with complex life cycle: number of helminth species with complex life-cycle. Helminths with direct life cycle: number of helminth species with direct life-cycle. Modularity all helminths: extent to which the network is divided to subgroups composed of rodent-helminth species that interact more among themselves than outside the subgroup. Connectance all helminths: sum of potential links between rodent species and helminth species divided by the standardized number of combinations. Modularity clc: extent to which the network is divided to subgroups composed of rodent-helminth with complex life-cycle species that interact more among themselves than outside the subgroup. Connectance clc: sum of potential links between rodent species and helminth species with complex life-cycle divided by the standardized number of combinations</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

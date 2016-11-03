@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5750430</identifier><datestamp>2015-05-19T16:58:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.74B7H.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grbic, Djordje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saenko, Suzanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinkovitch, Michel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data and code for "Phylogeography and Support Vector Machine Classification of Colour Variation in Panther Chameleons"</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Support Vector Machine classification</subject>
+      <subject>Supervised learning</subject>
+      <subject>Furcifer pardalis</subject>
+      <subject>panther chameleon</subject>
+      <subject>colour patterns</subject>
+      <subject>Phylogeography</subject>
+      <subject>Madagascar</subject>
+      <subject>Furcifer pardalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.74B7H.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>406 bytes</size>
+      <size>937030491 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The image data and program code (written in Python 2.7) for clustering and SVM classification, as well as the input files for the species delimitation analyses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

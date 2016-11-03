@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5605685</identifier><datestamp>2015-06-04T17:50:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.71RN0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Aguiar, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vieira, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cunha, Ana E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vieira, Cristina P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: No evidence for Fabaceae Gametophytic self-incompatibility being determined by Rosaceae, Solanaceae, and Plantaginaceae S-RNase lineage genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gametophytic self-incompatibility</subject>
+      <subject>molecular evolution</subject>
+      <subject>S-RNase like genes</subject>
+      <subject>Trifolium pratense</subject>
+      <subject>Medicago truncatula</subject>
+      <subject>Cicer arietinum</subject>
+      <subject>Cytisus striatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Aguiar B, Vieira J, Cunha AE, Vieira CP (2015) No evidence for Fabaceae Gametophytic self-incompatibility being determined by Rosaceae, Solanaceae, and Plantaginaceae S-RNase lineage genes. BMC Plant Biology 15:129.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.71RN0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12870-015-0497-2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

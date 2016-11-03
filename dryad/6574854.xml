@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6574854</identifier><datestamp>2015-08-25T19:21:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GT410/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tang, Yating</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ji, Yinghong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ye, Xiaofang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Xiaofeng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cai, Lei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xu, Jianming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lu, Yi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The Association of Outdoor Activity and Age-related Cataract in a rural population of Taizhou Eye Study: Phase 1 Report</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-08-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GT410</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1358848 bytes</size>
+  </sizes>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Christine Mayo(christine.mayo@unc.edu), reason: It appears that the data files you submitted may contain personally identifiable human subject information. Data archived in Dryad is publicly available and any human subject data must be properly anonymized and prepared under applicable legal and ethical guidelines. We welcome you to resubmit any data that is appropriate for sharing. The following article may be helpful:&#13;
+&#13;
+Hrynaszkiewicz I ,Norton ML ,Vickers AJ ,Altman DG. Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers. BMJ 2010;340:c181 http://dx.doi.org/10.1136/bmj.c181 &#13;
+&#13;
+In this case we would specifically ask that you remove date of birth from you data set, as it is a direct identifier. Please also be aware that Dryad can only accept packages consisting of English-language data and metadata. Two of your fields ('eye diseases' and 'other diseases') currently contain Chinese-language data, which will need to be translated before your data package can be accepted. If you have any questions, please contact us at help@datadryad.org. on 2015-08-03T14:33:16Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

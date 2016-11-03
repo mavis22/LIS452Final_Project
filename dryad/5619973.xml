@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5619973</identifier><datestamp>2015-06-04T20:17:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VK283/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matula, Radim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sv&#225;tek, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#225;lkov&#225;, Marcela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vola&#345;&#237;k, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vr&#353;ka, Tom&#225;&#353;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data on tree size, competition and mistletoe occurence on individual stems</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mistletoe</subject>
+      <subject>tree competition</subject>
+      <subject>oak forest</subject>
+      <subject>tree parasites</subject>
+      <subject>Pod&#253;j&#237; National Park</subject>
+      <subject>Znojmo</subject>
+      <subject>Czech Republic</subject>
+      <subject>Loranthus europaeus</subject>
+      <subject>Quercus petraea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VK283</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>78220 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used in the article to test effects of tree size, neighbourhood competition and distance from nearest infected tree on probability of mistletoe infection and number of mistletoe plants on individual stems. Tree size is represented by diameter at breast height (DBH), competition by Hegyi competition index (CI_stem) and by number of trees in 12m radius around a tree. Distance data stand for the nearest distance to an infected stem infected by mistletoe of given minimum size (diameter in cm). Infection by mistletoe is indicated by 1 = infected, 2 = not infected.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

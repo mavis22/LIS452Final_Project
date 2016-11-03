@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4070484</identifier><datestamp>2015-06-04T17:00:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H1J85</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ohmer, Michel E. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cramp, Rebecca L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Craig R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franklin, Craig E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Skin sloughing rate increases with chytrid fungus infection load in a susceptible amphibian</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>amphibian disease</subject>
+      <subject>chytridiomycosis</subject>
+      <subject>fungal pathogen</subject>
+      <subject>infection load</subject>
+      <subject>physiological homeostasis</subject>
+      <subject>skin sloughing</subject>
+      <subject>susceptibility</subject>
+      <subject>Litoria caerulea</subject>
+      <subject>Batrachochytrium dendrobatidis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ohmer MEB, Cramp RL, White CR, Franklin CE (2014) Skin sloughing rate increases with chytrid fungus infection load in a susceptible amphibian. Functional Ecology 29(5): 674&#8211;682.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H1J85/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12370</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

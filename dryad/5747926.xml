@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5747926</identifier><datestamp>2015-10-27T12:18:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B5K00/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hegemann, Arne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tieleman, Irene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marra, Peter P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data Hegemann et al Partial migration</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bird</subject>
+      <subject>Ecology: behavioral</subject>
+      <subject>Ecology: physiological</subject>
+      <subject>Migration</subject>
+      <subject>Europe</subject>
+      <subject>The Netherlands</subject>
+      <subject>2006-2009</subject>
+      <subject>Alauda arvensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B5K00</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66265 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel table with 3 sheets. First sheet contains all raw data needed for Post-winter comparisons including all reproductive data, physiological data, morphological data and return rate as well as stable isotope values used for assigning birds as migrants, residents or unknown, respectively. From these table also comparisons between age and sex classes, consistency versus switching of strategies and tarsus length among switchers, obligate residents and obligate migrants can be extracted. Sheet 2 contains all data for the within-individual comparisons (longitudinal data). Sheet 3 contains data regarding the test for assortative mating.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

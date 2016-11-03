@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3666531</identifier><datestamp>2014-11-07T10:12:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GD93S/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Touzet, Pascal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lahiani, Emna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dufay, Mathilde</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castric, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Cadre, Solenn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charlesworth, Deborah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Rossum, Fabienne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Silene nutans and otites X4</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>mating system evolution</subject>
+      <subject>Silene nutans</subject>
+      <subject>Silene otites</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-03-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GD93S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4952 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment of nuclear X4 sequences</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

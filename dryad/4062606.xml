@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4062606</identifier><datestamp>2014-11-21T17:07:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5P5DD/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lintott, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunnefeld, Nils</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuentes-Montemayor, Elisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Minderman, Jeroen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mayhew, Rebekah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olley, Lena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Park, Kirsty</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bat abundance, vegetation, and landscape data for urban woodland in Central Scotland</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>sex differences</subject>
+      <subject>habitat use</subject>
+      <subject>urbanisation</subject>
+      <subject>fragmented woodland</subject>
+      <subject>bats</subject>
+      <subject>Edinburgh</subject>
+      <subject>Glasgow</subject>
+      <subject>Central Scotland</subject>
+      <subject>Scotland</subject>
+      <subject>United Kingdom</subject>
+      <subject>Pipistrellus pygmaeus</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5P5DD</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60158 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data was collected in fragmented urban woodland within Central Scotland in 2011. Bat abundance data was collected using both mist nets and harp traps to quantify bat use within woodland patches. Vegetation data was collected within a  week of the bat survey to ensure that appropriate vegetative conditions were recorded. Landscape data was calculated using ArcGIS 10 and Fragstats v4.0.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6519837</identifier><datestamp>2015-07-24T11:25:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.63J2J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stockenhuber, Reinhold</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zoller, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shimizu-Inatsugi, Rie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gugerli, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shimizu, Kentaro K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Widmer, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fischer, Martin C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Efficient detection of novel nuclear markers for Brassicaceae by transcriptome sequencing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Primer-design</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>RNA-Seq</subject>
+      <subject>phylogenetics</subject>
+      <subject>primer database</subject>
+      <subject>Brassicaceae</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Arabis alpina</subject>
+      <subject>Cardamine hirsuta</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Stockenhuber R, Zoller S, Shimizu-Inatsugi R, Gugerli F, Shimizu KK, Widmer A, Fischer MC (2015) Efficient detection of novel nuclear markers for Brassicaceae by transcriptome sequencing. PLOS ONE 10(6): e0128181.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.63J2J/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.63J2J/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0128181</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

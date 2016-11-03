@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4148470</identifier><datestamp>2014-12-03T20:18:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4B115</identifier>
+  <creators>
+      <creator>
+         <creatorName>Guralnick, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conlin, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deck, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stucky, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cellinese, Nico</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The trouble with triplets in biodiversity informatics: a data-driven case against current identifier practices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Barcode of Life Data System</subject>
+      <subject>biocollections</subject>
+      <subject>biodiversity informatics</subject>
+      <subject>Darwin Core</subject>
+      <subject>Darwin Core Triplets</subject>
+      <subject>databases</subject>
+      <subject>GenBank</subject>
+      <subject>global unique identifiers</subject>
+      <subject>linked open data</subject>
+      <subject>VertNet</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Guralnick R, Conlin T, Deck J, Stucky B, Cellinese N (2014) The trouble with triplets in biodiversity informatics: a data-driven case against current identifier practices. PLoS ONE 9(12): e114069.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4B115/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0114069</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

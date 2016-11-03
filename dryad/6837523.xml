@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6837523</identifier><datestamp>2015-10-14T14:57:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H26V5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>S&#225;nchez-Ramirez, Santiago</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tulloss, Rodham E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guzm&#225;n-Davalos, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cifuentes-Blanco, Joaqu&#237;n</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valenzuela, Ricardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Estrada-Torres, Arturo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ru&#225;n-Soto, Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>D&#237;az-Moreno, Ra&#250;l</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hern&#225;ndez-Rico, Nallely</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torres-G&#243;mez, Mariano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le&#243;n, Hugo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moncalvo, Jean-Marc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Basic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fungi</subject>
+      <subject>Macroevolution</subject>
+      <subject>Niche Modelling</subject>
+      <subject>Phylogenetic Theory and Methods</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population Genetics - Empirical</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H26V5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>543006 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip files contains six directories, each one includes basic data used for analyses. The "alignments" directory includes concatenated, phased, and unphased gene alignments. The "trees" directory includes MCC tree files in nexus format, produced by BEAST and starBEAST. Trees include individual gene trees, concatenated, and species trees. The "bpp" folder includes the control, tree, and imap files needed to run BP&amp;P. The "maxent_input" folder has the filtered input coordinates used to run maxent in R. The "asr_div_data" has the geographic states used in RASP and data for MuSSE in a RData file. Finally, the "popsize_data" includes a table with summarized information about extant and ancestral population sizes and latitudes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

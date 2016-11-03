@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3718551</identifier><datestamp>2015-01-15T21:57:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q6H4N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Eakin, Libby</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Mei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dwyer, Greg</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Discretized images of virus-contaminated leaves fed on by gypsy  moths</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>behavioral ecology</subject>
+      <subject>theoretical ecology</subject>
+      <subject>epidemiology</subject>
+      <subject>computer simulation methods</subject>
+      <subject>ecological modeling</subject>
+      <subject>epidemiological modeling</subject>
+      <subject>individual based modeling</subject>
+      <subject>spatial modeling</subject>
+      <subject>insect</subject>
+      <subject>virus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q6H4N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1265051 bytes</size>
+      <size>1334 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Leaf grids used for analyses and simulations. These grids are discretized images of red oak&#13;
+leaves that were used in an experiment in which individual gypsy moth larvae were allowed to feed on single leaves for 24h. Each leaf was infected with at least one infectious cadaver of a first-instar larva killed by a baculovirus. Healthy fourth-instar larvae were then allowed to feed on the leaves (one leaf per larva) for 24 hours. The grids show the leaf area, as well as the location of the cadaver(s) and each larva's feeding history. The infection outcome for each larva is also recorded. Also included is an index file labeled 'Eakin_et_al_2014_leaf_grids.dat', which contains the file name for each leaf grid, the dimension of the grid (in pixels), the infection outcome for the larva (0=uninfected, 1 = infected), and the predicted probability of infection calculated using the infection model in the associated article. Lastly, there is also some R code titled 'visualize_leaf_grids.R' that will create a visual representation of the numerical leaf grids. See the README file for more details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

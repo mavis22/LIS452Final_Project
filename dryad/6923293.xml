@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6923293</identifier><datestamp>2015-11-20T15:17:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B6K1K/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Radinger, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolter, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kail, Jochem</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Set_MV_TV: Single boosted regression tree (BRT) habitat models for 13 fish species based on measured hydromorphological variables and topological variables</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>stream fish occurrence</subject>
+      <subject>river habitat</subject>
+      <subject>spatial scale</subject>
+      <subject>hydromorphological assessment</subject>
+      <subject>fish mobility</subject>
+      <subject>boosted regression trees</subject>
+      <subject>species distribution models</subject>
+      <subject>low-land sand-bed river</subject>
+      <subject>River Treene</subject>
+      <subject>Germany</subject>
+      <subject>Anguilla anguilla</subject>
+      <subject>Cobitis taenia</subject>
+      <subject>Gasterosteus aculeatus</subject>
+      <subject>Gobio gobio</subject>
+      <subject>Gymnocephalus cernua</subject>
+      <subject>Leuciscus leuciscus</subject>
+      <subject>Perca fluviatilis</subject>
+      <subject>Phoxinus phoxinus</subject>
+      <subject>Pungitius pungitius</subject>
+      <subject>Rutilus rutilus</subject>
+      <subject>Salmo salar</subject>
+      <subject>Salmo trutta fario</subject>
+      <subject>Tinca tinca</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B6K1K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>495856491 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Results for single boosted regression tree (BRT) models for 13 fish species, 4 modelled distance classes (0, 200, 2500, 4000 m) and measured hydromorphological data (MV) with topological variables. Model results include a global BRT model (brt.model.global, including all variables) and a final BRT model (brt.model.final, including only statistically relevant variables) for each species. Furthermore, summarizing statistics (brt.stats.final) for each final model (e.g. cross-validated AUC) and associated plots showing the influence of selected selected variables (species_response.pdf) are provided. Models are stored as R objects in the *.rds format and can be loaded with the R command readRDS().</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

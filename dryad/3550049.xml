@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3550049</identifier><datestamp>2014-05-30T09:19:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.101N0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wilson, Christopher G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sherman, Paul W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Spatial and temporal escape from fungal parasitism in natural communities of anciently asexual bdelloid rotifers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Red Queen</subject>
+      <subject>Asexuality</subject>
+      <subject>Evolution of sex</subject>
+      <subject>Coevolution</subject>
+      <subject>Dispersal</subject>
+      <subject>Dormancy</subject>
+      <subject>51&#176; 24' 34"N 0&#176; 38' 41"W</subject>
+      <subject>42&#186; 30&#8217;09&#8221;N 76&#186;26&#8217;14&#8221;W</subject>
+      <subject>Bdelloidea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Wilson CG, Sherman PW (2013) Spatial and temporal escape from fungal parasitism in natural communities of anciently asexual bdelloid rotifers. Proceedings of the Royal Society B 280(1765): 20131255.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.101N0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2013.1255</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

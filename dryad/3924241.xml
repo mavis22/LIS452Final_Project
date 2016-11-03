@@ -1,0 +1,79 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3924241</identifier><datestamp>2014-12-05T02:46:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4R267/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chitwood, Daniel H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ranjan, Aashish</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumar, Ravi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ichihashi, Yasunori</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zumstein, Kristina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Headland, Lauren R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ostria-Gallardo, Enrique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aguilar-Mart&#237;nez, Jos&#233; A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bush, Susan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carriedo, Leonela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fulop, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez, Ciera C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peng, Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maloof, Julin N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinha, Neelima R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>tpc130112_SupplementalDS2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Heteroblasty</subject>
+      <subject>Leaf shape</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>Morphometrics</subject>
+      <subject>Tomato</subject>
+      <subject>Biostatistics</subject>
+      <subject>Solanum lycopersicum</subject>
+      <subject>Solanum pennellii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4R267</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3003424 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplemental Dataset 2: Heteroblasty and experimental design information for S. lycopersicum, S. pennellii, and IL leaflets measured in the chamber experiment. For each leaflet is provided the corresponding image file name (&#8220;file&#8221;), the trait for which hPCs and other information is calculated (&#8220;trait&#8221;), the mean value of the trait for the plant across the leaflets considered (&#8220;mean&#8221;), the value of the trait for specific leaflets (terminal leaflet 1, &#8220;lft_1t&#8221;; mean distal lateral leaflets 2, &#8220;lft_2ab&#8221;; terminal leaflet 2, &#8220;lft_2t&#8221;; mean distal lateral leaflets 3, &#8220;lft_3ab&#8221;; terminal leaflet 3, &#8220;lft_3t&#8221;; mean distal lateral leaflets 4, &#8220;lft_4ab&#8221;; terminal leaflet 4, &#8220;lft_4t&#8221;), hPC values, replicate (&#8220;rep&#8221;), light treatment (&#8220;trt&#8221;, where &#8220;H&#8221; =  simulated foliar shade, &#8220;U&#8221; = simulated sun), shelf (&#8220;shelf&#8221;), tray (&#8220;tray&#8221;), tray position (&#8220;position&#8221;), IL genotype (&#8220;geno&#8221;), species or IL information (&#8220;species&#8221;), the number of leaves and leaf primordia at the time of harvest (&#8220;lfn&#8221;), the number of flower and floral primordia at the time of harvest (&#8220;flwrn&#8221;), and the leaf plus flower number (&#8220;lf.flow.number&#8221;).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

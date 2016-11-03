@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6750540</identifier><datestamp>2015-09-29T16:14:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H44Q0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hanson, Dieta</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fish sex and maturity scores</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Reproductive isolation</subject>
+      <subject>Allochrony</subject>
+      <subject>Ecological speciation</subject>
+      <subject>Stickleback</subject>
+      <subject>Vancouver Island</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H44Q0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>87785 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">First column contains the ID of the collection, which indicates the location of the collection. Second column is a unique ID for each fish. Third column is the sex of the fish; male = M, female = F, unknown = U. Fourth column is the maturity score if the fish is female; 1=gravid but eggs not visible or running, 2=eggs visible but not running, 3=eggs running. If fish is male or unknown, a zero will be recorded in this column. Fifth column is the maturity score if the fish is male; 1=just enough colour to identify as male, 2=red colour on throat, mouth, snout, and operculum and/or blue colour on eye, posterior flank, and area around the testes, 3=intense and extensive red colour on throat, mouth, snout, and operculum and/or blue colour on eye, posterior flank, and area around the testes. If fish is female or unknown, a zero will be recorded in this column.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

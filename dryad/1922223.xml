@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1922223</identifier><datestamp>2014-05-30T03:26:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.307G0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barley, Anthony J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Jordan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Diesmos, Arvin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Rafe M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The challenge of species delimitation at the extremes: diversification without morphological change in Philippine sun skinks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>cryptic species</subject>
+      <subject>BP&amp;P</subject>
+      <subject>GMYC</subject>
+      <subject>morphometrics</subject>
+      <subject>lizard</subject>
+      <subject>Philippines</subject>
+      <subject>Palau</subject>
+      <subject>Malaysia</subject>
+      <subject>Eutropis</subject>
+      <subject>Scincidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Barley AJ, White J, Diesmos AC, Brown RM (2013) The challenge of species delimitation at the extremes: diversification without morphological change in Philippine sun skinks. Evolution 67(12): 3556-3572.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.307G0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12219</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

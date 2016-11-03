@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2407861</identifier><datestamp>2015-09-24T20:07:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M48TR/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Voegeli, Beatrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saladin, Verena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wegmann, Mich&#232;le</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richner, Heinz</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Body measures and heterozygosity levels</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Heterozygosity&#8211;fitness correlation</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-11-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M48TR</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>135456 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data set includes nestling body measures and heterozygosity levels of nestlings and rearing parents. Nest_ID: Nest of rearing, Chick_ID: Individual nestling's code, Brood_manipul: Brood size manipulation treatment, Infestation: Flea infestation, Original_brood: Brood size before manipulation treatment, HetHLm(f)_f: Functional heterozygosity of foster male (female), HetHLm(f)_n: Neutral heterozygosity of foster male (female), HetHL_f: Nestling functional heterozygosity, HetHL_n: Nestling neutral heterozygosity, Sex: Nestling sex, Weight_d15: Nestling weight 15 days after hatching, Fledged: 1=nestling successfully fledged, 0= nestling died, LPS_response: Difference in thickness measure before and after LPS-Injection, Rank: Nestling hatching rank, Body_cond: Nestling body condition</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

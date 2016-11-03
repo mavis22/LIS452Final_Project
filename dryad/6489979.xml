@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6489979</identifier><datestamp>2015-07-31T14:53:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K3836/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jiang, Yuexin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torrance, Louisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peichel, Catherine L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bolnick, Daniel I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Jiang_Data.csv</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>dispersal</subject>
+      <subject>local adaptation</subject>
+      <subject>parapatry</subject>
+      <subject>rheotaxis</subject>
+      <subject>swimming</subject>
+      <subject>fish</subject>
+      <subject>Vancouver Island</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K3836</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21142 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Metadata for Jiang et al 2015 Evolution. The file Jiang_Data.csv contains all data required to recreate analyses for Jiang, Torrance, Peichel, and Bolnick 2015, Differences in Rheotactic Responses Contribute to Divergent Habitat Use Between Parapatric Lake and Stream Threespine Stickleback. Evolution. The data columns are as follows: Group: source population, Fish_ID: a unique identifier, Flow_Direction: The direction that the water pump power heads pointed to generate flow, whether or not flow was actually initiated by plugging in the power heads. That is, we assign a flow direction randomly whether or not we turned on the pumps to actually generate flow. First_trial: whether a given fish (see Fish_ID) was tested first in still or flowing water. Randomly assigned. Current: Flow presence/absence (Flow/still) for the particular trial in the data row. Group: Whether the fish was wild-caught (Field), or Lab-raised. Subgroup: Whether the fish came from near or in the inlet stream, or outlet stream. Origin: Whether the fish came from the lake or stream. Location: A categorical summary of where the fish spent most of its time in the flow tank. Distance.total:  Net upstream movement. Distance.up.total: Cumulative upstream movement. Per.upstream: Percentage of time spent facing upstream. Location: Score representing the relative use of inner,middle, and outer concentric areas of the flow tank. The numbers presented here are obtained by digitizing videos of each fish (2 videos per fish, flow and still water), and converting the videos into data tables (one per fish) representing the fish&#8217;s location and orientation in ~1 second time intervals. These very large tables are available from the authors upon request: email danbolnick@austin.utexas.edu.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

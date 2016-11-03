@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753445</identifier><datestamp>2015-09-30T18:50:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K8FG7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dargent, Felipe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reddon, Adam R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swaney, William T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fussmann, Gregor F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reader, Simon M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scott, Marilyn E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Forbes, Mark R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dargentetal2015_demasculinization</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gonadal steroids</subject>
+      <subject>feminization</subject>
+      <subject>sex-biased parasitism</subject>
+      <subject>testosterone</subject>
+      <subject>fish</subject>
+      <subject>Trinidad</subject>
+      <subject>Poecilia reticulata</subject>
+      <subject>Gyrodactylus turnbulli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-09-24</date>
+      <date dateType="Accepted">2015-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K8FG7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6978 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-09-24</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains data on the experiment for which it was collected ("Experiment"), the id of each individual guppy used ("id"), their population of origin ("population"), the hormone treatment that they received ("treatment": COm= control males, COf=control females, xAn=demasculinized males, fe=feminized males), the initial mass of individuals in grms ("startweight"), the initial standard length of individuals in mm ("startsl"), the mass of individuals on the day of infection ("0weight"), the standard length of individuals on the day of infection ("0sl"), the parasite load on the day of infection ("day0") and consecutive days 6 ("day6"), 8 ("day8"), and 10 ("day10"), the sex of the fish ("sex") and whether they were outliers or not ("outliers").</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

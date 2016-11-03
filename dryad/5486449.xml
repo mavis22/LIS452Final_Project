@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5486449</identifier><datestamp>2015-02-24T18:36:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C8N18/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kowallik, Vienna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Greig, Duncan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>16S_taxonomy</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Community Ecology</subject>
+      <subject>fungi</subject>
+      <subject>Species Interactions</subject>
+      <subject>bacteria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C8N18</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16657 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Six oak bark pieces (~1g) from four oak trees (three pieces from oak 1 and one piece from each of the other trees) in Northern Germany were collected. In addition an infusion (20g oak bark in a sterile tea bag in 300 mL water for 24 hours) for each tree was prepared. DNA was extracted from all samples using the Soil DNA Kit from Omega Bio-Tek. The resulting DNA was sent to LGC Genomics (GmbH, Berlin, Germany) for amplification of the bacterial 16S rRNA (V1 to V5) sequences using GM3 (AGAGTTTGATCMTGGC) and 926R (CCGTCAATTCMTTTGAGTTT) primers using the 454 GS FLX+ Titanium Sequencer (Roche).  16S sequences were processed with mother, aligned to the comprehensive seed database from SILVA downloaded on April 29, 2013 and subsampled to 4000 sequences per sample. Sequence classification was performed using the mothur implementation of naive Bayesian classification based on the RDP Classifier version 9, with a threshold bootstrap value of 70% for each taxonomic level.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

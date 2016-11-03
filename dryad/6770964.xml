@@ -1,0 +1,80 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6770964</identifier><datestamp>2015-11-28T14:27:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K6TQ2/15</identifier>
+  <creators>
+      <creator>
+         <creatorName>Borowiec, Marek L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, Ernest K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiu, Joanna C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plachetzki, David C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Topology_tests</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogenetic conflict</subject>
+      <subject>phylogenomics</subject>
+      <subject>locus selection</subject>
+      <subject>long-branch attraction</subject>
+      <subject>Earth</subject>
+      <subject>2 billion years</subject>
+      <subject>Acropora</subject>
+      <subject>Acyrthosiphon</subject>
+      <subject>Amphimedon</subject>
+      <subject>Anolis</subject>
+      <subject>Apis</subject>
+      <subject>Bombus</subject>
+      <subject>Branchiostoma</subject>
+      <subject>Brugia</subject>
+      <subject>Caenorhabditis</subject>
+      <subject>Capitella</subject>
+      <subject>Ciona</subject>
+      <subject>Danaus</subject>
+      <subject>Daphnia</subject>
+      <subject>Drosophila</subject>
+      <subject>Fugu</subject>
+      <subject>Gallus</subject>
+      <subject>Gasterosteus</subject>
+      <subject>Homo</subject>
+      <subject>Hydra</subject>
+      <subject>Ixodes</subject>
+      <subject>Latimeria</subject>
+      <subject>Lottia</subject>
+      <subject>Mnemiopsis</subject>
+      <subject>Monosiga</subject>
+      <subject>Nematostella</subject>
+      <subject>Oikopleura</subject>
+      <subject>Pinctada</subject>
+      <subject>Rhodnius</subject>
+      <subject>Saccoglossus</subject>
+      <subject>Salpingoeca</subject>
+      <subject>Strigamia</subject>
+      <subject>Strongylocentrotus</subject>
+      <subject>Tetranychus</subject>
+      <subject>Tribolium</subject>
+      <subject>Trichoplax</subject>
+      <subject>Xenopus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K6TQ2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17301432 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Results of Bayesian tests of topology carried out in MrBayes. Subfolder names correspond to alternative topologies tested. See Table 2 and manuscript text for explanations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

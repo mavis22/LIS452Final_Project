@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4635752</identifier><datestamp>2015-02-06T19:33:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.83DC2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blair, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campbell, C. Ryan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoder, Anne D</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Blair-MER-Stacksfiles</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biotechnology</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Phylogeography</subject>
+      <subject>Microcebus murinus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.83DC2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4719375690 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All output files from Stacks analyses testing for bias in whole genome amplified DNA (using multiple displacement amplification; MDA) as compared to genomic DNA. Data include both sequencing runs and assemblies with and without the Microcebus murinus reference genome. Analyses are partitioned by tissue sample (e.g. MM1812). Within a single tissue sample, MDA and gDNA sequences are represented by different barcode sequences (see paper). Comparisons between treatments (gDNA vs. MDA) were performed at the SNP level.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

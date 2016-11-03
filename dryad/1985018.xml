@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1985018</identifier><datestamp>2014-05-30T05:40:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53J13</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fu, Xiaoteng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Yan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Jing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xing, Qiang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zou, Jiajun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Ruojiao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Zhongkai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Shi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hu, Xiaoli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Lingling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bao, Zhenmin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Sequencing-based gene network analysis provides a core set of gene resource for understanding thermal adaptation in Zhikong scallop Chlamys farreri</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>thermal stress</subject>
+      <subject>marine bivalve</subject>
+      <subject>weighted gene coexpression network analysis</subject>
+      <subject>EcoP15I-tagged digital gene expression</subject>
+      <subject>Chlamys farreri</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fu X, Sun Y, Wang J, Xing Q, Zou J, Li R, Wang Z, Wang S, Hu X, Zhang L, Bao Z (2014) Sequencing-based gene network analysis provides a core set of gene resource for understanding thermal adaptation in Zhikong scallop Chlamys farreri. Molecular Ecology Resources 14(1): 184-198.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.53J13/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12169</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

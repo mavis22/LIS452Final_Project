@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629735</identifier><datestamp>2015-03-03T16:33:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DS68K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pande, Samay R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shitut, Shraddha S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freund, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Westermann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bertels, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colesie, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bischofs, Ilka B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kost, Christian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Timelapse images showing transfer of GFP between cells</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Time lapse images</subject>
+      <subject>inter-cellular exchange</subject>
+      <subject>fluorescence</subject>
+      <subject>Germany</subject>
+      <subject>Escherichia coli</subject>
+      <subject>Acinetobacter baylyi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DS68K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2565153 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Co-cultures of cross-feeding genotypes of E.coli and A.baylyi were observed after 9 hours of growth in liquid media. Images of this co-culture were taken every 2 minutes to visualize the transfer of GFP between cells connected by nanotubes. The zip file contains unprocessed images in tiff format of three different channels- bright-field, green and red. Each folder contains 18 images, the file name indicates the time point.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

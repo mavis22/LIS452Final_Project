@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6815054</identifier><datestamp>2015-10-16T19:14:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FH2NT/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Caster, Ola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edwards, I. Ralph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sampled values for all probability variables of the benefit-risk assessment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>glucocorticoids</subject>
+      <subject>corticosteroids</subject>
+      <subject>ms</subject>
+      <subject>neurology</subject>
+      <subject>neuropathy</subject>
+      <subject>demyelinating diseases</subject>
+      <subject>pharmacoepidemiology</subject>
+      <subject>pharmacovigilance</subject>
+      <subject>clinical epidemiology</subject>
+      <subject>decision analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FH2NT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>358650392 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The sampled values are based on probabilistic modelling of data from published clinical trials and from individual case safety reports contained in VigiBase, the WHO international database of suspected adverse drug reactions. The first two columns are used to determine what scenario of the assessment that is considered: the first column indicates the type of distribution over the derived risk intervals for the serious adverse effects, and the second column indicates the proportion of the sampled risk values that is attributed to the background. Each of the following columns belongs to one of the probability variables for one of the three considered treatment alternatives. Variables are listed in the order obtained when traversing the decision tree in Figure 3 top to bottom, starting from the leftmost level. There are 10,000 rows for each scenario. Abbreviations: HDMP=high-dose methylprednisolone, LDMP=low-dose methylprednisolone, NT=no treatment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

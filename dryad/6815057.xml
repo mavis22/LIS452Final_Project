@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6815057</identifier><datestamp>2015-10-16T19:14:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FH2NT/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Caster, Ola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edwards, I. Ralph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Resulting preference rates for the three alternatives</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>glucocorticoids</subject>
+      <subject>corticosteroids</subject>
+      <subject>ms</subject>
+      <subject>neurology</subject>
+      <subject>neuropathy</subject>
+      <subject>demyelinating diseases</subject>
+      <subject>pharmacoepidemiology</subject>
+      <subject>pharmacovigilance</subject>
+      <subject>clinical epidemiology</subject>
+      <subject>decision analysis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FH2NT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44005 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data in this file has been computed directly from the raw data in the file 'Resulting samples for the expected utility of the three alternatives'. This file contains the same scenarios as that file, discernible from the the first four columns, but shows only a single value for each treatment alternative in each scenario. This value, the preference rate, is the fraction of all 10,000 sampling iterations for a given scenario in which the indicated alternative was the preferred one, i.e. had the highest expected utility. Preference rates for high-dose methylprednisolone (HDMP), low-dose methylprednisolone (LDMP), and no treatment (NT) are shown in columns 5-7, respectively. Figures 10 and 11 have been generated based on precisely this data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

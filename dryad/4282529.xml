@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282529</identifier><datestamp>2014-12-02T19:51:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.55137/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pelletier, Tara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crisafulli, Charlie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wagner, Steve</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zellmer, Amanda J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carstens, Bryan C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>gapd.Pid</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>species delimitation</subject>
+      <subject>coalescent</subject>
+      <subject>niche model</subject>
+      <subject>range expansion</subject>
+      <subject>Pacific Northwest</subject>
+      <subject>Plethodon idahoensis</subject>
+      <subject>Plethodon vandykei</subject>
+      <subject>Plethodon larselli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.55137</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29464 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-02T17:49:35Z (GMT). No. of bitstreams: 1
+gapd.Pid.nex: 29464 bytes, checksum: 4218a38b8efcdcee648ef1fe5614f7ea (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

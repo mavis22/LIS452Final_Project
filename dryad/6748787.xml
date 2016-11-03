@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748787</identifier><datestamp>2015-10-14T15:49:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2503H</identifier>
+  <creators>
+      <creator>
+         <creatorName>Forbes, Kristian M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Henttonen, Heikki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hirvel&#228;-Koski, Varpu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kipar, Anja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mappes, Tapio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stuart, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huitu, Otso</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Food provisioning alters infection dynamics in populations of a wild rodent</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>co-infection</subject>
+      <subject>factorial experiment</subject>
+      <subject>food supplementation</subject>
+      <subject>population limitation</subject>
+      <subject>vole</subject>
+      <subject>Bordetella bronchiseptica</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Forbes KM, Henttonen H, Hirvel&#228;-Koski V, Kipar A, Mappes T, Stuart P, Huitu O (2015) Food provisioning alters infection dynamics in populations of a wild rodent. Proceedings of the Royal Society B 282(1816): 20151939.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2503H/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2503H/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2015.1939</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

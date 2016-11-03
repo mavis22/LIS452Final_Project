@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6872401</identifier><datestamp>2015-10-26T15:46:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J803J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ferrer, Esperanza S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garc&#237;a-Navas, Vicente</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bueno-Enciso, Javier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barrientos, Rafael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Serrano-Davies, Eva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#225;liz-Campal, Conchi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanz, Juan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortego, Joaqu&#237;n</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>"This file contains the genotypes for 26 microsatellite loci and 1385 individuals collected in 25 populations of blue tit (Cyanistes caeruleus)"</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gene flow</subject>
+      <subject>isolation by distance</subject>
+      <subject>isolation by environment</subject>
+      <subject>isolation by resistance</subject>
+      <subject>multiple matrix regression</subject>
+      <subject>Cyanistes caeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J803J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>403429 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file contains  genotyping of 1385 individuals at 26 microsatellite loci classified in two groups by considering whether they are located into  genomic regions that are actively (TL; 12 loci: Cca-Tgu28,	PIJ14,	Tg05-053,	Tg05-046,	CcaTgu15,	Tg13-017,	CcaTgu19,	CcaTgu11,		CcaTgu8,	Tgu07,	CcaTgu14,	CcaTgu7) or not (NTL; 14 loci: PK11,		Pca3,	Pca9,	Pocc1,	Pocc6,	Pat-mp2-43,	PK12,	Ase18,	Pdo5,	Pca7,	Pca4,	Pca2,	Mcy&#956;4,	Pca8) transcribed to RNA. These individuals were captured in 25 populations located in fragmented  woodlands scattered within an area of 1200 km2 in Montes de Toledo, central of Spain.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

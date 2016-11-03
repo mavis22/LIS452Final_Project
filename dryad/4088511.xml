@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4088511</identifier><datestamp>2014-12-03T19:40:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G6Q07</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hamilton, Stephen G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castro de la Guardia, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Derocher, Andrew E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sahanatien, Vicki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tremblay, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huard, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Projected polar bear sea ice habitat in the Canadian Arctic Archipelago</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Canadian Arctic Archipelago</subject>
+      <subject>2006-2100</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hamilton SG, Castro de la Guardia L, Derocher AE, Sahanatien V, Tremblay B, Huard D (2014) Projected polar bear sea ice habitat in the Canadian Arctic Archipelago. PLoS ONE 9(11): e113746.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G6Q07/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G6Q07/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0113746</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

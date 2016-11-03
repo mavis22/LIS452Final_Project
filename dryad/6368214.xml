@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6368214</identifier><datestamp>2015-10-05T19:20:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RK987</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chen, Dima</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Jianjun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lan, Zhichun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hu, Shuijin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bai, Yongfei</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Soil acidification exerts a greater control on soil respiration than soil nitrogen availability in grasslands subjected to long-term nitrogen enrichment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>microbial respiration</subject>
+      <subject>root respiration</subject>
+      <subject>root specific respiration</subject>
+      <subject>below-ground carbon allocation</subject>
+      <subject>soil microbial community</subject>
+      <subject>plant functional group</subject>
+      <subject>root nitrogen content</subject>
+      <subject>base mineral cations</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chen D, Li J, Lan Z, Hu S, Bai Y (2015) Soil acidification exerts a greater control on soil respiration than soil nitrogen availability in grasslands subjected to long-term nitrogen enrichment. Functional Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RK987.2/1.2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RK987.2/2.2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12525</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5764339</identifier><datestamp>2015-06-08T17:33:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2P0G7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nordstr&#246;m, Marie C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Demopoulos, Amanda W.J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whitcraft, Christine R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rismondo, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMillan, Patricia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonzalez, Jennifer P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Levin, Lisa A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Environmental variables for natural and created salt marshes in the Venice Lagoon</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>habitat heterogeneity</subject>
+      <subject>macroinvertebrates</subject>
+      <subject>Mediterranean climate</subject>
+      <subject>restoration</subject>
+      <subject>stable isotopes</subject>
+      <subject>tidal wetland</subject>
+      <subject>trophic interactions</subject>
+      <subject>vascular plants</subject>
+      <subject>Venice Lagoon</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2P0G7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>602 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Venice_environmental_variables.csv contains data for the following variables:&#13;
+&#13;
+Age_young: young, created marshes&#13;
+Age_mature: natural (reference) marshes&#13;
+Elevation_low: low elevation habitat&#13;
+Elevation_high: high elevation habitat&#13;
+Vegetation_S: species richness of vascular plants&#13;
+Plant_cover:  per cent (%) cover of vascular plants&#13;
+Bg_biomass: belowground biomass (g per core)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

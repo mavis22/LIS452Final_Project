@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804751</identifier><datestamp>2015-02-25T16:03:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8N5D7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Husemann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cousseau, Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Callens, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthysen, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vangestel, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallmann, Caspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lens, Luc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CMR_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>approximate Bayesian computation</subject>
+      <subject>capture-recapture</subject>
+      <subject>census population size</subject>
+      <subject>demography</subject>
+      <subject>effective population size</subject>
+      <subject>gene flow</subject>
+      <subject>Taita Hills</subject>
+      <subject>Kenya</subject>
+      <subject>Holocene</subject>
+      <subject>Phyllastrephus cabanisi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7136 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This folder contains all minimally necessary information to run the Jolly-Seber models with program MARK (White, Gary C., and Kenneth P. Burnham. Program MARK: survival &#13;
+estimation from populations of marked animals. Bird study 46.S1 (1999): S120-S139) as mentioned in the main paper. There are 10 input files for program MARK, two for each of the five fragments (MB:Mbololo,NG:Ngangao,FU:Fururu,ND:Ndiwenyi,CH:Chawia) that represent periods 1 &amp; 2 respectively. Additionally, another 10 auxiliary datasets are provided to adjust for unequal interval lengths between sampling occasions within each fragment (see program MARK documentation).&#13;
+&#13;
+Each input data file is a tab-separated text file (.txt) in which the first column represents an encounter history of an individual, for a given fragment and time period (columns 2 and 3). &#13;
+Each auxiliary data file is a tab-separated text file (.txt) with interval id, starting date of interval, interval length (in days) and interval length (in fraction of a year).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

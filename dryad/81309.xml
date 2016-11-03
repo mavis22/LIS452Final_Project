@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81309</identifier><datestamp>2014-05-30T03:54:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.383/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gatesy, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinkovitch, Michel C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waddell, Victor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stanhope, Michael J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gatesy et al Data Set 2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+      <subject>invariant sites</subject>
+      <subject>tRNA</subject>
+      <subject>LogDeterminant</subject>
+      <subject>statistical tests</subject>
+      <subject>amino acid composition</subject>
+      <subject>mitochondrial DNA genomes</subject>
+      <subject>mammal phylogeny</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2009-05-01T16:50:29Z</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.383</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

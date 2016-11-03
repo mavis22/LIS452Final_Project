@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4234352</identifier><datestamp>2014-12-16T22:53:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1FQ87/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mayer, Christine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Metscher, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;ller, Gerd</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitteroecker, Philipp</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Images &amp; landmarks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Image Analysis</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>development</subject>
+      <subject>variation</subject>
+      <subject>rainbow trout</subject>
+      <subject>evo-devo</subject>
+      <subject>Oncorhynchus mykiss</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1FQ87</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>61108680 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Microscopic images of the tail fins of 20 rainbow trout specimens (Oncorhynchus mykiss). The fish were collected from one hatchery in the year 2000. Specimens were euthanized by overdose of MS222, fixed in buffered formalin, and stored in 70% ethanol. Seven of them were fixed at 21 days post fertilization (dpf), eight at 40 dpf, and five at 56 dpf. In 2013, the specimens were transferred into distilled water before they were stained with Mayer&#8217;s hematoxylin for 10 minutes. All images were taken under identical light conditions and standardized specimen orientation with a 5x magnification.&#13;
+&#13;
+Four anatomical landmarks and 95 semilandmarks were recorded on each of the 20 images using the software TPSdig (James Rohlf). The resulting raw landmark coordinates are given in the file "landmarks.tps".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

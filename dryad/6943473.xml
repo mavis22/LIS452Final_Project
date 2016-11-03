@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6943473</identifier><datestamp>2015-11-05T17:54:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.603HS/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bateson, Zachary</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whittingham, Linda A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Jeff A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunn, Peter O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for Fig1. Genetic variation and population size</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cytokines</subject>
+      <subject>genetic drift</subject>
+      <subject>genetic variation</subject>
+      <subject>immune genes</subject>
+      <subject>local adaptation</subject>
+      <subject>mediating genes</subject>
+      <subject>MHC</subject>
+      <subject>population differentiation</subject>
+      <subject>selection</subject>
+      <subject>missouri</subject>
+      <subject>kansas</subject>
+      <subject>nebraska</subject>
+      <subject>minnesota</subject>
+      <subject>wisconsin</subject>
+      <subject>texas</subject>
+      <subject>Tympanuchus cupido</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.603HS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1117 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">tab delimited file with data used in Figure 1. Contains Population (state code), genetic marker, alleles per locus (mean-centered), population size, log of population size, squared log of population size, alleles per locus, mean alleles per locus (for each marker) and sample size for each population.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

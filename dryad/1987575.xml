@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1987575</identifier><datestamp>2014-05-30T05:32:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.71R61</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blank, Carrine E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Not so old Archaea - the antiquity of biogeochemical processes in the archaeal domain of life</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>archaea</subject>
+      <subject>archaea/evolution</subject>
+      <subject>evolution</subject>
+      <subject>microbial metabolism</subject>
+      <subject>phylogenetics</subject>
+      <subject>precambrian</subject>
+      <subject>phanerozoic</subject>
+      <subject>Paleoproterozoic</subject>
+      <subject>Mesoproterozoic</subject>
+      <subject>Neoproterozoic</subject>
+      <subject>archaea</subject>
+      <subject>methanogens</subject>
+      <subject>euryarchaeota</subject>
+      <subject>crenarchaeota</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Blank CE (2009) Not so old Archaea - the antiquity of biogeochemical processes in the archaeal domain of life. Dryad Digital Repository. Geobiology 7(5): 495-514.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.71R61/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1472-4669.2009.00219.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753413</identifier><datestamp>2015-09-17T16:08:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9GN07/12</identifier>
+  <creators>
+      <creator>
+         <creatorName>Capaldo, Brian J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roller, Devin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Axelrod, Mark J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koeppel, Alex F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petricoin, Emanuel F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slingluff, Craig L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weber, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mackey, Aaron J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gioeli, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bekiranov, Stefan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>1371AJM0009</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Melanoma</subject>
+      <subject>PLX4720</subject>
+      <subject>Lapatinib</subject>
+      <subject>combination therapy</subject>
+      <subject>systems biology</subject>
+      <subject>MAPK pathway</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9GN07</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5799786378 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Archive of BAM files generated from exome sequencing of 16 melanoma cell lines. Exome sequences were generated using a combination of Agilent and NimbleGen captures. Variant calls as well as insertion and deletion calls were made using GATK.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

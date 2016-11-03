@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4550955</identifier><datestamp>2015-02-23T17:08:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MV827/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Salehi, Faezeh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baronio, Roberta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Idrogo-Lam, Ryan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vu, Huy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hall, Linda V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaiser, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lathrop, Richard, H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TGACCA2_part2.fq</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>NGS</subject>
+      <subject>Next Generation Sequencing</subject>
+      <subject>Bioinformatics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MV827</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>322147825 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">M237I sample/ reverse reads/ part 2 (please join with TGACCA2_part1.fq for a complete sample). Represents the unprocessed p53 core domain that contains the cancer mutation M237I but no other introduced mutations. This sample was prepared to analyze and control the baseline error rates associated with the procedure, as well as the intrinsic NGS sequencing error rates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

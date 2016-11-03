@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2818711</identifier><datestamp>2014-05-30T08:33:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2R79Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ly, Tony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ahmad, Yasmeen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shlien, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soroka, Dominique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mills, Allie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emanuele, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stratton, Michael R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lamond, Angus I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Peptide Evidence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>proteomics</subject>
+      <subject>mass spectrometry</subject>
+      <subject>cell cycle</subject>
+      <subject>gene expression</subject>
+      <subject>RNA-Seq</subject>
+      <subject>transcriptomics</subject>
+      <subject>MaxQuant</subject>
+      <subject>evidence table</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-03-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2R79Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

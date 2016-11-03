@@ -1,0 +1,76 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6789416</identifier><datestamp>2015-09-25T13:38:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TS351/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pfenninger, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patel, Simit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arias-Rodriguez, Lenin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feldmeyer, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riesch, R&#252;diger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plath, Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP FST file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Evolutionary Theory</subject>
+      <subject>Fish</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Mexico</subject>
+      <subject>Poecilia mexicana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TS351</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>388723644 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the pairwise fst output for individual snps. The non-informative sites have been suppressed, so all the rows are the SNPs that meet the coverage criteria.&#13;
+&#13;
+the columns are:&#13;
+&#13;
+col1: scaffold number&#13;
+col2: SNP position on scaffold&#13;
+col3: number of snps in window (because the window size was set to 1 to get individual SNP estimates, all values should be 1)&#13;
+col4: fraction of the window covered (more relevant for sliding window analyses)&#13;
+col5: mean coverage at SNP over all four populations&#13;
+col6: pairwise Fst for Tac-C:Tac-S&#13;
+col7: pairwise Fst for Tac-C:Puy-C&#13;
+col8: pairwise Fst for Tac-C:Puy-S&#13;
+col9: pairwise Fst for Tac-S:Puy-C&#13;
+col10: pairwise Fst for Tac-S:Puy-S&#13;
+col11: pairwise Fst for Puy-C:Puy-S&#13;
+&#13;
+population codes: 1=Tac-C, 2=Tac-S, 3=Puy-C, 4=Puy-S&#13;
+&#13;
+Note that the Fst values that are 0.000000000 are not polymorphic SNPs for a given pairwise comparison. For example, snp 'NW_006799939.1  19911'&#13;
+has an Fst of 0.00000000 in the Tac-C:Tac-S comparison because it is not polymorphic between Tac-C and Tac-S. From the sync file:&#13;
+&#13;
+NW_006799939.1  19911   A       21:0:0:0:0:0    21:0:0:0:0:0    39:0:0:2:0:0    37:0:0:5:0:0&#13;
+&#13;
+you can see that Tac-C and Tac-S are fixed for the A allele (21 counts in each). The only reason it is included as a SNP in the .fst file is because &#13;
+it is polymorphic in the Puy-C &amp; Puy-S populations (and polmorhic in the comparison across Tac &amp; Puy).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

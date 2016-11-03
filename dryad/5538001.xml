@@ -1,0 +1,86 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5538001</identifier><datestamp>2015-03-18T19:49:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J22J1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Saino, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bazzi, Gaia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gatti, Emanuele</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caprioli, Manuela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cecere, Jacopo G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Possenti, Cristina D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galimberti, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Orioli, Valerio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bani, Luciano</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rubolini, Diego</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gianfranceschi, Luca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spina, Fernando</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>File including all data used in the article</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Avian migration</subject>
+      <subject>Climate change</subject>
+      <subject>Clock genes</subject>
+      <subject>Phenology</subject>
+      <subject>Eurasia</subject>
+      <subject>Anthus trivialis</subject>
+      <subject>Saxicola rubetra</subject>
+      <subject>Luscinia megarhynchos</subject>
+      <subject>Ficedula hypoleuca</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J22J1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>43657 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">PROG = line ID&#13;
+SPECIES = common species name&#13;
+ID = sample ID&#13;
+DATE = day of capture (day 1 = January 1)&#13;
+AGE = age of individual (0 = second year; 1 = older)&#13;
+SEX = sex of the individual (1 = male; 2 = female)&#13;
+FAT = fat score (0-8 scale)&#13;
+MUSCLE = muscle score (0-3 scale)&#13;
+WING = wing lenght (mm x 10)&#13;
+MASS = body mass (g x 10)&#13;
+CLK_SHORT = Clock short allele lenght (Q-units)&#13;
+CLK_LONG = Clock long allele length (Q-units)&#13;
+CLK_MEAN = Clock mean allele length (Q-units)&#13;
+ADC_SHORT = Adcyap1 short allele length (bp units)&#13;
+ADC_LONG = Adcyap1 long allele length (bp units)&#13;
+ADC_MEAN = Adcyap1 mean allele length (bp units)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

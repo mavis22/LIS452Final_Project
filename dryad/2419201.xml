@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2419201</identifier><datestamp>2014-05-30T08:08:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.67R03</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vitali, Maira Soledad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viera Barreto, Jessica Noelia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenetic studies in Smallanthus (Millerieae, Asteraceae): a contribution from morphology</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Cladistic analysis</subject>
+      <subject>Quantitative characters</subject>
+      <subject>Asteraceae</subject>
+      <subject>Millerieae</subject>
+      <subject>Smallanthus</subject>
+      <subject>Rumfordia</subject>
+      <subject>Tridax</subject>
+      <subject>Acanthospermum</subject>
+      <subject>Ichthyothere</subject>
+      <subject>Compositae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Vitali MS, Viera Barreto JN (2014) Phylogenetic studies in Smallanthus (Millerieae, Asteraceae): a contribution from morphology. Phytotaxa 159(2): 77-94.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.67R03/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.11646/PHYTOTAXA.159.2.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

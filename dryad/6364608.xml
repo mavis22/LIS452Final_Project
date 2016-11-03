@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364608</identifier><datestamp>2015-07-31T19:22:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10NJ6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rankin, Brian D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fox, Jeremy W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barr&#243;n-Ortiz, Christian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chew, Amy E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holroyd, Patricia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ludtke, Joshua A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Xingkai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Theodor, Jessica M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Electronic supplementary material, Dataset S1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Species selection</subject>
+      <subject>Macroevolution</subject>
+      <subject>Price equation</subject>
+      <subject>Palaeocene/Eocene boundary</subject>
+      <subject>Body size</subject>
+      <subject>Bighorn Basin</subject>
+      <subject>Clarks Fork Basin</subject>
+      <subject>Wyoming</subject>
+      <subject>North America</subject>
+      <subject>Palaeocene</subject>
+      <subject>Eocene</subject>
+      <subject>Mammalia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.10NJ6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>603 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mean body sizes, approximated from the natural logarithm of the lower first or second molar area, and the proposed evolutionary relationships between mammalian genera from the early and middle Clarkforkian (Cf1 to Cf2) of the Bighorn and Clarks Fork Basins, Wyoming, USA. Notably, each taxon is assigned an index number (i.e., &#8216;Index&#8217; column). The mean body size of each taxon is provided for each of the time intervals that the taxon occurs (i.e., &#8216;size_i&#8217; is the mean body size of the taxon in the older time interval and &#8216;size_j&#8217; is the mean body size of the taxon in the younger time interval; NA indicates that the taxon does not occur in that time interval). Evolutionary relationships are indicated with specific reference to the index number of taxa, with a number in the &#8216;ancestor&#8217; column indicating that the taxa is a descendant of the referenced index number; zeros in the &#8216;ancestor&#8217; columns indicates that there is no ancestor for that taxon in the dataset. For instance, Haplomylus_palustris (i.e., Index taxon 1) does not have an ancestor in the dataset and a zero is recorded within the &#8216;ancestor&#8217; column for this taxon. However, in the same dataset, Haplomylus_simpsoni (i.e., Index taxon 2) does have an ancestor in the dataset; this ancestor is Haplomylus_palustris and a 1 is recorded in &#8216;ancestor&#8217; column referring to the index number of Haplomylus_palustris.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

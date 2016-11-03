@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6521667</identifier><datestamp>2015-07-27T17:16:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G1T1B/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Audzijonyte, Asta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baltr&#363;nait&#279;, Laima</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#228;in&#246;l&#228;, Risto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arba&#269;iauskas, K&#281;stutis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Placutris_MsatGenotypesAndCOInumbers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>COI</subject>
+      <subject>gene flow</subject>
+      <subject>phylogeography</subject>
+      <subject>Ponto-Caspian region</subject>
+      <subject>Pleistocene</subject>
+      <subject>Paramysis lacustris</subject>
+      <subject>Mysida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G1T1B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42005 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Microsatellite genotypes and COI accession numbers for all analysed Paramysis lacustris individuals</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

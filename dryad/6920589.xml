@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6920589</identifier><datestamp>2015-10-30T02:06:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H3B27/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hug, Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goupille, Cl&#233;ment</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baum, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raiteri, Brent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodges, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tucker, Kylie</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Correlation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>electromyography</subject>
+      <subject>muscle</subject>
+      <subject>movement</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H3B27</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41719 bytes</size>
+      <size>8398 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data used to calculate the coefficient of correlation between the ratio of neural drive and the ratio of muscle force-generating capacity between the vastus lateralis (VL) and vastus medialis (VM) muscles</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

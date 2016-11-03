@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4013338</identifier><datestamp>2014-11-26T21:45:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CR3FT/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gilarranz, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sabatino, Malena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aizen, Marcelo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bascompte, Jordi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Networks and coordinates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Island biogeography</subject>
+      <subject>Metacommunities</subject>
+      <subject>Nestedness</subject>
+      <subject>Spatial networks</subject>
+      <subject>Species-area relationship</subject>
+      <subject>Pollination</subject>
+      <subject>Seed-dispersal</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CR3FT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>141071 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This datafile contains the plant pollinator network at each of the 12 "sierras" sampled. Also the metaweb is provided along with the geographical coordinates of each of the "sierras" and their area.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

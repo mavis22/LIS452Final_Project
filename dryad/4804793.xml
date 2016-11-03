@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804793</identifier><datestamp>2015-07-21T21:10:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.404FH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruiz Lopez, Maria Jose</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ting, Nelson</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP information for loci identified using Restriction-site-associated DNA sequencing in the Ugandan red colobus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Mammals</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Uganda</subject>
+      <subject>Procolobus rufomitratus tephrosceles</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.404FH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13026419 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains the SNP information for the loci identified using Restriction-site-associated DNA sequencing in the Ugandan red colobus. The text contains the following information:  Locus (number assign to the locus by the program STACKS); Position (position of the SNP); SNP (identifies the change of the base in the SNP position); Consensus sequence (consensus sequence for the locus); number of individuals (number of individuals where the locus has been genotyped). It also includes the genotypes for all the individuals. If the individual could not be genotyped a "-" will appear. Some loci present more than one SNP, in those cases, the SNP information will appear in consecutive rows. For example locus 4 has SNPs in positions 86 (row number 2 in the table) and 89 (row number 3 in the table). In those cases the genotypes for the individuals always show the complete genotype. Heterozygotes are indicated with a "/". For example A/G is heterozygote for 1 SNP, CA/GG is heterozygote for 2 SNPs, GA/GG is heterozygote for 1 SNP out of 2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

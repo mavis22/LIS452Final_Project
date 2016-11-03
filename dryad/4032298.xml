@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4032298</identifier><datestamp>2014-11-13T19:08:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7K22P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>St&#229;lhandske, Sandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gotthard, Karl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Posledovich, Diana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leimar, Olof</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>postdia_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Life history evolution</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Sweden</subject>
+      <subject>United Kingdom</subject>
+      <subject>Anthocharis cardamines</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7K22P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>328822 bytes</size>
+      <size>3716 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-10-06T19:14:26Z (GMT). No. of bitstreams: 2
+postdia_data.txt: 328822 bytes, checksum: efef10d7d873f09960182386fd5cb357 (MD5)
+README.txt: 3716 bytes, checksum: aa5a0c6cf91f3b16d4bca0d50ffbcd73 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

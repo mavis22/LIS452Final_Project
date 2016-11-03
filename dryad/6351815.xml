@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6351815</identifier><datestamp>2015-06-29T19:02:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.38ND7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schmerer, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coates, Jessica L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bolnick, Daniel I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Parasitedata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecoimmunology</subject>
+      <subject>local adaptation</subject>
+      <subject>Parasitism</subject>
+      <subject>Vancouver Island</subject>
+      <subject>Holocene</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.38ND7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60329 bytes</size>
+      <size>1562 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A .txt file containing parasite load data on wild-caught stickleback, collected in 2009 from 6 lakes on Vancouver Island British Columbia. These data are used in the publication to establish that parasite communities differ between lakes, habitat types, and watersheds.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

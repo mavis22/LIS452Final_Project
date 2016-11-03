@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6675091</identifier><datestamp>2015-09-08T19:40:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D0G0D/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Franz, Mathias</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R script for running the extended Elo rating model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Linear dominance hierarchies</subject>
+      <subject>Self-organization</subject>
+      <subject>Winner and loser effects</subject>
+      <subject>Genetic effects</subject>
+      <subject>Africa</subject>
+      <subject>Papio cynocephalus</subject>
+      <subject>Papio anubis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D0G0D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7647 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the R code to fit the extended Elo model and plot k values. The code requires as input the file &#8216;ago_data.csv&#8217; and the provided code needs to be modified to insert the correct path where this file was saved. The implemented plotting requires the R library ggplot2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

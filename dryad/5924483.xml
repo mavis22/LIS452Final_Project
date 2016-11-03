@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5924483</identifier><datestamp>2015-10-27T12:33:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R0H7S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lehtonen, Topi K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sowersby, Will</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gagnon, Karine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wong, Bob B. M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Aggression data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>color signal</subject>
+      <subject>competitor recognition</subject>
+      <subject>familiarity</subject>
+      <subject>heterospecific aggression</subject>
+      <subject>signal reliability</subject>
+      <subject>species interactions</subject>
+      <subject>Nicaragua</subject>
+      <subject>Lake Xilo&#225;</subject>
+      <subject>Holocene</subject>
+      <subject>Amphilophus sagittae</subject>
+      <subject>Amphilophus xiloaensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R0H7S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>23040 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Field data: aggression by territory holding fish towards model intruders. Sex and length of the territory holders, water depth at the territory, and model intruder type are also listed.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3830385</identifier><datestamp>2014-08-12T16:05:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DB2GD</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matabos, M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aguzzi, J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robert, K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Costa, C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Menesatti, P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Company, J. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Juniper, S. K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Multi-parametric study of behavioural modulation in demersal decapods at the VENUS cabled observatory in Saanich Inlet, British Columbia, Canada</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>cabled observatory</subject>
+      <subject>imagery</subject>
+      <subject>rhythmic behaviour</subject>
+      <subject>underwater imagery</subject>
+      <subject>Patricia Bay</subject>
+      <subject>Saanich Inlet</subject>
+      <subject>BC</subject>
+      <subject>Canada</subject>
+      <subject>Spirontocaris sica</subject>
+      <subject>Munida quadrispina</subject>
+      <subject>Beggiatoa spp</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Matabos M, Aguzzi J, Robert K, Costa C, Menesatti P, Company JB, Juniper SK (2011) Multi-parametric study of behavioural modulation in demersal decapods at the VENUS cabled observatory in Saanich Inlet, British Columbia, Canada. Journal of Experimental Marine Biology and Ecology 401(1-2): 89-96.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DB2GD/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DB2GD/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DB2GD/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DB2GD/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.JEMBE.2011.02.041</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

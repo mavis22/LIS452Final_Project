@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5739505</identifier><datestamp>2015-06-09T19:54:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6TM5V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sampath, Smita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klimas, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feng, Dai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baumgartner, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Manigbas, Elaine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liang, Ai-Leng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Evelhoch, Jeffrey L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chin, Chih-Liang</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Non-Human Primate MRI Cardiac Functional Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>magnetic resonance imaging</subject>
+      <subject>cardiac function</subject>
+      <subject>cardiac tagging</subject>
+      <subject>phase contrast MRI</subject>
+      <subject>non-human primates</subject>
+      <subject>cynomolgus</subject>
+      <subject>Singapore</subject>
+      <subject>United States</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6TM5V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>914228180 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file consists of MRI datasets from eight naive non-human primates.  The datasets are repeated twice for test and retest acquisitions.  Each dataset includes cardiac structural, tagging, and phase contrast MRI images.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3750555</identifier><datestamp>2015-02-25T18:40:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2VQ52/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kraus, Robert H. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>vonHoldt, Bridgett</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cocchiararo, Berardino</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harms, Verena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bayerl, Helmut</creatorName>
+      </creator>
+      <creator>
+         <creatorName>K&#252;hn, Ralph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>F&#246;rster, Daniel W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fickel, J&#246;rns</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roos, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nowak, Carsten</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Archive of sample and SNP lists and genotype files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Conservation Biology</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Mammals</subject>
+      <subject>Wildlife Management</subject>
+      <subject>Germany</subject>
+      <subject>Italy</subject>
+      <subject>Europe</subject>
+      <subject>Holocene</subject>
+      <subject>Canis lupus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2VQ52</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1425522 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The archive contains all raw genotype files, a file with SNP IDs and their layout on a 96-well plate, as well a  list of all samples used in the paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

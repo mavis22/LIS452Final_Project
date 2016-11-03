@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6669407</identifier><datestamp>2015-08-20T15:05:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q878C/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sander, Sarah E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hall, David W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tree 2 (Stanger-Hall and Lloyd taxa plus 32 taxa)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Adaptation</subject>
+      <subject>Comparative Biology</subject>
+      <subject>North America</subject>
+      <subject>Holocene</subject>
+      <subject>Lampyridae</subject>
+      <subject>Photinus</subject>
+      <subject>Photuris</subject>
+      <subject>Lucidota</subject>
+      <subject>Ellychnia</subject>
+      <subject>Pyractomena</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q878C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1833 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">BEAST phylogeny constructed with taxa from Stanger-Hall and Lloyd (2015) plus 32 additional taxa. The tree has been trimmed to include only species used in this study. Its topology, presented in Text S3, differs slightly from Tree 1, which is presented in the main text.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

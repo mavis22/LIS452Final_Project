@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4153277</identifier><datestamp>2014-11-21T20:42:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.39GC6/15</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pan, Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Baosheng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pei, Zhi-Yong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhao, Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gao, Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mao, Jian-Feng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Xiao-Ru</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>9pt_snp</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>conifer genome</subject>
+      <subject>genotyping-by-sequencing</subject>
+      <subject>library prep parameters</subject>
+      <subject>sequencing depth</subject>
+      <subject>SNP validation</subject>
+      <subject>Pinus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.39GC6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2466606 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-11-06T16:28:09Z (GMT). No. of bitstreams: 1
+9pt_snp.vcf: 2466606 bytes, checksum: 11b98a5eb28ad3a8d55d75a8584c2d4a (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

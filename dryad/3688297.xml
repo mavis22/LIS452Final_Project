@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3688297</identifier><datestamp>2015-09-11T13:18:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G52M3/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mastretta-Yanes, Alicia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arrigo, Nils</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alvarez, Nadir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jorgensen, Tove H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pi&#241;ero, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emerson, Brent C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data (SRA SRP035472)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>RADseq</subject>
+      <subject>Stacks</subject>
+      <subject>de novo assembly</subject>
+      <subject>optimization</subject>
+      <subject>error rate</subject>
+      <subject>replicates</subject>
+      <subject>Trans Mexican Volcanic Belt</subject>
+      <subject>Mexico</subject>
+      <subject>Sierra Madre Occidental</subject>
+      <subject>Iztaccihuatl</subject>
+      <subject>Cerro Tlaloc</subject>
+      <subject>Cerro Zamorano</subject>
+      <subject>Cofre de Perote</subject>
+      <subject>La Malinche</subject>
+      <subject>Nevado de Toluca</subject>
+      <subject>Cerro San Andres</subject>
+      <subject>Ajusco</subject>
+      <subject>Pleistocene</subject>
+      <subject>Miocene</subject>
+      <subject>Berberis alpina</subject>
+      <subject>Berberis trifolia</subject>
+      <subject>Berberis moranensis</subject>
+      <subject>Berberis pallida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G52M3</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">The postdemultiplexing quality filtered data (i.e. output of "Demultiplexing and dropbase" of this repository) is available at the Sequence Read Archive (SRA), accession SRP035472. Those files were used to run Stacks and the resulted matrices coverage and SNP matrices produced after running the Stacks script *export_sql.pl* along with the subsequent files used to perform the analyses on R. See contents of the [2R](./2R) directory. For the rest of the pipeline the scripts used and when available and output summary are presented inside each directory.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

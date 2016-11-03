@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915868</identifier><datestamp>2015-12-08T00:49:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HH205/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garrigue, Claire</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Garrigue-et-al_DATA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>whale</subject>
+      <subject>distribution</subject>
+      <subject>cryptic habitat</subject>
+      <subject>satellite tracking</subject>
+      <subject>breeding ground</subject>
+      <subject>Oceania</subject>
+      <subject>Megaptera novaeangliae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HH205</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>73744 bytes</size>
+      <size>16144 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-10-28T16:17:30Z (GMT). No. of bitstreams: 2
+Garrigue-et-al_DATA.csv: 73744 bytes, checksum: 8f7f032b9fa8ad44ecaf8cc1e35f396d (MD5)
+README.docx: 16144 bytes, checksum: d67f8d41fe0086bc8f955d2c7124f26d (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

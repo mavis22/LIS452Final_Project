@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6795365</identifier><datestamp>2015-10-13T19:45:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.589G3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Luxian, Liu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xinjie, Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nan, Chen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xian, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pan, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chengxin, Fu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>The raw data for Morella</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogeny</subject>
+      <subject>restriction site-associated DNA</subject>
+      <subject>SNP markers</subject>
+      <subject>South China</subject>
+      <subject>5 Ma</subject>
+      <subject>Morella rubra</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.589G3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2541726042 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These files including contig assemblies in fasta format (Morella esculenta-Contigs.fa, Morella esculenta-Contigs.fa and Morella rubra-Contigs.fa), matrix used to infer phlogenetic trees (Morella phlogeney.phy), shared SNP loci between four different populations (4Morella rubra shared.loci) and the raw RAD data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

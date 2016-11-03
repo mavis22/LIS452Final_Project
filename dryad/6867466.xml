@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6867466</identifier><datestamp>2015-11-19T16:53:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5HQ56/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mason, Chase M</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Notes S2 - HeliaMet Database</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sunflowers</subject>
+      <subject>physical</subject>
+      <subject>chemical</subject>
+      <subject>HPLC</subject>
+      <subject>herbivory</subject>
+      <subject>pathogen</subject>
+      <subject>North America</subject>
+      <subject>Helianthus</subject>
+      <subject>Phoebanthus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5HQ56</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2275558 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">HeliaMet database of normalized peak areas for individuals of all detected compounds via HPLC-MS, with m/z ratios and retention times.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

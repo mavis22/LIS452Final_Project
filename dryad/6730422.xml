@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6730422</identifier><datestamp>2015-10-13T20:52:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C867B/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roemhild, Roderich</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbosa, Camilo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beardmore, Robert E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jansen, Gunther</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulenburg, Hinrich</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for cross-resistance test</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Experimental Evolution</subject>
+      <subject>Evolutionary Medicine</subject>
+      <subject>Adaptation</subject>
+      <subject>Pseudomonas aeruginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C867B.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42840 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data for the cross-resistance test (Fig. 4).&#13;
+$evoexp: number of evolution experiment or the ancestral population&#13;
+$evoexp_season: season of the evolution experiment after which populations were streaked on agar plates for characterization&#13;
+$evoexp_drug: antibiotic present in $evoexp_season and on the agar plates&#13;
+$evoexp_well: position of population in 96-well plate during evolution experiment&#13;
+$clone_id: name of the five cfus that were isolated from each $evoexp_well&#13;
+$test_drug: antibiotic present in the cross-resistance test&#13;
+$ic: the inhibitory concentration aimed for with the applied concentration; if the value is "E" these are wells with antibiotic but without the bacteria&#13;
+$concentration_ng_ml: concentration of the antibiotic in the cross-resistance test in ng/ml&#13;
+$od_600: optical density at 600 nm after 12h of incubation at 37&#176;C</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

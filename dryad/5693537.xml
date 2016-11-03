@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5693537</identifier><datestamp>2015-08-17T17:56:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3T761</identifier>
+  <creators>
+      <creator>
+         <creatorName>Steiner, Florian M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pautasso, Marco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zettel, Herbert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moder, Karl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arthofer, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlick-Steiner, Birgit</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A falsification of the citation impediment in the taxonomic literature</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>animals</subject>
+      <subject>citations</subject>
+      <subject>impact factor</subject>
+      <subject>microorganisms</subject>
+      <subject>plants</subject>
+      <subject>taxonomic impediment</subject>
+      <subject>taxonomy</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Steiner FM, Pautasso M, Zettel H, Moder K, Arthofer W, Schlick-Steiner B (2015) A falsification of the citation impediment in the taxonomic literature. Systematic Biology 64(5): 860-868.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.3T761/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/SYSBIO/SYV026</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

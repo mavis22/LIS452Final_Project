@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4309437</identifier><datestamp>2014-12-10T07:12:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8F409/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smitz, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Corn&#233;lis, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chardonnet, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caron, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Garine-Wichatitsky, Michel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jori, Ferran</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mouton, Alice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Latinne, Alice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pigneur, Lice-Marie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melletti, Mario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kanapeckas, Kimberly L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marescaux, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pereira, Carlos Lopes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Michaux, Johan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DRYAD-SYNCERUS</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>population genetics</subject>
+      <subject>genetic structure</subject>
+      <subject>translocation</subject>
+      <subject>southern africa</subject>
+      <subject>conservation implications</subject>
+      <subject>Mozambique</subject>
+      <subject>South Africa</subject>
+      <subject>Botswana</subject>
+      <subject>Angola</subject>
+      <subject>Zimbabwe</subject>
+      <subject>Zambia</subject>
+      <subject>Holocene</subject>
+      <subject>Syncerus caffer caffer</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8F409</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>59759 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The African buffalo microsatellite database is presented as an excel file with two sheets. The first sheet displays the allelic composition of the 14 autosomal microsatellites used within the present study, which is concentrated on southern African sampling localities. The first four lines of this first sheet refer to the title attributed to the present database sheet, the number of clusters identified with the STRUCTURE software, the number of loci studied, as well as the total number of individuals studied, respectively. The table below covers the following information for each specimen involved in the present study: species name, country of origin, sampling locality (protected area), gender, sample ID, cluster affiliation (result from the STRUCTURE analysis), followed by the allele composition for each 14 loci (diploid species).&#13;
+The second sheet displays the allelic composition of the 3 Y-chromosomal microsatellites used within the present study. The first three lines refer to the title attributed to the present database sheet, the number of loci studied, as well as the number of male individuals studied within the present study, respectively. The table below cover the following information for each male specimen genotyped in the present study: sample ID, alleles composition for each three Y-chromosomal microsatellites, haplotype designation for each three Y-chromosomal microsatellites, and final haplogroup determination. The haplotype designation is a number attributed to designate the combination of alleles for each of the three loci because they can appear as multicopies on the Y-chromosome. The haplogroup is thus defined as the combination of the haplotypes, written as {n UMN1113 haplotype, n UMN0304 haplotype, n INRA189 haplotype}, where n UMN1113 haplotype = 1,...,15, n UMN0304 haplotype = 1,...,9, and n INRA189 haplotype = 1,...,12. For further information, please see the main manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

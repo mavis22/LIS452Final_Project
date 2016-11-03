@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4009917</identifier><datestamp>2014-12-12T03:31:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.96G44/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stuart, Yoel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Campbell, Todd S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hohenlohe, Paul A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reynolds, Robert G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Revell, Liam J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Losos, Jonathan B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CommonGarden.ToepadLamellae_Data_Acarolinensis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>character displacement</subject>
+      <subject>rapid evolution</subject>
+      <subject>islands</subject>
+      <subject>species invasion</subject>
+      <subject>habitat use</subject>
+      <subject>common garden experiment</subject>
+      <subject>spoil islands</subject>
+      <subject>Florida</subject>
+      <subject>Mosquito Lagoon</subject>
+      <subject>Cape Canaveral</subject>
+      <subject>Intracoastal Waterway</subject>
+      <subject>anthropocene</subject>
+      <subject>holocene</subject>
+      <subject>Anolis</subject>
+      <subject>Anolis carolinensis</subject>
+      <subject>Anolis sagrei</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.96G44</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2681 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This .Rdata file contains an object &#8220;data.red&#8221; which contains the common garden A. carolinensis toepad area and lamella number data used to create Figure 3. The columns are cge.id (hatchling id), dam.hatch.id (hatchling birth mother and date), dam id (adult, wildcaught), island, sagrei present (0=no, 1=yes), ar.av.mm (average toepad area), lam.av.areacount (average lamella number at area scan), hatch.svl.at.area (hatchling svl at area scan), hatch.mass.at.area, sex.at.area, dam.mass (mass of mother at wild capture), dam.svl (at wild capture), hatch.svl.at.hatch (hatchling svl upon hatching from the egg), and hatch.mass.at.hatch.&#13;
+ &#13;
+Mixed models R-code for toepad area and lamella number in 2010&#13;
+Toepad area&#13;
+x &lt;- lmeControl(maxIter=1000, msMaxIter=1000, niterEM=1000)&#13;
+model.area.1 &lt;- lme(ar.av.mm~sag.present + hatch.svl.at.area, random = ~hatch.svl.at.area|island, control = x, na.action=na.omit)&#13;
+&#13;
+Lamella number&#13;
+x &lt;- lmeControl(maxIter=1000, msMaxIter=1000, niterEM=1000)&#13;
+model.lam.1 &lt;- lme(lam.av.areacount~sag.present + hatch.svl.at.area, random = ~hatch.svl.at.area|island, control = x, na.action=na.omit)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

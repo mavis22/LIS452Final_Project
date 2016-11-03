@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6896593</identifier><datestamp>2015-10-27T19:07:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DQ1J6/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Escalera-Zamudio, Marina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zepeda-Mendoza, Lisandra M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loza-Rubio, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rojas-Anaya, Edith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#233;ndez-Ojeda, Maria L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arias, Carlos F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Greenwood, Alex D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FileS3_PAML</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Molecular Evolution</subject>
+      <subject>Adaptation</subject>
+      <subject>Selection</subject>
+      <subject>Gene Structure and Function</subject>
+      <subject>nucleic acid-sensing Toll-like receptors</subject>
+      <subject>Bats</subject>
+      <subject>Molecular evolution</subject>
+      <subject>selection</subject>
+      <subject>Eptesicus fuscus</subject>
+      <subject>Myotis brandtii</subject>
+      <subject>Myotis davidii</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Pteropus alecto</subject>
+      <subject>Pteropus vampyrus</subject>
+      <subject>Desmodus rotundus</subject>
+      <subject>Rousettus leschenaultii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DQ1J6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>922073 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Complete PAML results (in mlc files for the M1/M2, M8a/M8 and BSA test)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5526462</identifier><datestamp>2015-04-29T16:01:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B999Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>King, Wendy J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>distances between mothers and young of different ages and sexes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spatial autocorrelation</subject>
+      <subject>relatedness</subject>
+      <subject>sex-biased dispersal</subject>
+      <subject>philopatry</subject>
+      <subject>Wilsons Promontory National Park</subject>
+      <subject>Australia</subject>
+      <subject>Macropus giganteus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B999Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60423 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Each line represents a mother-young pair for a certain age period.  Period 1 = 10-13 months, Period 2 = 14-17 months, Period 3 = 18-21 months, Period 4 = 22-25 months, Period 5 = 26-29 months, Period 6 = 30-33 months, Period 7 = 34-37 months, Period 8 = 38-41 months.  Young and Mother refer to individuals but are not the tag numbers.  Sex 1 = male, Sex 2 = female.  Year 1 = 2010-2011, Year 2 = 2011-2012.  Distance Mother Moved is from the previous age period.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

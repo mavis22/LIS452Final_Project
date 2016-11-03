@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4049904</identifier><datestamp>2015-04-16T22:51:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RP8D0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pante, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abdelkrim, Jawad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viricel, Amelia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gey, Delphine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>France, Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boisselier, Marie-Catherine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Samadi, Sarah</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Use of RAD sequencing for delimiting species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>phylogenomics</subject>
+      <subject>octocoral</subject>
+      <subject>Stacks</subject>
+      <subject>PyRAD</subject>
+      <subject>SNP</subject>
+      <subject>species delimitation</subject>
+      <subject>RAD-tag</subject>
+      <subject>RAD-seq</subject>
+      <subject>restriction site associated DNA marker</subject>
+      <subject>Southwestern Pacific</subject>
+      <subject>New Caledonia</subject>
+      <subject>Papua New Guinea</subject>
+      <subject>Northwestern Atlantic</subject>
+      <subject>Chrysogorgia</subject>
+      <subject>Chrysogorgiidae</subject>
+      <subject>Calcaxonia</subject>
+      <subject>Octocorallia</subject>
+      <subject>Anthozoa</subject>
+      <subject>Cnidaria</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pante E, Abdelkrim J, Viricel A, Gey D, France S, Boisselier M, Samadi S (2014) Use of RAD sequencing for delimiting species. Heredity 114: 450&#8211;459.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RP8D0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2014.105</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

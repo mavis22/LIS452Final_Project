@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574468</identifier><datestamp>2015-05-01T19:06:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BR4RH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chow, Cecilia P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell, Jude F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Cory T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>marmoset ontogeny data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Marmoset</subject>
+      <subject>Turn-taking</subject>
+      <subject>Ontogeny</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BR4RH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1242164 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data structure for ontogeny study (Chow, Mitchell, Miller, 2015). Five family groups were collected, each with a data structure containing information for the call start and end times between pairs in the group. The five group structures are save in matlab files, as G_info4, R_info4, M_info4, O_info4, and J_info4. Each file has the same format, following as a 6 x 10 cell structure. The columns 1-10 corresponds to months, starting from month 3, so they are&#13;
+in sequence months 3,4,5,6,7,8,9,10,11,12. The rows correspond to different pairs of family members conversing, # - first to second speaker. 1 - mother to baby 1, 2 - mother to baby 2, 3 - father to baby 1, 4 - father to baby 2, 5 - baby 1 to baby 2. An empty cell indicates no data was recorded that month. Each cell has the following information for conversations: DateNum: [1xN double] % identifier for the N sessions recorded that month, Animals: [1x2 double] % animal numbers %**** call times for the first speaker  Astarts: [1xM double] % times in seconds, start of first pulse in a call. Afinish: [1xM double] % times in seconds, end of the first pulse. Astarts2: [1xM double] % time in seconds, start of the second pulse in call, NaN if no second pulse. Afinish2: [1xM double] % time in seconds, end of the second pulse in call, NaN if no second pulse. Atypes: [1xM double] % type of call, 1-phee, 2-twitter, 3-trill, 4-other, 5-unidentified. %**** call times for the second speaker. Bstarts: [1xP double] % same format as above for A, but for speaker B, Bfinish: [1xP double], Bstarts2: [1xP double], Bfinish2: [1xP double], Btypes: [1x265 double]</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768051</identifier><datestamp>2015-09-22T13:40:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J8227/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Oates, Lawrence G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duncan, David S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gelfand, Ilya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Millar, Neville</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robertson, G. Philip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jackson, Randall D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Aggregate Annual Fluxes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian model averaging</subject>
+      <subject>cellulosic biofuels</subject>
+      <subject>corn</subject>
+      <subject>greenhouse gas</subject>
+      <subject>poplar</subject>
+      <subject>restored prairie</subject>
+      <subject>switchgrass</subject>
+      <subject>nitrous oxide</subject>
+      <subject>methane</subject>
+      <subject>carbon dioxide</subject>
+      <subject>Arlington Agricultural Research Station</subject>
+      <subject>Kellogg Biological Station</subject>
+      <subject>AARS</subject>
+      <subject>KBS</subject>
+      <subject>Wisconsin</subject>
+      <subject>Michigan</subject>
+      <subject>United States</subject>
+      <subject>GLBRC Biofuel Cropping System Experiment</subject>
+      <subject>Panicum virgatum</subject>
+      <subject>Miscanthus giganteus</subject>
+      <subject>Populus nigra &#215; P. maximowiczii</subject>
+      <subject>Zea mays</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J8227</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10898 bytes</size>
+      <size>2822 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Daily fluxes were aggregated at the plot level over a calendar year. Details of aggregation are given in the paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027026</identifier><datestamp>2014-10-08T15:22:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PQ6HG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Unger, Gregor M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vendramin, Giovanni G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robledo-Arnuncio, Juan J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nuclear and chloroplast microsatellite genotypes for Pinus pinaster at Fuencaliente (Ciudad Real, Spain)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>seed and pollen dispersal</subject>
+      <subject>introgression</subject>
+      <subject>genetic monitoring</subject>
+      <subject>genotypes</subject>
+      <subject>haplotypes</subject>
+      <subject>microsatellites</subject>
+      <subject>chloroplast</subject>
+      <subject>genetic assignment</subject>
+      <subject>migration rate</subject>
+      <subject>gene flow</subject>
+      <subject>Maritime pine</subject>
+      <subject>38.416N 4.250W</subject>
+      <subject>Iberian Peninsula</subject>
+      <subject>Fuencaliente</subject>
+      <subject>Pinus pinaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PQ6HG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46708 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">One line per combined nuclear-chloroplast individual genotype, comprising 12 nSSR diploid loci and 6 cpSSR haploid regions. For nSSR, the two alleles at each locus are listed in consecutive columns. Missing data coded with zeros. Needle samples collected in the field. DNA extracted with Invisorb DNA Plant HTS 96 Kit. Electrophoresis of amplified products with LI-COR 4300 DNA Analyzer for cpSSRs, and 3130xL and 3500 Genetic Analyzers (Applied Biosystems) for nSSRs. Fragment size determination through visual inspection using external size markers and reference samples with known allele size for cpSSR, and internal size standard and GeneMapper software (Applied Biosystems) for nSSR.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4591510</identifier><datestamp>2015-05-27T20:44:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.73B9H</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, Matthew G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, A. Jonathan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic diversity, sexual condition, and microhabitat preference determine mating patterns in Sphagnum (Sphagnaceae) peat-mosses.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Alaska</subject>
+      <subject>Maine</subject>
+      <subject>North Carolina</subject>
+      <subject>South Carolina</subject>
+      <subject>Sphagnum angustifolium</subject>
+      <subject>Sphagnum austinii</subject>
+      <subject>Sphagnum compactum</subject>
+      <subject>Sphagnum cribrosum</subject>
+      <subject>Sphagnum cuspidatum</subject>
+      <subject>Sphagnum fallax</subject>
+      <subject>Sphagnum macrophyllum</subject>
+      <subject>Sphagnum magellanicum</subject>
+      <subject>Sphagnum molle</subject>
+      <subject>Sphagnum pulchrum</subject>
+      <subject>Sphagnum strictum</subject>
+      <subject>Sphagnum tenellum</subject>
+      <subject>Sphagnum warnstorfii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Johnson MG, Shaw AJ (2015) Genetic diversity, sexual condition, and microhabitat preference determine mating patterns in Sphagnum (Sphagnaceae) peat-mosses. Biological Journal of the Linnean Society 115(1): 96-113.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.73B9H/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/BIJ.12497</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

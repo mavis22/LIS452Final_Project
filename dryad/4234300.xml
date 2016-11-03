@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4234300</identifier><datestamp>2015-04-29T19:05:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FC4VF</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lemanis, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zachow, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fusseis, Florian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffmann, Ren&#233;</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A new approach using high-resolution computed tomography to test the buoyant properties of chambered cephalopod shells</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ammonoid buoyancy</subject>
+      <subject>volumetrics</subject>
+      <subject>computed tomography</subject>
+      <subject>hydrostatics</subject>
+      <subject>cephalopods</subject>
+      <subject>Cadoceras</subject>
+      <subject>Spirula spirula</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lemanis R, Zachow S, Fusseis F, Hoffmann R (2015) A new approach using high-resolution computed tomography to test the buoyant properties of chambered cephalopod shells. Paleobiology 41(2): 313-329.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FC4VF/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1017/PAB.2014.17</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

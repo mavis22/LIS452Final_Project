@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6872255</identifier><datestamp>2015-10-15T14:04:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G1M27/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lany, Nina K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ayres, Matthew P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stange, Erik E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sillett, T. Scotty</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodenhouse, Nicholas L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holmes, Richard T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>BTBW_annual_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phenology</subject>
+      <subject>mismatch hypothesis</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>Setophaga caerulescens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G1M27</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2197 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Annual summaries of field data on black-throated blue warbler reproduction (1986-2010) gathered at the Hubbard Brook Experimental Forest in Thornton, NH, USA. Notes on column headings are as follows: prop.F.ASY = proportion older (ASY) females; Acsa.budburst = day of sugar maple (Acer saccharum) budburst (Day 1 = 01 January); Acsa.canopy = day of nearly complete (90%) expansion of sugar maple leaves; arrival.50 = median arrival date of male black-throated blue warblers; clutch.init.50 = median clutch initiation date of black-throated blue warblers; mean.cats = mean dry caterpillar biomass (mg/8000 leaves) across the whole season; ln.mean.cats = seasonal mean dry caterpillar biomass, natural log-transformed; mean.first.cats = mean dry caterpillar biomass (mg/2000 leaves) in the early season; ln.first.cats = mean dry caterpillar biomass (mg/2000 leaves) in the early season, natural log-transformed; high_day = day of the count with the highest caterpillar biomass; density = breeding black-throated blue warblers per 64ha; survival = daily nest survival rate; mean.fledged = average annual reproductive success (mean number of young fledged per pair per year).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

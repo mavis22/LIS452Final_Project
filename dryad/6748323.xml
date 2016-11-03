@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748323</identifier><datestamp>2015-10-09T18:43:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C57H7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vojvodic, Svjetlana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Brian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harpur, Brock A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kent, Clement F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zayed, Amro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Kirk E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linksvayer, Timothy A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>raw hive observation data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>indirect genetic effects</subject>
+      <subject>interacting phenotypes</subject>
+      <subject>extended phenotype</subject>
+      <subject>social evolution</subject>
+      <subject>Apis mellifera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C57H7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>34321 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table of raw observation data of individually-marked bees observed interacting with worker and queen cells in two replicate observation hives. The inferred age of each bee is also shown. "day" = the day of the study following queen removal; "hive" = whether the observation came from replicate hive B or D; "tag color" and "tag #" = the color and number on the tag glued to the mesosoma of the individually-marked bee; "abdomen" = color of paint mark on the abdomen of the individually-marked bees. Together the mesosoma tag and abdomen paint mark were unique and enabled individual identification; "behavior" the observed behavior of the individually-marked bee; "time" the time of the observation; "Observer" = the initials or first name of the observer, see contributors in author list and Acknowledgements;  "age" = the inferred age of the individually-marked bee, based on the date it was added as a newly-emerged bee to the observation hive plus the number of days that had elapsed.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

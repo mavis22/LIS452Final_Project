@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6873292</identifier><datestamp>2015-10-26T17:52:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.53J96/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fouchet, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santin-Janin, Hugues</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sauvage, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yoccoz, Nigel Gilles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pontier, Dominique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>KERGUELEN data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>survival analysis model</subject>
+      <subject>estimation bias</subject>
+      <subject>frequentist inference</subject>
+      <subject>inhomogeneous Poisson process</subject>
+      <subject>maximum likelihood estimation</subject>
+      <subject>Kuerguelen Arichipelago</subject>
+      <subject>1994-2013</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-10-22</date>
+      <date dateType="Accepted">2015-10-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.53J96</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>156160 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-10-22</rights>
+  <descriptions>
+      <description descriptionType="Other">Long&#8211;term dataset of capture&#8211;mark&#8211;recapture of feral cats collected at three sites in the Grande Terre Island of the Kerguelen archipelago (sub-Antarctic). The excel files contains three sheets. The first sheet contains the begining and the end of capture sessions and the population in which the capture session is performed. The second sheet contains variables that vary in time and between the populations. Here the only such variable is the Normalized Difference Vegetation Index (NDVI). Date stands for the year in which the NDVI is estimated. The last sheet contains information about captured individuals: identifier (ind), population (pop), sex (0 for females, 1 for males), age (in months), physical condition (PC) and the date of capture.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

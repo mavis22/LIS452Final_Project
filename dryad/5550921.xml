@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5550921</identifier><datestamp>2015-03-25T19:41:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FD862/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lepoittevin, Camille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bod&#233;n&#232;s, Catherine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chancerel, Emilie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Villate, Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lang, Tiange</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lesur, Isabelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boury, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ehrenmann, Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zelenika, Diana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boland, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Besse, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garnier-G&#233;r&#233;, Pauline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plomion, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kremer, Antoine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>5112_fasta_in_silico_SNPs.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNP detection</subject>
+      <subject>oaks</subject>
+      <subject>Infinium</subject>
+      <subject>genotyping</subject>
+      <subject>cluster compression</subject>
+      <subject>France</subject>
+      <subject>Quercus robur</subject>
+      <subject>Quercus petraea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FD862</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11283854 bytes</size>
+      <size>520 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Fasta alignment files from which putative in silico SNPs have been extracted.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

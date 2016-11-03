@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5685620</identifier><datestamp>2015-05-14T20:44:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F1T8M</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pianta, Timothy J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Endre, Zoltan H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pickering, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buckley, Nicholas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peake, Philip W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Kinetic estimation of GFR improves prediction of dialysis and recovery after kidney transplantation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Delayed graft function</subject>
+      <subject>kidney transplantation</subject>
+      <subject>kinetic eGFR</subject>
+      <subject>cystatin C</subject>
+      <subject>serum creatinine</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pianta TJ, Endre ZH, Pickering JW, Buckley NA, Peake PW (2015) Kinetic estimation of GFR improves prediction of dialysis and recovery after kidney transplantation. PLOS ONE 10(5): e0125669.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F1T8M/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0125669</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

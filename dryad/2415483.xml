@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2415483</identifier><datestamp>2014-05-30T06:05:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P7507/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Penczykowski, Rachel M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemanski, Brian C. P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sieg, Robert Drew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hall, Spencer R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Housley Ochs, Jessica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kubanek, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duffy, Meghan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from the infection assay and feeding rate assay in the first experiment.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>feeding rate</subject>
+      <subject>food quality</subject>
+      <subject>parasite production</subject>
+      <subject>transmission rate</subject>
+      <subject>Daphnia dentifera</subject>
+      <subject>Metschnikowia bicuspidata</subject>
+      <subject>Ankistrodesmus falcatus</subject>
+      <subject>Microcystis aeruginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-12-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P7507</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

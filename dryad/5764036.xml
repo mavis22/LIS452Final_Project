@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5764036</identifier><datestamp>2015-06-18T19:43:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B3D34/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bouwhuis, Sandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vedder, Oscar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Becker, Peter H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bouwhuis et al 2015 Evolution</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fitness</subject>
+      <subject>Life-History Evolution</subject>
+      <subject>Maternal Effect</subject>
+      <subject>Senescence</subject>
+      <subject>Sex</subject>
+      <subject>Wilhelmshaven (Germany)</subject>
+      <subject>1992-2012</subject>
+      <subject>Sterna hirundo</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-06-10</date>
+      <date dateType="Accepted">2015-05-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B3D34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>467456 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-06-10</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for models presented in Bouwhuis, S., Vedder, O. &amp; Becker, P.H. &#8220;Sex-specific pathways of parental age effects on offspring lifetime reproductive success in a long-lived seabird&#8221;, Evolution</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

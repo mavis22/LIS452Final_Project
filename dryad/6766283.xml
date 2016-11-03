@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6766283</identifier><datestamp>2015-09-21T22:29:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q82NN.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Coyle, Jessica R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hurlbert, Allen H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Ethan P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Core and transient species richness and environmental data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Bird</subject>
+      <subject>Community: dynamics</subject>
+      <subject>Community: structure</subject>
+      <subject>Macroecology</subject>
+      <subject>Species richness</subject>
+      <subject>United States</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q82NN.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-11-20T18:39:33Z (GMT). No. of bitstreams: 2
+Data.zip: 245825 bytes, checksum: 0ef16618db02c3abddd4e113e0b6b286 (MD5)
+README.txt: 5832 bytes, checksum: dfe591680b91c440bef4348483dd6b31 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

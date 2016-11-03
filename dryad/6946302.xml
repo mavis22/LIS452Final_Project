@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6946302</identifier><datestamp>2015-11-06T16:41:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C2V92/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Baer, Sara G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blair, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collins, Scott L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Subplot and whole-plot data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biodiversity</subject>
+      <subject>carbon addition</subject>
+      <subject>dispersal</subject>
+      <subject>grassland</subject>
+      <subject>nutrient enrichment</subject>
+      <subject>restoration</subject>
+      <subject>soil heterogeneity</subject>
+      <subject>tallgrass prairie</subject>
+      <subject>Kansas</subject>
+      <subject>USA</subject>
+      <subject>Andropogon gerardii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C2V92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>369938 bytes</size>
+      <size>24613 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Data are provided in one file corresponding to subplot and whole-plot analyses of the &#8220;Prairie Restoration Heterogeneity Plots&#8221; located at the Konza Prairie Long Term Ecological Research site in Manhattan, KS USA. Subplot and whole-plot data are in different tabs (pages) labeled within the Excel file. Data include annual aboveground net primary productivity, available nitrate in soil, species diversity, species richness, and percent cover of each plant species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

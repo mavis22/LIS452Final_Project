@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5411786</identifier><datestamp>2015-04-01T18:25:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TD742/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sagova-Mareckova, Marketa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ulanova, Dana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanderova, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Omelka, Marek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamenik, Zdenek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsovska, Jana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kopecky, Jan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supporting information to the Figure 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>actinobacteria</subject>
+      <subject>16S rRNA diversity</subject>
+      <subject>resistance genes</subject>
+      <subject>thin layer chromatography</subject>
+      <subject>sequenced genome database</subject>
+      <subject>phylogeny</subject>
+      <subject>Actinobacteria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TD742</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4453 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">An alignment of partial 16S rRNA gene sequences of the isolated strains examined in the study. Phylograms constructed by neighbor-joining method based on Jukes-Cantor distance matrices calculated from the initial alignment, and from its 1000 bootstrap replicates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

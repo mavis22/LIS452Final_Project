@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4255546</identifier><datestamp>2015-01-23T15:28:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R4019/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fritz, Megan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walker, Edward D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, James R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Severson, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dworkin, Ian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>culex_nochoice_assay_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R4019</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4584 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File is structured so that there is one individual per line.  Variable "chick.age" represents the age of the chick host used in weeks. "Response" is a binomial variable, where 1 = landing on the host, and 0 = no response.  "time" represents time to landing in seconds.  "landing.site" is a multinomial response, where h = head, b = breast, l = legs, w = wings, and t = tail feathers and rump.  Landing site was only measure in no-choice tests where the chick was used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3068213</identifier><datestamp>2014-05-30T09:04:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9B8TT</identifier>
+  <creators>
+      <creator>
+         <creatorName>Neumeyer, Rainer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baur, Hannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guex, Gaston-Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Praz, Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A new species of the paper wasp genus Polistes (Hymenoptera, Vespidae, Polistinae) in Europe revealed by morphometrics and molecular analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>shape PCA</subject>
+      <subject>linear discriminant analysis</subject>
+      <subject>LDA ratio extractor</subject>
+      <subject>ratio spectrum</subject>
+      <subject>allometry</subject>
+      <subject>raw data</subject>
+      <subject>measurements</subject>
+      <subject>definition</subject>
+      <subject>character definition</subject>
+      <subject>Europe</subject>
+      <subject>Polistes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Neumeyer R, Baur H, Guex G, Praz C (2014) A new species of the paper wasp genus Polistes (Hymenoptera, Vespidae, Polistinae) in Europe revealed by morphometrics and molecular analyses. ZooKeys 400(2014): 67-118.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9B8TT/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/ZOOKEYS.400.6611</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

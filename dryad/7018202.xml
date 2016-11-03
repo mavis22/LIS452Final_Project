@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7018202</identifier><datestamp>2015-12-01T17:35:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QG7P3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Luis Abdala-Roberts</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xoaquin Moreira</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sergio Rasmann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Victor Parra-Tabla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kailen Mooney</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>latitude, herbivore attack, plant defenses, and climatic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate</subject>
+      <subject>fenolics</subject>
+      <subject>herbivory</subject>
+      <subject>intra-specific variation</subject>
+      <subject>latitudinal variation</subject>
+      <subject>parasitism</subject>
+      <subject>plant defenses</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QG7P3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3062 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Ruellia nudiflora population-level values for defenses, herbivore attack, and parasitoid attack. Variables are ordered and labeled in the following way: "population" = plant population name; "latitude" = decimal degrees latitude for each population ; "pctemperature" = z-score values from first principal component of PCA analysis of temperature-related variables (from WorldClim); "pcprecipitation" = z-score values from first principal component of PCA analysis of precipitation-related variables (from WorldClim); "seedphenolics" = concentration of phenolic compounds in seeds; "leafphenolics" = concentration of phenolic compounds in leaves; "fruitattack" = mean proportion of attacked fruits by seed herbivore; "parasitoidattack" = mean proportion of seed herbivores parasitized; "leafdamage" = mean leaf damage score; "trichomedensity" = mean leaf trichome density.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

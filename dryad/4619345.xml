@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4619345</identifier><datestamp>2015-01-20T16:57:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2T764/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kemppainen, Petri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sarma, Devojit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hlaing, Thaung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prakash, Anil</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maung Maung, Yan Naung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Somboon, Pradya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mahanta, Jagadish</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walton, Catherine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RAD_baimaii_filtered_fullsequence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Population Genetics - Theoretical</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Anopheles baimaii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2T764</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>95552237 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Same information as file "RAD_baimaii_filtered.tsv" except contains the full sequence (96 bps including restriction site overhang).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

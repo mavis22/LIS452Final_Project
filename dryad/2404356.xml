@@ -1,0 +1,145 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2404356</identifier><datestamp>2014-05-30T06:12:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V5M8V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hoepfner, Dominic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helliwell, Stephen B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sadlish, Heather</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schuierer, Sven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Filipuzzi, Ireos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brachat, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bhullar, Bhupinder</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plikat, Uwe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abraham, Yann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altorfer, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aust, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baeriswyl, Lukas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cerino, Raffaele</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Lena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Estoppey, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eichenberger, Juerg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frederiksen, Mathias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hartmann, Nicole</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hohendahl, Annika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Knapp, Britta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krastel, Philipp</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melin, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nigsch, Florian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeley, Edward J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petitjean, Virginie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petersen, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riedl, Ralph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmitt, Esther K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Staedtler, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Studer, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tallarico, John A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wetzel, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fishman, Mark C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porter, Jeffrey A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Movva, N. Rao</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: High-resolution chemical dissection of a model eukaryote reveals targets, pathways and gene functions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Chemogenomic profiling</subject>
+      <subject>HIP</subject>
+      <subject>HOP</subject>
+      <subject>Target identification</subject>
+      <subject>Mechanism of action</subject>
+      <subject>Bioactive molecules</subject>
+      <subject>Yeast</subject>
+      <subject>Genomics</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hoepfner D, Helliwell SB, Sadlish H, Schuierer S, Filipuzzi I, Brachat S, Bhullar B, Plikat U, Abraham Y, Altorfer M, Aust T, Baeriswyl L, Cerino R, Chang L, Estoppey D, Eichenberger J, Frederiksen M, Hartmann N, Hohendahl A, Knapp B, Krastel P, Melin N, Nigsch F, Oakeley EJ, Petitjean V, Petersen F, Riedl R, Schmitt EK, Staedtler F, Studer C, Tallarico JA, Wetzel S, Fishman MC, Porter JA, Movva NR (2013) High-resolution chemical dissection of a model eukaryote reveals targets, pathways and gene functions. Microbiological Research 169(2&#8211;3): 107&#8211;120.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V5M8V/10</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.MICRES.2013.11.004</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

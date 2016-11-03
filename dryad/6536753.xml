@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6536753</identifier><datestamp>2015-08-03T16:24:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7DG0P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Noh, Suegene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Henry, Charles S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw and processed mating signal data, and processed preference data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>speciation</subject>
+      <subject>one-allele mechanism</subject>
+      <subject>mate preference</subject>
+      <subject>mating signal</subject>
+      <subject>genetic architecture</subject>
+      <subject>hybridization</subject>
+      <subject>Chrysoperla carnea</subject>
+      <subject>Chrysoperla agilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7DG0P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>51116 bytes</size>
+      <size>1978 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for tests of signal inheritance and correlation between signal and preference.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

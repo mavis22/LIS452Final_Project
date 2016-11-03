@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6740802</identifier><datestamp>2015-10-15T19:02:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H26HS/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Khayi, Slimane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blin, Pauline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;dron, Jacques</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chong, Teik-Min</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chan, Kok-Gan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moumni, Mohieddine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#233;lias, Val&#233;rie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Gijsegem, Fr&#233;d&#233;rique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Faure, Denis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figures 5_6_7</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>soft rot</subject>
+      <subject>potato</subject>
+      <subject>population genomics</subject>
+      <subject>horizontal gene transfer</subject>
+      <subject>dickeya solani</subject>
+      <subject>dickeya dianthicola</subject>
+      <subject>pectobacterium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H26HS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9668 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">these are the alignments of the sequences genes (amN, oppF, oppB, dnaJ, dnaK, mogA, norF, norR and fumA) used to generate trees that are presented in the figures 5, 6 and 7 in the publication. we have used MEGA6 to perform alignments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665983</identifier><datestamp>2014-05-30T00:10:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.309T3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smee, Melanie R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pauchet, Yannick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilkinson, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wee, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singer, Michael C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>ffrench-Constant, Richard H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodgson, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikheyev, Alexander S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>auriniarawdata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Next-generation sequencing</subject>
+      <subject>454</subject>
+      <subject>EST</subject>
+      <subject>Lepidoptera</subject>
+      <subject>AFLP</subject>
+      <subject>amplified fragment length polymorphisms</subject>
+      <subject>microsatellites</subject>
+      <subject>England</subject>
+      <subject>Wales</subject>
+      <subject>Scotland</subject>
+      <subject>Southern France</subject>
+      <subject>Northern Spain</subject>
+      <subject>Catalonia</subject>
+      <subject>Euphydryas aurinia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-01-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.309T3</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

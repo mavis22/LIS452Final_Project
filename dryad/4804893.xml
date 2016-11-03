@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804893</identifier><datestamp>2015-02-09T18:44:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.10SG7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garrick, Ryan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonatelli, Isabel A. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hyseni, Chaz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morales, Ariadna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pelletier, Tara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perez, Manolo F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rice, Edwin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Satler, Jordan D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Symula, Rebecca E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thom&#233;, Maria Tereza C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carstens, Bryan C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Garrick_etal_MEC2015_Survey_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA sequences</subject>
+      <subject>information content</subject>
+      <subject>phylogeography</subject>
+      <subject>sampling</subject>
+      <subject>single nucleotide polymorphisms</subject>
+      <subject>temporal trends</subject>
+      <subject>eukaryotes</subject>
+      <subject>prokaryotes</subject>
+      <subject>global</subject>
+      <subject>eukaryotes</subject>
+      <subject>prokaryotes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.10SG7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>117428 bytes</size>
+      <size>4766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The survey database is comprised of data reported in empirical phylogeography papers that satisfied search / inclusion criteria described in the main text of Garrick et al. (2015, Mol. Ecol.). Detailed descriptions of column headers are given in the "read me" Metadata file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

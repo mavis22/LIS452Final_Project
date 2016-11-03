@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82801</identifier><datestamp>2014-05-29T18:50:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8987</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chakrabarty, Prosanta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Matthew P</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, W. Leo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baldwin, Zachary H</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sparks, John S</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Is sexual selection driving diversification of the bioluminescent ponyfishes (Teleostei: Leiognathidae)?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Fish</subject>
+      <subject>Sexual Selection</subject>
+      <subject>Speciation</subject>
+      <subject>Evolutionary Theory</subject>
+      <subject>Leiognathidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chakrabarty P, Davis MP, Smith WL, Baldwin ZH, Sparks JS (2011) Is sexual selection driving diversification of the bioluminescent ponyfishes (Teleostei: Leiognathidae)? Molecular Ecology 20(13): 2818-2834.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8987/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05112.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364971</identifier><datestamp>2015-08-10T00:25:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R14BV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yoshimi, Kenji</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Voltammetric recordings of behaving monkeys</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R14BV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3163 bytes</size>
+      <size>215626627 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Each folder contain data files of one experimental day.&#13;
+&#13;
+Original COLOR.txt files.&#13;
+Each FSCV recording consists of 500 voltage points for 10ms (50kHz sampling).&#13;
+Recording was repeated at 10Hz, every 0.1s. &#13;
+In MFB stimulation, each trial was made for 20s (200 time points) and the electrical stimulation was delivered from 5s (from recording 50).&#13;
+Original COLOR data of MFB stimulation is a table of 200 x 500.&#13;
+&#13;
+In behavioral analysis, each recoring was made for 300s block (3000 time points), simultaneously for 4 channels. &#13;
+In most cases, Ch0:ventral striatum (acc, Cd), Ch1:putamen, Ch3:CS signal and Ch4:IR sensor monitoring the facial movement.&#13;
+To export full waveform data of multi-channel recording on TH-1, backgound subtraction was turned off. &#13;
+The original data, recorded as nA value, was exported as COLOR.txt files. &#13;
+Original COLOR data of behavioral task is a table of 3000 x 500.&#13;
+CS signal was simultaneously recorded on Ch2, and the CS timing during 300s block was exported as IT.txt files. &#13;
+The hight of CS signal indicate the type of trials, and the offset of CS is the timing of juice delivery. &#13;
+For free trials, similar timing signal is recorded and the juice was delivered at the offset of the signal, but no visual stimuli appeared on the screen.&#13;
+Original ITCS data of CS is a table of 3000 x 1.&#13;
+For food trials, the pulses in ITCS data indicate the timing of reaching of the food to the mouth.&#13;
+These data were loaded on MATLAB, background subtracted for each trials, and PCR was performed using princomp function. &#13;
+&#13;
+Templates for Principle Component Regression (PCR) analysis.&#13;
+Voltage-current curves (500 points) at the peak MFB responses were collected as in-vivo dopamine template.&#13;
+Also, presumably pH curves were collected 10-15s after the stimulation. &#13;
+&#13;
+PCR results&#13;
+Result of PCR: 1zz, 2zz and 3zz files, each columns indicate one trial for 8s (80 points). &#13;
+Each column started with the Block number, timing point of CS onset in the block and hight of CS signal.&#13;
+The trials judged as "extreme" have more than 1000 value of CS signal.&#13;
+1zz is the dopamine-like component and 2zz is the pH-like component. &#13;
+3zz is the current at the peak of dopamine oxidation potential (120/500 points)&#13;
+Point 40 is the CS onset. Timing cue was shown from point 30, and the onset of juice delivery was point 55. &#13;
+One behavioral session consists of multiple 5-min blocks.&#13;
+&#13;
+Review on EXEL show the average of each trial type within the session.  &#13;
+In original analysis to calculate PCR result of 1zz, timing of the trials were aligned by CS onset, so time 0 is the time just before the CS onset. &#13;
+For final graph presentation of the results, the timing of juice delivery/CS offset is shown as time 0. &#13;
+In some review tables of EXEL, you need to find which timing determination is applied.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

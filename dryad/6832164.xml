@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6832164</identifier><datestamp>2015-11-06T14:52:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KS5DR/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kreitler, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schloss, Carrie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soong, Oliver</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hannah, Lee</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Frank W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from Mojave Desert case study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>conservation planning</subject>
+      <subject>offset siting</subject>
+      <subject>biodiversity</subject>
+      <subject>renewable energy</subject>
+      <subject>Mojave Desert</subject>
+      <subject>Desert Renewable Energy Conservation Plan area</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KS5DR</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>299968222 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data is from a case study of hypothetical impacts from solar development in the Western Mojave subsection. We compare two offset scenarios employing our offset siting support tool.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

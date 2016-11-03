@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6443752</identifier><datestamp>2015-07-07T15:18:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K3F17/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Williams, Kathryn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Ping</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fay, Justin C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequencing competition data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>wine</subject>
+      <subject>innovation</subject>
+      <subject>competition</subject>
+      <subject>fermentation</subject>
+      <subject>genome duplication</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+      <subject>Saccharomyces paradoxus</subject>
+      <subject>Saccharomyces mikatae</subject>
+      <subject>Saccharomyces uvarum</subject>
+      <subject>Candida glabrata</subject>
+      <subject>Nakeseomyces bacillisporus</subject>
+      <subject>Kazachstania lodderae</subject>
+      <subject>Kazachstania martiniae</subject>
+      <subject>Naumovozyma castellii</subject>
+      <subject>Tetrapisispora blattae</subject>
+      <subject>Vanderwaltozyma polyspora</subject>
+      <subject>Zygosaccharomyces rouxii</subject>
+      <subject>Torulaspora delbrueckii</subject>
+      <subject>Lachancea thermotolerans</subject>
+      <subject>Lachancea waltii</subject>
+      <subject>Lachancea kluyveri</subject>
+      <subject>Kluyveromyces lactis</subject>
+      <subject>Hanseniaspora vineae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K3F17</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>74063 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Calibrated sequencing data from Competition 2. The frequency of each competitor species in competition with different reference strains, along with concatenated barcode and indexes used for sample ID. The fitness difference and experimental metadata is also included.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

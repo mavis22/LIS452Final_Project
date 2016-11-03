@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3947564</identifier><datestamp>2014-11-13T20:30:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B1772</identifier>
+  <creators>
+      <creator>
+         <creatorName>Margiotta-Casaluci, Luigi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Owen, Stewart F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cumming, Rob I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Polo, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winter, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Panter, Grace H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rand-Weaver, Mariann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sumpter, John P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Quantitative cross-species extrapolation between humans and fish: the case of the anti-depressant fluoxetine</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>toxicology</subject>
+      <subject>comparative pharmacology</subject>
+      <subject>environmental risk assessment</subject>
+      <subject>pharmaceuticals in the environment</subject>
+      <subject>cross-species extrapolation</subject>
+      <subject>Pimephales promelas</subject>
+      <subject>Cyprinidae</subject>
+      <subject>Danio rerio</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Margiotta-Casaluci L, Owen SF, Cumming RI, de Polo A, Winter MJ, Panter GH, Rand-Weaver M, Sumpter JP (2014) Quantitative cross-species extrapolation between humans and fish: the case of the anti-depressant fluoxetine. PLoS ONE 9(10): e110467.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B1772/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0110467</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

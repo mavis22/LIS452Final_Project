@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2419142</identifier><datestamp>2014-05-30T07:03:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S489B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Taylor, Eric B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shurin, Jonathan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dick, Stefan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Replicate divergence between and within sounds in a marine fish: the copper rockfish (Sebastes caurinus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Fish</subject>
+      <subject>seascape genetics</subject>
+      <subject>connectivity</subject>
+      <subject>West Coast Vancouver Island</subject>
+      <subject>British Columbia</subject>
+      <subject>Post-Pleistocene</subject>
+      <subject>Sebastes caurinus</subject>
+      <subject>Scorpaenidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Dick S, Shurin JB, Taylor EB (2014) Replicate divergence between and within sounds in a marine fish: the copper rockfish (Sebastes caurinus). Molecular Ecology 23(3): 575-590.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S489B/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12630</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

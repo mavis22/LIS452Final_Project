@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1955179</identifier><datestamp>2014-05-29T18:46:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M9D40</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garbelotto, Matteo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guglielmo, Fabio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mascheretti, Silvia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Croucher, Peter J. P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonthier, Paolo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Population genetic analyses provide insights on the introduction pathway and spread patterns of the North American forest pathogen Heterobasidion irregulare in Italy</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Fungi</subject>
+      <subject>Invasive Species</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Population Genetics - Theoretical</subject>
+      <subject>Ecological Genetics</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Garbelotto M, Guglielmo F, Mascheretti S, Croucher PJP, Gonthier P (2013) Population genetic analyses provide insights on the introduction pathway and spread patterns of the North American forest pathogen Heterobasidion irregulare in Italy. Molecular Ecology 22(19): 4855&#8211;4869.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M9D40/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M9D40/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12452</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5600122</identifier><datestamp>2015-06-17T19:32:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.305C3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garcia-Cisneros, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;rez-Portela, Roc&#237;o</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Almroth, Bethanie C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Degerman, Sofie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palac&#237;n, Creu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sk&#246;ld, Helen N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Telomere measurements and genotypes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Mediterranean</subject>
+      <subject>Atlantic</subject>
+      <subject>Coscinasterias tenuispina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.305C3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26112 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Genotypes and telomere measurements from all the individuals are provided in two excel sheets. In the first sheet, named "Population data", reports the arm length, ct. values and genotypes of all individuals. Finally, the second sheet, reports the ct. values from different tissues in regenerating and non-regenerating arms.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

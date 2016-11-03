@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3641384</identifier><datestamp>2014-09-26T20:20:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S7D2D</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barton, Philip S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Westgate, Martin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lane, Peter W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>MacGregor, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindenmayer, David B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>biodiversity surrogate</subject>
+      <subject>habitat surrogate</subject>
+      <subject>temporal reliability</subject>
+      <subject>fire effects</subject>
+      <subject>assemblage responses</subject>
+      <subject>management</subject>
+      <subject>applied ecology</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Barton PS, Westgate MJ, Lane PW, MacGregor C, Lindenmayer DB (2014) Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time. Journal of Applied Ecology 51(5): 1434-1443.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S7D2D/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2664.12290</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

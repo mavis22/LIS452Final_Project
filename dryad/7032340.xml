@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7032340</identifier><datestamp>2015-11-19T03:44:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4T20N/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Artega, Mar&#237;a Clara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moreno-Letelier, Alejandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mastretta-Yanes, Alicia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#225;zquez-Lobo, Alejandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bre&#241;a-Ochoa, Alejandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moreno-Estrada, Andr&#233;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eguiarte, Luis E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pi&#241;ero, Daniel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Admixture output</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Maize</subject>
+      <subject>teosinte</subject>
+      <subject>Maize SNP50K BeadChip</subject>
+      <subject>Mexican landraces</subject>
+      <subject>Proyecto Global de Maices Nativos</subject>
+      <subject>Zea maiz ssp. Mexicana</subject>
+      <subject>Zea maiz ssp. Parviglumis</subject>
+      <subject>Mexico</subject>
+      <subject>9000 years ago to present</subject>
+      <subject>holocene</subject>
+      <subject>Zea mays</subject>
+      <subject>Zea mays ssp. mexicana</subject>
+      <subject>Zea mays ssp. parviglumis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4T20N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>400989 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains the log, .Q, .P and se files of the admixture analyses. For command line used and code for plotting see the Scripts section of this repo.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

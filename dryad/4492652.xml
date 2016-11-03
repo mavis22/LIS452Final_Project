@@ -1,0 +1,118 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492652</identifier><datestamp>2014-12-31T18:12:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.96M2C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sobel, James M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streisfeld, Matthew A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>env_layers</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Biological Species Concept</subject>
+      <subject>ecogeographic isolation</subject>
+      <subject>pollinator isolation</subject>
+      <subject>premating barriers</subject>
+      <subject>postmating barriers</subject>
+      <subject>San Diego</subject>
+      <subject>CA</subject>
+      <subject>USA</subject>
+      <subject>Mimulus aurantiacus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.96M2C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>138956 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">env_layers.zip&#13;
+&#13;
+this file contains the environmental data used in species distribution modeling in "STRONG PREMATING REPRODUCTIVE ISOLATION DRIVES INCIPIENT SPECIATION IN MIMULUS AURANTIACUS" Sobel and Streisfeld, Evolution&#13;
+&#13;
+Within the folder, there are 10 .asc files that contain the gridded environmental data specific to San Diego County, CA, USA. Files come from the following sources:&#13;
+&#13;
+1) bias.asc: a bias layer incorporated into distribution modeling to account for variation in grid size of Worldclim layers across relatively large spans of latitude.&#13;
+2) bio1.asc: Annual Mean Temperature&#13;
+3) bio4.asc: Temperature Seasonality&#13;
+4) bio5.asc: Max Temperature of Warmest Month&#13;
+5) bio6.asc: Min Temperature of Coldest Month&#13;
+6) bio12.asc: Annual Precipitation&#13;
+7) bio15.asc: Precipitation Seasonality&#13;
+8) bio16.asc: Precipitation of Wettest Quarter&#13;
+9) bio17.asc: Precipitation of Driest Quarter&#13;
+10) geology.asc: basic geologic bedrock material&#13;
+&#13;
+climate data are from: 8 Bioclim layers from the publicly available Worldclim current conditions (~1950-2000) 30 arc-second resolution Global Climate Data database&#13;
+address: http://www.worldclim.org/bioclim&#13;
+accessed: February 1, 2012&#13;
+&#13;
+Geology data were from: US Geologic Survey&#13;
+address: www.usgs.gov&#13;
+accessed: February 1, 2012&#13;
+Geology data are coded as numerical categories, with the following key:&#13;
+VALUE	ROCKTYPE&#13;
+0	andesite&#13;
+1	argillite&#13;
+2	greenschist&#13;
+3	sandstone&#13;
+4	diorite&#13;
+5	peridotite&#13;
+6	intermediate volcanic rock&#13;
+7	gabbro&#13;
+8	alluvium&#13;
+9	water&#13;
+10	slate&#13;
+11	schist&#13;
+12	mafic volcanic rock&#13;
+13	serpentinite&#13;
+14	landslide&#13;
+15	dune sand&#13;
+16	blueschist&#13;
+17	glacial drift&#13;
+18	conglomerate&#13;
+19	phyllite&#13;
+20	limestone&#13;
+21	mudstone&#13;
+22	shale&#13;
+23	dacite&#13;
+24	granodiorite&#13;
+25	gneiss&#13;
+26	sand&#13;
+27	greenstone&#13;
+28	plutonic rock&#13;
+29	metasedimentary rock&#13;
+30	chert&#13;
+31	melange&#13;
+32	quartzite&#13;
+33	basalt&#13;
+34	rhyolite&#13;
+35	siltstone&#13;
+36	hornfels&#13;
+37	metavolcanic rock&#13;
+38	felsic volcanic rock&#13;
+39	tephrite (basanite)&#13;
+40	dolostone&#13;
+41	trachybasalt&#13;
+42	peraluminous granite&#13;
+43	mica schist&#13;
+44	quartz monzonite&#13;
+45	orthoquartzite&#13;
+46	granite&#13;
+47	marble&#13;
+48	anorthosite&#13;
+49	tonalite&#13;
+50	quartz diorite&#13;
+51	pelitic schist</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

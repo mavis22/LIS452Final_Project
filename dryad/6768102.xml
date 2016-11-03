@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768102</identifier><datestamp>2015-10-23T18:02:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7TV21</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bradbury, Ian R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamilton, Lorraine C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dempson, J. Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robertson, Martha J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourret, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernatchez, Louis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verspoor, Eric</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Transatlantic secondary contact in Atlantic salmon, comparing microsatellites, a SNP array, and Restriction Associated DNA sequencing for the resolution of complex spatial structure</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Fisheries Management</subject>
+      <subject>Wildlife Management</subject>
+      <subject>Hybridization</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Atlantic salmon</subject>
+      <subject>Newfoundland</subject>
+      <subject>Salmo salar</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bradbury IR, Hamilton LC, Dempson JB, Robertson MJ, Bourret V, Bernatchez L, Verspoor E (2015) Transatlantic secondary contact in Atlantic salmon, comparing microsatellites, a SNP array, and Restriction Associated DNA sequencing for the resolution of complex spatial structure. Molecular Ecology 24(20): 5130&#8211;5144.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7TV21/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7TV21/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7TV21/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7TV21/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13395</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

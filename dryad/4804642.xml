@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804642</identifier><datestamp>2015-04-29T20:22:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7TS20</identifier>
+  <creators>
+      <creator>
+         <creatorName>Beiler, Kevin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simard, Suzanne W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Durall, Daniel M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Topology of tree-mycorrhizal fungus interaction networks in xeric and mesic Douglas-fir forests</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>complex adaptive systems</subject>
+      <subject>mutualistic network</subject>
+      <subject>fungal genet</subject>
+      <subject>microsatellites</subject>
+      <subject>mycorrhiza</subject>
+      <subject>Plant&#8211;soil (below-ground) interactions</subject>
+      <subject>Douglas-fir</subject>
+      <subject>self-organization</subject>
+      <subject>soil water stress</subject>
+      <subject>mycorrhizal network</subject>
+      <subject>Pseudotsuga menziesii</subject>
+      <subject>Rhizopogon vesiculosus</subject>
+      <subject>Rhizopogon vinicolor</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Beiler KJ, Simard SW, Durall DM (2015) Topology of tree-mycorrhizal fungus interaction networks in xeric and mesic Douglas-fir forests. Journal of Ecology 103(3): 616-628.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7TS20/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2745.12387</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

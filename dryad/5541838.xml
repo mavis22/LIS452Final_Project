@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5541838</identifier><datestamp>2015-04-29T19:38:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FP060/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Xu, Xing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zheng, Xiaoting</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sullivan, Corwin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Xiaoli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Yan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xing, Lida</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Xiaomei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Connor, Jingmai K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Fucheng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pan, Yanhong</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>CT data for holotype of Yi qi</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>wing</subject>
+      <subject>flight</subject>
+      <subject>bird</subject>
+      <subject>China</subject>
+      <subject>Jurassic</subject>
+      <subject>Theropoda</subject>
+      <subject>Aves</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FP060</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1009247631 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data archive contains CT slice images in .dcm format for the slab containing the holotype specimen (STM, Shandong Tianyu Museum, 31-2) of Yi qi, a scansoriopterygid dinosaur from the Middle-Upper Jurassic of Mutoudeng, Hebei Province, China. The CT data reveal the 3D structure of the specimen, and of the slab itself.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

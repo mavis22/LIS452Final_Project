@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6679460</identifier><datestamp>2015-08-20T19:58:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7231D.2/2.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wood, Hannah Marie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matzke, Nicholas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gillespie, Rosemary G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griswold, Charles E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supp. Fig. 8 analysis v</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>divergence time estimation</subject>
+      <subject>biogeography</subject>
+      <subject>fossils</subject>
+      <subject>total evidence</subject>
+      <subject>vicariance</subject>
+      <subject>molecular clock</subject>
+      <subject>Pangaea</subject>
+      <subject>Gondwana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-11-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7231D.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1626116 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Analysis (v). Plots are created from a 20 million generation BEAST analysis performed both with data and with an empty alignment. Plots compare the posterior distribution from an empty alighment (red line) with the posterior distribution when data was included (green line), and for calibrated nodes, with the theoretical prior (blue line). A-E, plots non-calibrated nodes: compares the posterior distribution from an empty alignment with the posterior distribution with data, and shows that the data is influencing the results. F-K, plots calibrated nodes: compares the posterior distribution from an empty alignment, the posterior distribution with data, and the theoretical prior placed on the node. For plots F-J, the expected prior (blue line) matches the observed prior (red line). For plot K, the expected prior does not match the observed prior: this is likely because the youngest soft bound on the root node calibration, which was left intentionally broad in order to not bias the results and to contain the true age of Araneomorphae divergence, overlaps with the oldest soft bound on other node calibrations, which pushes the observed root prior back in time. However, we do not feel this is a problem because the observed prior is still broad, still contains the true age of Araneomorphae divergence, and is still reasonable.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

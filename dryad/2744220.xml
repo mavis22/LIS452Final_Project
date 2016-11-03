@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2744220</identifier><datestamp>2015-02-18T07:33:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S04V1/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Herrera, Carlos M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Medrano, M&#243;nica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bazaga, Pilar</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seed and seedling data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Individual variation</subject>
+      <subject>Seed size</subject>
+      <subject>Within-plant variation</subject>
+      <subject>Seedling recruitment</subject>
+      <subject>Sierra de Cazorla</subject>
+      <subject>Ja&#233;n</subject>
+      <subject>Spain</subject>
+      <subject>Holocene</subject>
+      <subject>Ranunculaceae</subject>
+      <subject>Spermatophyta</subject>
+      <subject>Helleborus foetidus</subject>
+      <subject>Ranunculales</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S04V1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18432 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mean seed mass, seed mass variance, and number of seedlings occurring within a 0.5 m radius, for the 60 individual plants of Helleborus foetidus from three locations in Sierra de Cazorla, southeastern Spain, sampled for the study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

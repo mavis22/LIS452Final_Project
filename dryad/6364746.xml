@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364746</identifier><datestamp>2015-07-06T18:00:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6K740/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fra&#239;sse, Christelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Belkhir, Khalid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, John J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bierne, Nicolas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Probe set for the target enrichment experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genome scan</subject>
+      <subject>Adaptation</subject>
+      <subject>Selection</subject>
+      <subject>Outlier loci</subject>
+      <subject>Target enrichment sequencing</subject>
+      <subject>BAC assembly</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6K740</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1398069 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Four-column SureSelect probe template file: (1) TargetID represents the genomic target that is intended for capture; (2) ProbeID provides a means for you to identify your probes; (3) Sequence is the actual sequence of the synthesized probe;(4) Replication determines how many times a probe will be replicated in the library.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

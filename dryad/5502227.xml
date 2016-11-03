@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5502227</identifier><datestamp>2015-06-16T16:07:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4KH20/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>L&#228;hteenm&#228;ki, Saija</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slade, Eleanor M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hardwick, Bess</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schiffler, Gustavo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Louzada, J&#250;lio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barlow, Jos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roslin, Tomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Brazilian_efficiency</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biodiversity-ecosystem functioning</subject>
+      <subject>dung beetles</subject>
+      <subject>ecosystem services</subject>
+      <subject>enclosures</subject>
+      <subject>experimental manipulations</subject>
+      <subject>functional groups</subject>
+      <subject>grazing pressure</subject>
+      <subject>mesocosms</subject>
+      <subject>Brazil</subject>
+      <subject>Finland</subject>
+      <subject>Aphodius</subject>
+      <subject>Geotrupes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4KH20</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11349 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file offers the data behind Fig. 3A of L&#228;hteenm&#228;ki et al., estimating the efficiency of the Brazilian MESOCLOSURES in preventing the inflow of beetles as a function of MESOCLOSURE size. Included are counts of beetles caught by identical traps in two settings: traps within the MESOCLOSURES and traps outside the MESOCLOSURES. The specific columns are the following: &#13;
+Time: day of experiment (with individual trapping periods extending over 24 hours)&#13;
+Size: the dimension of the MESOCLOSURE (given as the length of MESOCLOSURE side, in metres)&#13;
+Replicate: the identity of the replicate cage&#13;
+Total: the summed number of beetles caught inside and outside of the MESOCLOSURE&#13;
+Inside: the number of beetles caught inside of the MESOCLOSURE</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1226458</identifier><datestamp>2014-05-30T00:46:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2T604</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yasuhara, Moriaki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunt, Gene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Breitburg, Denise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsujimoto, Akira</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Katsuki, Kota</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Human-induced marine ecological degradation: micropaleontological perspectives</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Microfossils</subject>
+      <subject>Marine ecosystems</subject>
+      <subject>Eutrophication</subject>
+      <subject>Hypoxia</subject>
+      <subject>Pollution</subject>
+      <subject>Species diversity</subject>
+      <subject>Global</subject>
+      <subject>Holocene</subject>
+      <subject>Ostracoda</subject>
+      <subject>Foraminifera</subject>
+      <subject>Radiolaria</subject>
+      <subject>Diatom</subject>
+      <subject>Dinoflagellate</subject>
+      <subject>Coccolithophore</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Yasuhara M, Hunt G, Breitburg D, Tsujimoto A, Katsuki K (2012) Human-induced marine ecological degradation: micropaleontological perspectives. Ecology and Evolution 2(12): 3242&#8211;3268.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2T604/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2T604/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2T604/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.425</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

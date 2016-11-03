@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6748343</identifier><datestamp>2015-10-28T14:48:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.83GT9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van der Heijden, Geertje M. F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Powers, Jennifer S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schnitzer, Stefan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tree_data_liana_removal_experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Lianas</subject>
+      <subject>carbon balance</subject>
+      <subject>Panama</subject>
+      <subject>carbon sequestration</subject>
+      <subject>ANPP</subject>
+      <subject>Panama</subject>
+      <subject>2011-2014</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.83GT9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>584745 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tree information from the Liana Removal Experiment in Panama. Contains for each tree &gt;= 10 cm in which plot the tree was located, whether it was a control or removal plot (treatment), data on wood density (WD) and carbon content (CC), and diameter at breast height (DBH)  and above-ground biomass (AGB) for each annual census.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

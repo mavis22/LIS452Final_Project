@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6730833</identifier><datestamp>2015-10-14T15:55:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43GT3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bowden, Joseph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eskildsen, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hansen, Rikke R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsen, Kent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kurle, Carolyn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#248;ye, Toke</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supporting wing length data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>terrestrial arthropod</subject>
+      <subject>insect</subject>
+      <subject>Zackenberg</subject>
+      <subject>Greenland</subject>
+      <subject>Colias hecla Lef&#232;bvre</subject>
+      <subject>Boloria chariclea Schneider</subject>
+      <subject>Lepidoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.43GT3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>193339 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sheet 1 includes all raw data for each of the 2 species used in the manuscript; Year, site, sex, wing length (WL), dot of year of collection from the 1st of each year (DOY), current and previous year's snowmelt dates and current and previous year's avergage temperatures used in the analyses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

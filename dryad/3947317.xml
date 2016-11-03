@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3947317</identifier><datestamp>2014-10-08T19:58:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V84N1/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Louis, Marie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fontaine, Michael C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spitz, J&#233;r&#244;me</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlund, Erika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dabin, Willy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deaville, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caurant, Florence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cherel, Yves</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guinet, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simon-Bouhet, Benoit</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>stable isotope data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ecological niches</subject>
+      <subject>stable isotopes</subject>
+      <subject>morphology</subject>
+      <subject>bottlenose dolphins</subject>
+      <subject>North-East Atlantic</subject>
+      <subject>Tursiops truncatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V84N1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1897 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">stable_isotope_data.txt: input file for stable isotope analyses. Column 1: specimen voucher, Column 2: Laboratory analyses ID, Column 3: Ecotype (Coastal or Pelagic), Column 4: Sex (Female, Male or Undetermined), Column 5: Sulfur stable isotope values, Column 6: Carbon stable isotope values, Column7: Nitrogen stabe isotope values</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

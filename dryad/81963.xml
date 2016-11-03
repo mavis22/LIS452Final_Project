@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81963</identifier><datestamp>2014-05-29T18:27:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1664</identifier>
+  <creators>
+      <creator>
+         <creatorName>Allen, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thum, Ryan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#225;ceres, Carla</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Does local adaptation to resources explain genetic differentiation among Daphnia populations?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>Local Adaptation</subject>
+      <subject>Founder effects</subject>
+      <subject>Monopolization hypothesis</subject>
+      <subject>microsatellites</subject>
+      <subject>reciprocal transplant</subject>
+      <subject>dispersal</subject>
+      <subject>central Illinois</subject>
+      <subject>Kickapoo State Park</subject>
+      <subject>Busey Woods</subject>
+      <subject>Middle Fork State Game Area</subject>
+      <subject>present day</subject>
+      <subject>Daphnia pulex</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Allen MR, Thum RA, C&#225;ceres CE (2010) Does local adaptation to resources explain genetic differentiation among Daphnia populations? Molecular Ecology 19: 3076-3087.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1664/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2010.04728.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

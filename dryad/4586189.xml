@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586189</identifier><datestamp>2015-01-13T23:33:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.17M5Q</identifier>
+  <creators>
+      <creator>
+         <creatorName>Drake, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaul, RajReni B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alexander, Laura W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Regan, Suzanne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kramer, Andrew M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pulliam, J. Tomlin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferrari, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Park, Andrew W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ebola cases and health system demand in Liberia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ebola</subject>
+      <subject>branching process</subject>
+      <subject>epidemic model</subject>
+      <subject>West Africa</subject>
+      <subject>Ebolavirus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Drake JM, Kaul RB, Alexander LW, O'Regan SM, Kramer AM, Pulliam JT, Ferrari MJ, Park AW (2015) Ebola cases and health system demand in Liberia. PLoS Biology 13(1): e1002056.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.17M5Q/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PBIO.1002056</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

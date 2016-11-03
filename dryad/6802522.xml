@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6802522</identifier><datestamp>2015-10-14T19:57:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q8D7D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Carroll, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lawler, Joshua J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, David R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamann, Andreas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Biotic and climatic velocity for the Western Hemisphere</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>global change</subject>
+      <subject>velocity of climate change</subject>
+      <subject>climatic niche models</subject>
+      <subject>climate change adaptation</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q8D7D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7913278 bytes</size>
+      <size>4260 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file includes raster data representing biotic and climatic velocity for the Western Hemisphere for the period 1961 to 2100. We modeled velocity using climatic niche models originally published in Lawler et al. 2009. Projected climate-induced faunal change in the Western Hemisphere. Ecology 90:588-597. We used the code in the included R script to model biotic velocity for each individual species in Lawler et al. (2009). We then summarized velocity across all species in the three taxa groups, and further summarized across 10 climate-change general circulation models. We also modeled climatic velocity for each of 10 climate-change general circulation models. Each data file is a 50-kilometer resolution ESRI ASCII grid.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4636027</identifier><datestamp>2015-02-05T16:30:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KB175/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vanden Broeck, An</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ceulemans, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kathagen, Gunter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffmann, Maurice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Honnay, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mergeay, Joachim</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Thymus pulegioides AFLP data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>AFLP</subject>
+      <subject>seed dispersal</subject>
+      <subject>functional population connectivity</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>genetic diversity</subject>
+      <subject>Flanders</subject>
+      <subject>northern Belgium</subject>
+      <subject>Thymus pulegioides L.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KB175</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>99712 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file Thymus pulegioides AFLP data.csv includes the binary matrix of AFLP band presence (1) &#8211; absence (0) for 155 AFLP-markers and 287 individuals of Thymus pulegioides sampled in 19 populations in central-east Flanders (Northern Belgium). The matrix also include the spatial coordinates of each sampled population, given in the two last columns. The markers are numbered M1 to M155.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

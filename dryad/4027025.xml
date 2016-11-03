@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027025</identifier><datestamp>2014-12-04T15:20:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PQ6HG</identifier>
+  <creators>
+      <creator>
+         <creatorName>Unger, Gregor M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vendramin, Giovanni G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robledo-Arnuncio, Juan J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Estimating exotic gene flow into native pine stands: zygotic versus gametic components</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>gene flow</subject>
+      <subject>seed and pollen dispersal</subject>
+      <subject>migration rates</subject>
+      <subject>introgression</subject>
+      <subject>microsatellites</subject>
+      <subject>chloroplast</subject>
+      <subject>genotypes</subject>
+      <subject>exotic plantation</subject>
+      <subject>genetic monitoring</subject>
+      <subject>Maritime pine</subject>
+      <subject>Scots pine</subject>
+      <subject>Iberian Peninsula</subject>
+      <subject>Fuencaliente</subject>
+      <subject>Sierra Nevada</subject>
+      <subject>37.083N 3.466W</subject>
+      <subject>38.416N 4.250W</subject>
+      <subject>Pinus pinaster</subject>
+      <subject>Pinus sylvestris</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Unger GM, Vendramin GG, Robledo-Arnuncio JJ (2014) Estimating exotic gene flow into native pine stands: zygotic versus gametic components. Molecular Ecology 23(22): 5435-5447.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PQ6HG/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PQ6HG/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12946</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

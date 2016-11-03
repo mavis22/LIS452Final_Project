@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5923958</identifier><datestamp>2015-06-02T18:11:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R24B1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van de Water, Jeroen A. J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourne, David G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>16S rRNA amplicon sequencing - QIIME analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral</subject>
+      <subject>bacteria</subject>
+      <subject>injury</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R24B1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>90446087 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This archive file contains all input and output files required for and produced by the QIIME pipeline in the 'dataset' folder. The quality file Wound.qual and the sequence file Wound.fna along with the mapping files Map.txt and Map_corrected2.txt are the primary input files. Output files include the complete selection of OTU tables (otu_table.biom, Normalised_otu_table.biom as well the weighted and unweighted Unifrac tables). Additional special files required for analysis can be found in the 'input' folder. The script 'QIIME Analysis script.txt' was used for data analysis and the file 'Sample names.txt' should be used to determine the biological sample / treatment corresponding to each sample. Sequences have been deposited in the NCBI Sequence Read Archive (SRA) database under study accession number SRP052969.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

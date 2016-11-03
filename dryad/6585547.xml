@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6585547</identifier><datestamp>2015-08-10T19:04:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.13T18/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Streicher, Jeffrey W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulte, James A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wiens, John J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>missing data</subject>
+      <subject>phylogenomics</subject>
+      <subject>taxon sampling</subject>
+      <subject>UCEs</subject>
+      <subject>species tree</subject>
+      <subject>Reptilia</subject>
+      <subject>Squamata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.13T18</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>78848 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Voucher specimens from which tissues were obtained for molecular data. Standard abbreviations are as follows: Louisiana State University Museum of Natural Science, LSU; Yale Peabody Museum, YPM; California Academy of Sciences, CAS; University of Kansas, KU; Museum of Vertebrate Zoology, University of California Berkeley, MVZ; San Diego State University, SDSU; University of Michigan Museum of Zoology, UMMZ. Non-standard abbreviations include the following: APR (Achille P. Raselimanana field series); ATOL (Assembling the Tree of Life voucher series); BPN (Brice P. Noonan field series); JAC (Jonathan A. Campbell field series); JAM (Jimmy A. McGuire field series); JJK (Jason J. Kolbe field series); JPV (John Pablo Valladares field series); LJA (Luciano J. Avila field series); SDZoo (Oliver Ryder, San Diego Zoo); POE (Steve Poe field series); RAN (Ronald A. Nussbaum field series); REE (Richard E. Etheridge field series); RLB (Robert L. Bezy field series); SBH (S. Blair Hedges field series); SDZoo (San Diego Zoo Series); TJS (Thomas J. Sanger field series); TWR (Tod W. Reeder field series), WL (William Lamar), YPM (Yale Peabody Museum). For each newly sequenced sample, a Sequence Read Archive (http://www.ncbi.nlm.nih.gov/sra) and GenBank numbers are provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

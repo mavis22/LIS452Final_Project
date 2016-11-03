@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727026</identifier><datestamp>2015-06-05T17:24:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5PT92/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Swanson, Alexandra B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kosmala, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Arfon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Packer, Craig</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lintott, Chris J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simpson, Robert J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gold Standard Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>camera traps</subject>
+      <subject>ecology</subject>
+      <subject>remote monitoring</subject>
+      <subject>citizen science</subject>
+      <subject>Snapshot Serengeti</subject>
+      <subject>Serengeti National Park</subject>
+      <subject>Tanzania</subject>
+      <subject>Serengeti-Mara Ecosystem</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5PT92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>115215 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Expert classifications for 4,149 image sets. Unlike Snapshot Serengeti volunteers, experts were allowed to indicate if a capture event was impossible to identify. Fields are as follows: CaptureEventID: Same indicator as in the raw and reduced classification data; NumSpecies: The number of species in this capture event; 	Species: One of the 48 possibilities or &#8220;impossible"; Count: Number of individuals, estimated as 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11-50 or 51+.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

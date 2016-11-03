@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6537216</identifier><datestamp>2015-07-29T17:05:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1N50Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Qiu, Chen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Qian, Shaohong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Xinghuai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Chuandi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meng, Fanrong</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_Axial myopia and VF progression</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>open-angle glaucoma</subject>
+      <subject>visual field</subject>
+      <subject>prognosis</subject>
+      <subject>myopia</subject>
+      <subject>axial length</subject>
+      <subject>China</subject>
+      <subject>from February 1998 to March 2014</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1N50Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>77824 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We collected the original data at Eye and Ear, Nose and Throat Hospital of Fudan University, Shanghai, China. eye: "1"=left, "2"=right; gender: "1"=male, "2"=female; SE = spherical equivalent; BCVA(logMAR) = logarithm of the minimum angle of resolution of best-corrected visual acuity; CCT = central corneal thickness; VCDR = vertical cup-to-disk ratio; MD = mean defect; IOP = intraocular pressure; AXL = axial length; GAXL = grouping by axial length;diagnosis: "1" = high tension glaucoma, "2" = normal tension glaucoma; GSE = grouping by spherical equivalent; FastPro(0.22) = fast/slow progression at the cutoff threshold 0.22; FastPro(0.30) = fast/slow progression at the cutoff threshold 0.30.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

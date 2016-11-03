@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6334739</identifier><datestamp>2015-06-18T14:47:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BC578/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Portik, Daniel M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papenfuss, Theodore J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Analysis_2_normal_consensus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>historical biogeography</subject>
+      <subject>amphibians</subject>
+      <subject>toads</subject>
+      <subject>Arabian Peninsula</subject>
+      <subject>Horn of Africa</subject>
+      <subject>South Asia</subject>
+      <subject>Western Eurasia</subject>
+      <subject>Red Sea</subject>
+      <subject>Miocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Bufonidae</subject>
+      <subject>Amietophrynus</subject>
+      <subject>Duttaphrynus</subject>
+      <subject>Bufotes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BC578</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>249494 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Consensus tree for Analysis 2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

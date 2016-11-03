@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5488809</identifier><datestamp>2015-04-28T19:02:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8112F</identifier>
+  <creators>
+      <creator>
+         <creatorName>Peloso, Pedro L. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frost, Darrel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards, Stephen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodrigues, Miguel T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Donnellan, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matsui, Masafumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raxworthy, Cristopher J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biju, S. D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemmon, Emily M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wheeler, Ward C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Anchored Phylogenomics</subject>
+      <subject>Narrow-mouthed frogs</subject>
+      <subject>Systematics</subject>
+      <subject>Phylogeny</subject>
+      <subject>Maximum Likelihood</subject>
+      <subject>Parsimony</subject>
+      <subject>Data Exploration</subject>
+      <subject>Microhylidae</subject>
+      <subject>Amphibia</subject>
+      <subject>Anura</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Peloso PLV, Frost DR, Richards SJ, Rodrigues MT, Donnellan S, Matsui M, Raxworthy CJ, Biju SD, Lemmon EM, Wheeler WC (2015) The impact of anchored phylogenomics and taxon sampling on phylogenetic inference in narrow-mouthed frogs (Anura, Microhylidae). Cladistics, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8112F/8</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/CLA.12118</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

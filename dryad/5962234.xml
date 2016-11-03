@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5962234</identifier><datestamp>2015-06-23T20:22:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.650CN/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bouchard, Sarah S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenney O'Leary, Chelsea R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wargelin, Lindsay J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charbonnier, Julie F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warkentin, Karen M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Froglet Mean Retention Time</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>compensatory growth</subject>
+      <subject>complex life cycle</subject>
+      <subject>diet retention time</subject>
+      <subject>gut plasticity</subject>
+      <subject>intake</subject>
+      <subject>latent effects</subject>
+      <subject>metamorph</subject>
+      <subject>Neotropical treefrog</subject>
+      <subject>Panama</subject>
+      <subject>Central America</subject>
+      <subject>Agalychnis callidryas</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.650CN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3611 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data for mean retention time for Agalychnis callidryas froglets reared at different larval densities.  The data include froglet ID, tank number, rearing density, and froglet size.  We maintained froglets on a fruit fly (Drosophila sp.) diet and inserted a single meal of leafhopper insects (Cicadellidae) followed by additional fruit flies.  We used the leafhoppers as a diet marker and counted the number of leafhopper and fruit fly heads egested each day to determine mean diet retention time.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

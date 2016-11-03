@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1960957</identifier><datestamp>2014-05-30T02:30:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SS427</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kitson, James J. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warren, Ben H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Florens, F. B. Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baider, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strasberg, Dominique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emerson, Brent C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Molecular characterisation of trophic ecology within an island radiation of insect herbivores (Curculionidae: Entiminae: Cratopus).</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Insects</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Species Interactions</subject>
+      <subject>South-West Indian Ocean</subject>
+      <subject>Mauritius</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Cratopus murinus</subject>
+      <subject>Cratopus ovalis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kitson JJN, Warren BH, Florens FBV, Baider C, Strasberg D, Emerson BC (2013) Molecular characterisation of trophic ecology within an island radiation of insect herbivores (Curculionidae: Entiminae: Cratopus). Molecular Ecology 22(21): 5441&#8211;5455.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SS427/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SS427/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SS427/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12477</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

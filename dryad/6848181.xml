@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848181</identifier><datestamp>2015-11-17T21:03:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.90708/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gough, Leonie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sverdrup-Thygeson, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milberg, Per</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilskog, Hanne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jansson, Niclas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jonsell, Mats</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Birkemoe, Tone</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Species richness counts &amp; climate and tree measurements</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate gradient</subject>
+      <subject>temperature</subject>
+      <subject>precipitation</subject>
+      <subject>saproxylic</subject>
+      <subject>beetles</subject>
+      <subject>Coleoptera</subject>
+      <subject>Norway</subject>
+      <subject>Sweden</subject>
+      <subject>Scandinavia</subject>
+      <subject>Coleoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.90708</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21364 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Species richness, location, Openness and Circumference data was collected in the field. Climate data was obtained from BioClim. Columns: Country: Norway or Sweden. OakID: Unique tree identifier number. UTM33_X and UTM33_Y: co-ordinates for each tree location in UTM33. Circumference: Girth of the tree at breast height. Openness: Openness of tree canopy (see paper for description). MeanTempWarmestQuart - mean temperature during the warmest quarter of the year. MeanPrecipWarmestQuart - mean precipitation during the warmest quarter of the year. NorthernSpecialist - OtherGeneralist: species richness counts per tree. See paper for category descriptions.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364989</identifier><datestamp>2015-07-21T19:05:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R22H4/127</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mainka, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;rbe, Dirk</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MRI_subject_4</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Voice</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R22H4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11640591 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Christine Mayo(christine.mayo@unc.edu), reason: Data in Dryad is publicly available, and as such we must make sure that data pertaining to human subjects is properly anonymized and de-identified. Compliance with HIPPA requires that non-pertinent and potentially identifying features of MRI scans should be stripped out, particularly facial features. In this case, we ask that you please crop or strip your files to show only the area of the throat and vocal apparatus required to duplicate your results. &#13;
+&#13;
+Because of the large number of files in your submission, it moves very slowly within our system. Please also consider zipping multiple files together in a smaller number of folders when resubmitting. Our system supports upload of zipped folders, and your metadata is already detailed enough that users should not have difficulty finding the files of interest to them.&#13;
+&#13;
+If you have any questions, please contact us at help@datadryad.org. on 2015-06-29T18:13:46Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

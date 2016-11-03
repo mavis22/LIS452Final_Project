@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2904156</identifier><datestamp>2014-08-14T17:32:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8271F</identifier>
+  <creators>
+      <creator>
+         <creatorName>U'Ren, Jana M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riddle, Jakob M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monacell, James T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carbone, Ignazio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miadlikowska, Jolanta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arnold, A. Elizabeth</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Tissue storage and primer selection influence pyrosequencing-based inferences of diversity and community composition of endolichenic and endophytic fungi</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>454 amplicon pyrosequencing</subject>
+      <subject>diversity</subject>
+      <subject>ITSrDNA</subject>
+      <subject>lichen</subject>
+      <subject>moss</subject>
+      <subject>mycobiont</subject>
+      <subject>Santa Catalina Mountains</subject>
+      <subject>Arizona</subject>
+      <subject>USA</subject>
+      <subject>Pinus leiophylla var. chihuahuana</subject>
+      <subject>Brachythecium fendleri</subject>
+      <subject>Peltigera praetextata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">U'Ren JM, Riddle JM, Monacell JT, Carbone I, Miadlikowska J, Arnold AE (2014) Tissue storage and primer selection influence pyrosequencing-based inferences of diversity and community composition of endolichenic and endophytic fungi. Molecular Ecology Resources 14(5): 1032-1048.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8271F/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8271F/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8271F/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12252</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

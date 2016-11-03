@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6710574</identifier><datestamp>2015-09-16T20:32:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TN20T/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Courbin, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loveridge, Andrew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macdonald, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fritz, Herve</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valeix, Marion</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Makuwe, Edwin T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chamaill&#233;-Jammes, Simon</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SSF_DelayedFlight_Immediately</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>predator-prey spatial game</subject>
+      <subject>predator-prey encounter</subject>
+      <subject>savannah ecosystem</subject>
+      <subject>Hwange National Park</subject>
+      <subject>Zimbabwe</subject>
+      <subject>Panthera leo</subject>
+      <subject>Equus quagga</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TN20T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1139449 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used to asses the step selection function (SSF) of zebras using the delayed-flight tactic immediately after an encounter with lions (question 4). Column headings: id = id of zebra, FakeTime = 2-case, case = binary variable with 1 for an observed step and 0 for a random step, strata = id of the stratum where an observed step is paired with 10 random steps, TacticCont = categorical variable indicating if the step occurred after an encounter ("Tactic") or during the proactive phase ("Control"), Grassland = binary variable with 1 if the step ended in grassland and 0 if not, Bushland-1 = binary variable, Bushland-2 = binary variable, Bushland-3 = binary variable, Woodland = binary variable, Spline1-4 = spline variable for step length in m, StepLength = length of the step in m.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

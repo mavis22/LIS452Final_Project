@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5599512</identifier><datestamp>2015-04-14T16:00:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CT528/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schweinsberg, Maximilian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weiss, Linda C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Striewski, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tollrian, Ralph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lampert, Kathrin P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Acropora_Hyacinthus_dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>chimerism</subject>
+      <subject>microsatellite</subject>
+      <subject>mosaicsm</subject>
+      <subject>Acropora</subject>
+      <subject>Porites</subject>
+      <subject>Pocillopora</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CT528</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>75264 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-04-14T15:59:17Z (GMT). No. of bitstreams: 1
+Acropora_Hyacinthus_dryad.xls: 75264 bytes, checksum: 23de8ee86881ef794256155f80b5c950 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

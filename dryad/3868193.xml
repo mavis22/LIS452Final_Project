@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3868193</identifier><datestamp>2014-12-09T19:04:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.39Q83/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marino, Ilaria A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riginella, Emilio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cariani, Alessia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tinti, Fausto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farrell, Edward D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazzoldi, Carlotta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zane, Lorenzo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mustelus_spp_rawdata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>smooth-hound sharks</subject>
+      <subject>genetic identification</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>microsatellite loci</subject>
+      <subject>ITS2</subject>
+      <subject>Conservation genetics and biodiversity</subject>
+      <subject>Chioggia</subject>
+      <subject>North Adriatic</subject>
+      <subject>North Atlantic</subject>
+      <subject>Bristol Channel</subject>
+      <subject>Mustelus mustelus</subject>
+      <subject>Mustelus punctulatus</subject>
+      <subject>Mustelus asterias</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.39Q83</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18211 bytes</size>
+      <size>647 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-09-04T14:29:30Z (GMT). No. of bitstreams: 2
+Mustelus_spp_rawdata.csv: 18211 bytes, checksum: c9ca7b6f478fa133e320f074e941958a (MD5)
+README.txt: 647 bytes, checksum: 14a9d451b6f205a5abf48dfa9bb2552f (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

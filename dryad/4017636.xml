@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4017636</identifier><datestamp>2014-10-28T14:38:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.895B2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Keiser, Carl N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pruitt, Jonathan N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Keiser and Pruitt - Composition and size ESM</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Collective behaviour</subject>
+      <subject>group composition</subject>
+      <subject>group size</subject>
+      <subject>personality</subject>
+      <subject>temperament</subject>
+      <subject>South Africa</subject>
+      <subject>Stegodyphus dumicola</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.895B2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>23773 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data associated with collective behavior assays. Three response variables (latency to emerge from the colony retreat, latency to attack the prey stimulus, number of attackers) in response to two independent variables: colony personality composition and colony size.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

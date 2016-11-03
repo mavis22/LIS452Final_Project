@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80846</identifier><datestamp>2015-10-27T21:21:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8566/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stanton-Geddes, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Carolyn G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>greenhouse_inoculation_expt_2010</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>range limits</subject>
+      <subject>symbiosis</subject>
+      <subject>rhizobia</subject>
+      <subject>transplant study</subject>
+      <subject>Midwest</subject>
+      <subject>United States of America</subject>
+      <subject>Minnesota</subject>
+      <subject>Iowa</subject>
+      <subject>Nebraska</subject>
+      <subject>Chamaecrista fasciculata</subject>
+      <subject>Bradyrhizobium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-02-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8566</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13759 bytes</size>
+      <size>2604 bytes</size>
+      <size>2551 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-02-08T17:54:21Z (GMT). No. of bitstreams: 2
+README.txt: 2604 bytes, checksum: 25f8fe541772e2572e99c489b22d28f4 (MD5)
+greenhouse_inoculation_expt_2010.csv: 13759 bytes, checksum: 3c2cf6c2391b1c5c4e745ce7ba64ea4b (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6438551</identifier><datestamp>2015-07-31T19:40:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P0C87/11</identifier>
+  <creators>
+      <creator>
+         <creatorName>Legros, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Modolo, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Samantha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robertson, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, Alex W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fMRI_Pilot_1800_microTesla_DICOM part 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P0C87</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>652583573 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">fMRI_Pilot_1800_microTesla_DICOM part 1-2: MRI and fMRI DICOM images corresponding to the pilot study conducted with a 1800 microTesla exposure&#13;
+&#13;
+These DICOM files have been produced by a Siemens 1.5T Avanto (Siemens, Germany) MRI, as described in the paper. DICOM is a standard format for MRI images, and these can be analyzed with software packages such as BrainVoyager (Brain Innovation, The Netherlands), which we have used in the paper; or an open-access software package such as FSL (http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/). The analysis procedure for the fMRI data is fully described in the Methods section of the paper. DICOM files are available for each subject pre- and post-exposure, for each of the two tasks presented in the paper (finger tapping and mental rotation). Please feel free to contact the authors if further guidance is required.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

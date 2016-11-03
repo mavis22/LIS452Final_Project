@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6277886</identifier><datestamp>2015-06-18T19:57:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7QH1R</identifier>
+  <creators>
+      <creator>
+         <creatorName>Li, Dayong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Huijuan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Song, Qiuming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Lu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Shixia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hong, Yongbo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huang, Lei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Song, Fengming</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Tomato Sl3-MMP, a member of the Matrix metalloproteinase family, is required for disease resistance against Botrytis cinerea and Pseudomonas syringae pv. tomato DC3000</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>tomato</subject>
+      <subject>Matrix metalloproteinases</subject>
+      <subject>Pseudomonas syringae pv. tomato DC3000</subject>
+      <subject>disease resistance</subject>
+      <subject>Proteolysis</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Glycine max</subject>
+      <subject>Hordeum vulgare</subject>
+      <subject>Medicago truncatula</subject>
+      <subject>Nicotiana tabacum</subject>
+      <subject>Solanum lycopersicum</subject>
+      <subject>Zea mays</subject>
+      <subject>Oryza sativa</subject>
+      <subject>Botrytis cinerea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Li D, Zhang H, Song Q, Wang L, Liu S, Hong Y, Huang L, Song F (2015) Tomato Sl3-MMP, a member of the Matrix metalloproteinase family, is required for disease resistance against Botrytis cinerea and Pseudomonas syringae pv. tomato DC3000. BMC Plant Biology 15: 143.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7QH1R/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7QH1R/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12870-015-0536-Z</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

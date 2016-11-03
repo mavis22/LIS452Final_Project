@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4899568</identifier><datestamp>2015-04-13T21:01:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NF0KK/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roth, Tobias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohli, Lukas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rihm, Beat</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amrhein, Valentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Achermann, Beat</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>swissBDM</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecosystem stability</subject>
+      <subject>Nitrogen deposition</subject>
+      <subject>global change</subject>
+      <subject>species richness</subject>
+      <subject>plant diversity</subject>
+      <subject>tracheophytes</subject>
+      <subject>vascular plants</subject>
+      <subject>Switzerland</subject>
+      <subject>anthropocene</subject>
+      <subject>tracheophyta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NF0KK</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>89700 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the six measures of plant diversity for each of the 381 study plots, each of 1 km2 size, as obtained from the Swiss biodiversity monitoring indicator "species richness in landscapes" (www.biodiversitymonitoring.ch/en/data/indicators/z/z7.html). Additionally, the file contains the estimated atmospheric N deposition for each plot as well as the different covariates as obtained from [1]. The content of the columns is as follows: PLOT_ID: Unique identifier for each 1 km2 plot. TOTAL_SR: Number of recorded species. OLIGO_SR: Number of species typically found on nutrient-poor soils, i.e. oligotrophic species with N-values of one and two [2]. AGRI_SR	: Number of target species for which Swiss agriculture has particular responsibility of conservation [3]. UNIQUE: Community uniqueness calculated as the average Simpson dissimilarity index [4] of species composition for the particular study plot paired with each other plot. FD: Functional diversity. PD :Phylogenetic diversity. Ndep: Atmospheric Nitrogen deposition (kg ha-1 yr-1). E.avg: Altitude (m.a.s.l.). L.agrilow: Lowland agricultural area (ha). L.tree: Open woody formation area (ha). CALC: Calcareous substrate (%). TR.ran: Range of temperature variation Jul.-Jan. (&#176;C).&#13;
+creek.sd: Standard deviation of creek length (m). REFERENCES: [1] Wohlgemuth, T., Nobis, M.P., Kienast, F. &amp; Plattner, M. 2008 Modelling vascular plant diversity at the landscape scale using systematic samples. J. Biogeogr. 35, 1226-1240. (doi:j.1365-2699.2008.01884.x). [2] Landolt, E., B&#228;umler, B., Erhardt, A., Hegg, O., Kl&#246;tzli, F., L&#228;mmler, W., Nobis, M., Rudmann-Maurer, K., Schweingruber, F. &amp; Theurillat, J. 2010 Flora Indicativa, Ecological Indicator Values and Biological Attributes of the Flora of Switzerland and the Alps. Bern, Haupt-Verlag; 382 p. [3] BAFU &amp; BLW. 2008 Umweltziele Landwirtschaft. Hergeleitet aus bestehenden rechtlichen Grundlagen. Bern, Bundesamt f&#252;r Umwelt; 221 p. [4] Koleff, P., Gaston, K.J. &amp; Lennon, J.J. 2003 Measuring beta diversity for presence-absence data. J. Anim. Ecol. 72, 367-382. (doi:10.1046/J.1365-2656.2003.00710.x).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

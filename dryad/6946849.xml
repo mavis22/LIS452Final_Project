@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6946849</identifier><datestamp>2015-11-20T14:40:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4P7G1/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Athreya, Vidya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Srivathsa, Arjun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puri, Mahi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karanth, Krithi K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumar, N. Samba</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karanth, K. Ullas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Leopard Media Reports: Spreadsheets</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>large felids</subject>
+      <subject>livestock depredation</subject>
+      <subject>human injury</subject>
+      <subject>media reports</subject>
+      <subject>unprotected areas</subject>
+      <subject>Karnataka</subject>
+      <subject>India</subject>
+      <subject>Western Ghats</subject>
+      <subject>Panthera pardus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4P7G1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>328012 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The compressed folder has two excel files. (a) NewspaperRecords.xlsx includes the list of newspapers from where data were extracted, data, type of event and the location. (b) LeopardMediaReports_DetectionMatrices.xlsx has two sheets with detection matrices; the first sheet refers to detection/non-detection of all events and the second sheet includes records of non-detection (0), detection of presence only (1), and detection of conflict incidents (2).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

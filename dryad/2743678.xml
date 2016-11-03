@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2743678</identifier><datestamp>2015-10-09T19:40:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6C45T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paul, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Indic, Premananda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartz, William J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>body temperature files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>body temperature rhythms</subject>
+      <subject>Mesocricetus auratus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6C45T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1557352 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Text files containing the body temperature recordings from individual Syrian hamsters co-housed in pairs or single-housed as 'virtual pairs' in laboratory cages.  Temperature is in Celsius (C = Celsius) and was recorded using iButton temperature dataloggers.  Each line contains the date and time of the body temperature recording.  The first number in the filename represents the hamster ID for that file.  Co-housed hamster pairs: 47 with 51, 45 with 53, 42 with 50, 41 with 52, 49 with 44, 46 with 43, 54 with 48, 124 with 98, 75 with 127, 118 with 102, 89 with 116, 113 with 108, 76 with 122, 101 with 81, 117 with 74, 94 with 99, 111 with 84, 93 with 86, 91 with 82.  Virtually-paired hamsters: 112 with 73, 126 with 106, 78 with 104, 110 with 103, 114 with 128, 105 with 100, 129 with 96, 80 with 107, 87 with 95, 88 with 123, 90 with 83, 77 with 92.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

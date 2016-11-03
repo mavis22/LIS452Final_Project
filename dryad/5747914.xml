@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5747914</identifier><datestamp>2015-06-10T16:12:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DK3Q0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Savetsky, Ira L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ghanta, Swapna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gardenier, Jason C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torrisi, Jeremy S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garcia Nores, Gabriela D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hespe, Geoffrey E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nitti, Matthew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kataru, Raghu P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mehrara, Babak J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Lymphangiogenesis</subject>
+      <subject>inflammation</subject>
+      <subject>interleukin-4</subject>
+      <subject>interleukin-13</subject>
+      <subject>Th2</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DK3Q0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13772 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

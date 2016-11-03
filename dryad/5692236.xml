@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5692236</identifier><datestamp>2015-05-07T21:23:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.33H50/15</identifier>
+  <creators>
+      <creator>
+         <creatorName>Warner, Patricia A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Master Worksheet of All Data 2re _Seriatopora spp. GBR</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cryptic species</subject>
+      <subject>population genetics</subject>
+      <subject>connectivity</subject>
+      <subject>coral</subject>
+      <subject>Great Barrier Reef</subject>
+      <subject>Eastern Australia</subject>
+      <subject>Pacific Ocean</subject>
+      <subject>Present</subject>
+      <subject>Seriatopora sp.</subject>
+      <subject>Seriatopora hystrix</subject>
+      <subject>Seriatopora caliendrum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.33H50</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>701440 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file is a worksheet containing tabs for each csv file uploaded to Dryad: master summary table of all individuals, genotypes, allele frequencies for calculation of Da distance for NJ tree, Da distance matrix, matrix of pairwise population G"st, matrix of pairwise population Fst, matrix of pairwise population geographic distances, structure input, structure parameters, medium length haplotype alignment, short length haplotype alignment, long length haplotype alignment, alignment of full sequences from individuals from W Lizard.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

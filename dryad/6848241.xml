@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848241</identifier><datestamp>2015-12-04T21:16:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TM680/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jordaens, Kurt</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goergen, Georg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kirk-Spriggs, Ashley H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vokaer, Audrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Backeljau, Thierry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Meyer, Marc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>alignment fasta file for 18S rRNA, 28S rRNA and COI</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>18S rRNA</subject>
+      <subject>28S rRNA</subject>
+      <subject>COI</subject>
+      <subject>DNA barcoding</subject>
+      <subject>flower fly</subject>
+      <subject>pollenivory</subject>
+      <subject>Africa</subject>
+      <subject>Afrotropics</subject>
+      <subject>Benin</subject>
+      <subject>Togo</subject>
+      <subject>Ghana</subject>
+      <subject>Nigeria</subject>
+      <subject>Central Africa</subject>
+      <subject>West Africa</subject>
+      <subject>Syrphidae</subject>
+      <subject>Toxomerus</subject>
+      <subject>Toxomerus floralis</subject>
+      <subject>Diptera</subject>
+      <subject>Insecta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TM680</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>342906 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the alignments of the 18S rRNA, 28S rRNA, and COI datasets used in the paper, respectively.  The file is in fasta-format.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

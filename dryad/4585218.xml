@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4585218</identifier><datestamp>2015-01-09T19:37:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SK6D5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sandkam, Benjamin A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Breden, Felix</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gene Expression Relative to Average Housekeeping</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Opsin</subject>
+      <subject>Vision</subject>
+      <subject>Mate Choice</subject>
+      <subject>Sensory System</subject>
+      <subject>Lighting Environment</subject>
+      <subject>Trinidad</subject>
+      <subject>Marianne Watershed</subject>
+      <subject>Aripo Watershed</subject>
+      <subject>Poecilia reticulata</subject>
+      <subject>Guppy</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SK6D5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>52942 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file is a cvs that has the level of expression of each of the 9 opsins, 1 rhodopsin and 3 housekeeping genes measured relative to the average of the 3 housekeeping genes (Bactin, COI, and MyosinHC). These numbers are for each individual along with information on the sex, standard length (SL), population (AHP- Aripo High Predation, ALP- Aripo Low Predation, MHP- Marianne High Predation, MLP- Marianne Low Predation), Watershed, Predation regime, Day of collection and Time of day collected (1- 07:30, 2- 10:30, 3- 13:30, 4- 16:30).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

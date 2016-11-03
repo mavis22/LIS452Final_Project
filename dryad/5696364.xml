@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5696364</identifier><datestamp>2015-08-27T20:37:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DC02B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Puckett, Emily E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etter, Paul D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Eric A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eggert, Lori S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogeographic analyses of American black bears (Ursus americanus) suggest four glacial refugia and complex patterns of post-glacial admixture</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNPs</subject>
+      <subject>Microsatellites</subject>
+      <subject>Mitochondrial genome</subject>
+      <subject>American black bear</subject>
+      <subject>Lineage Divergence</subject>
+      <subject>Admixture</subject>
+      <subject>Phylogeography</subject>
+      <subject>Species Distribution Modeling</subject>
+      <subject>North America</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Ursus americanus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Puckett EE, Etter PD, Johnson EA, Eggert LS (2015) Phylogeographic analyses of American black bears (Ursus americanus) suggest four glacial refugia and complex patterns of post-glacial admixture. Molecular Biology and Evolution 32(9): 2338-2350.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DC02B/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/MOLBEV/MSV114</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

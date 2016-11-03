@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1985049</identifier><datestamp>2014-10-07T06:32:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.61T9H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Irwin, Kristen K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carter, Pat A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tribolium Larval Mass Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Growth</subject>
+      <subject>Evolutionary Constraints</subject>
+      <subject>Function-Valued Traits</subject>
+      <subject>Tribolium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-10-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.61T9H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>535040 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file gives mass measurements for individuals who are listed in rows. The first three columns list identifying information for each larva; the first column gives the ID number, the second gives the sire number, and the third gives the dam number. The fourth column gives the hatch date, from which each 'age' is measured. From here, each data entry takes three columns: one for date of measurement, one for days since hatch (or, age at measurement), and one for the actual mass measurement (which is in grams).  The numbers following the headings in this column represent the number of each measurement (i.e. 'mass5' indicates the fifth mass measure). Data concerning the pupal stage begin at the 44th column. The first three columns are the date of pupation, pupation age, and pupal mass. The 47th column indicates the sex of the individual, with 1 representing a male and 0 representing a female. The last two columns indicate the date and age of eclosion to the adult stage, respectively. Any blank entries represent a lack of data points either for that measurement or for that identifying information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

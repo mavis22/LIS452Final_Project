@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4032192</identifier><datestamp>2014-10-06T17:07:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.51Q1P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Baldwin, Justin W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whitehead, Susan R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Baldwin and Whitehead 2014 - dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Fruit chemistry</subject>
+      <subject>Seed dispersal</subject>
+      <subject>Amides</subject>
+      <subject>Costa Rica</subject>
+      <subject>Piper colonense</subject>
+      <subject>Piper peltatum</subject>
+      <subject>Piper sanctifelicis</subject>
+      <subject>Piper silvivagum</subject>
+      <subject>Piper reticulatum</subject>
+      <subject>Carollia perspicillata</subject>
+      <subject>Piper</subject>
+      <subject>Carollia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.51Q1P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6562 bytes</size>
+      <size>4021 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The archive "Baldwin and Whitehead 2014 - dryad.zip" contains four spreadsheets ("Q1.csv", "Q2.csv", "PretEx.csv" and "Species differences due to GRT.csv"). These spreadsheets are the raw data files used in the analyses we performed. The code and outputs from the analyses are documented in the Online Resources (ESM 1 and 2), which are available in the article as Electronic Supplementary Material.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

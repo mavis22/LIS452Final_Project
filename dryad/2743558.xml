@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2743558</identifier><datestamp>2015-03-14T06:30:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.73F23/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cizauskas, Carrie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bellan, Steven E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Wendy C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vance, Russell E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Getz, Wayne M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Anti-PA Titers for Equus quagga</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>antibody persistence</subject>
+      <subject>bacteria</subject>
+      <subject>ecological immunology</subject>
+      <subject>ELISA</subject>
+      <subject>endoparasites</subject>
+      <subject>host-parasite interactions</subject>
+      <subject>microbiology</subject>
+      <subject>microparasites</subject>
+      <subject>seroconversion dynamics</subject>
+      <subject>serology</subject>
+      <subject>Etosha National Park</subject>
+      <subject>Namibia</subject>
+      <subject>Equus quagga</subject>
+      <subject>Loxodonta africana</subject>
+      <subject>Antidorcas marsupialis</subject>
+      <subject>Bacillus anthracis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.73F23</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7267 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Anti-anthrax (anti-protective antigen toxin) antibody titers for wild plains zebra immobilized and sampled over 1-5 seasons in Etosha National Park, Namibia. id=animal capture ID. titer=anti-PA titer; the titer is the highest dilution in the titration series for which the mean sample optical density (OD) for that dilution is greater than the mean negative control OD titration curve from all plates (dilution is as 1:dilution; e.g. 1024 is a 1:1024 dilution). titerDUP=anti-PA titer for which the titer is the last dilution at which the mean sample OD is greater than the mean negative control OD buffered by a 95% confidence interval determined by the inter-duplicate error at that dilution, across all samples. titerNCONT=anti-PA titer for which the titer is the last dilution at which the mean sample OD is greater than the mean negative control OD buffered by a 95% confidence interval determined by the inter-negative control error at that dilution, across all samples. plate=plate identifier (date and plate number on that day). ncont=identifier of the negative control sample used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

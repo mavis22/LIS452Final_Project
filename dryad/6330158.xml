@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330158</identifier><datestamp>2015-07-09T18:00:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.707G2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pegna, Alan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gehring, Elise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Georg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Del Zotto, Marzia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Biological motion individual ERP files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biological motion</subject>
+      <subject>Social cognition</subject>
+      <subject>ERP</subject>
+      <subject>source localization</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.707G2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20761007 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the ERP files of every subject in each condition, used in the paper entitled  "Direction of biological motion affects early brain ativation: a link with social cognition", by Pegna, Gehring, Meyer &amp; Del Zotto, and published in PLoS-One. Data for each of the 4 experimental conditions (radial iological motion -rBM- ; lateral biological motion -lBM-; radial scrambled motion -rSM-; and lateral scrmbled motion -lSM-)  are placed in separate folders named for the condition. Within each folder, the ERP of each subject is given under the subject number; i.e.,  1s for the first subject, 2s for the second subjects and so forth, followed by the abberviation  of the experimental condition. Thus for example, the ERP of the 1st subject in the lateral scrambled motion condition is given the name "1s_lSM.txt". The data within the each file is given in ASCII format with each column corresponding to a given electrode and each row to a time frame. There are 64 columns corresponding to the following electrodes (in order) from left to right:  Fp1, AF7; AF3; F1; F3; F5; F7; FT7; FC5; FC3; FC1; C1; C3; C5; T7; TP7; CP5; CP3; CP1; P1; P3; P5; P7; P9; PO7; PO3; O1; Iz; Oz; POz; Pz; CPz; Fpz; Fp2; AF8; AF4; Afz; Fz; F2; F4; F6; F8; FT8; FC6; FC4; FC2; FCz; Cz; C2; C4; C6; T8; TP8; CP6; CP4; CP2; P2; P4; P6; P8; P10; PO8; PO4; O2. There are 1126 rows corresponding to the successive time frames over time beginning 100ms before the appearance  of the stimulus at the top row. As the sampling rate was of 1024 Hz, each time frame corresponds to 0.976ms. The total duration of the epochs is consequently of 1098.632 ms (1126 time frames). A separate file named Biosemi_64.els is included containing the names of the electrodes as well as their cartesian coordinates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6306525</identifier><datestamp>2015-06-15T17:06:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5RM6D/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Leavitt, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraichak, Ekaphan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nelsen, Matthew P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altermann, Susanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Divakar, Pradeep K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alors, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Esslinger, Theodore L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crespo, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lumbsch, H. Thorsten</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplementary tables S2 - S4_  and figure S1 - S7</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Coevolution</subject>
+      <subject>ecoregion</subject>
+      <subject>specificity</subject>
+      <subject>mycobiont</subject>
+      <subject>photobiont</subject>
+      <subject>Trebouxia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5RM6D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1434691 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplementary Table S2. Summary of the taxonomic and geographic sampling of fungal genera for this study.&#13;
+&#13;
+Supplementary Table S3. Specificity indices for Trebouxia OTUs represented by &#8805; 10 sequences per OTU, based on fungal genera included in this study.&#13;
+&#13;
+Supplementary Table S4. Summary of OTUs inferred using the ABGD detection program (Puillandre et al. 2012) represented by at least ten sequences and/or including sequences generated from UTEX and SAG cultures (UTEX and SAG cultures are shown in bold). Cultures and/or provisional names from previous studies, geographic distributions, and associated mycobiont hosts are reported. Other lichen mycobiont genera associated with Trebouxia OTUs were inferred using a BLAST search against the GenBank Nucleotide sequence database (searched 15 Nov 2014), where sequences with &#8805; 98% similarity to a representative sequence from each OTU were assumed to belong to the OTU. The majority of OTUs were largely consistent with 97.5% sequence similarity clusters, with the exception of OTU &#8216;I01&#8217;, which was split into ten OTUs at 97.5%. The 97.5% sequence similarity clusters for OTUs &#8216;I01&#8217; are shown parenthetically for each mycobiont host.&#13;
+&#13;
+Supplementary Figure S1. Relative proportion of Trebouxia OTUs associated with sampled fungal genera&#13;
+&#13;
+Supplementary Figure S2. ITS gene tree for a subset of specimens in the T. arboricola/gigantea group inferred using the program RAxML.&#13;
+&#13;
+Supplementary Figure S3. Mitochondrial COXII gene tree for a subset of specimens in the T. arboricola/gigantea group inferred using the program RAxML.&#13;
+&#13;
+Supplementary Figure S4. Chloroplast rbcL gene tree for a subset of specimens in the T. arboricola/gigantea group inferred using the program RAxML.&#13;
+&#13;
+Supplementary Figure S5. Chloroplast psbJ-L gene tree for a subset of specimens in the T. arboricola/gigantea group inferred using the program RAxML. Ambiguous regions of the alignment were removed using the program Gblocks.&#13;
+&#13;
+Supplementary Figure S6. Chloroplast topology for a subset of specimens in the T. arboricola/gigantea group inferred from concatenated rbcL and psJ-L alignments using the program RAxML.&#13;
+&#13;
+Supplementary Figure S7. A &#8220;total evidence&#8221; phylogeny for the T. arboricola/gigantea, inferred from concatenated nuclear ITS, mitochondrial COXII, and the chloroplast markers rbcL and psbJ-L using the program RAxML.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

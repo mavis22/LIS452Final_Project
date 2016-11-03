@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6093739</identifier><datestamp>2015-06-24T17:52:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4RD1G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Evans, Jennifer A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leise, Tanya L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castanon-Cervantes, Oscar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davidson, Alec J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PER2::LUC Imaging Mouse#337</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>circadian pacemaker</subject>
+      <subject>suprachiasmatic nucleus</subject>
+      <subject>individual differences</subject>
+      <subject>PER2::LUC</subject>
+      <subject>bioluminescence</subject>
+      <subject>imaging</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4RD1G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>64716112 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains a tiff sequence for PER2::LUC imagign data from SCN slices collected from Mouse#337 (rostral SCN = Slice1, middle SCN = Slice2, caudal SCN = Slice3).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

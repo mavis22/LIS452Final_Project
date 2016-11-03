@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6735921</identifier><datestamp>2015-10-14T17:37:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8T89M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lind, Martin I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yarlett, Kylie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reger, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carter, Mauricio J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beckerman, Andrew P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Trat data of Daphnia pulex</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genetic accommodation</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Predation</subject>
+      <subject>United Kingdom</subject>
+      <subject>South Yorkshire</subject>
+      <subject>Cumbria</subject>
+      <subject>Daphnia pulex</subject>
+      <subject>Chaoborus flavicans</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8T89M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16627 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Trait data for individual Daphnia pulex from either fish cue- or mideg cue treatment. Below follows a description of the column labels: CLONE - the maternal clone; POND - the pond from which the clone was collected; CUE TREATMENT - the predator cue added to the water; AGE MATURITY - age at maturity (days); SIZE MATURITY - the size at maturity (mm), ADULT GROWTH RATE - the increase in size as adults (day-1); R - the reproductive fitness calculated from the life table</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

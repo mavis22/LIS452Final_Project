@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5747834</identifier><datestamp>2015-05-29T17:24:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q9690/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schneider, Gudrun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krauss, Jochen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steffan-Dewenter, Ingolf</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holzschuh, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riedinger, Verena</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>yield_landscape</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>oilseed rape</subject>
+      <subject>pollen beetles</subject>
+      <subject>semi-natural habitats</subject>
+      <subject>yield</subject>
+      <subject>seed weight</subject>
+      <subject>Bavaria</subject>
+      <subject>Germany</subject>
+      <subject>Meligethes aeneus</subject>
+      <subject>Brassica napus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q9690</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2690 bytes</size>
+      <size>54784 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the seed weight per plant and the yield data received from the farmers as well as the proportion of oilseed rape, the inter-annual change in the proportion of oilseed rape and the proportion of semi-natural habitats in the 1-km landscape radius around the study sites.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

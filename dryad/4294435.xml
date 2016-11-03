@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4294435</identifier><datestamp>2015-03-10T20:12:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PC17K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Han, Barbara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kerby, Jacob L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Searle, Catherine L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Storfer, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blaustein, Andy R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad Han et al. EcoEvo Bd diversity data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>dilution effect</subject>
+      <subject>chytridiomycosis</subject>
+      <subject>biodiversity</subject>
+      <subject>diversity-disease</subject>
+      <subject>Oregon Cascades</subject>
+      <subject>United States of America</subject>
+      <subject>Rana cascadae</subject>
+      <subject>Anaxyrus boreas</subject>
+      <subject>Pseudacris regilla</subject>
+      <subject>Batrachochytrium dendrobatidis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PC17K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>10052 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected from an experiment to examine dilution effects in larvae of three amphibian species experimentally inoculated with Batrachochytrium dendrobatidis across various species compositions. Data collected across species combinations (combo) for each focal species (species) include growth (mass, length), mortality (mean day to death), pathogen treatment (Bd or No Bd), mean log(genome equivalents) of Bd in host tissues (quantified using real time PCR), the mean proportion of tadpoles that died within experimental units, and mean mortality arcsin transformed for statistical analyses. Label represents an experimental unit containing 6 tadpoles in total at the start of the experiment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

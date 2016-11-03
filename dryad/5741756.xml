@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5741756</identifier><datestamp>2015-11-01T20:34:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MS40B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barclay, Kristina M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schneider, Chris L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leighton, Lindsey R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Appendix 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sclerobiosis</subject>
+      <subject>epibiosis</subject>
+      <subject>mapping</subject>
+      <subject>Alberta</subject>
+      <subject>Canada</subject>
+      <subject>Devonian</subject>
+      <subject>Givetian</subject>
+      <subject>Frasnian</subject>
+      <subject>Brachiopoda</subject>
+      <subject>Atrypida</subject>
+      <subject>Ascodictyon</subject>
+      <subject>Craniida</subject>
+      <subject>Hederella</subject>
+      <subject>Microconchus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MS40B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3223634 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw sclerobiont maps of each of the 150 brachiopod specimens included in the mapping study. Each image is shown to scale. The left-hand column depicts maps of the dorsal view, and the right-hand column depicts maps of the ventral view. Blank cells indicate valves that were unencrusted, and were therefore not mapped. The original photograph of the brachiopod has been removed for clarity. Sclerobionts are colour coded by taxon: Ascodictyon = purple, Hederella = yellow, Microconchus = red, and craniid brachiopods = blue.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

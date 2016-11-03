@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5758009</identifier><datestamp>2015-06-18T19:25:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J2C13/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Coblentz, Kyle E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Henkel, Jessica R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sigel, Bryan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, Caz M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Community Composition Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Coastal Ecology</subject>
+      <subject>Community composition</subject>
+      <subject>animal-sediment relationships</subject>
+      <subject>habitat</subject>
+      <subject>Estuary</subject>
+      <subject>Northern Gulf of Mexico Coast</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J2C13</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26406 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel spreadsheet containing data on community composition of intertidal invertebrate communities along the Northern Gulf of Mexico coast at 7 sites. Each column provides data from a single sample. For each sample, the date the sample was collected, the date the sample was sorted and the abundance of within 24 taxa are recorded. Specific information on the location of samples is given in the sampling data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

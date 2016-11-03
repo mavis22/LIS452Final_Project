@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1966203</identifier><datestamp>2014-05-30T03:46:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FV487</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pichlm&#252;ller, Florian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Straub, Christina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helfer, V&#233;ronique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Skin swabbing of amphibian larvae yields sufficient DNA for efficient sequencing and reliable microsatellite genotyping</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>fire salamanders</subject>
+      <subject>Salamandra salamandra</subject>
+      <subject>allelic dropouts</subject>
+      <subject>false alleles</subject>
+      <subject>minimally invasive sampling</subject>
+      <subject>Salzburg</subject>
+      <subject>Austria</subject>
+      <subject>Salamandra salamandra</subject>
+      <subject>Amphibia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pichlm&#252;ller F, Straub C, Helfer V (2013) Skin swabbing of amphibian larvae yields sufficient DNA for efficient sequencing and reliable microsatellite genotyping. Amphibia-Reptilia 34(4): 517&#8211;523.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FV487/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1163/15685381-00002909</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

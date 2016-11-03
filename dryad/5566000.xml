@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566000</identifier><datestamp>2015-08-05T13:25:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PK944</identifier>
+  <creators>
+      <creator>
+         <creatorName>Castellanos-Morales, Gabriela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortega, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castillo-G&#225;mez, Reyna A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sackett, Loren C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eguiarte, Luis E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic variation and structure in contrasting geographic distributions: widespread vs. restricted black-tailed prairie dogs (subgenus Cynomys)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation genetics</subject>
+      <subject>microsatellites</subject>
+      <subject>mitochondria</subject>
+      <subject>phylogeography</subject>
+      <subject>Chihuahua</subject>
+      <subject>Sonora</subject>
+      <subject>New Mexico</subject>
+      <subject>Colorado</subject>
+      <subject>Coahuila</subject>
+      <subject>Nuevo Leon</subject>
+      <subject>San Luis Potosi</subject>
+      <subject>Current</subject>
+      <subject>Cynomys ludovicianus</subject>
+      <subject>Cynomys mexicanus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Castellanos-Morales G, Ortega J, Castillo-G&#225;mez RA, Sackett LC, Eguiarte LE (2015) Genetic variation and structure in contrasting geographic distributions: widespread vs. restricted black-tailed prairie dogs (subgenus Cynomys). Journal of Heredity 106(S1): 478-490.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PK944/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PK944/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/JHERED/ESV021</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

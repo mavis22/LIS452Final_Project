@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4034966</identifier><datestamp>2014-10-17T14:26:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G7B40/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cohen, Sheldon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deverts, Denise Janicki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Ronald B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doyle, William J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Does Hugging Provide Stress-Buffering Social Support_replication syntax</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>health</subject>
+      <subject>interpersonal interaction</subject>
+      <subject>psychological stress</subject>
+      <subject>social support</subject>
+      <subject>stress-buffering</subject>
+      <subject>touch</subject>
+      <subject>Pittsburgh PA</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G7B40</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18963 bytes</size>
+      <size>151966 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The replication data set is provided as an annotated SPSS data file (.SAV), and contains all variables necessary to conduct the analyses reported on in the associated publication.  Data are represented by 57 variables, which are described in detail in the code book that appears in the attached README.pdf document.  The code book provides a descriptive label for each variable, as well as value labels for categorical and dichotomous variables (when necessary).  Missing data are represented by empty cells.&#13;
+The data set includes both input variables and variables that were created from the input dats.  The latter are indicated with an asterisk (*).  Information on the algorithms used for creating computed variables is provided in the associated manuscript.&#13;
+Included alongside the data set is an SPSS syntax file (.sps) that includes code for all analyses reported in the manuscript&#8217;s results section.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4041692</identifier><datestamp>2014-12-09T19:26:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6F64B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lanes, &#201;der C. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Motoike, S&#233;rgio Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuki, Kacilda N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nick, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freitas, Renata D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lanes et al 2014 Acrocomia aculeata genetic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>biofuel</subject>
+      <subject>diversity center</subject>
+      <subject>domestication</subject>
+      <subject>gene pools</subject>
+      <subject>speciation</subject>
+      <subject>Minas Gerais</subject>
+      <subject>Mato Grosso do Sul</subject>
+      <subject>Par&#225;</subject>
+      <subject>Para&#237;ba</subject>
+      <subject>Pernambuco</subject>
+      <subject>S&#227;o Paulo</subject>
+      <subject>Acrocomia aculeata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6F64B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33792 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing microsatellite genotypes of accessions A. aculeata. Genetic data of 6 microsatellite for 77 accessions A. aculeata obtained from the Macaw Palm Germoplasm Bank (Brazil). The locus names are listed in the first line. The accessions are identified by code of genebank listed in the first column of the file.  The genotypes of each accessions are from columns 2 to 13. The allelic description of each accessions was determined by informative numerical codes. Missing genetic data are coded as "0".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

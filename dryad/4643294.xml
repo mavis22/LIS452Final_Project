@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4643294</identifier><datestamp>2015-03-16T19:57:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4M7V7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Anderson, Philip S. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Patek, Sheila N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Anderson&amp;Patek2015_species_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Evolution</subject>
+      <subject>Biomechanics</subject>
+      <subject>Mechanical sensitivity</subject>
+      <subject>Stomatopods</subject>
+      <subject>Stomatopoda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4M7V7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66553 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Using 196 museum specimens from 36 stomatopod species, we measured morphological and biomechanical data related to the 4-bar system in the raptorial appendage. These data are divided into two files: Anderson&amp;Patek2015_species_data contains species averages for Kinematic Transmission (KT) as well as average link lengths (Link1, Link 2, Link 3, and Link 4) and PC scores for the species (PC1-PC8). Note that in the manuscript, we divided links 1, 2 and 3 by link 4 for analyses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

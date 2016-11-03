@@ -1,0 +1,172 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3641116</identifier><datestamp>2014-05-30T09:55:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6356F/17</identifier>
+  <creators>
+      <creator>
+         <creatorName>Loladze, Irakli</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R Code for the CO2 dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>elevated carbon dioxide</subject>
+      <subject>CO2</subject>
+      <subject>FACE</subject>
+      <subject>micronutrients</subject>
+      <subject>iron</subject>
+      <subject>zinc</subject>
+      <subject>ionome</subject>
+      <subject>malnutrition</subject>
+      <subject>crops</subject>
+      <subject>plants</subject>
+      <subject>temperate region</subject>
+      <subject>tropics-subtropics</subject>
+      <subject>Australia</subject>
+      <subject>China</subject>
+      <subject>Finland</subject>
+      <subject>Germany</subject>
+      <subject>USA</subject>
+      <subject>Acer pseudoplatanus</subject>
+      <subject>Acer rubrum</subject>
+      <subject>Agrostis capillaris</subject>
+      <subject>Alnus glutinosa</subject>
+      <subject>Alphitonia petriei</subject>
+      <subject>Ambrosia dumosa</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Betula pendula 'Roth'</subject>
+      <subject>Bouteloua curtipendula</subject>
+      <subject>Bromus tectorum</subject>
+      <subject>Calluna vulgaris</subject>
+      <subject>Cercis canadensis</subject>
+      <subject>Chrysanthemum morifolium</subject>
+      <subject>Cornus florida</subject>
+      <subject>Fagus sylvatica</subject>
+      <subject>Festuca pratensis</subject>
+      <subject>Festuca vivipara</subject>
+      <subject>Flindersia brayleyana</subject>
+      <subject>Galactia elliottii</subject>
+      <subject>Larix kaempferi</subject>
+      <subject>Lepidium latifolium</subject>
+      <subject>Liquidambar styraciflua</subject>
+      <subject>Liriodendron tulipifera</subject>
+      <subject>Lolium perenne</subject>
+      <subject>Lupinus albus</subject>
+      <subject>Lycium pallidum</subject>
+      <subject>Nephrolepis exaltata</subject>
+      <subject>Pelargonium x hortorum 'Maverick White'</subject>
+      <subject>Picea abies 'Karst.'</subject>
+      <subject>Picea rubens</subject>
+      <subject>Pinus ponderosa</subject>
+      <subject>Pinus ponderosa 'Laws.'</subject>
+      <subject>Pinus sylvestris</subject>
+      <subject>Pinus taeda</subject>
+      <subject>Poa alpina</subject>
+      <subject>Pteridium aquilinum</subject>
+      <subject>Pteridium revolutum</subject>
+      <subject>Pteris vittata</subject>
+      <subject>Quercus chapmanii</subject>
+      <subject>Quercus geminata</subject>
+      <subject>Quercus myrtifolia</subject>
+      <subject>Quercus suber</subject>
+      <subject>Schizachyrium scoparium</subject>
+      <subject>Sorghastrum nutans</subject>
+      <subject>Sporobolus kentrophyllus</subject>
+      <subject>Trifolium alexandrinum 'Pusa Jayant'</subject>
+      <subject>Trifolium pratense</subject>
+      <subject>Trifolium repens</subject>
+      <subject>Trifolium repens 'Regal'</subject>
+      <subject>Vallisneria spinulosa</subject>
+      <subject>Apium graveolens</subject>
+      <subject>Brassica juncea 'Czern'</subject>
+      <subject>Brassica napus 'Qinyou 8'</subject>
+      <subject>Brassica napus 'Rongyou 10'</subject>
+      <subject>Brassica napus 'Zhongyouza 12'</subject>
+      <subject>Brassica napus 'Campino'</subject>
+      <subject>Brassica rapa 'Grabe'</subject>
+      <subject>Citrus aurantium</subject>
+      <subject>Citrus madurensis</subject>
+      <subject>Cucumis sativus</subject>
+      <subject>Daucus carota 'T-1-111'</subject>
+      <subject>Fragaria x ananassa</subject>
+      <subject>Glycine max 'Merr.'</subject>
+      <subject>Gossypium hirsutum 'Deltapine 77'</subject>
+      <subject>Hordeum vulgare</subject>
+      <subject>Hordeum vulgare 'Alexis'</subject>
+      <subject>Hordeum vulgare 'Arena'</subject>
+      <subject>Hordeum vulgare 'Europa'</subject>
+      <subject>Hordeum vulgare 'Iranis'</subject>
+      <subject>Hordeum vulgare 'Theresa'</subject>
+      <subject>Lactuca sativa 'BRM'</subject>
+      <subject>Lactuca sativa 'Mantilla'</subject>
+      <subject>Lactuca sativa 'MV'</subject>
+      <subject>Lactuca sativa 'Waldmann's Green'</subject>
+      <subject>Lycopersicon esculentum 'Astra'</subject>
+      <subject>Lycopersicon esculentum 'Eureka'</subject>
+      <subject>Lycopersicon esculentum 'Mill.'</subject>
+      <subject>Lycopersicon esculentum 'Zheza 809'</subject>
+      <subject>Mangifera indica 'Kensington'</subject>
+      <subject>Mangifera indica 'Tommy Atkins'</subject>
+      <subject>Medicago sativa</subject>
+      <subject>Medicago sativa 'Victor'</subject>
+      <subject>Oryza sativa</subject>
+      <subject>Oryza sativa 'Akitakomachi'</subject>
+      <subject>Oryza sativa 'BRRIdhan 39'</subject>
+      <subject>Oryza sativa 'Gui Nnong Zhan'</subject>
+      <subject>Oryza sativa 'IR 72'</subject>
+      <subject>Oryza sativa 'Japonica'</subject>
+      <subject>Oryza sativa 'Jarrah'</subject>
+      <subject>Oryza sativa 'Khaskani'</subject>
+      <subject>Oryza sativa 'Rong You 398'</subject>
+      <subject>Oryza sativa 'Shakkorkhora'</subject>
+      <subject>Oryza sativa 'Shan You 428'</subject>
+      <subject>Oryza sativa 'Tian You 390'</subject>
+      <subject>Oryza sativa 'Wuxiangjing 14'</subject>
+      <subject>Oryza sativa 'Yin Jing Ruan Zhan'</subject>
+      <subject>Oryza sativa 'Yue Za 889'</subject>
+      <subject>Phaseolus vulgaris 'Contender'</subject>
+      <subject>Phaseolus vulgaris 'Seafarer'</subject>
+      <subject>Raphanus sativus 'Mino'</subject>
+      <subject>Raphanus sativus 'Cherry Belle'</subject>
+      <subject>Raphanus sativus 'Giant White Globe'</subject>
+      <subject>Rumex patientia x R. Tianschanicus 'Rumex K-1'</subject>
+      <subject>Secale cereale 'Wintergrazer-70'</subject>
+      <subject>Solanum lycopersicum '76R MYC+'</subject>
+      <subject>Solanum lycopersicum 'rmc'</subject>
+      <subject>Solanum tuberosum</subject>
+      <subject>Solanum tuberosum 'Bintje'</subject>
+      <subject>Solanum tuberosum 'Dark Red Norland'</subject>
+      <subject>Solanum tuberosum 'Superior'</subject>
+      <subject>Sorghum bicolor</subject>
+      <subject>Spinacia oleracea</subject>
+      <subject>Trigonella foenum-graecum</subject>
+      <subject>Triticum aestivum</subject>
+      <subject>Triticum aestivum 'Ningmai 9'</subject>
+      <subject>Triticum aestivum 'Triso'</subject>
+      <subject>Triticum aestivum 'Alcazar'</subject>
+      <subject>Triticum aestivum 'Batis'</subject>
+      <subject>Triticum aestivum 'Dragon'</subject>
+      <subject>Triticum aestivum 'HD-2285'</subject>
+      <subject>Triticum aestivum 'Janz'</subject>
+      <subject>Triticum aestivum 'Jinnong 4'</subject>
+      <subject>Triticum aestivum 'Minaret'</subject>
+      <subject>Triticum aestivum 'Rinconada'</subject>
+      <subject>Triticum aestivum 'Star'</subject>
+      <subject>Triticum aestivum 'Turbo'</subject>
+      <subject>Triticum aestivum 'Veery 10'</subject>
+      <subject>Triticum aestivum 'Yangmai'</subject>
+      <subject>Triticum aestivum 'Yitpi'</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6356F</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

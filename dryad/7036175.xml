@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7036175</identifier><datestamp>2015-11-19T16:28:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.713V1/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Szulkin, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gagnaire, Pierre-Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bierne, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Charmantier, Anne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>szulkin_blue_tit_sample_details</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>blue tit</subject>
+      <subject>population genomics</subject>
+      <subject>landscape genetics</subject>
+      <subject>RAD sequencing</subject>
+      <subject>local adaptation</subject>
+      <subject>genetic differentiation</subject>
+      <subject>Southern France and Corsica</subject>
+      <subject>present day</subject>
+      <subject>Cyanistes caeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.713V1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>78458 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">An excel spreadsheet providing further details regarding each sequenced bird (GPS coordinates, information on birth year, population of origin, nestbox of first reproduction, nestbox coordinates and nr of reads obtained for each individual). The relationships between the different nested datasets are also provided and can be used to generate 6K and 3K datasets.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

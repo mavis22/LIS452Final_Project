@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6795424</identifier><datestamp>2015-10-29T17:12:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V6P3H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crowl, Andrew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Visger, Clayton J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mansion, Guilhem</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hand, Ralf</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Hsin-Hui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamari, Georgia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phitos, Dimitrios</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cellinese, Nico</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Campanuloideae_Roucela_atpB_matK_petD_rbcL_Spacer_AT11_AT70</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogenetics</subject>
+      <subject>Mediterranean</subject>
+      <subject>Greece</subject>
+      <subject>Cyprus</subject>
+      <subject>Campanula</subject>
+      <subject>Roucela</subject>
+      <subject>Campanulaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V6P3H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1382589 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">FASTA alignment file of all Campanuloideae taxa (including Roucela species) included in the study.  Alignment contains atpB, matK, petD, rbcL, atpB-rbcL spacer region, AT11, and AT70 sequences.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

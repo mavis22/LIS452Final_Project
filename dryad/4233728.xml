@@ -1,0 +1,73 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4233728</identifier><datestamp>2014-12-10T20:37:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7215M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jaqui&#233;ry, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoeckel, Solenn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larose, Chlo&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nouhaud, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rispe, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mieuzet, Lucie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonhomme, Jo&#235;l</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mah&#233;o, Fr&#233;d&#233;rique</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Legeai, Fabrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gauthier, Jean-Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prunier-Leterme, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tagu, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simon, Jean-Christophe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotype data used for genome scans and construction of genetic maps</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>loss of sex</subject>
+      <subject>cyclical and obligate parthenogenesis</subject>
+      <subject>QTL mapping</subject>
+      <subject>genome scan</subject>
+      <subject>France</subject>
+      <subject>Switzerland</subject>
+      <subject>holocene</subject>
+      <subject>Acyrthosiphon pisum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7215M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1335751 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The Excel sheet entitled "Genotype_genome_scan" contains the genotypes of 109 individuals at 436 microsatelitte markers used for genome scan analyses. The Excel sheet entitled "Genotype_genetic_map" contains genotype data at 343 polymorphic microsatelitte markers on a 3-generation pedigree that have been used to construct genetic maps.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

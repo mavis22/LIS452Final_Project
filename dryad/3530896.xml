@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3530896</identifier><datestamp>2015-02-16T18:39:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H1J51/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Toews, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brelsford, Alan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Irwin, Darren</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Isotope data and geographic assignment information</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Birds</subject>
+      <subject>hybrid zones</subject>
+      <subject>hybridization</subject>
+      <subject>migration</subject>
+      <subject>migratory divide</subject>
+      <subject>isotopes</subject>
+      <subject>Alberta</subject>
+      <subject>British Columbia</subject>
+      <subject>Setophaga coronata</subject>
+      <subject>Setophaga auduboni</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H1J51</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11163 bytes</size>
+      <size>27648 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-04-18T16:33:47Z (GMT). No. of bitstreams: 2
+YRWA_HZ_isotope_data.csv: 11163 bytes, checksum: a66a2678c8a753a74a931928de376b3c (MD5)
+README.doc: 27648 bytes, checksum: a516a2f020a08c6ec2ac5b9398c5eaf2 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

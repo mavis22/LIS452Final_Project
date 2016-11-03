@@ -1,0 +1,1075 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6448519</identifier><datestamp>2015-07-17T15:26:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.21364/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blagoev, Gergin A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>deWaard, Jeremy R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ratnasingham, Sujeevan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>deWaard, Stephanie L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lu, Liuqiong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robertson, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Telfer, Angela C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hebert, Paul D. N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Aligned COI Sequences for 27,269 Spider Specimens</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>DNA Barcoding</subject>
+      <subject>Barcode Index Numbers</subject>
+      <subject>Species identification</subject>
+      <subject>Spiders</subject>
+      <subject>Operational Taxonomic Units</subject>
+      <subject>Canada</subject>
+      <subject>Agelenopsis emertoni</subject>
+      <subject>Agelenopsis naevia</subject>
+      <subject>Agelenopsis oklahoma</subject>
+      <subject>Agelenopsis pennsylvanica</subject>
+      <subject>Agelenopsis potteri</subject>
+      <subject>Agelenopsis utahana</subject>
+      <subject>Coras juvenilis</subject>
+      <subject>Coras lamellosus</subject>
+      <subject>Coras montanus</subject>
+      <subject>Eratigena agrestis</subject>
+      <subject>Eratigena atrica</subject>
+      <subject>Novalena intermedia</subject>
+      <subject>Tegenaria domestica</subject>
+      <subject>Wadotes calcaratus</subject>
+      <subject>Wadotes hybridus</subject>
+      <subject>Amaurobius borealis</subject>
+      <subject>Amaurobius ferox</subject>
+      <subject>Arctobius agelenoides</subject>
+      <subject>Callobius bennetti</subject>
+      <subject>Callobius canada</subject>
+      <subject>Callobius enus</subject>
+      <subject>Callobius nomeus</subject>
+      <subject>Callobius pictus</subject>
+      <subject>Callobius severus</subject>
+      <subject>Cybaeopsis euopla</subject>
+      <subject>Cybaeopsis tibialis</subject>
+      <subject>Cybaeopsis wabritaska</subject>
+      <subject>Zanomys aquilonia</subject>
+      <subject>Comaroma mendocino</subject>
+      <subject>Antrodiaetus cerberus</subject>
+      <subject>Antrodiaetus hageni</subject>
+      <subject>Antrodiaetus pacificus</subject>
+      <subject>Anyphaena aperta</subject>
+      <subject>Anyphaena celer</subject>
+      <subject>Anyphaena pacifica</subject>
+      <subject>Anyphaena pectorosa</subject>
+      <subject>Hibana gracilis</subject>
+      <subject>Wulfila saltabundus</subject>
+      <subject>Acanthepeira stellata</subject>
+      <subject>Acanthepeira venusta</subject>
+      <subject>Aculepeira carbonarioides</subject>
+      <subject>Aculepeira packardi</subject>
+      <subject>Araneus corticarius</subject>
+      <subject>Araneus diadematus</subject>
+      <subject>Araneus gemmoides</subject>
+      <subject>Araneus groenlandicola</subject>
+      <subject>Araneus iviei</subject>
+      <subject>Araneus marmoreus</subject>
+      <subject>Araneus nordmanni</subject>
+      <subject>Araneus pratensis</subject>
+      <subject>Araneus saevus</subject>
+      <subject>Araneus sp. 1GAB</subject>
+      <subject>Araneus sp. 2GAB</subject>
+      <subject>Araneus thaddeus</subject>
+      <subject>Araneus trifolium</subject>
+      <subject>Araniella displicata</subject>
+      <subject>Araniella proxima</subject>
+      <subject>Argiope aurantia</subject>
+      <subject>Argiope trifasciata</subject>
+      <subject>Cercidia prominens</subject>
+      <subject>Cyclosa conica</subject>
+      <subject>Eustala anastera</subject>
+      <subject>Eustala cepina</subject>
+      <subject>Eustala emertoni</subject>
+      <subject>Eustala rosae</subject>
+      <subject>Gea heptagon</subject>
+      <subject>Hypsosinga alberta</subject>
+      <subject>Hypsosinga groenlandica</subject>
+      <subject>Hypsosinga pygmaea</subject>
+      <subject>Hypsosinga rubens</subject>
+      <subject>Larinia borealis</subject>
+      <subject>Larinia directa</subject>
+      <subject>Larinioides cornutus</subject>
+      <subject>Larinioides patagiatus</subject>
+      <subject>Larinioides sclopetarius</subject>
+      <subject>Mangora gibberosa</subject>
+      <subject>Mangora maculata</subject>
+      <subject>Mangora placida</subject>
+      <subject>Mangora sp. 1GAB</subject>
+      <subject>Metepeira foxi</subject>
+      <subject>Metepeira labyrinthea</subject>
+      <subject>Metepeira palustris</subject>
+      <subject>Metepeira sp. 1GAB</subject>
+      <subject>Micrathena gracilis</subject>
+      <subject>Micrathena sagittata</subject>
+      <subject>Neoscona arabesca</subject>
+      <subject>Neoscona crucifera</subject>
+      <subject>Neoscona pratensis</subject>
+      <subject>Parazygiella dispar</subject>
+      <subject>Singa eugeni</subject>
+      <subject>Singa keyserlingi</subject>
+      <subject>Verrucosa arenata</subject>
+      <subject>Zygiella atrica</subject>
+      <subject>Zygiella nearctica</subject>
+      <subject>Zygiella x-notata</subject>
+      <subject>Sphodros niger</subject>
+      <subject>Clubiona abboti</subject>
+      <subject>Clubiona bryantae</subject>
+      <subject>Clubiona canadensis</subject>
+      <subject>Clubiona furcata</subject>
+      <subject>Clubiona johnsoni</subject>
+      <subject>Clubiona kastoni</subject>
+      <subject>Clubiona kulczynskii</subject>
+      <subject>Clubiona littoralis</subject>
+      <subject>Clubiona maritima</subject>
+      <subject>Clubiona mixta</subject>
+      <subject>Clubiona moesta</subject>
+      <subject>Clubiona mutata</subject>
+      <subject>Clubiona norvegica</subject>
+      <subject>Clubiona obesa</subject>
+      <subject>Clubiona opeongo</subject>
+      <subject>Clubiona pallidula</subject>
+      <subject>Clubiona pikei</subject>
+      <subject>Clubiona praematura</subject>
+      <subject>Clubiona pygmaea</subject>
+      <subject>Clubiona quebecana</subject>
+      <subject>Clubiona riparia</subject>
+      <subject>Clubiona saltitans</subject>
+      <subject>Clubiona spiralis</subject>
+      <subject>Clubiona trivialis</subject>
+      <subject>Elaver excepta</subject>
+      <subject>Castianeira cingulata</subject>
+      <subject>Castianeira sp. 1GAB</subject>
+      <subject>Castianeira trilineata</subject>
+      <subject>Castianeira variata</subject>
+      <subject>Castianeira walsinghami</subject>
+      <subject>Cybaeina minuta</subject>
+      <subject>Cybaeota calcarata</subject>
+      <subject>Cybaeota nana</subject>
+      <subject>Cybaeota shastae</subject>
+      <subject>Cybaeus morosus</subject>
+      <subject>Cybaeus reticulatus</subject>
+      <subject>Cybaeus signifer</subject>
+      <subject>Cybaeus sinuosus</subject>
+      <subject>Cybaeus sp. 1RB</subject>
+      <subject>Cybaeus tetricus</subject>
+      <subject>Arctella lapponica</subject>
+      <subject>Argenna obesa</subject>
+      <subject>Blabomma californicum</subject>
+      <subject>Brommella monticola</subject>
+      <subject>Cicurina arcuata</subject>
+      <subject>Cicurina brevis</subject>
+      <subject>Cicurina idahoana</subject>
+      <subject>Cicurina intermedia</subject>
+      <subject>Cicurina itasca</subject>
+      <subject>Cicurina pallida</subject>
+      <subject>Cicurina placida</subject>
+      <subject>Cicurina robusta</subject>
+      <subject>Cicurina simplex</subject>
+      <subject>Cicurina sp. 1GAB</subject>
+      <subject>Cicurina tersa</subject>
+      <subject>Dictyna arundinacea</subject>
+      <subject>Dictyna bellans</subject>
+      <subject>Dictyna brevitarsa</subject>
+      <subject>Dictyna foliacea</subject>
+      <subject>Dictyna major</subject>
+      <subject>Dictyna minuta</subject>
+      <subject>Dictyna personata</subject>
+      <subject>Dictyna sp. 1GAB</subject>
+      <subject>Dictyna uncinata</subject>
+      <subject>Dictyna volucripes</subject>
+      <subject>Emblyna annulipes</subject>
+      <subject>Emblyna borealis</subject>
+      <subject>Emblyna cruciata</subject>
+      <subject>Emblyna decaprini</subject>
+      <subject>Emblyna hentzi</subject>
+      <subject>Emblyna manitoba</subject>
+      <subject>Emblyna maxima</subject>
+      <subject>Emblyna oregona</subject>
+      <subject>Emblyna palomara</subject>
+      <subject>Emblyna peragrata</subject>
+      <subject>Emblyna phylax</subject>
+      <subject>Emblyna sp. 1GAB</subject>
+      <subject>Emblyna sp. 2GAB</subject>
+      <subject>Emblyna sublata</subject>
+      <subject>Hackmania prominula</subject>
+      <subject>Hackmania saphes</subject>
+      <subject>Lathys alberta</subject>
+      <subject>Phantyna bicornis</subject>
+      <subject>Phantyna terranea</subject>
+      <subject>Tricholathys sp. 1GAB</subject>
+      <subject>Tricholathys spiralis</subject>
+      <subject>Dysdera crocata</subject>
+      <subject>Cheiracanthium inclusum</subject>
+      <subject>Cheiracanthium mildei</subject>
+      <subject>Strotarchus piscatorius</subject>
+      <subject>Callilepis pluto</subject>
+      <subject>Cesonia bilineata</subject>
+      <subject>Drassodes mirus</subject>
+      <subject>Drassodes neglectus</subject>
+      <subject>Drassyllus depressus</subject>
+      <subject>Drassyllus dromeus</subject>
+      <subject>Drassyllus insularis</subject>
+      <subject>Drassyllus lamprus</subject>
+      <subject>Drassyllus niger</subject>
+      <subject>Gnaphosa borea</subject>
+      <subject>Gnaphosa brumalis</subject>
+      <subject>Gnaphosa fontinalis</subject>
+      <subject>Gnaphosa microps</subject>
+      <subject>Gnaphosa muscorum</subject>
+      <subject>Gnaphosa orites</subject>
+      <subject>Gnaphosa parvula</subject>
+      <subject>Gnaphosa snohomish</subject>
+      <subject>Haplodrassus bicornis</subject>
+      <subject>Haplodrassus eunis</subject>
+      <subject>Haplodrassus hiemalis</subject>
+      <subject>Haplodrassus signifer</subject>
+      <subject>Herpyllus ecclesiasticus</subject>
+      <subject>Micaria aenea</subject>
+      <subject>Micaria alpina</subject>
+      <subject>Micaria constricta</subject>
+      <subject>Micaria elizabethae</subject>
+      <subject>Micaria foxi</subject>
+      <subject>Micaria gertschi</subject>
+      <subject>Micaria pulicaria</subject>
+      <subject>Micaria sp. 1GAB</subject>
+      <subject>Micaria tripunctata</subject>
+      <subject>Nodocion mateonus</subject>
+      <subject>Orodrassus canadensis</subject>
+      <subject>Orodrassus coloradensis</subject>
+      <subject>Parasyrisca orites</subject>
+      <subject>Scotophaeus blackwalli</subject>
+      <subject>Sergiolus columbianus</subject>
+      <subject>Sergiolus iviei</subject>
+      <subject>Sergiolus montanus</subject>
+      <subject>Sergiolus ocellatus</subject>
+      <subject>Sosticus insularis</subject>
+      <subject>Zelotes fratris</subject>
+      <subject>Zelotes pseustes</subject>
+      <subject>Zelotes puritanus</subject>
+      <subject>Zelotes rainier</subject>
+      <subject>Zelotes sp. 1GAB</subject>
+      <subject>Zelotes sula</subject>
+      <subject>Zelotes tuobus</subject>
+      <subject>Antistea brunnea</subject>
+      <subject>Calymmaria nana</subject>
+      <subject>Cryphoeca exlineae</subject>
+      <subject>Cryphoeca montana</subject>
+      <subject>Dirksia cinctipes</subject>
+      <subject>Ethobuella tuonops</subject>
+      <subject>Hahnia cinerea</subject>
+      <subject>Hahnia glacialis</subject>
+      <subject>Hahnia ononidum</subject>
+      <subject>Neoantistea agilis</subject>
+      <subject>Neoantistea gosiuta</subject>
+      <subject>Neoantistea magna</subject>
+      <subject>Agnyphantes arboreus</subject>
+      <subject>Agyneta allosubtilis</subject>
+      <subject>Agyneta amersaxatilis</subject>
+      <subject>Agyneta bucklei</subject>
+      <subject>Agyneta cauta</subject>
+      <subject>Agyneta danielbelangeri</subject>
+      <subject>Agyneta darrelli</subject>
+      <subject>Agyneta darrelli cf.</subject>
+      <subject>Agyneta decorata</subject>
+      <subject>Agyneta dynica</subject>
+      <subject>Agyneta fabra</subject>
+      <subject>Agyneta fillmorana</subject>
+      <subject>Agyneta fillmorana cf.</subject>
+      <subject>Agyneta flibuscrocus</subject>
+      <subject>Agyneta jacksoni</subject>
+      <subject>Agyneta lophophor</subject>
+      <subject>Agyneta manni</subject>
+      <subject>Agyneta maritima</subject>
+      <subject>Agyneta micaria</subject>
+      <subject>Agyneta nigripes</subject>
+      <subject>Agyneta olivacea</subject>
+      <subject>Agyneta ordinaria</subject>
+      <subject>Agyneta perspicua</subject>
+      <subject>Agyneta protrudens</subject>
+      <subject>Agyneta ripariensis</subject>
+      <subject>Agyneta serrata</subject>
+      <subject>Agyneta sheffordiana</subject>
+      <subject>Agyneta simplex</subject>
+      <subject>Agyneta sp. 1GAB</subject>
+      <subject>Agyneta sp. 2GAB</subject>
+      <subject>Agyneta sp. 3RB</subject>
+      <subject>Agyneta sp. 4GAB</subject>
+      <subject>Agyneta unimaculata</subject>
+      <subject>Agyneta uta</subject>
+      <subject>Agyneta watertoni</subject>
+      <subject>Allomengea dentisetis</subject>
+      <subject>Allomengea scopigera</subject>
+      <subject>Aphileta microtarsa</subject>
+      <subject>Aphileta misera</subject>
+      <subject>Arcterigone pilifrons</subject>
+      <subject>Arcuphantes arcuatulus</subject>
+      <subject>Arcuphantes sylvaticus</subject>
+      <subject>Asiceratinops kolymensis</subject>
+      <subject>Baryphyma trifrons</subject>
+      <subject>Baryphyma trifrons affine</subject>
+      <subject>Bathyphantes alascensis</subject>
+      <subject>Bathyphantes alboventris</subject>
+      <subject>Bathyphantes brevipes</subject>
+      <subject>Bathyphantes brevis</subject>
+      <subject>Bathyphantes canadensis</subject>
+      <subject>Bathyphantes eumenis</subject>
+      <subject>Bathyphantes gracilis</subject>
+      <subject>Bathyphantes iviei</subject>
+      <subject>Bathyphantes keeni</subject>
+      <subject>Bathyphantes orica</subject>
+      <subject>Bathyphantes pallidus</subject>
+      <subject>Bathyphantes reprobus</subject>
+      <subject>Carorita limnaea</subject>
+      <subject>Centromerus cornupalpis</subject>
+      <subject>Centromerus denticulatus</subject>
+      <subject>Centromerus longibulbus</subject>
+      <subject>Centromerus persolutus</subject>
+      <subject>Centromerus sp. 1GAB</subject>
+      <subject>Centromerus sp. 2GAB</subject>
+      <subject>Centromerus sp. 3GAB</subject>
+      <subject>Centromerus sylvaticus</subject>
+      <subject>Ceraticelus atriceps</subject>
+      <subject>Ceraticelus bulbosus</subject>
+      <subject>Ceraticelus crassiceps</subject>
+      <subject>Ceraticelus fissiceps</subject>
+      <subject>Ceraticelus laetabilis</subject>
+      <subject>Ceraticelus minutus</subject>
+      <subject>Ceraticelus rowensis</subject>
+      <subject>Ceraticelus silus</subject>
+      <subject>Ceraticelus similis</subject>
+      <subject>Ceratinella acerea</subject>
+      <subject>Ceratinella alaskae</subject>
+      <subject>Ceratinella brunnea</subject>
+      <subject>Ceratinella ornatula</subject>
+      <subject>Ceratinella ornatula alaskana</subject>
+      <subject>Ceratinella parvula</subject>
+      <subject>Ceratinops annulipes</subject>
+      <subject>Ceratinops crenatus</subject>
+      <subject>Ceratinops inflatus</subject>
+      <subject>Ceratinops latus</subject>
+      <subject>Ceratinopsis labradorensis</subject>
+      <subject>Ceratinopsis laticeps</subject>
+      <subject>Ceratinopsis nigriceps</subject>
+      <subject>Ceratinopsis sp. 1GAB</subject>
+      <subject>Cnephalocotes obscurus</subject>
+      <subject>Collinsia holmgreni</subject>
+      <subject>Collinsia ksenia</subject>
+      <subject>Collinsia pertinens</subject>
+      <subject>Collinsia plumosa</subject>
+      <subject>Collinsia spetsbergensis</subject>
+      <subject>Collinsia thulensis</subject>
+      <subject>Coreorgonal monoceros</subject>
+      <subject>Coreorgonal petulcus</subject>
+      <subject>Coreorgonal sp. 1GAB</subject>
+      <subject>Dicymbium elongatum</subject>
+      <subject>Diplocentria bidentata</subject>
+      <subject>Diplocentria perplexa</subject>
+      <subject>Diplocentria rectangulata</subject>
+      <subject>Diplocephalus barbiger</subject>
+      <subject>Diplocephalus cristatus</subject>
+      <subject>Diplocephalus subrostratus</subject>
+      <subject>Diplostyla concolor</subject>
+      <subject>Dismodicus decemoculatus</subject>
+      <subject>Drapetisca alteranda</subject>
+      <subject>Entelecara acuminata</subject>
+      <subject>Entelecara sp. 1GAB</subject>
+      <subject>Eridantes erigonoides</subject>
+      <subject>Eridantes utibilis</subject>
+      <subject>Erigone aletris</subject>
+      <subject>Erigone arctica</subject>
+      <subject>Erigone arctophylacis</subject>
+      <subject>Erigone atra</subject>
+      <subject>Erigone autumnalis</subject>
+      <subject>Erigone blaesa</subject>
+      <subject>Erigone cristatopalpus</subject>
+      <subject>Erigone dentigera</subject>
+      <subject>Erigone dentosa</subject>
+      <subject>Erigone psychrophila</subject>
+      <subject>Erigone tirolensis</subject>
+      <subject>Erigonoploides sp. 1GAB</subject>
+      <subject>Estrandia grandaeva</subject>
+      <subject>Eulaira obscura</subject>
+      <subject>Eulaira sp. 1GAB</subject>
+      <subject>Floricomus rostratus</subject>
+      <subject>Frederickus coylei</subject>
+      <subject>Frederickus wilburi</subject>
+      <subject>Frontinella communis</subject>
+      <subject>Gibothorax tchernovi</subject>
+      <subject>Glyphesis scopulifer</subject>
+      <subject>Gnathonarium taczanowskii</subject>
+      <subject>Gnathonaroides pedalis</subject>
+      <subject>Gonatium crassipalpum</subject>
+      <subject>Grammonota angusta</subject>
+      <subject>Grammonota gentilis</subject>
+      <subject>Grammonota gigas</subject>
+      <subject>Grammonota kincaidi</subject>
+      <subject>Grammonota maritima</subject>
+      <subject>Grammonota ornata</subject>
+      <subject>Grammonota sp. 1GAB</subject>
+      <subject>Grammonota sp. 2GAB</subject>
+      <subject>Grammonota vittata</subject>
+      <subject>Helophora insignis</subject>
+      <subject>Helophora reducta</subject>
+      <subject>Hilaira canaliculata</subject>
+      <subject>Hilaira herniosa</subject>
+      <subject>Hilaira proletaria</subject>
+      <subject>Hilaira vexatrix</subject>
+      <subject>Horcotes quadricristatus</subject>
+      <subject>Hybauchenidium aquilonare</subject>
+      <subject>Hybauchenidium cymbadentatum</subject>
+      <subject>Hybauchenidium gibbosum</subject>
+      <subject>Hypomma marxi</subject>
+      <subject>Hypomma subarcticum</subject>
+      <subject>Hypselistes florens</subject>
+      <subject>Hypselistes jacksoni</subject>
+      <subject>Idionella rugosa</subject>
+      <subject>Improphantes complicatus</subject>
+      <subject>Improphantes sp. 1GAB</subject>
+      <subject>Improphantes sp. 1RB</subject>
+      <subject>Incestophantes duplicatus</subject>
+      <subject>Incestophantes lamprus</subject>
+      <subject>Incestophantes mercedes</subject>
+      <subject>Incestophantes washingtoni</subject>
+      <subject>Islandiana cristata</subject>
+      <subject>Islandiana falsifica</subject>
+      <subject>Islandiana flaveola</subject>
+      <subject>Islandiana holmi</subject>
+      <subject>Islandiana longisetosa</subject>
+      <subject>Ivielum sibiricum</subject>
+      <subject>Kaestneria pullata</subject>
+      <subject>Kaestneria rufula</subject>
+      <subject>Lepthyphantes alpinus</subject>
+      <subject>Lepthyphantes furcillifer</subject>
+      <subject>Lepthyphantes intricatus</subject>
+      <subject>Lepthyphantes leprosus</subject>
+      <subject>Lepthyphantes turbatrix</subject>
+      <subject>Linyphantes aeronauticus</subject>
+      <subject>Linyphantes nehalem</subject>
+      <subject>Linyphantes nigrescens</subject>
+      <subject>Linyphantes orcinus</subject>
+      <subject>Linyphantes pacificus</subject>
+      <subject>Linyphantes pualla</subject>
+      <subject>Linyphantes victoria</subject>
+      <subject>Lophomma depressum</subject>
+      <subject>Macrargus multesimus</subject>
+      <subject>Masikia indistincta</subject>
+      <subject>Maso sundevalli</subject>
+      <subject>Mecynargus borealis</subject>
+      <subject>Mecynargus paetulus</subject>
+      <subject>Mecynargus sp. 1GAB</subject>
+      <subject>Mecynargus sp. 2GAB</subject>
+      <subject>Mecynargus sphagnicola</subject>
+      <subject>Mecynargus tungusicus</subject>
+      <subject>Megalepthyphantes nebulosus</subject>
+      <subject>Mermessus brevidentatus</subject>
+      <subject>Mermessus entomologicus</subject>
+      <subject>Mermessus index</subject>
+      <subject>Mermessus jona</subject>
+      <subject>Mermessus maculatus</subject>
+      <subject>Mermessus sp. 1GAB</subject>
+      <subject>Mermessus taibo</subject>
+      <subject>Mermessus tridentatus</subject>
+      <subject>Mermessus trilobatus</subject>
+      <subject>Mermessus undulatus</subject>
+      <subject>Metopobactrus prominulus</subject>
+      <subject>Microlinyphia dana</subject>
+      <subject>Microlinyphia mandibulata</subject>
+      <subject>Microlinyphia pusilla</subject>
+      <subject>Microlinyphia sp. 1GAB</subject>
+      <subject>Microneta viaria</subject>
+      <subject>Mughiphantes sp. 1GAB</subject>
+      <subject>Mythoplastoides erectus</subject>
+      <subject>Neriene clathrata</subject>
+      <subject>Neriene digna</subject>
+      <subject>Neriene litigiosa</subject>
+      <subject>Neriene montana</subject>
+      <subject>Neriene radiata</subject>
+      <subject>Neriene sp. 1GAB</subject>
+      <subject>Neriene variabilis</subject>
+      <subject>Oedothorax alascensis</subject>
+      <subject>Oedothorax trilobatus</subject>
+      <subject>Oreoneta banffkluane</subject>
+      <subject>Oreoneta leviceps</subject>
+      <subject>Oreonetides filicatus</subject>
+      <subject>Oreonetides flavescens</subject>
+      <subject>Oreonetides flavus</subject>
+      <subject>Oreonetides rectangulatus</subject>
+      <subject>Oreonetides rotundus</subject>
+      <subject>Oreonetides sp. 1GAB</subject>
+      <subject>Oreonetides sp. 2GAB</subject>
+      <subject>Oreonetides vaginatus</subject>
+      <subject>Oreophantes recurvatus</subject>
+      <subject>Pelecopsis mengei</subject>
+      <subject>Pelecopsis moesta</subject>
+      <subject>Pelecopsis sculpta</subject>
+      <subject>Perro polaris</subject>
+      <subject>Phlattothrata flagellata</subject>
+      <subject>Phlattothrata parva</subject>
+      <subject>Phlattothrata sp. 1GAB</subject>
+      <subject>Pityohyphantes alticeps</subject>
+      <subject>Pityohyphantes costatus</subject>
+      <subject>Pityohyphantes cristatus</subject>
+      <subject>Pityohyphantes limitaneus</subject>
+      <subject>Pityohyphantes subarcticus</subject>
+      <subject>Pocadicnemis americana</subject>
+      <subject>Pocadicnemis pumila</subject>
+      <subject>Pocadicnemis sp. 1GAB</subject>
+      <subject>Pocadicnemis sp. 2GAB</subject>
+      <subject>Poeciloneta aggressa</subject>
+      <subject>Poeciloneta bihamata</subject>
+      <subject>Poeciloneta calcaratus</subject>
+      <subject>Poeciloneta canionis</subject>
+      <subject>Poeciloneta fructuosa</subject>
+      <subject>Poeciloneta lyrica</subject>
+      <subject>Poeciloneta petrophila</subject>
+      <subject>Poeciloneta theridiformis</subject>
+      <subject>Poeciloneta variegata</subject>
+      <subject>Porrhomma convexum</subject>
+      <subject>Porrhomma terrestre</subject>
+      <subject>Praestigia groenlandica</subject>
+      <subject>Praestigia kulczynskii</subject>
+      <subject>Satilatlas marxi</subject>
+      <subject>Satilatlas monticola</subject>
+      <subject>Sciastes dubius</subject>
+      <subject>Sciastes extremus</subject>
+      <subject>Sciastes hastatus</subject>
+      <subject>Sciastes mentasta</subject>
+      <subject>Sciastes truncatus</subject>
+      <subject>Scirites finitimus</subject>
+      <subject>Scirites sp. 1GAB</subject>
+      <subject>Scironis sima</subject>
+      <subject>Scironis tarsalis</subject>
+      <subject>Scotinotylus alpinus</subject>
+      <subject>Scotinotylus bicavatus</subject>
+      <subject>Scotinotylus columbia</subject>
+      <subject>Scotinotylus eutypus</subject>
+      <subject>Scotinotylus evansi</subject>
+      <subject>Scotinotylus exsectoides</subject>
+      <subject>Scotinotylus kenus cf.</subject>
+      <subject>Scotinotylus majesticus</subject>
+      <subject>Scotinotylus pallidus</subject>
+      <subject>Scotinotylus patellatus</subject>
+      <subject>Scotinotylus sacer</subject>
+      <subject>Scotinotylus sanctus</subject>
+      <subject>Scotinotylus sp. 1GAB</subject>
+      <subject>Scotinotylus sp. 2GAB</subject>
+      <subject>Scotinotylus sp. 3GAB</subject>
+      <subject>Scotinotylus sp. 4GAB</subject>
+      <subject>Scyletria inflata</subject>
+      <subject>Semljicola alticola</subject>
+      <subject>Semljicola beringianus</subject>
+      <subject>Semljicola lapponicus</subject>
+      <subject>Semljicola obtusus</subject>
+      <subject>Semljicola sp. 1GAB</subject>
+      <subject>Silometopoides pampia</subject>
+      <subject>Silometopoides pingrensis</subject>
+      <subject>Silometopus reussi</subject>
+      <subject>Sisicottus montanus</subject>
+      <subject>Sisicottus nesides</subject>
+      <subject>Sisicottus panopeus</subject>
+      <subject>Sisicus apertus</subject>
+      <subject>Sisicus penifusifer</subject>
+      <subject>Sisis rotundus</subject>
+      <subject>Soucron arenarium</subject>
+      <subject>Souessa spinifera</subject>
+      <subject>Soulgas corticarius</subject>
+      <subject>Spirembolus hibernus cf.</subject>
+      <subject>Spirembolus mundus</subject>
+      <subject>Spirembolus prominens</subject>
+      <subject>Spirembolus sp. 1 GAB</subject>
+      <subject>Stemonyphantes blauveltae</subject>
+      <subject>Styloctetor stativus</subject>
+      <subject>Symmigma minimum</subject>
+      <subject>Tachygyna pallida</subject>
+      <subject>Tachygyna ursina</subject>
+      <subject>Tachygyna vancouverana</subject>
+      <subject>Tapinocyba affinis cf.</subject>
+      <subject>Tapinocyba bicarinata</subject>
+      <subject>Tapinocyba cameroni</subject>
+      <subject>Tapinocyba dietrichi</subject>
+      <subject>Tapinocyba hortensis</subject>
+      <subject>Tapinocyba minuta</subject>
+      <subject>Tapinocyba minuta cf.</subject>
+      <subject>Tapinocyba simplex</subject>
+      <subject>Tapinocyba sp. 1GAB</subject>
+      <subject>Tapinocyba sp. 2GAB</subject>
+      <subject>Tapinocyba sp. 3GAB</subject>
+      <subject>Tarsiphantes latithorax</subject>
+      <subject>Tennesseellum formica</subject>
+      <subject>Tenuiphantes mengei</subject>
+      <subject>Tenuiphantes tenuis</subject>
+      <subject>Tenuiphantes zebra</subject>
+      <subject>Tenuiphantes zelatus</subject>
+      <subject>Tenuiphantes zibus</subject>
+      <subject>Thaleria leechi</subject>
+      <subject>Thaleria sp. 1GAB</subject>
+      <subject>Thyreosthenius parasiticus</subject>
+      <subject>Tiso aestivus</subject>
+      <subject>Tiso vagans</subject>
+      <subject>Tmeticus affinis</subject>
+      <subject>Tmeticus ornatus</subject>
+      <subject>Tunagyna debilis</subject>
+      <subject>Typhochrestus pygmaeus</subject>
+      <subject>Vermontia thoracica</subject>
+      <subject>Wabasso cacuminatus</subject>
+      <subject>Wabasso quaestio</subject>
+      <subject>Walckenaeria arctica</subject>
+      <subject>Walckenaeria atrotibialis</subject>
+      <subject>Walckenaeria castanea</subject>
+      <subject>Walckenaeria clavicornis</subject>
+      <subject>Walckenaeria columbia</subject>
+      <subject>Walckenaeria communis</subject>
+      <subject>Walckenaeria cornuella</subject>
+      <subject>Walckenaeria digitata</subject>
+      <subject>Walckenaeria directa</subject>
+      <subject>Walckenaeria exigua</subject>
+      <subject>Walckenaeria fallax</subject>
+      <subject>Walckenaeria fraudatrix</subject>
+      <subject>Walckenaeria kochi</subject>
+      <subject>Walckenaeria lepida</subject>
+      <subject>Walckenaeria occidentalis</subject>
+      <subject>Walckenaeria palustris</subject>
+      <subject>Walckenaeria redneri</subject>
+      <subject>Walckenaeria sp. 3GAB</subject>
+      <subject>Walckenaeria sp. 4GAB</subject>
+      <subject>Walckenaeria sp. 5GAB</subject>
+      <subject>Walckenaeria spiralis</subject>
+      <subject>Walckenaeria tibialis</subject>
+      <subject>Walckenaeria tricornis</subject>
+      <subject>Walckenaeria tumida</subject>
+      <subject>Walckenaeria vigilax</subject>
+      <subject>Walckenaerianus aimakensis</subject>
+      <subject>Wubana atypica</subject>
+      <subject>Wubana drassoides</subject>
+      <subject>Wubana pacifica</subject>
+      <subject>Wubana sp. 1GAB</subject>
+      <subject>Zornella armata</subject>
+      <subject>Zornella cryptodon</subject>
+      <subject>Zygottus corvallis</subject>
+      <subject>Agroeca ornata</subject>
+      <subject>Agroeca pratensis</subject>
+      <subject>Acantholycosa solituda</subject>
+      <subject>Alopecosa aculeata</subject>
+      <subject>Alopecosa exasperans</subject>
+      <subject>Alopecosa hirtipes</subject>
+      <subject>Alopecosa kochi</subject>
+      <subject>Alopecosa koponeni</subject>
+      <subject>Alopecosa mutabilis</subject>
+      <subject>Alopecosa pictilis</subject>
+      <subject>Arctosa alpigena</subject>
+      <subject>Arctosa emertoni</subject>
+      <subject>Arctosa insignita</subject>
+      <subject>Arctosa littoralis</subject>
+      <subject>Arctosa perita</subject>
+      <subject>Arctosa raptor</subject>
+      <subject>Arctosa rubicunda</subject>
+      <subject>Arctosa sp. 1GAB</subject>
+      <subject>Geolycosa wrighti</subject>
+      <subject>Gladicosa bellamyi</subject>
+      <subject>Gladicosa gulosa</subject>
+      <subject>Hogna baltimoriana</subject>
+      <subject>Hogna frondicola</subject>
+      <subject>Melocosa fumosa</subject>
+      <subject>Pardosa albomaculata</subject>
+      <subject>Pardosa algens</subject>
+      <subject>Pardosa altamontis</subject>
+      <subject>Pardosa anomala</subject>
+      <subject>Pardosa bucklei</subject>
+      <subject>Pardosa distincta</subject>
+      <subject>Pardosa diuturna</subject>
+      <subject>Pardosa dorsalis</subject>
+      <subject>Pardosa dorsuncata</subject>
+      <subject>Pardosa furcifera</subject>
+      <subject>Pardosa fuscula</subject>
+      <subject>Pardosa glacialis</subject>
+      <subject>Pardosa groenlandica</subject>
+      <subject>Pardosa hyperborea</subject>
+      <subject>Pardosa labradorensis</subject>
+      <subject>Pardosa lapidicina</subject>
+      <subject>Pardosa lapponica</subject>
+      <subject>Pardosa lowriei</subject>
+      <subject>Pardosa mackenziana</subject>
+      <subject>Pardosa metlakatla</subject>
+      <subject>Pardosa milvina</subject>
+      <subject>Pardosa modica</subject>
+      <subject>Pardosa moesta</subject>
+      <subject>Pardosa mulaiki</subject>
+      <subject>Pardosa ontariensis</subject>
+      <subject>Pardosa podhorskii</subject>
+      <subject>Pardosa rainieriana</subject>
+      <subject>Pardosa saxatilis</subject>
+      <subject>Pardosa sinistra</subject>
+      <subject>Pardosa sodalis</subject>
+      <subject>Pardosa sp. 1GAB</subject>
+      <subject>Pardosa tesquorum</subject>
+      <subject>Pardosa uintana</subject>
+      <subject>Pardosa vancouveri</subject>
+      <subject>Pardosa wyuta</subject>
+      <subject>Pardosa xerampelina</subject>
+      <subject>Pirata bryantae</subject>
+      <subject>Pirata indigenus</subject>
+      <subject>Pirata montanus</subject>
+      <subject>Pirata piraticus</subject>
+      <subject>Pirata praedo</subject>
+      <subject>Pirata sedentarius</subject>
+      <subject>Pirata sp. 1GAB</subject>
+      <subject>Piratula cantralli</subject>
+      <subject>Piratula insularis</subject>
+      <subject>Piratula minuta</subject>
+      <subject>Rabidosa rabida</subject>
+      <subject>Schizocosa avida</subject>
+      <subject>Schizocosa bilineata</subject>
+      <subject>Schizocosa crassipalpata</subject>
+      <subject>Schizocosa mccooki</subject>
+      <subject>Schizocosa minnesotensis</subject>
+      <subject>Schizocosa ocreata</subject>
+      <subject>Schizocosa retrorsa</subject>
+      <subject>Schizocosa saltatrix</subject>
+      <subject>Tigrosa aspersa</subject>
+      <subject>Tigrosa helluo</subject>
+      <subject>Trebacosa marxi</subject>
+      <subject>Trochosa ruricola</subject>
+      <subject>Trochosa terricola</subject>
+      <subject>Varacosa avara</subject>
+      <subject>Hexura picea</subject>
+      <subject>Ero canionis</subject>
+      <subject>Mimetus epeiroides</subject>
+      <subject>Mimetus haynesi</subject>
+      <subject>Mimetus hesperus</subject>
+      <subject>Mimetus notius</subject>
+      <subject>Mimetus puritanus</subject>
+      <subject>Zora hespera</subject>
+      <subject>Trogloneta paradoxa</subject>
+      <subject>Nesticus cellulanus</subject>
+      <subject>Nesticus silvestrii</subject>
+      <subject>Oxyopes salticus</subject>
+      <subject>Oxyopes scalaris</subject>
+      <subject>Apollophanes margareta</subject>
+      <subject>Ebo bucklei</subject>
+      <subject>Ebo evansae</subject>
+      <subject>Ebo iviei</subject>
+      <subject>Ebo sp. 1GAB</subject>
+      <subject>Philodromus alascensis</subject>
+      <subject>Philodromus cespitum</subject>
+      <subject>Philodromus dispar</subject>
+      <subject>Philodromus histrio</subject>
+      <subject>Philodromus imbecillus</subject>
+      <subject>Philodromus keyserlingi</subject>
+      <subject>Philodromus mineri</subject>
+      <subject>Philodromus mysticus</subject>
+      <subject>Philodromus oneida</subject>
+      <subject>Philodromus peninsulanus</subject>
+      <subject>Philodromus rufus vibrans</subject>
+      <subject>Philodromus sp. 1</subject>
+      <subject>Philodromus spectabilis</subject>
+      <subject>Philodromus vulgaris</subject>
+      <subject>Thanatus arcticus</subject>
+      <subject>Thanatus bungei</subject>
+      <subject>Thanatus coloradensis</subject>
+      <subject>Thanatus formicinus</subject>
+      <subject>Thanatus rubicellus</subject>
+      <subject>Thanatus striatus</subject>
+      <subject>Thanatus vulgaris</subject>
+      <subject>Tibellus asiaticus</subject>
+      <subject>Tibellus chamberlini</subject>
+      <subject>Tibellus maritimus</subject>
+      <subject>Tibellus oblongus</subject>
+      <subject>Titanebo parabolis</subject>
+      <subject>Pholcophora americana</subject>
+      <subject>Pholcus manueli</subject>
+      <subject>Psilochorus hesperus</subject>
+      <subject>Phrurotimpus alarius</subject>
+      <subject>Phrurotimpus borealis</subject>
+      <subject>Phrurotimpus certus</subject>
+      <subject>Scotinella britcheri</subject>
+      <subject>Scotinella madisonia</subject>
+      <subject>Scotinella minnetonka</subject>
+      <subject>Scotinella pugnata</subject>
+      <subject>Pimoa altioculata</subject>
+      <subject>Pimoa curvata</subject>
+      <subject>Pimoa haden</subject>
+      <subject>Dolomedes scriptus</subject>
+      <subject>Dolomedes sp. 1GAB</subject>
+      <subject>Dolomedes striatus</subject>
+      <subject>Dolomedes tenebrosus</subject>
+      <subject>Dolomedes triton</subject>
+      <subject>Pisaurina brevipes</subject>
+      <subject>Pisaurina mira</subject>
+      <subject>Admestina tibialis</subject>
+      <subject>Attidops youngi</subject>
+      <subject>Chalcoscirtus alpicola</subject>
+      <subject>Chalcoscirtus carbonarius</subject>
+      <subject>Chalcoscirtus sp. 1GAB</subject>
+      <subject>Chinattus parvulus</subject>
+      <subject>Dendryphantes czekanowskii</subject>
+      <subject>Dendryphantes nigromaculatus</subject>
+      <subject>Dendryphantes sp. 1GAB</subject>
+      <subject>Eris militaris</subject>
+      <subject>Euophrys monadnock</subject>
+      <subject>Evarcha hoyi</subject>
+      <subject>Evarcha proszynskii</subject>
+      <subject>Habronattus agilis</subject>
+      <subject>Habronattus americanus</subject>
+      <subject>Habronattus borealis</subject>
+      <subject>Habronattus calcaratus maddisoni</subject>
+      <subject>Habronattus decorus</subject>
+      <subject>Habronattus jucundus</subject>
+      <subject>Habronattus sp. 2GAB</subject>
+      <subject>Habronattus sp. 3GAB</subject>
+      <subject>Habronattus viridipes</subject>
+      <subject>Hentzia mitrata</subject>
+      <subject>Hentzia palmarum</subject>
+      <subject>Maevia inclemens</subject>
+      <subject>Marpissa formosa</subject>
+      <subject>Marpissa pikei</subject>
+      <subject>Metaphidippus sp. 1GAB</subject>
+      <subject>Myrmarachne formicaria</subject>
+      <subject>Naphrys pulex</subject>
+      <subject>Neon nelli</subject>
+      <subject>Neon pixii</subject>
+      <subject>Neon reticulatus</subject>
+      <subject>Peckhamia picata</subject>
+      <subject>Pelegrina aeneola</subject>
+      <subject>Pelegrina flaviceps</subject>
+      <subject>Pelegrina flavipes</subject>
+      <subject>Pelegrina galathea</subject>
+      <subject>Pelegrina insignis</subject>
+      <subject>Pelegrina montana</subject>
+      <subject>Pelegrina proterva</subject>
+      <subject>Pellenes ignifrons</subject>
+      <subject>Pellenes lapponicus</subject>
+      <subject>Phanias albeolus</subject>
+      <subject>Phidippus audax</subject>
+      <subject>Phidippus borealis</subject>
+      <subject>Phidippus clarus</subject>
+      <subject>Phidippus johnsoni</subject>
+      <subject>Phidippus princeps</subject>
+      <subject>Phidippus purpuratus</subject>
+      <subject>Phlegra hentzi</subject>
+      <subject>Platycryptus californicus</subject>
+      <subject>Platycryptus undatus</subject>
+      <subject>Salticus scenicus</subject>
+      <subject>Sassacus papenhoei</subject>
+      <subject>Sibianor aemulus</subject>
+      <subject>Sitticus ammophilus</subject>
+      <subject>Sitticus concolor</subject>
+      <subject>Sitticus finschi</subject>
+      <subject>Sitticus floricola palustris</subject>
+      <subject>Sitticus pubescens</subject>
+      <subject>Sitticus ranieri</subject>
+      <subject>Sitticus sp. 1GAB</subject>
+      <subject>Sitticus striatus</subject>
+      <subject>Synageles occidentalis</subject>
+      <subject>Synageles sp. 1GAB</subject>
+      <subject>Synemosyna formica</subject>
+      <subject>Talavera minuta</subject>
+      <subject>Terralonus mylothrus</subject>
+      <subject>Terralonus sp. 1GAB</subject>
+      <subject>Tutelina harti</subject>
+      <subject>Tutelina similis</subject>
+      <subject>Tutelina sp. 1GAB</subject>
+      <subject>Zygoballus nervosus</subject>
+      <subject>Zygoballus rufipes</subject>
+      <subject>Scytodes thoracica</subject>
+      <subject>Segestria pacifica</subject>
+      <subject>Usofila pacifica</subject>
+      <subject>Usofila sp. 1GAB</subject>
+      <subject>Glenognatha foxi</subject>
+      <subject>Leucauge venusta</subject>
+      <subject>Meta ovalis</subject>
+      <subject>Metellina curtisi</subject>
+      <subject>Metellina segmentata</subject>
+      <subject>Pachygnatha autumnalis</subject>
+      <subject>Pachygnatha clercki</subject>
+      <subject>Pachygnatha dorothea</subject>
+      <subject>Pachygnatha tristriata</subject>
+      <subject>Pachygnatha xanthostoma</subject>
+      <subject>Tetragnatha caudata</subject>
+      <subject>Tetragnatha dearmata</subject>
+      <subject>Tetragnatha elongata</subject>
+      <subject>Tetragnatha extensa</subject>
+      <subject>Tetragnatha guatemalensis</subject>
+      <subject>Tetragnatha laboriosa</subject>
+      <subject>Tetragnatha pallescens</subject>
+      <subject>Tetragnatha sp. 1GAB</subject>
+      <subject>Tetragnatha sp. 2GAB</subject>
+      <subject>Tetragnatha straminea</subject>
+      <subject>Tetragnatha vermiformis</subject>
+      <subject>Tetragnatha versicolor</subject>
+      <subject>Tetragnatha viridis</subject>
+      <subject>Asagena americana</subject>
+      <subject>Canalidion montanum</subject>
+      <subject>Chrysso nordica</subject>
+      <subject>Crustulina altera</subject>
+      <subject>Crustulina sticta</subject>
+      <subject>Cryptachaea blattea</subject>
+      <subject>Cryptachaea canionis</subject>
+      <subject>Dipoena malkini</subject>
+      <subject>Dipoena nigra</subject>
+      <subject>Dipoena provalis</subject>
+      <subject>Dipoena sp. 1GAB</subject>
+      <subject>Dipoena washougalia</subject>
+      <subject>Enoplognatha caricis</subject>
+      <subject>Enoplognatha intrepida</subject>
+      <subject>Enoplognatha joshua</subject>
+      <subject>Enoplognatha ovata</subject>
+      <subject>Enoplognatha sp. 1GAB</subject>
+      <subject>Enoplognatha thoracica</subject>
+      <subject>Euryopis argentea</subject>
+      <subject>Euryopis formosa</subject>
+      <subject>Euryopis funebris</subject>
+      <subject>Euryopis pepini</subject>
+      <subject>Euryopis scriptipes</subject>
+      <subject>Faiditus cancellatus</subject>
+      <subject>Hentziectypus globosus</subject>
+      <subject>Lasaeola prona</subject>
+      <subject>Latrodectus hesperus</subject>
+      <subject>Latrodectus variolus</subject>
+      <subject>Neospintharus trigonum</subject>
+      <subject>Neottiura bimaculata</subject>
+      <subject>Neottiura sp. 1GAB</subject>
+      <subject>Ohlertidion ohlerti</subject>
+      <subject>Parasteatoda tabulata</subject>
+      <subject>Parasteatoda tepidariorum</subject>
+      <subject>Phylloneta impressa</subject>
+      <subject>Platnickina tincta</subject>
+      <subject>Robertus borealis</subject>
+      <subject>Robertus crosbyi</subject>
+      <subject>Robertus eremophilus</subject>
+      <subject>Robertus fuscus</subject>
+      <subject>Robertus lyrifer</subject>
+      <subject>Robertus riparius</subject>
+      <subject>Robertus sp. 2GAB</subject>
+      <subject>Robertus vigerens</subject>
+      <subject>Rugathodes aurantius</subject>
+      <subject>Rugathodes sexpunctatus</subject>
+      <subject>Steatoda albomaculata</subject>
+      <subject>Steatoda bipunctata</subject>
+      <subject>Steatoda borealis</subject>
+      <subject>Steatoda grossa</subject>
+      <subject>Steatoda hespera</subject>
+      <subject>Steatoda sp. 1GAB</subject>
+      <subject>Steatoda triangulosa</subject>
+      <subject>Steatoda washona</subject>
+      <subject>Theonoe stridula</subject>
+      <subject>Theridion albidum</subject>
+      <subject>Theridion californicum</subject>
+      <subject>Theridion differens</subject>
+      <subject>Theridion frondeum</subject>
+      <subject>Theridion glaucescens</subject>
+      <subject>Theridion murarium</subject>
+      <subject>Theridion mystaceum</subject>
+      <subject>Theridion neomexicanum</subject>
+      <subject>Theridion petraeum</subject>
+      <subject>Theridion pictum</subject>
+      <subject>Theridion rabuni</subject>
+      <subject>Theridion saanichum</subject>
+      <subject>Theridion sp. 1GAB</subject>
+      <subject>Theridion sp. 2GAB</subject>
+      <subject>Theridion varians</subject>
+      <subject>Theridula emertoni</subject>
+      <subject>Thymoites camano</subject>
+      <subject>Thymoites oleatus</subject>
+      <subject>Thymoites unimaculatus</subject>
+      <subject>Wamba crispulus</subject>
+      <subject>Yunohamella lyrica</subject>
+      <subject>Theridiosoma gemmosum</subject>
+      <subject>Bassaniana utahensis</subject>
+      <subject>Coriarachne brunneipes</subject>
+      <subject>Mecaphesa asperata</subject>
+      <subject>Mecaphesa carletonica</subject>
+      <subject>Mecaphesa celer</subject>
+      <subject>Misumena vatia</subject>
+      <subject>Misumenoides formosipes</subject>
+      <subject>Misumessus oblongus</subject>
+      <subject>Ozyptila americana</subject>
+      <subject>Ozyptila arctica</subject>
+      <subject>Ozyptila conspurcata</subject>
+      <subject>Ozyptila distans</subject>
+      <subject>Ozyptila gertschi</subject>
+      <subject>Ozyptila pacifica</subject>
+      <subject>Ozyptila praticola</subject>
+      <subject>Ozyptila sincera canadensis</subject>
+      <subject>Synema parvulum</subject>
+      <subject>Tmarus angulatus</subject>
+      <subject>Xysticus auctificus</subject>
+      <subject>Xysticus benefactor</subject>
+      <subject>Xysticus bicuspis</subject>
+      <subject>Xysticus britcheri</subject>
+      <subject>Xysticus californicus</subject>
+      <subject>Xysticus canadensis</subject>
+      <subject>Xysticus chippewa</subject>
+      <subject>Xysticus cristatus</subject>
+      <subject>Xysticus cunctator</subject>
+      <subject>Xysticus deichmanni</subject>
+      <subject>Xysticus discursans</subject>
+      <subject>Xysticus durus</subject>
+      <subject>Xysticus elegans</subject>
+      <subject>Xysticus ellipticus</subject>
+      <subject>Xysticus emertoni</subject>
+      <subject>Xysticus ferox</subject>
+      <subject>Xysticus fraternus</subject>
+      <subject>Xysticus funestus</subject>
+      <subject>Xysticus gulosus</subject>
+      <subject>Xysticus labradorensis</subject>
+      <subject>Xysticus locuples</subject>
+      <subject>Xysticus luctans</subject>
+      <subject>Xysticus luctuosus</subject>
+      <subject>Xysticus montanensis</subject>
+      <subject>Xysticus nigromaculatus</subject>
+      <subject>Xysticus obscurus</subject>
+      <subject>Xysticus pellax</subject>
+      <subject>Xysticus pretiosus</subject>
+      <subject>Xysticus punctatus</subject>
+      <subject>Xysticus sp. 2GAB</subject>
+      <subject>Xysticus triangulosus</subject>
+      <subject>Xysticus triguttatus</subject>
+      <subject>Xysticus winnipegensis</subject>
+      <subject>Titanoeca americana</subject>
+      <subject>Titanoeca nigrella</subject>
+      <subject>Titanoeca nivalis</subject>
+      <subject>Meriola californica</subject>
+      <subject>Trachelas tranquillus</subject>
+      <subject>Hyptiotes cavatus</subject>
+      <subject>Hyptiotes gertschi</subject>
+      <subject>Uloborus diversus</subject>
+      <subject>Uloborus glomosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.21364</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>803621 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Spiders were collected from locations across Canada by various collectors. Sequencing was performed at the Canadian Centre for DNA Barcoding, and the sequences uploaded to BOLD Systems. Sequence data was obtained by James Robertson from BOLD Systems and aligned using mafft with the following parameters:&#13;
+mafft --auto --thread 3 --op 4 --ep 2 --reorder.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6526160</identifier><datestamp>2015-08-12T17:02:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7SK2G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Irl, Severin D. H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harter, David E. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steinbauer, Manuel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gallego Puyol, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fern&#225;ndez-Palacios, Jos&#233; Mar&#237;a</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jentsch, Anke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beierkuhnlein, Carl</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Irl et al_2015_J Ecol_Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climatic rarity</subject>
+      <subject>climatic stability</subject>
+      <subject>island ecology</subject>
+      <subject>landscape ecology</subject>
+      <subject>landscape scale</subject>
+      <subject>mini-continent</subject>
+      <subject>multi-model inference</subject>
+      <subject>spatial ecology</subject>
+      <subject>Vascular plants</subject>
+      <subject>Canary Islands</subject>
+      <subject>Macaronesia</subject>
+      <subject>present</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7SK2G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>113625 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data were collected between 2010 and 2013 on the island of La Palma (Canary Islands). Table giving plot name and coordinates (in UTM 28N). Furthermore all climate variables, all topographic variables as well as all response variables (diversity measures) are given. Abbrevations: Climatic rarity of the Canary Islands = CR_CAN, Climatic rarity of La Palma = CR_LP, INTRA_VAR = Intra-annual precipitation variability, INTER_VAR = Inter-annual preciptation variability, Mean annual temperature = MAT, Mean annual precipitation = MAP, Rainfall seasonality index = RSI, Annual solar radiation = ASR, Geologic Age = Age, Macro-aspect = Macro, Topographic complexity index = TCI. In addition, species richness (SR), number of single island endemics (nSIE), number of archipelago endemics (nAE), percentage of single island endemics (pSIE) and the percentage of archipelago endemics (pAE) are given.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

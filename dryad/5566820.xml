@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566820</identifier><datestamp>2015-05-29T15:25:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72J0N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Karlson, Agnes M.L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gorokhova, Elena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Elmgren, Ragnar</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>stable isotope data for deposit-feeders</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biodiversity</subject>
+      <subject>Community Ecology</subject>
+      <subject>Invasive Species</subject>
+      <subject>Stable Isotopes</subject>
+      <subject>Baltic Sea</subject>
+      <subject>2009-2010</subject>
+      <subject>Monoporeia affinis</subject>
+      <subject>Marenzelleria arctia</subject>
+      <subject>Pontoporeia femorata</subject>
+      <subject>Macoma balthica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.72J0N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>35433 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Rawdata for each species, station and year: the d15N and d13C data (d13C is corrected for CN ratio according to Post et al. 2007 Oecologia) as well as CN ratio</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

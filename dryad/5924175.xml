@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5924175</identifier><datestamp>2015-06-10T19:49:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.517JV/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Van Allen, Benjamin G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rudolf, Volker H. W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>T confusum control populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>carry-over effects</subject>
+      <subject>community structure</subject>
+      <subject>competition</subject>
+      <subject>competition model</subject>
+      <subject>demography</subject>
+      <subject>condition dependence</subject>
+      <subject>natal habitat effect</subject>
+      <subject>phase plane</subject>
+      <subject>Tribolium</subject>
+      <subject>parental effects</subject>
+      <subject>Tribolium confusum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.517JV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8546 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Population counts across all samples for the T. confusum single species experiment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

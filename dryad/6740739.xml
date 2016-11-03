@@ -1,0 +1,76 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6740739</identifier><datestamp>2015-09-11T14:35:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HN16C/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wallace, Edward W. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kear-Scott, Jamie L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilipenko, Evgeny V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartz, Michael H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Laskowski, Pawel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rojek, Alexandra E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Katanski, Christopher D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riback, Joshua A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dion, Michael F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franks, Alexander M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Airoldi, Edoardo M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pan, Tao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Budnik, Bogdan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drummond, D. Allan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wallace2015-yeast-heat-agg-dryad-package</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>protein aggregation</subject>
+      <subject>misfolding</subject>
+      <subject>heat shock</subject>
+      <subject>stress granule</subject>
+      <subject>translation</subject>
+      <subject>proteomics</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HN16C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>43526120 bytes</size>
+      <size>5953 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Complete package including processed data, intermediate data, and processing scripts.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

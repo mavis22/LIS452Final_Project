@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6838118</identifier><datestamp>2015-11-20T21:26:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HJ797/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Phillis, Corey C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Jonathan W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buoro, Mathieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayes, Sean A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garza, John Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pearse, Devon E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>smolt-data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>alternative migratory tactics</subject>
+      <subject>anadromy</subject>
+      <subject>conditional strategy</subject>
+      <subject>contemporary evolution</subject>
+      <subject>partial migration</subject>
+      <subject>threshold traits</subject>
+      <subject>California</subject>
+      <subject>Holocene</subject>
+      <subject>Oncorhynchus mykiss</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HJ797</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>57364 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Offspring data is in &#8216;smolt-data.csv&#8217; as follows:&#13;
+Column 1: PIT: Passive Integrated Transponder number used for individual ID&#13;
+Column 2: FL: Fork length in mm&#13;
+Column 3: mass: in grams&#13;
+Column 4: Sex: Male, Female, or NA (i.e. failed to assign)&#13;
+Column 5: cross: AA or BB (i.e. pure above-barrier cross or pure below-barrier cross)&#13;
+Column 6: Ma: Individual ID of mother&#13;
+Column 7: MOM: A or B (origin of Ma)&#13;
+Column 8: Pa: Individual ID of father&#13;
+Column 9: DAD: A or B (origin of Pa)&#13;
+Column 10: score: smolt condition: 1, 2, 3, 4, or NA (see explanation below)&#13;
+Column 11: smolt: 0 or 1 (non-smolt or smolt)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4584061</identifier><datestamp>2015-02-12T12:38:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DB1N0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grieneisen, Laura E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brownlee-Bouboulis, Sarah A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Joseph S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reeder, DeeAnn M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Sex and hibernaculum temperature predict survivorship in white-nose syndrome affected little brown myotis (Myotis lucifugus)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>disease ecology</subject>
+      <subject>North America</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Pseudogymnoascus destructans</subject>
+      <subject>Chiroptera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Grieneisen LE, Brownlee-Bouboulis SA, Johnson JS, Reeder DM (2015) Sex and hibernaculum temperature predict survivorship in white-nose syndrome affected little brown myotis (Myotis lucifugus). Royal Society Open Science 2: 140470.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DB1N0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSOS.140470</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597569</identifier><datestamp>2015-01-28T17:18:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BS8C4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hirst, Theodore C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vesterinen, Hanna M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conlin, Samantha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Egan, Kieren J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Antonic, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lawson McLean, Aaron</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macleod, Malcolm R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grant, Robin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brennan, Paul M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sena, Emily S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whittle, Ian R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gene therapy in experimental glioma: raw data &amp; analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>systematic review</subject>
+      <subject>rodent models</subject>
+      <subject>glioma</subject>
+      <subject>gene therapy</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BS8C4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>450048 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data extracted directly from studies included in the systematic review. Data were entered into the CAMARADES data manager (Access database) and analysed. Both the raw data and results have been exported to Excel file (note there are several pages to the spreadsheet).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

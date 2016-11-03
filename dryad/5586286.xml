@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586286</identifier><datestamp>2015-04-29T21:11:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B2V37/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Becker, Philipp J. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reichert, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zahn, Sandrine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hegelbach, Johann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Massemin, Sylvie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keller, Lukas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Postma, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Criscuolo, Fran&#231;ois</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Becker,Reichert-et-al_data_telomeres</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>relative telomere length</subject>
+      <subject>heritability</subject>
+      <subject>maternal effect</subject>
+      <subject>sex-linkage</subject>
+      <subject>inbreeding</subject>
+      <subject>bird</subject>
+      <subject>Switzerland</subject>
+      <subject>Cinclus cinclus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B2V37</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15552 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data provided in "Becker,Reichert-et-al_data_telomeres.txt" allow for running the animal models as described in the paper "Mother-offspring and nest mate resemblance but no heritability in early-life telomere length in white-throated dippers". Descriptions of the table columns are given in the file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

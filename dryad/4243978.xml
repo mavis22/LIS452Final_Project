@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4243978</identifier><datestamp>2015-01-05T15:42:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.32565/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wall, Carrie C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lembke, Chad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hu, Chuanmin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mann, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wall et al 2014 Glider Mission 54a.zip</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Passive acoustics</subject>
+      <subject>fish sound production</subject>
+      <subject>autonomous glider</subject>
+      <subject>harmful algal blooms</subject>
+      <subject>red tide</subject>
+      <subject>red grouper</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>2011</subject>
+      <subject>2012</subject>
+      <subject>Epinephelus morio</subject>
+      <subject>Opsanus</subject>
+      <subject>Porichthys plectrodon</subject>
+      <subject>Prionotus</subject>
+      <subject>Clupeidae</subject>
+      <subject>Ophidiiformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.32565</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>634 bytes</size>
+      <size>1113390784 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These files were collected on an autonomous underwater glider deployed in the Gulf of Mexico in October 2011. The files have been converted into flac format for lossless compression.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4655135</identifier><datestamp>2015-03-02T21:45:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V6T5M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brown, Charles R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Mary Bomberger</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Late nesting presence or absence data file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ectoparasites</subject>
+      <subject>life history</subject>
+      <subject>reproductive phenology</subject>
+      <subject>time of breeding</subject>
+      <subject>cliff swallow</subject>
+      <subject>swallow bug</subject>
+      <subject>Nebraska</subject>
+      <subject>Petrochelidon pyrrhonota</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V6T5M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>156160 bytes</size>
+      <size>1142 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Field data collected in western Nebraska from 1982 through 2014, showing for each colony whether late nesting by cliff swallows occurred and whether the colony site was fumigated that year.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

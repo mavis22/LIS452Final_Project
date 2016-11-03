@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6725604</identifier><datestamp>2015-09-04T14:52:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V46F0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mikaelyan, Aram</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dietrich, Carsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>K&#246;hler, Tim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poulsen, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sillam-Duss&#232;s, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brune, Andreas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mitochondrial cytochrome oxidase subunit II (COII) alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>Termites</subject>
+      <subject>Gut microbiota</subject>
+      <subject>Microhabitats</subject>
+      <subject>Symbiosis</subject>
+      <subject>Deepsequencing</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V46F0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>54542 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Aligned nucleotide sequences of the mitochondrial cytochrome oxidase subunit II genes of higher termites</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3803276</identifier><datestamp>2015-04-28T18:14:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NN20R/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jackson, Morgan D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marshall, Stephen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Skevington, Jeffrey H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Jackson et al ISE Total Concatenated Data &amp; analysis file (.nex)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogenetics</subject>
+      <subject>Taxonomy</subject>
+      <subject>DNA</subject>
+      <subject>Molecular</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+      <subject>Nearctic</subject>
+      <subject>Neotropical</subject>
+      <subject>Diptera</subject>
+      <subject>Micropezidae</subject>
+      <subject>Taeniaptera</subject>
+      <subject>Poecilotylus</subject>
+      <subject>Grallipeza</subject>
+      <subject>Micropeza</subject>
+      <subject>Cryogonus</subject>
+      <subject>Plocoscelus</subject>
+      <subject>Ptilosphen</subject>
+      <subject>Hoplocheiloma</subject>
+      <subject>Calosphen</subject>
+      <subject>Scipopus</subject>
+      <subject>Grallomyia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NN20R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>214691 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">NEXUS file containing total concatenated mDNA, rDNA &amp; nDNA and PAUP* 4.0 analysis commands from Jackson et al. ISE</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

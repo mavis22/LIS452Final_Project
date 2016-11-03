@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5494585</identifier><datestamp>2015-05-20T17:10:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M41F1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grootemaat, Saskia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wright, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Bodegom, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cornelissen, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cornwell, William</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Leaf and flammability traits (individual leaves)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>carbon cycling</subject>
+      <subject>decay</subject>
+      <subject>fire</subject>
+      <subject>functional traits</subject>
+      <subject>litter fates</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M41F1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>301918 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data set contains the leaf traits and flammability parameters as measured on individual leaves. The first sheet displays the MEAN values per species, which were mainly used for the publication. The second sheet holds the RAW data and the third sheet holds the species list. Abbreviations are explained in the overview.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

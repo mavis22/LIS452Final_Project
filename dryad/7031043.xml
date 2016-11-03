@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7031043</identifier><datestamp>2015-12-01T17:48:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RR4PM/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Spasojevic, Marko J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Benjamin L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Myers, Jonathan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tyson Forest Dynamics Plot leaf functional trait data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Plant Functional traits</subject>
+      <subject>Specific Leaf Area</subject>
+      <subject>Leaf Area</subject>
+      <subject>Ontogeny</subject>
+      <subject>Tyson Research Center Plot</subject>
+      <subject>community assembly</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>environmental filtering</subject>
+      <subject>functional diversity</subject>
+      <subject>Ozark oak-hickory forest</subject>
+      <subject>spatial scale</subject>
+      <subject>species sorting</subject>
+      <subject>United States</subject>
+      <subject>Missouri</subject>
+      <subject>Ozark</subject>
+      <subject>Oak-hickory forest</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RR4PM</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>267134 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on functional traits (leaf size, specific leaf area (SLA), leaf water content (LWC), leaf toughness, and chlorophyll content) measured on three leaves each of 681 individuals across for 35 woody plant species in a 12-ha section of the Tyson Forest Dynamics Plot, Missouri, USA</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

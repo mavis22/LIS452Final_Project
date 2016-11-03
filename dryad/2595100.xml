@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2595100</identifier><datestamp>2014-08-01T15:08:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C09B0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lee, Michael S. Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cau, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Naish, Darren</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dyke, Gareth J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Morphological clocks in palaeontology, and a mid-Cretaceous origin of crown Aves</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bayesian Inference</subject>
+      <subject>Divergence Dating</subject>
+      <subject>Morphological Clocks</subject>
+      <subject>Paleontology</subject>
+      <subject>Stratigraphy</subject>
+      <subject>MrBayes</subject>
+      <subject>Total Evidence Dating</subject>
+      <subject>Aves</subject>
+      <subject>Theropoda</subject>
+      <subject>Avialae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lee MSY, Cau A, Naish D, Dyke GJ (2014) Morphological clocks in palaeontology, and a mid-Cretaceous origin of crown Aves. Systematic Biology 63(3): 442-449.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C09B0/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C09B0/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.C09B0/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/SYSBIO/SYT110</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4593850</identifier><datestamp>2015-01-07T18:33:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KK61P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Farrer, Emily</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ashton, Isabel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suding, Katharine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Plant community and ecosystem properties in a multifactor global change experiment on Niwot Ridge, Rocky Mountains CO</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>ecosystem function</subject>
+      <subject>nitrogen fertilization</subject>
+      <subject>Niwot Ridge</subject>
+      <subject>path analysis</subject>
+      <subject>plant-climate interactions</subject>
+      <subject>precipitation</subject>
+      <subject>snow</subject>
+      <subject>temperature</subject>
+      <subject>time lags</subject>
+      <subject>Niwot Ridge</subject>
+      <subject>Rocky Mountains</subject>
+      <subject>Colorado</subject>
+      <subject>Geum rossii</subject>
+      <subject>Deschampsia cespitosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KK61P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>72099 bytes</size>
+      <size>7036 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data are from a multifactor global change experiment, manipulating N, warming, and elevated snowpack in alpine tundra moist meadow. Data are from 2006-2012, although not every measurement was taken in all years; 2006 is pretreatment. Data collected are the following: species composition, productivity, litter mass, winter and summer N availability (resin), moisture, microbial biomass N and C, inorganic N, N mineralization, nitrification.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

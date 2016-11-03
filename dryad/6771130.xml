@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6771130</identifier><datestamp>2015-09-29T19:16:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GR020/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tamburini, Giovanni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Simone, Serena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sigura, Maurizia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boscutti, Francesco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marini, Lorenzo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data regarding the paper "Conservation tillage mitigates the negative effect of landscape simplification on biological control" (Tamburini et al. 2015)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Aphid</subject>
+      <subject>Ecosystem services</subject>
+      <subject>Landscape complexity</subject>
+      <subject>Natural enemies</subject>
+      <subject>Parasitoids</subject>
+      <subject>Pest control</subject>
+      <subject>Predation</subject>
+      <subject>Tillage intensity</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GR020</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>79274 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The excel file contains data regarding 1) the preliminary aphid survey in the fields, 2) the predation index for each of the exclusion treatment combination, 3) abundance of ground-dwelling predators (carabids, rove beetles and cursorial spiders), 4) abundance of vegetation-dwelling predators (ladybirds, hoverfly larvae and web spiders), 5) parasitism rate, 6) landscape composition.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6710414</identifier><datestamp>2015-08-31T14:59:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5ST3T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adrian, Jessika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Jessica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ballenger, Catherine&#160;E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bargmann, Bastiaan&#160;O. R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alassimone, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davies, Kelli&#160;A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lau, On&#160;Sun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matos, Juliana&#160;L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hachez, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lanctot, Amy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vat&#233;n, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Birnbaum, Kenneth&#160;D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergmann, Dominique&#160;C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S1. Expression Dataset and Clustering Results of FACS-Isolated Stomatal Lineage Cells using RNA-seq</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>stomata</subject>
+      <subject>FACS-isolation</subject>
+      <subject>single-cell type transcriptome</subject>
+      <subject>bHLH transcription factor</subject>
+      <subject>asymmetric cell division</subject>
+      <subject>Arabidopsis thaliana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5ST3T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15488625 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file (multiple tabs) containing information about gene expression of multiple stomatal lineage cell types.  Files columns have notes explaining data within.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82114</identifier><datestamp>2015-10-27T21:25:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8642/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McCoy, Michael W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bolker, Benjamin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warkentin, Karen M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vonesh, James R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>McCoy et al data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Density dependence</subject>
+      <subject>Ecology: experimental</subject>
+      <subject>Ecology: statistical</subject>
+      <subject>Ecology: tropical</subject>
+      <subject>Foraging: ecology</subject>
+      <subject>Foraging: theory</subject>
+      <subject>Interactions: predation</subject>
+      <subject>Modeling: predator/prey</subject>
+      <subject>Anurans (frogs and toads)</subject>
+      <subject>Insect</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-02-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8642</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2477 bytes</size>
+      <size>15187 bytes</size>
+      <size>2506 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-02-22T16:07:50Z (GMT). No. of bitstreams: 2&#13;
+README.txt: 2506 bytes, checksum: bae8cc94f9dd78166e457a4655a11307 (MD5)&#13;
+McCoy et al data.csv: 15187 bytes, checksum: cd3bf1e6f81388fa6485e50fa1bc22e9 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

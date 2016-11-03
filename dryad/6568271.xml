@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6568271</identifier><datestamp>2015-09-18T15:36:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8N2D5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bragina, Anastasia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berg, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berg, Gabriele</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The core microbiome bonds the Alpine bog vegetation to a transkingdom metacommunity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Community Ecology</subject>
+      <subject>Species Interactions</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Metagenomics</subject>
+      <subject>Austria</subject>
+      <subject>Styria</subject>
+      <subject>Rotmoos</subject>
+      <subject>P&#252;rgschachen Moor</subject>
+      <subject>Bacteria</subject>
+      <subject>Archaea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bragina A, Berg C, Berg G (2015) The core microbiome bonds the Alpine bog vegetation to a transkingdom metacommunity. Molecular Ecology 24(18): 4795&#8211;4807.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8N2D5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13342</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

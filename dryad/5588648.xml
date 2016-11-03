@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5588648</identifier><datestamp>2015-04-09T15:45:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.689V4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nietlisbach, Pirmin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Camenisch, Glauco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bucher, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slate, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keller, Lukas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Postma, Erik</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pedigree and genotypes  from Mandarte Island song sparrows</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>recombination</subject>
+      <subject>linkage disequilibrium</subject>
+      <subject>heterochiasmy</subject>
+      <subject>sex-linked markers</subject>
+      <subject>bird</subject>
+      <subject>song sparrow</subject>
+      <subject>Mandarte Island</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Melospiza melodia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.689V4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6670995 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dam and sire for each individual (id) used in the publication in Molecular Ecology Resources together with their genotypes at 209 microsatellite loci (the two alleles of each marker are denoted by "a" and "b" appended to the marker name).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

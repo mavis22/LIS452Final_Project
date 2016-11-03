@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466560</identifier><datestamp>2015-07-16T19:46:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8F230/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garcia, Sarahi L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buck, Moritz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMahon, Katherine D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grossart, Hans-Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eiler, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warnecke, Falk</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>16SrRNA+PhyloPhlAn</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bacteria</subject>
+      <subject>Community Ecology</subject>
+      <subject>Population Ecology</subject>
+      <subject>Genomics/Proteomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8F230</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13972974 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a zip file that contains three folders. One folder includes all raw data from the 16S amplicons used to create figure 1. Another folder includes the aligned 16S for creating figure S2. The last folder includes the whole tree data, protein alignments and taxa code for creating figure 2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

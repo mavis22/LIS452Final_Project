@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5738860</identifier><datestamp>2015-06-05T17:23:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HR0SP/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brand, Leonard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Mingmin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chadwick, Arthur</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PaleocurrentDatabase</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>paleocurrent</subject>
+      <subject>global</subject>
+      <subject>Phanerozoic</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HR0SP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8774985 bytes</size>
+      <size>31744 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Database contains paleocurrent data arranged by geographic and stratigraphic content. Database is organized with each publication given a unique number that is used for all datasets derived from that publication. Each row begins with that descriptor, and includes for each unique number, one entry that gives author(s), title, date, source, volume, and pages. All entries include Period (stratigraphy), Longitude, Latitude, Direction (flow was moving toward), #Data (in each dataset), Area sq km, Dispersion, Continent, Environment, Paleocurrent indicator, Lithology, and Formation.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

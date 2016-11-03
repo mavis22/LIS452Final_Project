@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263676</identifier><datestamp>2014-12-09T17:50:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8Q153/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Willoughby, Janna R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeWoody, J. Andrew</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>simulations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>docility</subject>
+      <subject>mean kinship</subject>
+      <subject>microsatellite</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>pedigree</subject>
+      <subject>captive populations</subject>
+      <subject>Illinois</subject>
+      <subject>holocene</subject>
+      <subject>Peromyscus leucopus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8Q153</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>227650 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Code, inputfiles, and output files from simulation of mean kinship, random mating, and selecting for docility in captive populations.  Code (simulations.R) was written for R, and has a number of package dependencies listed at the top.  Also required to run the code are the input cdv files: Weanded.csv lists number of individuals weaned in each population, founders.csv contains microsatellite genotypes for the populations founders, and mtDNA.csv contains the dloop haplotypes for each founder.  Docility.txt, MeanKinship.txt, MKplus.txt, and RandomMating.txt are all output files from running the simulation code.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

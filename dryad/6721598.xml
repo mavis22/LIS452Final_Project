@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721598</identifier><datestamp>2015-09-23T21:05:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.47CT0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Koptur, Suzanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Ian M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pe&#241;a, Jorge E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>cpvoucherTREC2003</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ants</subject>
+      <subject>caterpillars</subject>
+      <subject>extrafloral nectaries</subject>
+      <subject>herbivores</subject>
+      <subject>plants</subject>
+      <subject>parasitoids</subject>
+      <subject>predators</subject>
+      <subject>virus</subject>
+      <subject>North America</subject>
+      <subject>southern Florida</subject>
+      <subject>United States of America</subject>
+      <subject>Anthropocene</subject>
+      <subject>Fabaceae</subject>
+      <subject>Senna</subject>
+      <subject>Pieridae</subject>
+      <subject>Phoebis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.47CT0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>222208 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data are for individual caterpillars 3rd instar and beyond collected from experimental plants and brought to the lab for rearing. Columns in the file are: Number (collection number, each caterpillar is a separate record, some multiple in one collection number - initially renumbered with decimals, that convention later abandoned); plant number (same as in other file); Collection date; Life History stage (instar); Caterpillar species (s.o. = sleepy orange, Abaeis nicippe; c.s. = cloudless sulfur, Phoebis sennae; o.b.s. = orange-barred sulfur, Phoebis philea); Pupated (yes/no); Pupation date; Adult M/F (No or sex); Parasitized; Virus; Moldy; Discontinued date; comments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

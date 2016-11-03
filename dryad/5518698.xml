@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5518698</identifier><datestamp>2015-03-19T20:42:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.138CG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Laplanche, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marques, Tiago A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, Len</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DTAG data (depth, accelerometer, magnetometer)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.138CG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2109838 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">DTAG data of a Blainville's beaked whale (Mesoplodon densirostris) deep dive, adult male tagged on the 5th September 2007 (tag on position: 24.3839 N, 77.5615 W). Columns are time (in second), depth (in m), 3-axis accelerometer values (no unit), 3-axis magnetometer values (no unit). Accelerometer and magnetometer values are in the tag frame and were normalized with respect to the norm of the Earth gravitational and magnetic fields at the tag location. Data provided are at 5 Hz, the recording lasts 51'20, time in the table starts at tag-on (t=460 s; t=0 s in the paper).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1902757</identifier><datestamp>2014-05-30T02:44:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H768P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dennehy, John J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duffy, Siobain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Keefe, Kara J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edwards, Scott V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Paul E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Frequent coinfection reduces RNA virus population genetic diversity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>segmented virus</subject>
+      <subject>complementation</subject>
+      <subject>evolution of sex</subject>
+      <subject>nucleotide diversity</subject>
+      <subject>clonal interference</subject>
+      <subject>bacteriophage</subject>
+      <subject>Reproductive strategies and kinship analysis</subject>
+      <subject>Molecular adaptation and selection</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Dennehy JJ, Duffy S, O'Keefe KJ, Edwards SV, Turner PE (2013) Frequent coinfection reduces RNA virus population genetic diversity. Journal of Heredity 104(5): 704-712.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.H768P/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/JHERED/EST038</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

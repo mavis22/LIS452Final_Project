@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4832967</identifier><datestamp>2015-06-23T19:56:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.57B80/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adams, Susan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmetterling, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neely, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table 2 Adams_et_al_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>interspecific segregation</subject>
+      <subject>sculpin</subject>
+      <subject>distribution</subject>
+      <subject>Montana</subject>
+      <subject>Clark Fork River</subject>
+      <subject>Columbia River Basin</subject>
+      <subject>USA</subject>
+      <subject>Uranidea sp. cf bairdii</subject>
+      <subject>Uranidea sp. cf cognatus</subject>
+      <subject>Rocky Mountain Sculpin</subject>
+      <subject>Columbia Slimy Sculpin</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.57B80</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>73145 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table 2.&#8212;Complete list of sample reaches, locations, and sculpin captured at each reach during summers 2007-9. Reaches sampled only in summer 2006 are included although not shown on maps. &#8220;Distance to mouth&#8221; is the stream distance (km) from a reach to the mouth of the stream or river on which the reach is located. For Clark Fork River reaches, distances are from the downstream-most reach. Reaches are numbered from downstream to upstream in each stream. Reaches where we recorded stream temperatures in either 2007 or 2008 are indicated in the thermograph column. Latitude and longitude are given in decimal degrees in the NAD83 datum. The total number of seconds shocked (Total seconds) and the number (N) of samples in which time was recorded are given. &#8220;Fish sample N&#8221; is the number of summer samples made during 2007-9 (maximum = 3). Where values for &#8220;Fish sample N&#8221; exceed those for &#8220;Seconds N&#8221;, electrofishing time was not recorded for all samples at the reach. Reaches with N = 0 for fish samples were sampled either in summer 2006 or spring 2007, but not in any summer from 2007-9. The numbers of Rocky Mountain Sculpin (RMS), Columbia Slimy Sculpin (CSS) and sculpin-present (not identified to taxon because of their small size or uncertainty due to the presence of Cedar sculpin [U. schitsuumsh]) are given. Percent (%) RMS and CSS are the percentages of each taxon, disregarding any unidentified sculpin. Sculpin status indicates the sculpin category to which the reach was assigned for temperature and habitat analyses. Reaches with both RMS and CSS are indicated as syntopic (Syn) and those with only unidentified sculpins as present (Pres). Other abbreviations are as follows: fishing access site (FAS); highway (Hwy.); Montana Fish, Wildlife, and Parks (FWP); US Forest Service (FS).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

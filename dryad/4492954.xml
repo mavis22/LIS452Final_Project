@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492954</identifier><datestamp>2014-12-17T21:07:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.62512/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barnes, Andrew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emberson, Rowan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krell, Frank-Thorsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Didham, Raphael K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dung beetle response-effect trait data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>land-use change</subject>
+      <subject>response-effect traits</subject>
+      <subject>ecosystem function</subject>
+      <subject>neutral theory</subject>
+      <subject>niche complementarity</subject>
+      <subject>dung beetles</subject>
+      <subject>edge effects</subject>
+      <subject>Nigeria</subject>
+      <subject>Mambilla Plateau</subject>
+      <subject>Ngel Nyaki</subject>
+      <subject>7.080234&#176; N</subject>
+      <subject>11.127765&#176; E</subject>
+      <subject>Coleoptera</subject>
+      <subject>Scarabaeinae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.62512</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7037 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the data set used to fit the edge response function in Figure 2, and to develop the path model testing the trait dependence of functional recovery of dung removal across regenerating habitat edges. The column heading "site" indicates the edge gradient sampling site, "restoration" is a binary variable coding whether the adjacent matrix underwent habitat restoration, and "edge.distance" indicates the sampling point's distance from the habitat edge, whereby positive numbers are located in the matrix and negative numbers are located in the adjacent forest habitat. "Biomass" gives the total community biomass (mg) for each sample, "FDis" is the calculated functional dispersion of each community, "body.mass" is the arithmetic community mean body mass (mg), "BSI" gives the community mean pronotum width/body mass ratio, "wing.loading" is the community mean wing area/body mass ratio, "wing.area" gives the community mean wing area (mm^2), "pronotum" provides the community mean pronotum width (mm), and "dung.removal" gives the proportion of dung removed at each sampling point.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

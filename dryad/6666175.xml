@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6666175</identifier><datestamp>2015-10-23T21:10:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3RG62/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Montes, Iratxe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langa, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vilas, C&#233;sar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helyar, Sarah J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>&#193;lvarez, Paula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Conklin, Darrell</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Estonba, Andone</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SSR and SNP markers discovered for Atlantic mackerel</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Next-Generation Sequencing</subject>
+      <subject>T2T/G2T</subject>
+      <subject>SNP discovery</subject>
+      <subject>Transcriptomics</subject>
+      <subject>genomics</subject>
+      <subject>bioinformatics</subject>
+      <subject>Eastern Atlantic Ocean</subject>
+      <subject>Scomber scombrus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3RG62</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>104850 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SSRs: The 1,624 SSR markers detected in the Atlantic mackerel transcriptome. SSR names follow the format Ssco_[A]-[B] where [A] indicates the transcriptome contig where the SSR was detected and [B] indicates the number of SSR in the contig. SNPs:. The 80 validated SNPs sequences and their descriptive statistics. For each marker following information is provided: NCBI Submitter SNP (ss) accession numbers, reference and alternative alleles, call rate (%), minor allele frequency (MAF), global (pooling the three sampling locations) expected heterozygosity (He), global and per location deviation (p-value) from the Hardy-Weinberg equilibrium (HWE), and flanking sequence. SNP names follow the format [A]_[B] where [A] indicates the contig number and [B] indicates the SNP position in that contig. Target SNP is encoded in the sequence as [REF/ALT] where REF indicates the reference allele ALT indicates the alternative allele. * corresponds to p-value &lt; 0.0001. SIGN. means that at least 1 location is not in HWE for these markers. N.S. corresponds to not significant.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

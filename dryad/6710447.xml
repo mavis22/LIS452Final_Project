@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6710447</identifier><datestamp>2015-08-31T15:17:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G61D1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sharpe, Diana M. T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langerhans, R. Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Low-D&#233;carie, Etienne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapman, Lauren, J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Shape variation across lakes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>contemporary evolution</subject>
+      <subject>predation</subject>
+      <subject>eco-morphology</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>introduced species</subject>
+      <subject>predator-prey interactions</subject>
+      <subject>dagaa</subject>
+      <subject>mukene</subject>
+      <subject>Lake Victoria basin</subject>
+      <subject>Lake Kyoga basin</subject>
+      <subject>Uganda</subject>
+      <subject>East Africa</subject>
+      <subject>Contemporary</subject>
+      <subject>Rastrineobola argentea</subject>
+      <subject>Lates niloticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G61D1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>105343 bytes</size>
+      <size>1591 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains basic biometric data (length, weight, sex, maturity) and raw shape data (partial warps, uniform components, and relative warps) for R. argentea collected from Ugandan lakes in 2010.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

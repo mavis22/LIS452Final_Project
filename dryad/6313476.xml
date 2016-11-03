@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6313476</identifier><datestamp>2015-07-09T17:50:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N0K2F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yuan, Manqiong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chu, Cheng-I</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fang, Ya</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Survey data of 13880 participants in Xiamen, China&#12288;</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N0K2F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>992716 bytes</size>
+      <size>1517 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Rejected by Christine Mayo(christine.mayo@unc.edu), reason: We are returning this item to you for revision because Dryad is currently unable to accept data in languages other than English, and because we would like to request further anonymization of your data, as it pertains to human subjects. Data archived in Dryad is publicly available and any human subject data must be properly anonymized and prepared under applicable legal and ethical guidelines. We welcome you to resubmit any data that is appropriate for sharing. The following article may be helpful:&#13;
+&#13;
+Hrynaszkiewicz I ,Norton ML ,Vickers AJ ,Altman DG. Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers. BMJ 2010;340:c181 http://dx.doi.org/10.1136/bmj.c181 &#13;
+&#13;
+Best practices for human subject data include not using direct ages for subjects over 80 years of age, so we would request that you remove your age category and leave in the age_level category as an alternative. If the values in the community category are specific place names, we would ask that you remove those as well, or code them by number instead. If they are not specific place names, please translate them to English characters as per our language requirements.&#13;
+&#13;
+If you have any questions, please do not hesitate to contact us at help@datadryad.org. on 2015-06-11T15:43:09Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

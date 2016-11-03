@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5597040</identifier><datestamp>2015-06-23T20:19:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1RC64/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lendemer, James C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lendemer, James C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lecanora_layana_input_files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>leprose</subject>
+      <subject>sterile asexually reproducing lichen</subject>
+      <subject>North America</subject>
+      <subject>southern Appalachians</subject>
+      <subject>Mid-Atlantic Coastal Plain</subject>
+      <subject>Anthropocene</subject>
+      <subject>Lecanora</subject>
+      <subject>Lecanoraceae</subject>
+      <subject>Lecanora nothocaesiella</subject>
+      <subject>Lecanora layana</subject>
+      <subject>Lepraria</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1RC64</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16145 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a zipped folder containing the molecular data alignment input files used in the phylogenetic analyses for this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

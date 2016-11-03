@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067125</identifier><datestamp>2015-04-27T18:50:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VG121</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tredennick, Andrew Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanan, Niall Patrick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez, Katelynn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keita, Labassoun</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Effects of tree harvest on the stable-state dynamics of savanna and forest</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Human impact</subject>
+      <subject>Interactions: plant/plant</subject>
+      <subject>Life history: ecology</subject>
+      <subject>Modeling: population ecology</subject>
+      <subject>Grasslands</subject>
+      <subject>Savanna</subject>
+      <subject>Tropical forest</subject>
+      <subject>fuelwood harvest</subject>
+      <subject>survey</subject>
+      <subject>Mali</subject>
+      <subject>West Africa</subject>
+      <subject>Anthropocene</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tredennick AT, Hanan NP (2015) Data from: Effects of tree harvest on the stable-state dynamics of savanna and forest. The American Naturalist 185(5): E153-E165.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VG121/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/680475</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6096968</identifier><datestamp>2015-07-01T04:02:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V1D06/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bj&#246;rkstrand, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agren, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frick, Andreas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Engman, Jonas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsson, Elna-Marie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Furmark, Tomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fredrikson, Mats</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Disruption of memory reconsolidation erases a fear memory trace in the human amygdala:  An 18-month follow-up</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Reconsolidation</subject>
+      <subject>fear conditioning</subject>
+      <subject>reacquisition</subject>
+      <subject>SCR</subject>
+      <subject>fMRI</subject>
+      <subject>amygdala</subject>
+      <subject>follow-up</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V1D06</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3931758 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is data is from a fear conditioning experiment measuring skin conductance and fMRI BOLD, pertaining to the article: Bj&#246;rkstrand J, Agren T, Frick A,  Engman J, Larsson EM, Furmark T, Fredrikson M. Disruption of memory reconsolidation erases a fear memory trace in the human amygdala: An 18-month follow-up, yet to be published. Please consult this article and the original study:  &#8220;Agren T, Engman J, Frick A, Bj&#246;rkstrand J, Larsson EM, Furmark T, Fredrikson M. 2012. Disruption of reconsolidation erases a fear memory trace in the human amygdala. Science 337:1550-1552&#8221; , for details concerning the purpose and design of the study. In the folder SCRdataAndGroup you can find an excel file containing raw and range corrected skin conductance responses (SCR) for all subjects from the follow-up measurement 18 months after fear acqusition, as well as information as to which subject belongs to which group. In the folders named subject1-19 you can find  SPM8 contrast files from the renewal session three days after acquisition. The contrast shows the BOLD response to the first CSplus trial over an immediate preceding baseline for each subject. These files can be used to perform second level analysis using SPM8 for Matlab. &#13;
+In the folder MaskForColocalizationAnalysis you can find the SPM8 image file used to perform the colocalization analysis described in the follow-up study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574491</identifier><datestamp>2015-04-06T20:23:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4CV02/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stoffel, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dufresnes, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okello, John B. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noirard, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joly, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nyakaana, Silvester</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muwanika, Vincent B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alcala, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vuilleumier, S&#233;verine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siegismund, Hans R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fumagalli, Luca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>XML for EBSP analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Population Genetics</subject>
+      <subject>Conservation</subject>
+      <subject>Population expansion</subject>
+      <subject>Population contraction</subject>
+      <subject>Sub-Saharan Africa</subject>
+      <subject>Late Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Hippopotamus amphibius</subject>
+      <subject>Hexaprotodon liberiensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4CV02</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>349430 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">XML file used in BEAST for the Extended Bayesian Skyline Plot (EBSP) analysis of H. amphibius, based on control region, cytochrome-b and nuclear HMG-2 sequences</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

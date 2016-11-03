@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6862642</identifier><datestamp>2015-10-13T14:53:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.667G2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Searcy, Christopher A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaffer, H. Bradley</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Localities</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>Conservation biology</subject>
+      <subject>Demography</subject>
+      <subject>Geographic ranges</subject>
+      <subject>Lakes/ponds</subject>
+      <subject>salamanders</subject>
+      <subject>California</subject>
+      <subject>Ambystoma californiense</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.667G2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>148989 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">List of 1627 localities used to generate the Maxent models in "Do ecological niche models accurately identify climatic determinants of species ranges?" Provided data include the longitude and latitude for each locality and bioclimatic variables ('bio1' to 'bio19'), as extracted from the 'WorldClim' database (for definitions see: http://www.worldclim.org/bioclim). Further information about WorldClim at Hijmans, R.J., S.E. Cameron, J.L. Parra, P.G. Jones and A. Jarvis, 2005. Very high resolution interpolated climate surfaces for global land areas. International Journal of Climatology 25: 1965-1978. http://dx.doi.org/10.1002/joc.1276</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

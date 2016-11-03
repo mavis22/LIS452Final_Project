@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738334</identifier><datestamp>2015-10-19T18:23:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7V1QG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cole, Ella F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Long, Peter R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zelazowski, Przemyslaw</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Szulkin, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DATASET - Predicting bird phenology from space</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>blue tit</subject>
+      <subject>environmental heterogeneity</subject>
+      <subject>EVI</subject>
+      <subject>great tit</subject>
+      <subject>mismatch</subject>
+      <subject>MODIS</subject>
+      <subject>reproductive phenology</subject>
+      <subject>satellite derived</subject>
+      <subject>spatial scale</subject>
+      <subject>wild population</subject>
+      <subject>Oxfordshire</subject>
+      <subject>2001-2013</subject>
+      <subject>Cyanistes caeruleus</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7V1QG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1705244 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Great tit and blue tit breeding data and habitat data was collected in the field. The MOD09Q1 and MYD09Q1 data products used to calculate EVI are courtesy of the online Data Pool at the NASA Land Processes Distributed Active Archive Center (LP DAAC), USGS/Earth Resources Observation and Science (EROS) Center, Sioux Falls, South Dakota. Cloudiness data is based on the same MODIS sensors as in the case of EVI data, this time using the MOD08 product (collection 5.1, accessed through Level 1 and Atmosphere Archive and Distribution System &#8211; LAADS, ladsweb.nascom.nasa.gov).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

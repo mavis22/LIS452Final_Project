@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2836030</identifier><datestamp>2015-03-26T06:31:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5086F/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Carter, Alecia J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>English, Sinead</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clutton-Brock, Tim H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>guarding data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Constraints</subject>
+      <subject>Evolution of co-operation</subject>
+      <subject>Mammals</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Trade-offs</subject>
+      <subject>Kalahari</subject>
+      <subject>Suricata suricatta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5086F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>534577 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">individualBouts: number of times the individual went on raised guard during the month,	totalGroupBouts: total number of times any group member went on raised guard during the month,	lnAge: the natural log of the individuals age, condition: the relative mass of the individual for its age,	groupSize: the average group size of the group for the month, proportionPregnant: the proportion of the month the individual was pregnant, totalObservationTime: the total time the group was observed for that month,	individualID: code for the individual, group: code for the group, monthYear: code for the month within the year, dominanceStatus: the proportion of days an individual was dominant during the month, everDominant: whether the individual ever became dominant within its lifetime</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

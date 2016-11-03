@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4284097</identifier><datestamp>2015-01-30T21:21:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JC0DF</identifier>
+  <creators>
+      <creator>
+         <creatorName>James, Patrick M. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooke, Barry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brunet, Bryan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lumley, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sperling, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fortin, Marie-Jos&#233;e</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quinn, Vanessa S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sturtevant, Brian R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Life-stage differences in spatial genetic structure in an irruptive forest insect: implications for dispersal and spatial synchrony</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>insect outbreaks</subject>
+      <subject>cyclic populations</subject>
+      <subject>microsatellites</subject>
+      <subject>multivariate analysis</subject>
+      <subject>population genetics</subject>
+      <subject>spruce budworm</subject>
+      <subject>Minnesota (USA)</subject>
+      <subject>Ontario (Canada)</subject>
+      <subject>Choristoneura fumiferana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">James PMA, Cooke B, Brunet B, Lumley L, Sperling F, Fortin M, Quinn VS, Sturtevant BR (2015) Life-stage differences in spatial genetic structure in an irruptive forest insect: implications for dispersal and spatial synchrony. Molecular Ecology 24(2): 296-309.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JC0DF/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JC0DF/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13025</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

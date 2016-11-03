@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3991945</identifier><datestamp>2014-10-07T18:53:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7P2R4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pringle, Elizabeth G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Novo, Alexandria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ableson, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barbehenn, Raymond V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vannette, Rachel L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Chemical and experimental data for Pringle et al. 2014 Ecol Evol</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>carbohydrate</subject>
+      <subject>cardenolides</subject>
+      <subject>milkweeds</subject>
+      <subject>phloem chemistry</subject>
+      <subject>tritrophic interactions</subject>
+      <subject>sugars</subject>
+      <subject>Aphis nerii</subject>
+      <subject>Asclepias curassavica</subject>
+      <subject>Asclepias incarnata</subject>
+      <subject>Linepithema humile</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7P2R4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>236741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The zipped file contains 5 excel workbooks and a ReadMe file. The excel workbooks contain chemical data on sugars/carbohydrates, amino acids, and cardenolides, as well as experimental data from the forced-diet and choice experiments described in the manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

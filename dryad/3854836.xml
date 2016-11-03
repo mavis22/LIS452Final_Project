@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3854836</identifier><datestamp>2014-10-30T18:00:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1HN66/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yadav, Vandana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Molina, Isabel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ranathunge, Kosala</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castillo, Indira Queralta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rothstein, Steven J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reed, Jason W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supp dataset S2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>suberin</subject>
+      <subject>ABCG</subject>
+      <subject>nexine</subject>
+      <subject>Arabidopsis thaliana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1HN66</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44032 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplemental Dataset S2. Translatome data for suberin biosynthesis and ABCG genes in different root and shoot cell types.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

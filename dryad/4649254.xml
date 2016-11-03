@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4649254</identifier><datestamp>2015-02-03T15:29:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1P29/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roitberg, Evgeny S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eplanova, Galina V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kotenko, Tatiana I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amat, F&#232;lix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carretero, Miguel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuranova, Valentina N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bulakhova, Nina A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zinenko, Oleksandr I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yakovlev, Vladimir A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Roitberg_et_al_geographic_distances</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life history evolution</subject>
+      <subject>body size</subject>
+      <subject>geographic variation</subject>
+      <subject>fecundity-advantage hypothesis</subject>
+      <subject>female reproductive output</subject>
+      <subject>lizards</subject>
+      <subject>offspring size</subject>
+      <subject>sexual size dimorphism</subject>
+      <subject>Winkler &amp; Wallin model</subject>
+      <subject>Europe</subject>
+      <subject>Asia</subject>
+      <subject>recent time</subject>
+      <subject>Lacerta agilis agilis</subject>
+      <subject>Lacerta agilis exigua</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P1P29</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4631 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Geographic distances among study samples (in km) used in our Mantel tests: &#13;
+&#13;
+See Fig. 1 in Roitberg et al. (2015) for geographic map and Table 1 for the phenotypic characteristics of the study samples.&#13;
+&#13;
+The distances were calculated using the geographic coordinates.  Note that for most study samples, values for the longitude and the latitude are average values for several sites from which the study animals were collected; sites which provided relatively small amount of data were not considered for computing these average values.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

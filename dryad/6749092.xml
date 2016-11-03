@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6749092</identifier><datestamp>2015-10-14T17:09:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2C47D</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martinho III, Antone</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biro, Dora</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guilford, Tim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gagliardo, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kacelnik, Alex</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Asymmetric visual input and route recapitulation in homing pigeons</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>homing</subject>
+      <subject>tecto-fugal pathway</subject>
+      <subject>monocular route learning</subject>
+      <subject>route recapitulation</subject>
+      <subject>visual asymmetry</subject>
+      <subject>learning</subject>
+      <subject>Columba livia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Martinho III A, Biro D, Guilford T, Gagliardo A, Kacelnik A (2015) Asymmetric visual input and route recapitulation in homing pigeons. Proceedings of the Royal Society B 282(1816): 20151957.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C47D/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C47D/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2015.1957</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

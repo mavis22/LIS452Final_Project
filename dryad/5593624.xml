@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5593624</identifier><datestamp>2015-06-16T18:27:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3QK53/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Savage, Anna E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Becker, Carlos Guilherme</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zamudio, Kelly R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsatellite data for 14 loci and 14 Lithobates yavapaiensis sampling localities in Arizona, USA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Amphibian</subject>
+      <subject>Population Genetics</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Disease Biology</subject>
+      <subject>Host Parasite Interactions</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3QK53</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>114524 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Allelic genotypes are shown for each individual and microsatellite locus, with individuals grouped by sampling locality. Locality abbreviations are as follows: AS = Aliso Spring; AC = Aravaipa Canyon; CC = Cottonwood Canyon; CIC = Cienega Creek; HS = House Spring; HR = Hassayampa River; MRHS = Muleshoe Ranch, Hot Springs; MRSS = Muleshoe Ranch, Secret Spring; MRBC = Muleshoe Ranch, Bass Canyon; SM = Santa Maria River; SS = Seven Springs; TV = Tanque Verde Canyon; WC = Willow Creek; UH = Upper Hassayampa.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5498298</identifier><datestamp>2015-04-14T18:18:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.41M4D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Orford, Katherine A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Visitation network and pollen transport data of the studies used in the analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>non-syrphid Diptera</subject>
+      <subject>pollinators</subject>
+      <subject>pollen-loads</subject>
+      <subject>pollen-transport networks</subject>
+      <subject>UK</subject>
+      <subject>Australia</subject>
+      <subject>Syrphidae</subject>
+      <subject>Diptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.41M4D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>586741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plant-pollinator visitation network data and pollen transport data (including number of pollen grains found on the insects' bodies when swabbed) of the studies used in the analysis. The tabs along the bottom are for each of the 11 studies. Latin names are given. The habitat, sampling design (transect or plot design) and location are given at the top of each spreadsheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

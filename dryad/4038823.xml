@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4038823</identifier><datestamp>2014-12-10T20:32:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V883P/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bergland, Alan O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Behrman, Emily L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Brien, Katherine R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmidt, Paul S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petrov, Dmitri A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Anntotated VCF file</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Seasonal adaptation</subject>
+      <subject>Polygenic adaptation</subject>
+      <subject>Balancing selection</subject>
+      <subject>Temperate environments</subject>
+      <subject>Rapid adaptation</subject>
+      <subject>Population genetics</subject>
+      <subject>Next-generation sequencing</subject>
+      <subject>North America</subject>
+      <subject>Florida</subject>
+      <subject>Georgia</subject>
+      <subject>South Carolina</subject>
+      <subject>North Carolina</subject>
+      <subject>Pennsylvania</subject>
+      <subject>Maine</subject>
+      <subject>Holocene</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V883P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>109495849 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Annotated VCF file containing allele frequency and read depths of the 14 samples described in Bergland et al. Annotations include p- and q-values from models of seasonality and clinality; genic annotations; average frequencies; and, quality filters. This VCF file only contains SNPs with average minor allele frequency &gt; 0.15.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4238733</identifier><datestamp>2014-12-12T19:01:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.79QD9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hamilton, Scott L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caselle, Jennifer E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Exploitation and recovery of a sea urchin predator has implications for the resilience of southern California kelp forests</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>California sheephead</subject>
+      <subject>Marine protected areas</subject>
+      <subject>Recovery from fishing</subject>
+      <subject>Size-structured trophic interactions</subject>
+      <subject>Southern California</subject>
+      <subject>Channel Islands</subject>
+      <subject>1970-2012</subject>
+      <subject>Semicossyphus pulcher</subject>
+      <subject>Macrocystis pyrifera</subject>
+      <subject>Stronglyocentrotus purpuratus</subject>
+      <subject>Mesocentrotus franciscanus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hamilton SL, Caselle JE (2015) Exploitation and recovery of a sea urchin predator has implications for the resilience of southern California kelp forests. Proceedings of the Royal Society B 282(1799): 20141817.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.79QD9/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.1817</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

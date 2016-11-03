@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5560677</identifier><datestamp>2015-05-27T20:14:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T4T1Q</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liefting, Maartje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Grunsven, Roy H. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Michael B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timmermans, Martijn J. T. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ellers, Jacintha</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Interplay of robustness and plasticity of life history traits drives ecotypic differentiation in thermally distinct habitats</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>temperature</subject>
+      <subject>ecotype-specific</subject>
+      <subject>reaction norm</subject>
+      <subject>life history theory</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>random regression mixed model</subject>
+      <subject>inflation of variance</subject>
+      <subject>Netherlands</subject>
+      <subject>Orchesella cincta</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Liefting M, van Grunsven RHA, Morrissey MB, Timmermans MJTN, Ellers J (2015) Interplay of robustness and plasticity of life history traits drives ecotypic differentiation in thermally distinct habitats. Journal of Evolutionary Biology 28(5): 1057-1066.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T4T1Q/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T4T1Q/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T4T1Q/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/JEB.12629</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

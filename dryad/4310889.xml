@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4310889</identifier><datestamp>2014-12-10T17:39:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GF067/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schaum, C. Elisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collins, Sin&#233;ad</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for Figure 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Adaptation</subject>
+      <subject>climate change</subject>
+      <subject>oceanography</subject>
+      <subject>Ostreococcus tauri</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GF067</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8518 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Description: columns in csv file contain data as follows: ecotype - lineage of Ostreococccus. Initial plasticity - plasticity as measured at t0. Response - fitness response as measured at t400. for calculation see main manuscript and SI. whichresp - indicates whether response was measured in ancestral or selection environment. sdini and sdresp are standard deviations for plasticity at t0 and fitness response at t400 respectively. Here, they are pooled for 3 biological and 3 technical replicates. clade - clade A,B,C,D based on ITS sequences. year and culturing for year of isolation and culturing method at the Roscoff culture collection respectively. wherefrom: sampling depth as factor. Pst0 and growtht0 - are photosynthesis and growth rates at t0 (foldchange PS and foldchangegrowth are foldchanges thereof). Figure legend: (a&#8211;d) Lineages with higher ancestral plasticity evolve more. Direct and correlated responses to selection plotted as a function of plasticity in oxygen evolution rates before evolution (ancestral plasticity). For all panels (a&#8211;d), different shapes represent mean values for each lineages &#177; 1 s.e. For each lineage n = 3. Dashed line indicates no response to selection. Panel (a) (selection in FH, assay at 1000 ppm CO2): ancestral plasticity in FH evolved lineages predicts up to 47% of the evolutionary response (F2,13 = 210.67, p &lt; 0.001). FH populations evolve slow growth in response to high pCO2. Panel (b) (selection in SH, assay at 1000 ppm CO2): with no selection for plasticity, a linear relationship using ancestral plasticity as the only explaining variable is not statistically significant (p = 0.63). Still, most lineages evolve lower growth rates (range from &#8722;0.31 to &#8722;0.08, mean &#8722;0.15 &#177; 0.12). Panel (c) (selection in FH, assay at 430 ppm CO2): ancestral plasticity is a significant nonlinear predictor of the correlated response to selection (F2,13 = 563.38, p &lt; 0.0001). Lineages from FH increased their growth rate at ambient pCO2 the most when their ancestral plasticity was high (increase in growth of 0.12&#8211;0.30, mean 0.19 &#177; 0.05). Panel (d) (selection in SH, assay at 430 ppm CO2): lineages selected in SH had a negative correlated response, and the relationship between ancestral plasticity and the correlated response to selection was significant (F2,13 = 22.28, p &lt; 0.01), though best described by a nonlinear fit (p-values and r2 reported on the panels are for linear regression).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

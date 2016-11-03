@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6353759</identifier><datestamp>2015-06-29T18:26:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C2SS6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wood, Eric M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>BBS_Routes_Housing_and_Bird_Guild_Abundance_Richness_inside_outside_USA_Protected_Areas</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>avian abundance</subject>
+      <subject>avian richness</subject>
+      <subject>BBS</subject>
+      <subject>inholding</subject>
+      <subject>private land</subject>
+      <subject>public land</subject>
+      <subject>species of greatest conservation need</subject>
+      <subject>synanthrope</subject>
+      <subject>Conterminous United States</subject>
+      <subject>1970-2010</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C2SS6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>24467 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains Data on 45 USA Breeding Bird Survey Routes, their associated Bird Conservation Region, housing density summarized within 400 m of BBS routes, and bird guilds, as described in our paper. Further, we provide summarized (proportion of 400 m buffers of BBS routes) National Land Cover Database layers. Additionally, this file contains housing density for paired BBS routes (routes located outside Protected Areas). The outside protected area housing density was summarized within 400 m of BBS Routes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

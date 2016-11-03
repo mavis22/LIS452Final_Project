@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3847385</identifier><datestamp>2014-10-01T17:41:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.62NK0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Elran, Ron</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raam, Maayan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraus, Roey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brekhman, Vera</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sher, Noa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plaschkes, Inbar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chalifa-Caspi, Vered</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lotan, Tamar</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Early and late response of Nematostella vectensis transcriptome to heavy metals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Metal</subject>
+      <subject>RNAseq</subject>
+      <subject>Israel</subject>
+      <subject>Nematostella vectensis</subject>
+      <subject>Nematostella</subject>
+      <subject>Cnidaria</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Elran R, Raam M, Kraus R, Brekhman V, Sher N, Plaschkes I, Chalifa-Caspi V, Lotan T (2014) Early and late response of Nematostella vectensis transcriptome to heavy metals. Molecular Ecology 23(19): 4722-4736.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.62NK0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12891</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

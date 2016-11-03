@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5752710</identifier><datestamp>2015-06-17T18:06:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.51V2S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kidd, Lindall R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simmonds, Emily G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cole, Ella F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Breeding data from a nestbox population of great tits with individuals identified earlier than standard protocol</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Detectability bias</subject>
+      <subject>great tits</subject>
+      <subject>natural populations</subject>
+      <subject>sampling</subject>
+      <subject>selection</subject>
+      <subject>Wytham Woods</subject>
+      <subject>UK</subject>
+      <subject>Oxford</subject>
+      <subject>2009</subject>
+      <subject>2010</subject>
+      <subject>2012</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.51V2S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>593408 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were collected in the field (Wytham Woods, UK, Oxfordshire) as part of a long term study of great tits. RFID technology was used to identify individuals earlier in their breeding attempt than the traditional protocol.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

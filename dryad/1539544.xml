@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1539544</identifier><datestamp>2014-05-30T08:03:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CT5V8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hasselman, Daniel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ricard, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bentzen, Paul</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic diversity and differentiation in a wide ranging anadromous fish, American shad (Alosa sapidissima), is correlated with latitude</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>American shad</subject>
+      <subject>microsatellites</subject>
+      <subject>latitude</subject>
+      <subject>clinal variation</subject>
+      <subject>population structure</subject>
+      <subject>reproductive strategies</subject>
+      <subject>Rangewide (Florida to Quebec)</subject>
+      <subject>Alosa sapidissima</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hasselman DJ, Ricard D, Bentzen P (2013) Genetic diversity and differentiation in a wide ranging anadromous fish, American shad (Alosa sapidissima), is correlated with latitude. Molecular Ecology 22(6): 1558&#8211;1573.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CT5V8/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12197</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

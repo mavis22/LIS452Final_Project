@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665008</identifier><datestamp>2015-10-26T20:54:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8066V/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chelo, Ivo M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teot&#243;nio, Henrique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Simulated data - deleterious recessive alleles - A populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <dates>
+      <date dateType="Accepted">2012-07-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8066V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3082 bytes</size>
+      <size>227402622 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-07-13T17:02:18Z (GMT). No. of bitstreams: 2
+Del_recessive_A.R: 89 bytes, checksum: 907c6680aea59a01350850e44cb08745 (MD5)
+README.txt: 3082 bytes, checksum: 9ebb5747f09b6b2f6307f6d79c477e06 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

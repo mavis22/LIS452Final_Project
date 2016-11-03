@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6686871</identifier><datestamp>2015-08-24T17:06:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D5J06/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paaby, Annalise B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Amelia G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riccardi, David D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gunsalus, Kristin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piano, Fabio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rockman, Matthew V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Embryonic lethality data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cryptic genetic variation</subject>
+      <subject>genetic background</subject>
+      <subject>modifier variation</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D5J06</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1985095 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a tab-delimited text file with one header row, 27,360 data rows, and 19 columns. Each data row corresponds to a unique image taken of a well in a 96-well plate, in which there are (potentially) adult worms, dead embryos, and living larvae. The column headers are: adults_man (the number of adults in the image, manually counted by a human); eggs_man (the score of the abundance of dead embryos in the image, from 0 to 9, scored manually by a human); larvae_man (the score of the abundance of living larvae in the image, from 0 to 9, scored manually by a human); strain (the worm strain); vector (the gene targeted by RNAi, or in the case of "empty," the negative control RNAi clone); date (the one of three date batches in which the experiments were conducted); well_row (the row, from A to H, in a 96-well plate, in which the well was located); well_col (the column, from 1 to 12, in a 96-well plate, in which the well was located); fol_strain (the grouping, from a to c, to which the worm strain in this image belonged when it was dispensed into the 96-well plates; strains were dispensed in sets of 8, as each plate has 8 rows); fol_lib (the RNAi library, from 1 to 4, to which the bacteria in this well belonged when it was dispensed); fol_bac_rep (the batch of bacterial culture, either "car," "gre," or "roy" that was dispensed into this well; from a single bacterial library, three replicate culture batches were grown in three deep-well 96-well plates, from which the RNAi bacteria were dispensed into the experimental plates); fol_plate_rep (the replicate plate number, from 1 to 8; each experimental condition of worm strain and RNAi vector was replicated 8 times, across the three replicate batches of bacterial culture); image (the image number, from 1 to 96, in a 96-well plate, assigned by the image capture software); adult_area (the number of pixels assigned to the "adult" category by the DevStaR algorithm); larva_area (the number of pixels assigned to the "larva" category by the DevStaR algorithm); egg_area (the number of pixels assigned to the "embryo" category by the DevStaR algorithm); adults (the count of adults in the image by the DevStaR algorithm); larvae (the count of living larvae in the image by the DevStaR algorithm); eggs (the count of dead embryos in the image, determined by dividing egg_area by 70). NA values in the manually scored columns (adults_man, eggs_man, larvae_man) indicate that the well failed to grow a mature culture of worms. This is often due to somatic lethality of the targeted gene (e.g. the somatic control vector tba-2), or to fungal contamination. Because these images were checked by a human eye, rows with NAs in the manual columns should be excluded from most analyses.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

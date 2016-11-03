@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1211594</identifier><datestamp>2015-10-02T14:58:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VG0B5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Popat, Roman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crusz, Shanika A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Messina, Marco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>West, Stuart A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Diggle, Stephen P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Quorum sensing and cheating in bacterial biofilms</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Quorum sensing</subject>
+      <subject>Biofilms</subject>
+      <subject>Public goods</subject>
+      <subject>Spatial structure</subject>
+      <subject>Cooperation</subject>
+      <subject>Cheating</subject>
+      <subject>Pseudomonas aeruginosa</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Popat R, Crusz SA, Messina M, Williams P, West SA, Diggle SP (2012) Quorum sensing and cheating in bacterial biofilms. Proceedings of the Royal Society B 279(1748): 4765-4771.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VG0B5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2012.1976</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

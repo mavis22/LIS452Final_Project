@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282256</identifier><datestamp>2014-12-11T17:52:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2P51N/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pi&#241;ol, Josep</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mir, Gisela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomez-Polo, Priscila</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agusti, Nuria</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>chip2_bp00x_t40_c40</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Insects</subject>
+      <subject>annealing temperature</subject>
+      <subject>PCR cycles</subject>
+      <subject>PCR bias</subject>
+      <subject>Ion Torrent</subject>
+      <subject>Theridion sp.</subject>
+      <subject>Philodromus cespitum</subject>
+      <subject>Phyllocnistis citrella</subject>
+      <subject>Adalia decempunctata</subject>
+      <subject>Episyrphus balteatus</subject>
+      <subject>Aphidius colemani</subject>
+      <subject>Orius majusculus</subject>
+      <subject>Orius laevigatus</subject>
+      <subject>Macrolophus melanotoma</subject>
+      <subject>Aphis spiraecola</subject>
+      <subject>Trichopsocus clarus</subject>
+      <subject>Entomobrya sp.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2P51N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>31068582 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data in fastq format from the sequencing of the mock sample using a 314 Ion Torrent chip. &#13;
+PCR conditions (see table 1 for details):&#13;
+&#13;
+chip = 2 &#13;
+blocking  primer concentration = 00x &#13;
+annealing temperature = 40&#13;
+PCR cycles = 40</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804753</identifier><datestamp>2015-02-25T16:03:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8N5D7/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Husemann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cousseau, Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Callens, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthysen, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vangestel, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallmann, Caspar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lens, Luc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>PG_BIMr_nestlings_fledglings</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>approximate Bayesian computation</subject>
+      <subject>capture-recapture</subject>
+      <subject>census population size</subject>
+      <subject>demography</subject>
+      <subject>effective population size</subject>
+      <subject>gene flow</subject>
+      <subject>Taita Hills</subject>
+      <subject>Kenya</subject>
+      <subject>Holocene</subject>
+      <subject>Phyllastrephus cabanisi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8N5D7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12933 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset used to estimate recent migration rates (BIMr software: Faubet &amp; Gaggiotti 2008) from nestlings and recent fledglings (second period only).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

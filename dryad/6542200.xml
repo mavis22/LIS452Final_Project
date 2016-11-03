@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6542200</identifier><datestamp>2015-08-25T18:32:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3B17F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Al&#243;s, Josep</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puiggros, Antoni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>D&#237;az-Gil, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palmer, Miquel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossell&#243;, Rosario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arlinghaus, Robert</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data base</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-08-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3B17F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53760 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Latency time (in seconds) and event (bite=1 or not=0) measured in the four species evaluated in the study (Chromis chromis, Coris julis, Serranus scriba and Diplodus annularis) at different distances (in m) to the no-take of Palma Bay. The covariates of the habitat (PCA1 and PCA2) and density of other fish are also included.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

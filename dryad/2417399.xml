@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2417399</identifier><datestamp>2015-02-20T18:33:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1QP80</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cronin, Matthew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rincon, Gonzalo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meredith, Robert W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>MacNeil, Michael D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Islas-Trejo, Alma</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Canovas, Angela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Medrano, Juan F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Molecular phylogeny and SNP variation of polar bears (Ursus maritimus), brown bears (U. arctos) and black bears (U. americanus) derived from genome sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Phylogeny</subject>
+      <subject>Polar</subject>
+      <subject>brown</subject>
+      <subject>black Bears</subject>
+      <subject>Ultra-conserved elements</subject>
+      <subject>molecular clock</subject>
+      <subject>single nucleotide polymorphism SNP</subject>
+      <subject>Genomics and gene mapping</subject>
+      <subject>Molecular systematics and phylogenetics</subject>
+      <subject>Ursus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cronin MA, Rincon G, Meredith RW, MacNeil MD, Islas-Trejo A, Canovas A, Medrano JF (2014) Molecular phylogeny and SNP variation of polar bears (Ursus maritimus), brown bears (U. arctos) and black bears (U. americanus) derived from genome sequences. Journal of Heredity 105(3): 312-323.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1QP80/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1QP80/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/JHERED/EST133</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4585067</identifier><datestamp>2015-02-17T15:07:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.76173/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tr&#248;jelsgaard, Kristian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Site7_TenerifeSouth1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>beta-diversity</subject>
+      <subject>coevolution</subject>
+      <subject>distance decay</subject>
+      <subject>opportunism</subject>
+      <subject>pollination networks</subject>
+      <subject>island ecology</subject>
+      <subject>Canary Islands</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.76173</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2314 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Pollination matrix from Tenerife South (Site 7). Pollination networks are arranged with pollinators in the rows and plant species in the columns. Values in the matrix represents total number of observed visits between plants and pollinators.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

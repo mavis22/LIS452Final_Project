@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2604019</identifier><datestamp>2015-01-02T07:32:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SM32J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Valenzuela-Mu&#241;oz, Valentina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gallardo-Esc&#225;rate, Cristian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: TLR and IMD signaling pathways from Caligus rogercresseyi (Crustacea: Copepoda): in silico gene expression and SNPs discovery</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>TLR pathway</subject>
+      <subject>IMD pathway</subject>
+      <subject>RNA-Seq</subject>
+      <subject>SNPs</subject>
+      <subject>X Region</subject>
+      <subject>Chile</subject>
+      <subject>Caligus rogercresseyi</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Valenzuela-Mu&#241;oz V, Gallardo-Esc&#225;rate C (2014) TLR and IMD signaling pathways from Caligus rogercresseyi (Crustacea: Copepoda): in silico gene expression and SNPs discovery. Fish &amp; Shellfish Immunology 36(2): 428&#8211;434.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SM32J/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.FSI.2013.12.019</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

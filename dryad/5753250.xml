@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5753250</identifier><datestamp>2015-08-03T19:04:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.123QG/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Song, Sue V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Downes, Sharon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parker, Tracey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeshott, John G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robin, Charles</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cyp305</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Helicoverpa armigera</subject>
+      <subject>linkage disequilibrium</subject>
+      <subject>selective sweep</subject>
+      <subject>adaptive introgression</subject>
+      <subject>P450</subject>
+      <subject>Australia</subject>
+      <subject>China</subject>
+      <subject>India</subject>
+      <subject>Burkino Faso</subject>
+      <subject>Pakistan</subject>
+      <subject>Uganda</subject>
+      <subject>contemporary</subject>
+      <subject>Helicoverpa armigera</subject>
+      <subject>Helicoverpa assulta</subject>
+      <subject>Helicoverpa punctigera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.123QG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18735 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alleles of intron of Cyp305 from Helicoverpa armigera</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

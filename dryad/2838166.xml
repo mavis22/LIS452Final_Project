@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2838166</identifier><datestamp>2015-09-23T12:53:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M4CC1/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hale, Matthew C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colletti, John A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gahr, Scott A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scardina, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thrower, Frank P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harmon, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carter, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phillips, Ruth B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thorgaard, Gary H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rexroad, Caird E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nichols, Krista M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sashin_supplementalfile_h2linecross</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>qPCR</subject>
+      <subject>quantitative genetics</subject>
+      <subject>quantitative trait loci</subject>
+      <subject>salmonid Subject area: Genomics and gene mapping</subject>
+      <subject>Quantitative genetics and Mendelian inheritance</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M4CC1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>730569 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file with ATU data used for quantitative genetics. Sheet one contains the heritability, live cross, and ATU data. Sheet 2 family means for the number of ATUs. Sheet 3 sample, cross, ATUs, and genotypes for three candidate genes; clock1a, GHR1 and Myd118-1</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

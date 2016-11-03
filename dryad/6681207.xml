@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6681207</identifier><datestamp>2015-09-09T20:37:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8962F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Catano, Laura B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rojas, Maria C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Malossi, Ryan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peters, Joseph R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heithaus, Michael R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fourqurean, James W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burkepile, Deron E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>JAE_Grouper_Decoy_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral reef</subject>
+      <subject>landscape of fear</subject>
+      <subject>non-consumptive effects (NCEs)</subject>
+      <subject>predator-prey interactions</subject>
+      <subject>predator risk effects</subject>
+      <subject>rugosity</subject>
+      <subject>Florida Keys</subject>
+      <subject>Sparisoma aurofrenatum</subject>
+      <subject>Acanthurus coeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8962F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>35697 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset includes the five foraging metrics quantified during predator and control trials including: (a) percentage of seagrass consumed/hour, (b) bites on seagrass/hour, (c) bites on benthos/hour, (d) individual feeding rates (bites/minute) and (e) forager size (cm). The data is aggregated by plot and by distance from the predator decoy. Additionally, we include the number of natural predators observed from video footage aggregated at the site level and at the distance level. Metadata is included in the file describing each column.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

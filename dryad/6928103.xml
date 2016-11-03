@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6928103</identifier><datestamp>2015-11-02T07:41:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75427/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kratochwil, Claudius F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geissler, Laura</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Irisarri, Iker</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Axel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Alignments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>teleost</subject>
+      <subject>development</subject>
+      <subject>ontogeny</subject>
+      <subject>gene regulatory network</subject>
+      <subject>cichlid</subject>
+      <subject>NC-genes</subject>
+      <subject>hourglass model</subject>
+      <subject>Actinopterygii</subject>
+      <subject>Teleosts</subject>
+      <subject>Chichlidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.75427</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>187648 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">We downloaded gene sequences of 11 of the 16 species from Ensembl release 75 (Flicek et al. 2014). After identifying orthologous loci using the EnsemblCompara pipeline (Vilella et al. 2009), we extracted the longest transcript coding sequence (CDS) of each gene. Sequences for cichlid species other than the Nile Tilapia, Oreochromis niloticus, were obtained from the deposited genome assemblies (Brawand et al. 2014; Elmer et al. 2014). Orthologous loci in cichlid genomes were identified by BLASTN searches using Nile Tilapia sequences as queries and an e-value threshold of 10 -4.The integrity of obtained sequences was double-checked by BLASTN searches against available transcriptomes to ensure correct reading frames. Multiple sequence alignments of individual genes were constructed with translatorX (Abascal et al. 2010): After translation, sequences are aligned at the amino acid level using MUSCLE (Edgar 2004), unreliable amino acid positions are removed with Gblocks (Castresana 2000) under the least stringent parameters, and the corresponding nucleotide alignments are created guided by trimmed amino acid alignments. Maximum-likelihood phylogenetic reconstruction was performed with PhyML version 3.1 (Guindon et al. 2010) after best-fit models of evolution were chosen based on AICc (Akaike information criterion with correction) scores (Hurvich and Tsai 1989) calculated in jModeltest version 2.1.5 (Posada 2008).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

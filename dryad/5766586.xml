@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766586</identifier><datestamp>2015-06-02T17:45:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KG943/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pope, Lisa C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liggins, Libby</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keyse, Jude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carvalho, Silvia B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riginos, Cynthia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data_ME15-008_final</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>data archiving</subject>
+      <subject>repurpose</subject>
+      <subject>data accessibility</subject>
+      <subject>metadata</subject>
+      <subject>georeferencing</subject>
+      <subject>data sharing</subject>
+      <subject>biological ontology</subject>
+      <subject>reproducibility</subject>
+      <subject>data standards</subject>
+      <subject>data re-use</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KG943.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18498 bytes</size>
+      <size>202351 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This excel file contains information obtained from reviewing ME articles to determine rate of public data archiving, and patio-temporal data provision. The first page contains all data plus notes, details of which are outlined in the readme file. The second page can be downloaded as a .csv for use in our R script.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5542000</identifier><datestamp>2015-04-03T14:29:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5JQ6P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lohse, Konrad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clarke, Magnus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritchie, Michael G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etges, William J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad_data_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Speciation with gene flow</subject>
+      <subject>Inversions</subject>
+      <subject>Divergence genomics</subject>
+      <subject>Mexico</subject>
+      <subject>Baja California</subject>
+      <subject>Sonora</subject>
+      <subject>Pleistocene</subject>
+      <subject>Drosophila mojavensis</subject>
+      <subject>Drosophila arizonae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5JQ6P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6891520 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The folder contains .txt files of counts of divergent sites between D. arizonae and D. mojavensis in 250 and 500 bp blocks of intergenic sequence. These are the input files (readable with the Mathematica function ReadList[]) for fitting the IIM model using an analytic expression for the likelihood derived by Wilkinson-Herbots (2012). For details see Methods in Lohse et al (2015). Each block is summarized as a nested list {{S_div, S_het}, total length, pos}. The four entries are:&#13;
+&#13;
+S_div: 		Number of divergent sites&#13;
+S_het: 		Number of heterozygous sites in both species&#13;
+total length: 	Total physical length of the block in the Dmoj reference genome including sites that did not pass filtering. &#13;
+pos: 		Position on the scaffold (mean position of all called sites)&#13;
+&#13;
+Blocks containing heterozygous sites or a physical length &gt; 2x the number of called sites were not used in the analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

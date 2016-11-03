@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6509241</identifier><datestamp>2015-08-21T11:57:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T9Q11/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Porro, Laura B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rayfield, Emily J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clack, Jennifer A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Appendix S2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>early tetrapod</subject>
+      <subject>feeding</subject>
+      <subject>fish</subject>
+      <subject>lower jaw</subject>
+      <subject>computed tomography</subject>
+      <subject>Quebec</subject>
+      <subject>Canada</subject>
+      <subject>Devonian</subject>
+      <subject>Eusthenopteron foordi</subject>
+      <subject>Eusthenopteron</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T9Q11</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25563 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Transformation matrices for three-dimensional surface models of individual bones of the lower jaw of Eusthenopteron foordi.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

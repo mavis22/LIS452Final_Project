@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342676</identifier><datestamp>2015-06-22T17:17:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KP6J2/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lamer, James T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruebush, Blake C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arbieva, Zarema H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McClelland, Michael A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Epifanio, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sass, Gregory G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP genotypes plus field and lab data on each fish</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNP</subject>
+      <subject>hybridization</subject>
+      <subject>introgression</subject>
+      <subject>invasive species</subject>
+      <subject>bighead carp</subject>
+      <subject>silver carp</subject>
+      <subject>Mississippi River Basin</subject>
+      <subject>1998-2012</subject>
+      <subject>Hypophthalmichthys nobilis</subject>
+      <subject>Hypophthalmichthys molitrix</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KP6J2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2440384 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A unique code for each individual is given in the first column and each location sampled is represented by a four character acronym described in the manuscript. The top 2 rows are bighead carp and silver carp species-specific SNPs that correspond to each locus (row 3). Column ten is the mitochondrial COII locus followed by 57 nuclear SNP loci.  Following each unique individual code, starting in column 2 and ending in column 9, is the river reach of capture, river of capture, 57 locus genetic identification based on manual and NewHybrids assignment, morphological field identification, total length (mm), total weight (g), age as determined by postcleithra annuli counts, and birth year determined by subtracting the age from the year of capture.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82478</identifier><datestamp>2015-10-20T21:29:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1FM3F/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rowe, Kevin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singhal, Sonal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>MacManes, Matthew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ayroles, Julien F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morelli, Toni Lyn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rubidge, Emily M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bi, Ke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Craig C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dryad.tar.bz2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Next-generation sequencing</subject>
+      <subject>natural history collections</subject>
+      <subject>historical DNA</subject>
+      <subject>Rattus</subject>
+      <subject>California</subject>
+      <subject>Holocene</subject>
+      <subject>Rattus norvegicus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-06-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1FM3F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9315638128 bytes</size>
+      <size>1023 bytes</size>
+      <size>1019 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This tarball consists of three main types of files. 1. library*.sorted.bam =&gt; These are the files that resulted from using Bowtie to map the trimmed reads in the seq/ dir to the the RGSC3.4 assembly. Also included are associated index (*.bai) files 2. assembleMito.fa =&gt; This is the assembly of the sequenced rat's mitochondrial genome resulting from de novo assembly of the reads using ABySS. 3. seq/ contains the reads trimmed for contamination, adapter, and low-quality as discussed in the publication. library5* is derived from the molar. library6* is derived from the toe. *_1_* reads are forward reads; *_2_* reads are reverse reads. Any reads that lost their mate-pair during the trimming process are not included here although they were used for mapping. These reads are available from S. Singhal upon request. Note: scripts used for analysis and other data are available from S. Singhal upon request.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

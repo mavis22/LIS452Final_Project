@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6277887</identifier><datestamp>2015-06-18T19:57:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7QH1R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Li, Dayong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Huijuan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Song, Qiuming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Lu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Shixia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hong, Yongbo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huang, Lei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Song, Fengming</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Protein sequences used in phylogenetic tree analysis of Sl-MMPs with other plant MMPs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>tomato</subject>
+      <subject>Matrix metalloproteinases</subject>
+      <subject>Pseudomonas syringae pv. tomato DC3000</subject>
+      <subject>disease resistance</subject>
+      <subject>Proteolysis</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Glycine max</subject>
+      <subject>Hordeum vulgare</subject>
+      <subject>Medicago truncatula</subject>
+      <subject>Nicotiana tabacum</subject>
+      <subject>Solanum lycopersicum</subject>
+      <subject>Zea mays</subject>
+      <subject>Oryza sativa</subject>
+      <subject>Botrytis cinerea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7QH1R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9224 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phylogenetic tree was constructed by Neighbor-joining method using MEGA program. Plant MMPs used and their GenBank accessions are as follows: Arabidopsis thaliana At1-MMP (NP_193397), At2-MMP (NP_177174), At3-MMP (NP_173824), At4-MMP (NP_182030), At5-MMP (NP_176205), Glycine max Gm2-MMP (AAL27029), Gm-ACU24527 (ACU24527), Gm-Slti114 (ABW96008), Hordeum vulgare HvMMP1 (BAJ94792), HvMMP2 (BAJ93963), HvMMP3 (BAJ94176), HvMMP4 (BAJ90264), Medicago truncatula Mt1-MMP (CAA77093), Nicotiana tabacum NtMMP1 (ABF58910), Solanum lycopersicum Sl1-MMP (XP_010325488), Sl2-MMP (CCH68443), Sl3-MMP (NP_001266203), Sl4-MMP (XP_010320628), Sl5-MMP (XP_004248606), Zea mays ZmMMP1 (NP_001151749), ZmMMP2 (NP_001142095), Oryza sativa Os1-MMP (NP_001048075), Os2-MMP (NP_001057259), Os3-MMP (NP_001065361).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

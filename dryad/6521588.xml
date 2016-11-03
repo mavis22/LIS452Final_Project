@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6521588</identifier><datestamp>2015-07-24T14:26:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RJ15H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bemmels, Jordan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aitken, Sally N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Population mean phenotypes for 19 conifer species compiled from 23 previous studies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>assisted migration</subject>
+      <subject>climate change</subject>
+      <subject>ecological genetics</subject>
+      <subject>forest policy</subject>
+      <subject>genetic clines</subject>
+      <subject>local adaptation</subject>
+      <subject>provenance</subject>
+      <subject>temperate species</subject>
+      <subject>Western North America</subject>
+      <subject>Abies concolor</subject>
+      <subject>Abies grandis</subject>
+      <subject>Abies lasiocarpa</subject>
+      <subject>Abies procera</subject>
+      <subject>Alnus rubra</subject>
+      <subject>Cornus nuttallii</subject>
+      <subject>Picea engelmannii</subject>
+      <subject>Picea pungens</subject>
+      <subject>Picea sitchensis</subject>
+      <subject>Pinus albicaulis</subject>
+      <subject>Pinus attenuata</subject>
+      <subject>Pinus contorta</subject>
+      <subject>Pinus monticola</subject>
+      <subject>Pinus ponderosa</subject>
+      <subject>Populus trichocarpa</subject>
+      <subject>Pseudotsuga menziesii</subject>
+      <subject>Quercus garryana</subject>
+      <subject>Thuja plicata</subject>
+      <subject>Tsuga heterophylla</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RJ15H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>148935 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file contains one sheet of metadata, and 23 spreadsheets of phenotypic data. Each spreadsheet of data includes results from one study for one species from one common garden. Data provided includes unique codes to identify each population, the latitude, longitude, elevation, mean annual temperature (C), and mean summer precipitation (in units of 100 mm), the number of families within population that were tested, and the total number of individuals that were tested. Phenotypic traits include height growth in varying units (see associated publication), the timing of spring phenological events in days relative to a reference date, and the timing of fall phenological events relative to a reference date.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

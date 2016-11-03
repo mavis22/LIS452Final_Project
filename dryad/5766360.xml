@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766360</identifier><datestamp>2015-07-10T16:43:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M4VH4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ratcliffe, Blaise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>El-Dien, Omnia Gamal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kl&#225;p&#353;t&#283;, Jaroslav</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porth, Ilga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jaquish, Barry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>El-Kassaby, Yousry A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A comparison of genomic selection models across time in interior spruce (Picea engelmannii &#215; glauca) using unordered SNP imputation methods</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genomic prediction</subject>
+      <subject>genotyping-by-sequencing</subject>
+      <subject>time (age-age correlation)</subject>
+      <subject>cross-validation</subject>
+      <subject>open-pollinated families</subject>
+      <subject>tree improvement</subject>
+      <subject>British Columbia</subject>
+      <subject>Picea engelmannii &#215; glauca</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ratcliffe B, El-Dien OG, Kl&#225;p&#353;t&#283; J, Porth I, Chen C, Jaquish B, El-Kassaby YA (2015) A comparison of genomic selection models across time in interior spruce (Picea engelmannii &#215; glauca) using unordered SNP imputation methods. Heredity, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M4VH4/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M4VH4/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M4VH4/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M4VH4/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2015.57</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

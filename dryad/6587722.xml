@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6587722</identifier><datestamp>2015-08-11T17:52:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K71M0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Werding, Bernd</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hiller, Alexandra</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Description of a new species of Petrolisthes in the Indo-West Pacific with a redefinition of P. hastatus Stimpson, 1858 and resurrection of P. inermis (Heller, 1862) (Crustacea, Anomura, Porcellanidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>new species</subject>
+      <subject>Indo-West Pacific</subject>
+      <subject>Petrolisthes hastatus</subject>
+      <subject>Petrolisthes inermis</subject>
+      <subject>Petrolisthes tenkatei</subject>
+      <subject>Petrolisthes elegantissimus sp. nov.</subject>
+      <subject>Crustacea</subject>
+      <subject>Decapoda</subject>
+      <subject>Porcellanidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Werding B, Hiller A (2015) Description of a new species of Petrolisthes in the Indo-West Pacific with a redefinition of P. hastatus Stimpson, 1858 and resurrection of P. inermis (Heller, 1862) (Crustacea, Anomura, Porcellanidae). ZooKeys 516: 95-108.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.K71M0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3897/ZOOKEYS.516.9923</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

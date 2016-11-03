@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5620589</identifier><datestamp>2015-04-21T17:36:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BQ64C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paxton, Kristina L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Frank R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>all analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>stable isotopes</subject>
+      <subject>migration</subject>
+      <subject>seasonal interactions</subject>
+      <subject>northern Gulf of Mexico</subject>
+      <subject>Caribbean</subject>
+      <subject>Central America</subject>
+      <subject>Mniotilta varia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-17</date>
+      <date dateType="Accepted">2015-04-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BQ64C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4440 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-17</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the field.  Subject is the unique identifier of each black-and-white warbler that was sampled during the study.  The study was conducted over 4 years (y1=2008, y2=2009, y3=2010, y4=2011).  Breeding (N=boreal forest, S=southeast) is based on stable hydrogen isotope values. Timing (E=Early, M=middle, L=Late) is based on the range of capture dates for each sex in a given breeding destination and in a given year.  rbc represents the stable carbon isotope value based on red blood cells collected from brachial vein puncture.  Cond is a size-specific condition index value.  Age and sex of the warbler.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566002</identifier><datestamp>2015-08-05T13:24:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PK944/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Castellanos-Morales, Gabriela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortega, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castillo-G&#225;mez, Reyna A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sackett, Loren C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eguiarte, Luis E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Control Region and Cytochrome b from Cynomys ludovicianus and C. mexicanus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation genetics</subject>
+      <subject>microsatellites</subject>
+      <subject>mitochondria</subject>
+      <subject>phylogeography</subject>
+      <subject>Chihuahua</subject>
+      <subject>Sonora</subject>
+      <subject>New Mexico</subject>
+      <subject>Colorado</subject>
+      <subject>Coahuila</subject>
+      <subject>Nuevo Leon</subject>
+      <subject>San Luis Potosi</subject>
+      <subject>Current</subject>
+      <subject>Cynomys ludovicianus</subject>
+      <subject>Cynomys mexicanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PK944</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2535 bytes</size>
+  </sizes>
+  <rights/>
+  <descriptions>
+      <description descriptionType="Other">Concatenated sequences from the control region and cytochrome b of the mtDNA obtained for Cynomys ludovicianus (CL1-CL22) from 13 colonies located in Chihuahua, 2 colonies located in Sonora, 3 colonies located in Colorado and 1 colony from New Mexico; and for Cynomys mexicanus (CM1-CM16) from 6 colonies throughout its range.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

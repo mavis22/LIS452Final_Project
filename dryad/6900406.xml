@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900406</identifier><datestamp>2015-12-04T19:28:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C2V35/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Price, Samantha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Friedman, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wainwright, Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Morphological data - species averages</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Teleostei</subject>
+      <subject>Spines</subject>
+      <subject>Body Depth</subject>
+      <subject>Body Width</subject>
+      <subject>Macroevolution</subject>
+      <subject>Predation</subject>
+      <subject>Global</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C2V35</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20750 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Morphological data: body depth, body width, standard length, dorsal fin spine length, anal fin spine length and pectoral fin spine lengths. Measured on a single exemplar species for 347 teleost fish families at the California Academy of Sciences</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2825554</identifier><datestamp>2015-03-28T06:30:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J18G0/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Saunders, Paul Alan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perez, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rahmoun, Massilva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ronce, Ophelie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crochet, Pierre-Andr&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Veyrunes, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Full_pedigree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Sex determination system</subject>
+      <subject>Sex reversed females</subject>
+      <subject>Sex chromosome evolution</subject>
+      <subject>X* chromosome</subject>
+      <subject>Breeding performance</subject>
+      <subject>Life history traits</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-02-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J18G0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>66101 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The full pedigree of all individuals (females and males) considered in the study, along with their genotype and the identity of both maternal and paternal chromosomes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6872335</identifier><datestamp>2015-10-15T14:18:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K5N98/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hunsicker, Mary E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kappel, Carrie V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Selkoe, Kimberly A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Halpern, Benjamin S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scarborough, Courtney</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mease, Lindley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amrhein, Alisan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Summary statistics and ancillary data of published single driver-response relationships in pelagic marine ecosystems</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>thresholds</subject>
+      <subject>tipping points</subject>
+      <subject>pressure</subject>
+      <subject>stressor</subject>
+      <subject>food web</subject>
+      <subject>management</subject>
+      <subject>generalized additive models</subject>
+      <subject>non-linearities</subject>
+      <subject>Global marine ecosystems</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K5N98</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>128705 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We created a database of published single driver-response relationships in marine pelagic ecosystems that were deemed significant based on p values &#8804; 0.05 or were included in best-fit models identified through model selection. Multiple summary statistics were recorded (when available) in the database in an effort to explore variation in driver-response relationships in the present study and to be made available for researchers for future studies. The summary statistics include published or derived shapes of the relationships (linear, non-linear or specific functional forms), sample size, quantitative estimates of ecological thresholds, p values, R^2, deviance explained, correlation and regression coefficients, and model covariates (if multivariate model). In addition, we collected ancillary data on study characteristics to explore the variation in driver-response relationships and to identify the most robust papers with respect to statistical methods. The ancillary data in our database include ecosystem type (enclosed bay or sea, coastal pelagic, continental shelf and continental slope/oceanic), local region, ocean basin, large marine ecosystem, temporal scale of study, functional level (i.e., individual, population, community) and species trophic level (TL 1-4) of ecological response, primary productivity (mgC/mg2/day) and the statistical methods used by the authors. Estimates of species trophic level and primary productivity were obtained from the Sea Around Us Project (http://www.seaaroundus.org/). See Supplement Table S1 for additional description of data columns. The references in the database are cross-referenced with Table S1 Literature Cited.docx.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

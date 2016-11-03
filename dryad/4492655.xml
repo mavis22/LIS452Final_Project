@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492655</identifier><datestamp>2014-12-31T18:15:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.96M2C/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sobel, James M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streisfeld, Matthew A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>pollen_comp</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Biological Species Concept</subject>
+      <subject>ecogeographic isolation</subject>
+      <subject>pollinator isolation</subject>
+      <subject>premating barriers</subject>
+      <subject>postmating barriers</subject>
+      <subject>San Diego</subject>
+      <subject>CA</subject>
+      <subject>USA</subject>
+      <subject>Mimulus aurantiacus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.96M2C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>995 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">pollen_comp_readme&#13;
+&#13;
+This file contains data used to calculate gametic reproductive isolation in "STRONG PREMATING REPRODUCTIVE ISOLATION DRIVES INCIPIENT SPECIATION IN MIMULUS AURANTIACUS" Sobel and Streisfeld, Evolution&#13;
+&#13;
+each row represents a specific pollen competition cross&#13;
+&#13;
+the columns represent: 1) an identification number for the cross, 2) the flower color of the maternal plant, 3) the name of the maternal population, 4) the name of the paternal population from the alternate ecotype, 5) the count of homozygous offsrping, 6) the count of heterzygous offspring, 7) the frequency of heterozygous offspringwered plant to another</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

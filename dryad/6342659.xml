@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342659</identifier><datestamp>2015-06-22T17:12:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N0B44/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Copila&#351;-Ciocianu, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petrusek, Adam</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Copilas-Ciocianu&amp;Petrusek_Gammarus_fossarum_SW_Carpathians_alignments&amp;trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Crustaceans</subject>
+      <subject>Phylogeography</subject>
+      <subject>Speciation</subject>
+      <subject>Systematics</subject>
+      <subject>Diversification</subject>
+      <subject>Geological subsidence</subject>
+      <subject>South-western Carpathian Mountains</subject>
+      <subject>South-eastern Europe</subject>
+      <subject>Central and western Europe</subject>
+      <subject>Early Miocene to present</subject>
+      <subject>Gammarus fossarum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N0B44</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44125 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The archive contains alignments (fasta format) and maximum likelihood trees (newick format) for each of the markers used in this study as well as a concatenated supermatrix.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6919120</identifier><datestamp>2015-12-07T22:41:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1FS13/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sutton, Timothy L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riegler, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cook, James M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sycoscapter sp. A TESS input</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Coevolution</subject>
+      <subject>biogeography</subject>
+      <subject>fig wasp</subject>
+      <subject>Eastern Australia</subject>
+      <subject>Sydney</subject>
+      <subject>Newcastle</subject>
+      <subject>Port Macquarie</subject>
+      <subject>Byron Bay</subject>
+      <subject>Atherton Tablelands</subject>
+      <subject>Pleistodontes imperialis sp. 1</subject>
+      <subject>Sycoscapter sp. A</subject>
+      <subject>Ficus rubiginosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1FS13.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9704 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">input file for TESS analysis of microsatellite data for Sycoscapter sp. A</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

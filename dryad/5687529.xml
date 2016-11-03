@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687529</identifier><datestamp>2015-06-09T17:23:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H814J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Meijer, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zemel, Hidde</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiba, Satoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smit, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beukeboom, Leo W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schilthuizen, Menno</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MS_japan_all_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>enemy release hypothesis</subject>
+      <subject>herbivorous insects</subject>
+      <subject>exotic plants</subject>
+      <subject>Japan</subject>
+      <subject>Netherlands</subject>
+      <subject>Recent</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H814J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>368128 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the tabulations of insects sampled from native and non-native plants. The methods involved were as follows:&#13;
+&#13;
+Phytophagous insects were collected on native and non-native plants in two areas: Haren, province of Groningen, the Netherlands (53&#186;10&#8217;N 06&#186;36&#8217;E) and Sendai, Miyagi prefecture, Japan (38&#186;16&#8217;N 140&#186;52&#8217;E). In total, 47 plant species were sampled, which could be divided into four groups: (1) plant species native to the Netherlands and non-native to Japan, or vice versa (14 spp.), (2) plant species non-native to both areas (5 spp.), (3) plant species studied only in the Netherlands; either native or non-native (9 spp.), and (4) plant species studied only in Japan; either native or non-native (19 spp.).&#13;
+&#13;
+Most data were collected simultaneously in both areas between late April and early August, 2010. Only the data on the level of herbivory were not collected simultaneously. Insect collection took place in forests, parks, and gardens. In both the Netherlands and Japan the same two standardised methods were used to sample insects. Insects were collected by shaking the branches of the plant for 10 s above a beating sheet of 1 m2 or by sweeping an insect net with a diameter of 50 cm for 10 s through the branches of the plant. All individuals of the same plant species were sampled with the same method. The collecting methods were rehearsed and standardised (in the Netherlands) by all collectors beforehand.&#13;
+&#13;
+Collected insects were stored in 70% ethanol. Insects from nine taxonomic groups (table 2) were collected. For four taxonomic groups experts were found to identify the species (table 2, indicated by *). For all collected insects the insect load was determined in two ways: by counting the number of insect individuals per sample, and by determining their dry weight. The levels of herbivory were estimated for 17 plant species in the Netherlands and 16 in Japan, using other plant individuals than the ones we sampled insects from. We did this as follows. We first randomly collected ten leaves from a plant and counted the leaves with insect damage. This was repeated for 5-27 individuals per plant species (mean: 11.9). Then, the mean leaf area was determined per plant species, by scanning on average 42 (range: 10-190) leaves per plant species using a flatbed scanner, and calculating the surface area using the software Lafore (Lehsten 2005). Finally, a herbivory index was devised, as [proportion leaves damaged / mean leaf area * 10,000].</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

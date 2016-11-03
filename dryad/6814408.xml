@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814408</identifier><datestamp>2015-10-01T15:06:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7VD0J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Downs, Cynthia J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Jessi L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wone, Bernard W. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Donovan, Eward R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayes, Jack P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Downs et al: metabolic rates and growth data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Evolution: experimental</subject>
+      <subject>Evolution: physiological</subject>
+      <subject>Life history: trade offs</subject>
+      <subject>artificial selection</subject>
+      <subject>basal metabolic rate</subject>
+      <subject>correlated responses</subject>
+      <subject>Mus musculus domesticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7VD0J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>64788 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Basal metabolic rate, maximal metabolic rate, and body mass data for all mice used in the growth rate experiment from generation 10 of a selection experiment for high maximal metabolic rate.  Treatment group information is also included. Please cite the original manuscript and this data set if used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

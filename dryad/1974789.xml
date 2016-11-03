@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1974789</identifier><datestamp>2014-05-30T04:56:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V21K1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wayland, Matthew T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gibson, David I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sommerville, Christina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Echinorhynchus salmonis M&#252;ller, 1784 (Acanthocephala: Echinorhynchidae) from the Bothnian Bay, Baltic Sea: morphological variability and radial asymmetry of proboscis hooks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>parasitology</subject>
+      <subject>parasite</subject>
+      <subject>scanning electron microscopy</subject>
+      <subject>morphology</subject>
+      <subject>anatomy</subject>
+      <subject>morphometric</subject>
+      <subject>meristic</subject>
+      <subject>animal parasitosis</subject>
+      <subject>helminthiasis</subject>
+      <subject>fish disease</subject>
+      <subject>microscopy</subject>
+      <subject>Finland</subject>
+      <subject>Bothnian Bay</subject>
+      <subject>Baltic Sea</subject>
+      <subject>Northern Europe</subject>
+      <subject>Echinorhynchus salmonis</subject>
+      <subject>Osmerus eperlanus</subject>
+      <subject>Coregonus lavaretus</subject>
+      <subject>Osmeriformes</subject>
+      <subject>Salmoniformes</subject>
+      <subject>Salmonidae</subject>
+      <subject>Acanthocephala</subject>
+      <subject>Echinorhynchida</subject>
+      <subject>Echinorhynchidae</subject>
+      <subject>Echinorhynchinae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Wayland MT, Gibson DI, Sommerville C (2004) Echinorhynchus salmonis M&#252;ller, 1784 (Acanthocephala: Echinorhynchidae) from the Bothnian Bay, Baltic Sea: morphological variability and radial asymmetry of proboscis hooks. Systematic Parasitology 58(2): 149-158.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V21K1/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V21K1/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V21K1/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V21K1/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V21K1/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1023/B:SYPA.0000029419.07989.1A</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

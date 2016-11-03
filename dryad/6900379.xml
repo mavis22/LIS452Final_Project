@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900379</identifier><datestamp>2015-10-29T20:48:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23QP6/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moss, Wynne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alldredge, Mathew W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pauli, Jonathan N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cougar Survival Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Stable isotope analysis</subject>
+      <subject>diet composition</subject>
+      <subject>foraging</subject>
+      <subject>mountain lion</subject>
+      <subject>cougar</subject>
+      <subject>urbanization</subject>
+      <subject>habitat use</subject>
+      <subject>mortality risk</subject>
+      <subject>conflict</subject>
+      <subject>Colorado</subject>
+      <subject>Puma concolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.23QP6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2069 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Survival data for cougars monitored the Colorado Front Range from 2007-2013. Data is in CSV format, and is intended for Kaplan-Meier survival analysis. Entry and exit dates are given in months and describe either the date the cougar was first captured, or the date an individual reached adulthood (24 months).  "TotalMonths" is the amount of time each cougar was monitored. "Event" describes whether monitoring ended due to censorship (0) or death (1). Censorship included lost communication with GPS collar or cessation of the study. We include covariates that may be linked to survival, including sex, isotopic signature (in delta-13C or delta15N), housing density (see manuscript for details), and percent of diet from native herbivores. We also include mortality cause where available (see manuscript for category descriptions). Complete data was not available for all cougars in the study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,83 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1578561</identifier><datestamp>2015-08-21T02:00:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.20R9K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hughes, Graham M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gang, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murphy, William J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Higgins, Desmond G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teeling, Emma C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hughes, Graham M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gang, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murphy, William J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Higgins, Desmond G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teeling, Emma C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Using Illumina Next Generation Sequencing Technologies to sequence multigene families in de novo species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Comparative Biology</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Comparative Biology</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Ailuropoda melanoleuca</subject>
+      <subject>Anoura geoffroyi</subject>
+      <subject>Artibeus jamaicensis</subject>
+      <subject>Canis familiaris</subject>
+      <subject>Myotis lucifugus</subject>
+      <subject>Nyctimene albiventer</subject>
+      <subject>Rhinolophus hipposideros</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hughes GM, Gang L, Murphy WJ, Higgins DG, Teeling EC (2013) Using Illumina Next Generation Sequencing Technologies to sequence multigene families in de novo species. Molecular Ecology Resources 13(3): 510&#8211;521.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/11</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/12</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/13</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/14</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/15</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/16</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/17</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/18</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/19</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.20R9K/20</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1755-0998.12087</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

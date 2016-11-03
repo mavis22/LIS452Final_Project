@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6778695</identifier><datestamp>2015-10-08T21:53:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MB1D0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gaoue, Orou G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Khaya_MeanMatrices_2004_2007</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>African Mahogany</subject>
+      <subject>ecosystem services</subject>
+      <subject>matrix models</subject>
+      <subject>non-timber forest products</subject>
+      <subject>ecological harvesting impacts</subject>
+      <subject>plant population dynamics</subject>
+      <subject>transient elasticity</subject>
+      <subject>transient dynamics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MB1D0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2109 bytes</size>
+      <size>158521 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file includes mean matrices for 12 populations of Khaya senegalensis surveyed in Benin (West Africa) from 2004 to 2007. For each population, I averaged three yearly transition matrices (2004-2005, 2005-2006, 2006-2007). These matrices were built using demographic data was collected from the 12 populations using 1-ha plots for each population (two adjacent subplots of 0.5 ha, separated by the river bed when the population was in a gallery forest.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

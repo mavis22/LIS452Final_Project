@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6874401</identifier><datestamp>2015-10-15T18:47:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7J908/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Griesser, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Halvarsson, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drobniak, Szymon M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vil&#224;, Carles</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>male vs non-breeders data-set</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>self-referent phenotype matching</subject>
+      <subject>paternity</subject>
+      <subject>social familiarity</subject>
+      <subject>aggression</subject>
+      <subject>social evolution</subject>
+      <subject>cooperation</subject>
+      <subject>65&#176;40 N</subject>
+      <subject>19&#176;0 E</subject>
+      <subject>Perisoreus infaustus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7J908</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12454 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">ring &#8211; non-breeder identity. breeder_ring &#8211; breeder identity. obstime &#8211; observation bout length: 15min, 30min. year &#8211; year of observation. sex &#8211; sex of non-breeder. breeder_age &#8211; age of breeder. age &#8211; age of non-breeder. kinship &#8211; kinship breeder vs non-breeder: kin (parent-offspring, non-kin: breeder-immigrant). groupsize &#8211; group size. NSI &#8211; nesting success index of territory (see Griesser et al. 2008). prop_um &#8211; proportion unmanaged forest on territory (see Griesser et al. 2006). displaced &#8211; number of displacements received during 30 min. chased - number of chasing events received during 30 min. submissive - number of times submissive behaviour is displayed during 30 min. TrioML - Trio maximum likelihood  r estimator. Ritland - Ritland&#8217;s r estimator. DyadML - Dyad maximum likelihood  r estimator. Wang_mb - Wang&#8217;s r estimator. LynchLi_mb - Lynch and Li&#8217;s r estimator. QuellerGt_mb - Queller and Goodnight&#8217;s r estimator. LynchRd - Lynch and Ritland&#8217;s r estimator</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

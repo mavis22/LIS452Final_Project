@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6106662</identifier><datestamp>2015-06-08T15:56:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TN28F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chen, Yuan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Litvintseva, Anastasia P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frazzitta, Aubrey E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haverkamp, Miriam R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Liuyang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fang, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muthoga, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell, Thomas G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perfect, John R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Input file for Structure</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fungi</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>Botswana</subject>
+      <subject>2012</subject>
+      <subject>Cryptococcus neoformans var. grubii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TN28F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>136983 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Input file for Structure. 139 isolates in total without two VNII isolates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

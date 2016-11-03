@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766362</identifier><datestamp>2015-07-10T16:44:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M4VH4/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ratcliffe, Blaise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gamal El-Dien, Omnia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klapste, Jaroslav</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porth, Ilga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jaquish, Barry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>El-Kassaby, Yousry</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SVD genotype imputation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genomic prediction</subject>
+      <subject>genotyping-by-sequencing</subject>
+      <subject>time (age-age correlation)</subject>
+      <subject>cross-validation</subject>
+      <subject>open-pollinated families</subject>
+      <subject>tree improvement</subject>
+      <subject>British Columbia</subject>
+      <subject>Picea engelmannii &#215; glauca</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-07-01</date>
+      <date dateType="Accepted">2015-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M4VH4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>117657030 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-07-01</rights>
+  <descriptions>
+      <description descriptionType="Other">marker matrix for SVD imputation method</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

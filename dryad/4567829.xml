@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4567829</identifier><datestamp>2014-12-23T19:42:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7TG41/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Patel, Simit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schell, Tilman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eifert, Constanze</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feldmeyer, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfenninger, Markus</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>POPS_geo_dist_circle</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>hybrid zone</subject>
+      <subject>precipitation gradient</subject>
+      <subject>cryptic species</subject>
+      <subject>Climate Change</subject>
+      <subject>Pyrenees</subject>
+      <subject>Europe</subject>
+      <subject>France</subject>
+      <subject>Spain</subject>
+      <subject>Radix balthica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7TG41</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>761086 bytes</size>
+      <size>493 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a file containing pairwise distances between each individual/sample site calculated using the greater circles algorithm in POPS.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

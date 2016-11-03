@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4594984</identifier><datestamp>2015-02-23T20:17:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8BQ31/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Voordouw, Maarten J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lachish, Shelly</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dolan, Marc C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MARK input file 6bv2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>capture-mark-recapture methods</subject>
+      <subject>infection rate</subject>
+      <subject>Lyme disease</subject>
+      <subject>population ecology</subject>
+      <subject>recapture rate</subject>
+      <subject>survival rate</subject>
+      <subject>ticks</subject>
+      <subject>vector-borne pathogen</subject>
+      <subject>white-footed mouse</subject>
+      <subject>zoonotic diseases</subject>
+      <subject>Mason&#8217;s Island</subject>
+      <subject>Connecticut</subject>
+      <subject>United States of America</subject>
+      <subject>1999 to 2002</subject>
+      <subject>Borrelia burgdorferi</subject>
+      <subject>Ixodes scapularis</subject>
+      <subject>Peromyscus leucopus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8BQ31</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>78794 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">MARK input file used to conduct the multistate capture-mark-recapture analysis. In this dataset the mice with unknown infection states were assigned to the infected with Borrelia burgdorferi state. This text file contains the mouse ear tag identification number (ear.tag) and the capture history for each individual mouse (ch5). The capture history has 21 occasions and four states: A, B, C, and D. The definitions of the four states are as follows:&#13;
+&#13;
+A = susceptible juvenile&#13;
+B = infected juvenile&#13;
+C = susceptible adult&#13;
+D = infected adult&#13;
+&#13;
+The eight columns after the capture history column refer to the eight combinations of the four different areas: Control Area (cont), Mallard Road (mal), Nauyaug Point (nau), New Area (new) and the two sexes: female (f), male (m). Thus the eight columns refer to the following groups:&#13;
+&#13;
+cont.f = Control Area females&#13;
+cont.m = Control Area males&#13;
+mal.m = Mallard Road females&#13;
+mal.f = Mallard Road females&#13;
+nau.f = Nauyaug Point females&#13;
+nau.m = Nauyaug Point males&#13;
+new.f = New Area females&#13;
+new.m = New Area males</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

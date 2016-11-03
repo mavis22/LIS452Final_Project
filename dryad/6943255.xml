@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6943255</identifier><datestamp>2015-12-07T18:28:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KB13M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mattucci, Federica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oliveira, Rita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lyons, Leslie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alves, Paulo C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randi, Ettore</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>European wildcat microsatellites dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phylogeography</subject>
+      <subject>population structure</subject>
+      <subject>microsatellites</subject>
+      <subject>Bayesian clustering</subject>
+      <subject>ABC simulations</subject>
+      <subject>conservation genetics</subject>
+      <subject>wild and domestic cat hybridization</subject>
+      <subject>Europe</subject>
+      <subject>Felis silvestris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KB13M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>681984 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The File contains the raw microsatellites database in GenAlEx format for 1124 cat samples used in the analyses, characterised by 31 loci. For each samples is provided the sampling location, as reported in Tables, Figures and main taxt of the manuscript.This file can be converted to other formats using GenAlEx.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

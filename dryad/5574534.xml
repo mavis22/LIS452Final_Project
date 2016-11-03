@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574534</identifier><datestamp>2015-03-31T16:18:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M5298/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rollins, Lee Ann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Mark F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shine, Richard</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RSEM_expression_counts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Rapid evolution</subject>
+      <subject>Invasive Species</subject>
+      <subject>Cane toad</subject>
+      <subject>Transriptomics</subject>
+      <subject>Australia: Rossville QLD 15.705427 S 145.222855 E</subject>
+      <subject>Australia: Innisfail QLD 17.496250 S 146.046506 E</subject>
+      <subject>Australia: El Questro WA 16.007872 S 128.020494 E</subject>
+      <subject>Australia: Purnululu WA 17.433382 S 128.301818 E</subject>
+      <subject>Rhinella marina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M5298</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17050166 bytes</size>
+      <size>739 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Individual sample RSEM (v1.2.14 ) expression counts used for differential expression analysis. Each file in the archive corresponds to a separate individual (Individual membership to each population is given in TableS1 and the associated ReadMe file here). Columns are: transcript ID as in the fasta file, gene ID, transcript length, effective length, expected count, TPM (Transcripts Per Million), FPKM (Fragments Per Kilobase of transcript per Million mapped reads), IsoPct (Isoform percentage, it is the percentage of this transcript's abandunce over its parent gene's abandunce).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82548</identifier><datestamp>2015-10-26T20:04:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75748/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chaves, Paulo B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graeff, Vanessa G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lion, Mar&#237;lia B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oliveira, Larissa R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eizirik, Eduardo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>COI_Alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Community Ecology</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>DNA Barcoding</subject>
+      <subject>Mammals</subject>
+      <subject>Wildlife Management</subject>
+      <subject>Carnivora</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-06-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.75748</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>56054 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-06-20T19:15:31Z (GMT). No. of bitstreams: 1&#13;
+COI_Alignment.txt: 56054 bytes, checksum: 94cca0ee61286696f9c9abd3c64cd1cb (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586130</identifier><datestamp>2015-09-07T21:32:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F20V3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pokallus, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pauli, Jonathan N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Population dynamics of a northern-adapted mammal: disentangling the influence of predation and climate change</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>Trophic Interaction</subject>
+      <subject>Predation</subject>
+      <subject>Top-down regulation</subject>
+      <subject>Bottom-up regulation</subject>
+      <subject>Juvenile survivorship</subject>
+      <subject>North Atlantic Oscillation</subject>
+      <subject>Demographic analysis</subject>
+      <subject>Fisher</subject>
+      <subject>North Atlantic Oscillation (NAO)</subject>
+      <subject>Porcupine</subject>
+      <subject>Wisconsin</subject>
+      <subject>Sandhill Wildlife Area</subject>
+      <subject>Erethizon dorsatum</subject>
+      <subject>Martes pennanti</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Pokallus JW, Pauli JN (2015) Population dynamics of a northern-adapted mammal: disentangling the influence of predation and climate change. Ecological Applications 25(6): 1546-1556.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F20V3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F20V3/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1890/14-2214.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5605686</identifier><datestamp>2015-06-04T17:50:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.71RN0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Aguiar, Bruno</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vieira, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cunha, Ana E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vieira, Cristina P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequence data sets used in Aguiar et al. 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gametophytic self-incompatibility</subject>
+      <subject>molecular evolution</subject>
+      <subject>S-RNase like genes</subject>
+      <subject>Trifolium pratense</subject>
+      <subject>Medicago truncatula</subject>
+      <subject>Cicer arietinum</subject>
+      <subject>Cytisus striatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.71RN0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18010778 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequence data sets used in Aguiar et al. 2015:&#13;
+1- SSK1 like genes in flowering plants: SSK1 genes(s) have been described only in species having RNase based GSI. Therefore, presence/absence of this gene(s) has been reported as a diagnosis marker for the presence/absence of RNase based GSI (see references in Aguiar et al. 2015). The protein encoded by SSK1 has an unique C-terminus, composed of 5 - 9 amino acid residues, following the conventional "WAFE" motif. In Rosaceae, this amino acid tail shows the conserved sequence &#8220;GVDED&#8221;. In Solanaceae and Plantaginaceae this motif is not so well conserved but a D residue is always found at the last position of the motif. When using these features and the NCBI flowering plant species database, we retrieved 21 sequences from Solanaceae (three), Plantaginaceae (one), Rosaceae (eight), Fabaceae (five), Malvaceae (one), Rutaceae (one), Euphorbiaceae (one)  and Salicaceae (one) species. The two genes from Cytisus striatus were obtained from a style with stigma transcriptome. Oryza sativa [GenBank:AP003824] and Citrus maxima [GenBank:FJ851401] genes that encode proteins not presenting the C-terminus amino acid motif following the conventional "WAFE" motif are here included to root the phylogenetic tree shown in Figure 1 in Aguiar et al. 2015.&#13;
+&#13;
+2- Fabaceae S-RNase lineage genes: Fabaceae S-RNase lineage genes and Prunus, Pyrinae, Solanaceae and Plantaginaceae S-RNases (Figure 2 and Figure 6A in Aguiar et al. 2015): Sequences used to determine the phylogenetic relationship of M. truncatula, G. max, L. angustifolius, L. corniculatus, L. japonicus, T. pratense, P. sativum, C. cajan, C. tetragonoloba, C. arietinum,and C. striatus S-RNase lineage genes and the Prunus, Pyrinae, Solanaceae and Plantaginaceae S-RNases.&#13;
+&#13;
+3- CsRNase3: C. striatus CsRNase3 gene and Prunus, Pyrinae, Solanaceae and Plantaginaceae S-RNases (Figure 6 in Aguiar et al. 2015)&#13;
+&#13;
+4- F-box genes: F-box SFB -SFBB- and SLFL- like genes surrounding the C. arietinum Ca4, M. truncatula Mt3, Mt17, Mt18, and Mt20 S-RNase like genes, and S-pollen genes from Prunus, Malus, Solanaceae and Plantaginaceae, and Prunus S-like genes (genes not involved in GSI specificity; see Aguiar et al. 2015 Figure 5). A. thaliana F-box/kelch-repeat</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

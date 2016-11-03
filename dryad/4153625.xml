@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4153625</identifier><datestamp>2014-11-21T21:11:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.05DB4/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sedeek, Khalid E. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schiestl, Florian P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schl&#252;ter, Philipp M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data-GC_2011-2012</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecological Genetics</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Speciation</subject>
+      <subject>Angiosperms</subject>
+      <subject>Southern Italy</subject>
+      <subject>Gargano</subject>
+      <subject>Ophrys exaltata subsp. archipelagi</subject>
+      <subject>Ophrys sphegodes</subject>
+      <subject>Ophrys incubacea</subject>
+      <subject>Ophrys garganica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.05DB4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>51916 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tab-delimited text file listing the amounts of different floral odour components, as determined by gas chromatography.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

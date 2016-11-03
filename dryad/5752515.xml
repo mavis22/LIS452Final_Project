@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5752515</identifier><datestamp>2015-05-20T14:45:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JN14S/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>de Boer, Jetske G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Groenen, Martien A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pannebakker, Bart A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beukeboom, Leo W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraus, Robert H. S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Putative SNPs discovered in genome of Cotesia vestalis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Population genetics</subject>
+      <subject>whole genome sequencing</subject>
+      <subject>SNP</subject>
+      <subject>complementary sex determination</subject>
+      <subject>Inbreeding</subject>
+      <subject>Biological Control</subject>
+      <subject>Taiwan</subject>
+      <subject>Cotesia vestalis</subject>
+      <subject>Plutella xylostella</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JN14S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33451397 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Individual paired-end reads were aligned against the artificial Cotesia vestalis reference genome obtained from the de novo genome assembly using BWA. The resulting BAM file was then used for the identification of putative SNPs using SAMTOOLS and varFilter from the samtools.pl utility. We only considered nucleotide substitutions and ignored small indels. SNPs were filtered that had a mapping quality higher than 20, a minimum read depth of 3 and a maximum read depth of 90 (3x the average read depth, a strategy to avoid orthologous SNPs, e.g. in multi copy genes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492669</identifier><datestamp>2014-12-17T18:01:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M6T1M/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grimm, Guido W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kapli, Pashalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bomfleur, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mcloughlin, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Renner, Susanne S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Main matrices and dating results</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bayesian inference</subject>
+      <subject>molecular clock calibration</subject>
+      <subject>fossilized birth-death process</subject>
+      <subject>divergence time estimation</subject>
+      <subject>royal ferns</subject>
+      <subject>extinction rate</subject>
+      <subject>World</subject>
+      <subject>Triassic</subject>
+      <subject>Jurassic</subject>
+      <subject>Cretaceous</subject>
+      <subject>Paleogene</subject>
+      <subject>Neogene</subject>
+      <subject>Quaternary</subject>
+      <subject>Osmundaceae</subject>
+      <subject>Osmunda</subject>
+      <subject>Todea</subject>
+      <subject>Leptopteris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M6T1M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>102965 bytes</size>
+      <size>1754 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This archive includes the basic matrix files and the main result files of the various dating analyses. For a comprehensive phylogenetic analyses of these data, see Benjamin Bomfleur, Guido W Grimm, Stephen McLoughlin (2014) Osmunda pulchella sp. nov. from the Jurassic of Sweden&#8212;reconciling molecular and fossil evidence in the phylogeny of Osmundaceae. bioRxiv, doi: http://dx.doi.org/10.1101/005777.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

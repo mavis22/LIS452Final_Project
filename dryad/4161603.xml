@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4161603</identifier><datestamp>2014-11-21T21:38:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5N5H6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Daniels, Emily V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murad, Rabi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mortazavi, Ali</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reed, Robert D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Junonia coenia wing transcriptome</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Transcriptomics</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Insects</subject>
+      <subject>Development and Evolution</subject>
+      <subject>Adaptation</subject>
+      <subject>North Carolina</subject>
+      <subject>Holocene</subject>
+      <subject>Junonia coenia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5N5H6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27295037 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Assembled polyA mRNA-seq transcript fragments from Junonia coenia hindwings. Transcripts are from two polyphenic morphs (tan and red) across four developmental stages (late 5th instar, early pupa, ommochrome-stage pupa, early melanin-stage pupa).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

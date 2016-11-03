@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6802760</identifier><datestamp>2015-09-30T15:00:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N0432/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Silva, Catarina N. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gardner, Jonathan P. A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R Script Linear Regressions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>connectivity</subject>
+      <subject>genetic structure</subject>
+      <subject>microsatellite</subject>
+      <subject>recent evolutionary history</subject>
+      <subject>migration</subject>
+      <subject>bivalve</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N0432</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>662 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R Script for Linear Regression analyses (Latitudinal gradients) from the manuscript "Emerging patterns of genetic variation in the New Zealand endemic scallop Pecten novaezelandiae"</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

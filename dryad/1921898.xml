@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1921898</identifier><datestamp>2014-08-07T06:31:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.35RS4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hodges, Theresa K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Athrey, Giridhar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deitz, Kevin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Overgaard, Hans J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matias, Abrahan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caccone, Aldalgisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slotman, Michel A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Large fluctuations in the effective population size of the malaria mosquito Anopheles gambiae s.s. during vector control cycle</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Effective population size</subject>
+      <subject>vector control</subject>
+      <subject>indoor residual spraying</subject>
+      <subject>malaria</subject>
+      <subject>Approximate Bayesian Computation</subject>
+      <subject>Anopheles gambiae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hodges TK, Athrey G, Deitz KC, Overgaard HJ, Matias A, Caccone A, Slotman MA (2013) Large fluctuations in the effective population size of the malaria mosquito Anopheles gambiae s.s. during vector control cycle. Evolutionary Applications 6(8): 1171&#8211;1183.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.35RS4/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVA.12094</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

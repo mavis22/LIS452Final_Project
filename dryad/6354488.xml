@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6354488</identifier><datestamp>2015-07-22T20:50:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.61691/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Russello, Michael A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waterhouse, Matthew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etter, Paul D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Eric A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP genotypic data from American pika in North Cascades National Park</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genotyping-by-sequencing</subject>
+      <subject>restriction-site associated DNA sequencing</subject>
+      <subject>single nucleotide polymorphism</subject>
+      <subject>hair</subject>
+      <subject>biodiversity</subject>
+      <subject>climate change</subject>
+      <subject>American pika</subject>
+      <subject>nextRAD</subject>
+      <subject>USA</subject>
+      <subject>Ochotona princeps</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-07-21</date>
+      <date dateType="Accepted">2015-07-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.61691</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5052288 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-07-21</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file including genotypes at 9825 SNPs for 67 American pika sampled in North Cascades National Park, Washington, USA. The first column is contig name. The second column is SNP position within the contig. Every two columns after is an individual. Each row is a locus. Sample names include the transect identifier (PP=Pyramid Peak; TL=Thornton Lake), site name (ex. 1A), and individual number (ex. 20a). Allele calls are as follows: 1=A, 2=C, 3=G, 4=T.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

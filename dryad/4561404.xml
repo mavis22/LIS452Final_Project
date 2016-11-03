@@ -1,0 +1,87 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4561404</identifier><datestamp>2015-06-11T19:50:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V6037</identifier>
+  <creators>
+      <creator>
+         <creatorName>Viale, Elisabetta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martinez-Sa&#241;udo, Isabel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Jonathan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simonato, Mauro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Girolami, Vincenzo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Squartini, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bressan, Alberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Faccoli, Massimo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazzon, Luca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Pattern of association between endemic Hawaiian fruit flies (Diptera, Tephritidae) and their symbiotic bacteria: evidence of cospeciation events and proposal of &#8220;Candidatus Stammerula trupaneae&#8221;</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cospeciation</subject>
+      <subject>phylogeny</subject>
+      <subject>symbiosis</subject>
+      <subject>fruit flies</subject>
+      <subject>Hawaii</subject>
+      <subject>Italy</subject>
+      <subject>Trupanea arboreae</subject>
+      <subject>Trupanea artemisiae</subject>
+      <subject>Trupanea beardsleyi</subject>
+      <subject>Trupanea crassipes</subject>
+      <subject>Trupanea cratericola</subject>
+      <subject>Trupanea waikamoi</subject>
+      <subject>Trupanea swezeyi</subject>
+      <subject>Trupanea pohakuloa</subject>
+      <subject>Trupanea perkinsi</subject>
+      <subject>Trupanea pantosticta</subject>
+      <subject>Trupanea denotata</subject>
+      <subject>Trupanea dubautiae</subject>
+      <subject>Trupanea joycei</subject>
+      <subject>Phaeogramma vittipennis</subject>
+      <subject>Phaeogramma new sp.</subject>
+      <subject>Trupanea stellata</subject>
+      <subject>Trupanea amoena</subject>
+      <subject>Candidatus Stammerula tephritidis</subject>
+      <subject>Candidatus Stammerula trupaneae</subject>
+      <subject>Tephritidae</subject>
+      <subject>Tephritinae</subject>
+      <subject>Tephritini</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Viale E, Martinez-Sa&#241;udo I, Brown JM, Simonato M, Girolami V, Squartini A, Bressan A, Faccoli M, Mazzon L (2015) Pattern of association between endemic Hawaiian fruit flies (Diptera, Tephritidae) and their symbiotic bacteria: evidence of cospeciation events and proposal of &#8220;Candidatus Stammerula trupaneae&#8221;. Molecular Phylogenetics and Evolution 90: 67-79.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V6037/11</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.YMPEV.2015.04.025</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

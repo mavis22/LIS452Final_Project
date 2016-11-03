@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5505891</identifier><datestamp>2015-03-20T20:04:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SC6BP/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Abts, Kendra C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>spleen/buffy coat combined trinity assembly</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spleen</subject>
+      <subject>buffy coat</subject>
+      <subject>cDNA</subject>
+      <subject>mRNA</subject>
+      <subject>San Diego Zoo koala colony</subject>
+      <subject>San Diego</subject>
+      <subject>Phascolarctos cinereus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SC6BP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>73962200 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">RNA was extracted from the spleen and buffy coat (white blood cell portion of a blood sample) of one and two individuals from the San Diego Zoo koala colony, respectively, via TRIzol (Life Technologies) and Direct-zol (Zymo Research) according to manufacturer's instructions.  ~5 ug of RNA was used to create cDNA libraries for each sample according to the Illumina TruSeq RNA sample preparation manual and using random hexamer priming.  The buffy coat libraries were barcoded, pooled, and sequenced on one lane of the Illumina HiSeq 2000 platform while the spleen library was sequenced on one lane of the Illumina HiSeq 2500 platform.  The raw reads were then filtered for quality (PHRED Q score &gt; 20) and length ( &gt; 30 bp).  Ribosomal RNA reads were reduced using DeconSeq (version 0.4.2) and a custom vertebrate rRNA database.  The remaining reads were then assembled using Trinity (version r2013-02-25) and the assembled sequences are contained within.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

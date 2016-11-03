@@ -1,0 +1,75 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6544363</identifier><datestamp>2015-07-31T17:21:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4B3H7/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rawlence, Nicolas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kennedy, Martyn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Christian N. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prost, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Till, Charlotte E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Ian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scofield, R. Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tennyson, Alan J. D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hamel, Jill</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lalas, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matisoo-Smith, Elizabeth A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waters, Jonathan M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Foveaux_var_rates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ancient DNA</subject>
+      <subject>biodiversity</subject>
+      <subject>demography</subject>
+      <subject>extinction</subject>
+      <subject>human impact</subject>
+      <subject>megafauna</subject>
+      <subject>overkill</subject>
+      <subject>seabird</subject>
+      <subject>Stewart Island Shag</subject>
+      <subject>South Island and Stewart Island</subject>
+      <subject>New Zealand</subject>
+      <subject>Holocene</subject>
+      <subject>Leucocarbo chalconotus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4B3H7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22423 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">BEAST .xml files for testing the effect of variable substitution rates on the Bayesian Skyline Plot of L. chalconotus Foveaux Strait including the use of penguin (Lambert et al. 2002) fixed/prior, Otago fixed/prior, and BayesSSC estimates, and the optimised dataset (from BayeSSC).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6838800</identifier><datestamp>2015-10-08T20:29:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QS552/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Buhnerkempe, Michael G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Webb, Colleen T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Merton, Andrew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buhnerkempe, John E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Givens, Geof H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Ryan S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoeting, Jennifer A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Band encounter data from hunter recovered mallards (MALL), northern pintails (NOPI), American green-winged teal (AGWT), and Canada geese (CAGO) between 2004 and 2013 in North America.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>network</subject>
+      <subject>community detection</subject>
+      <subject>consolidation factor</subject>
+      <subject>waterfowl</subject>
+      <subject>migration</subject>
+      <subject>flyways</subject>
+      <subject>North America</subject>
+      <subject>Anas platyrhnchos</subject>
+      <subject>Anas acuta</subject>
+      <subject>Anas carolinensis</subject>
+      <subject>Branta canadensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QS552</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44027413 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Included fields are the band number (BAND), species (SPEC), banding date (BMONTH, BDAY, BYEAR), recovery date (RMONTH, RDAY, RYEAR), banding location reported at the node level (BNODELAT, BNODELONG), and recovery location reported at the node level (RNODELAT, RNODELONG). For information on requesting the full band and encounter data, please go to https://www.pwrc.usgs.gov/BBL/homepage/datarequest.cfm.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

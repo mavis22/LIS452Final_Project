@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3689233</identifier><datestamp>2015-07-12T06:30:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.178CF</identifier>
+  <creators>
+      <creator>
+         <creatorName>Santana-Garcon, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Braccini, Matias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langlois, Tim J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newman, Stephen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McAuley, Rory B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harvey, Euan S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Calibration of pelagic stereo-BRUVs and scientific longline surveys for sampling sharks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>shark monitoring</subject>
+      <subject>pelagic stereo-BRUVs</subject>
+      <subject>scientific longline surveys</subject>
+      <subject>Western Australia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Santana-Garcon J, Braccini M, Langlois TJ, Newman SJ, McAuley RB, Harvey ES (2014) Calibration of pelagic stereo-BRUVs and scientific longline surveys for sampling sharks. Methods in Ecology and Evolution 5(8): 824-833.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.178CF/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12216</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

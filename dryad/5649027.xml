@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5649027</identifier><datestamp>2015-10-14T20:01:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2MB2H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Levin, Noam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazor, Tessa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brokovich, Eran</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jablon, Pierre-Elie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kark, Salit</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Species list Levin et al</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Fish species ranges</subject>
+      <subject>conservation targets</subject>
+      <subject>flexibility</subject>
+      <subject>Marxan</subject>
+      <subject>sensitivity analysis</subject>
+      <subject>systematic conservation planning</subject>
+      <subject>Mediterranean Sea</subject>
+      <subject>Levant (eastern Mediterranean)</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-10-01</date>
+      <date dateType="Accepted">2015-02-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2MB2H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22725 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-10-01</rights>
+  <descriptions>
+      <description descriptionType="Other">Information used to define fish species distribution ranges - depth ranges and marine habitat.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

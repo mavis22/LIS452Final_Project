@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3712831</identifier><datestamp>2015-07-01T06:32:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6HC0F/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harris, Stephen E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Neill, Rachel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Munshi-South, Jason</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Information on SNPs identified from transcriptome data (vcf file)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Contemporary Evolution</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Mammals</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Transcriptomics</subject>
+      <subject>Empirical Population Genetics</subject>
+      <subject>New York City</subject>
+      <subject>New York Metropolitan Area</subject>
+      <subject>Anthropocene</subject>
+      <subject>Peromyscus leucopus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6HC0F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>86531927 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SNPs identified from transcriptome alignment files in variant call format.  SNPs were identified using GATK. Parameters and filters for calling SNPs are listed in header.  Additional hard filters include removal of SNPs where every individual was heterozygous, overall SNP depth &gt; 10, overall SNP depth &lt; 350, and minor allele frequency (MAF) &gt; 0.025.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

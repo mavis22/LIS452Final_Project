@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3823470</identifier><datestamp>2015-08-21T06:30:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6JN86/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cho, Alyssa H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Shelley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schuman, Carrie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adler, Jennifer M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonzalez, Oscar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graves, Sarah J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huebner, Jana R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marchant, D. Blaine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rifai, Sami W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Skinner, Irina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bruna, Emilio M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gender&amp;EdBoards</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Gender</subject>
+      <subject>STEM</subject>
+      <subject>Gender Parity</subject>
+      <subject>Editor-in-Chief</subject>
+      <subject>Associate Editor</subject>
+      <subject>Subject Editor</subject>
+      <subject>Editorial Board</subject>
+      <subject>1985-2013</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6JN86</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63693 bytes</size>
+      <size>24244 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on the gender and country of institutional affiliation of the editorial board members of 10 scientific journals from 1985-2013, the Impact Factors of those journals in 2012, and the 5-year Impact Factors of those journals in 2012.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

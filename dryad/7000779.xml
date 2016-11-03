@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7000779</identifier><datestamp>2015-11-11T18:56:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GV24P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Passy, Sophia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Diatom data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>rank-abundance distribution</subject>
+      <subject>species abundance distribution</subject>
+      <subject>diatoms</subject>
+      <subject>fish</subject>
+      <subject>Community: structure</subject>
+      <subject>Competition</subject>
+      <subject>Ecology: community</subject>
+      <subject>Environmental variability</subject>
+      <subject>Macroecology</subject>
+      <subject>Species diversity</subject>
+      <subject>Trade offs</subject>
+      <subject>Algae</subject>
+      <subject>The United States</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GV24P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5916261 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until one year after the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8220;Diatom data&#8221; contains 3 Excel spreadsheets, i.e. &#8220;Raw data,&#8221; &#8220;Community data,&#8221; and &#8220;Species data.&#8221; The Raw data spreadsheet shows the population density, measured in cells/cm^2, and the population density rank for all species (BioDataTaxonName) across 3213 diatom samples, listed by their sample identification. The diatom samples were collected from 1580 distinct stream localities, listed by their station identification. The Community data spreadsheet contains relevant information for the diatom samples, including latitude, longitude, date of collection, species richness, evenness, total density (cells/cm^2), statistics of the Poisson lognormal fit to the sample species abundance distribution (parameters mu and sigma, gof (goodness of fit), and p (proportion of species revealed by the sample)), statistics of the square root fit to the sample rank-abundance distribution (intercept a0, slope a, and their standard errors and 95% confidence intervals), ln Tolerant:Sensitive ratio, and density and richness of the three diatom guilds (low profile, motile, and high profile). Environmental data were available for a subset of 2949 samples. The Species data spreadsheet lists the 1777 diatom species (BioDataTaxonName) encountered in this study with guild designation whenever possible and occurrence across 1582 stream localities.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

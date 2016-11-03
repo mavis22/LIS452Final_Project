@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4584846</identifier><datestamp>2015-04-27T18:16:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BJ86G/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Le Rouzic, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hansen, Thomas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gosden, Thomas P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Svensson, Erik I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>final_scripts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Conflict: sexual</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Fitness</subject>
+      <subject>Genetics: evolutionary</subject>
+      <subject>Genetics: population</subject>
+      <subject>Statistics</subject>
+      <subject>Lakes/ponds</subject>
+      <subject>Insect</subject>
+      <subject>Color morph frequencies</subject>
+      <subject>Metapopulations</subject>
+      <subject>Southern Sweden</subject>
+      <subject>Ischnura elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BJ86G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>30389 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This ZIP file contains all scripts and code to reproduce the statistical analyses of our paper. Programs R and ADMB should be installed on the computer. Scripts were run on a Linux/Ubuntu operating system. Directory 'analysis': scripts to generate the figures (there could be minor differences compared to the published version). Directory 'data' contains the data (same file as already published on Dryad). Directory 'model' contains the ADMB code to run the model (should be compiled with ADMB). Directory 'suppl' contains the material necessary to run the supplementary analyses, including simulations and tests for the robustness of the model. Note that this supplementary analyses were run on a powerful server and may require a significant amount of computational power.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

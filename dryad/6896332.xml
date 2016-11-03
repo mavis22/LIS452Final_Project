@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6896332</identifier><datestamp>2015-11-13T15:10:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MR29T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Benavente, Javiera Nidia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Lisa Wishard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, James Edward</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arismendi, Ivan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hern&#225;ndez, Cristi&#225;n Esteban</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gajardo, Gonzalo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galleguillos, Ricardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#225;diz, Maria Ignacia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Musleh, Selim Seman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gomez-Uchida, Daniel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotype Data for Naturalized Rainbow Trout from Lake LLanquihue (Lake District X Region - Chile)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>invasion genetics</subject>
+      <subject>naturalized rainbow trout</subject>
+      <subject>single nucleotide polymorphisms</subject>
+      <subject>temporal genetic variance</subject>
+      <subject>effective number of breeders</subject>
+      <subject>South America</subject>
+      <subject>Chile</subject>
+      <subject>Lake Llanquihue</subject>
+      <subject>Lake District X Region</subject>
+      <subject>Holocene</subject>
+      <subject>Anthropocene</subject>
+      <subject>Oncorhynchus mykiss</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MR29T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>208699 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset corresponds to multilocus genotypes for naturalized rainbow trout from Lake Llanquihue (Lake District, Chile) screened for 81 single nucleotide polymorphisms (coded A=1, C=2, G=3, T=4). Each allele (A1 or A2) is found in a separate column (two columns per SNP locus). Metadata for sampling location, sampling season (austral winter or spring) and individual ID are provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

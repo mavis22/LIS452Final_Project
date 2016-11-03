@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211375</identifier><datestamp>2015-12-02T18:23:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JK53J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hunt, Edmund</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baddeley, Roland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Worley, Alan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sendova-Franks, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franks, Nigel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ant exploration trajectories</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>movement</subject>
+      <subject>motor planning</subject>
+      <subject>self-similarity</subject>
+      <subject>animal welfare monitoring</subject>
+      <subject>division of labour</subject>
+      <subject>complex social systems</subject>
+      <subject>United Kingdom</subject>
+      <subject>Temnothorax albipennis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JK53J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6449142 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">36 ant exploration trajectories, each ant tracked for 45 minutes. First column is time, columns 2 and 3 are coordinates x and y. (0,0) is centre of arena (nest entrance). File names indicate treatment 'NC' - no cleaning and 'C' - cleaning, and colony, e.g. 'C1' is colony 1. For example, 'C-C1-1' - cleaning treatment, colony 1, ant 1. Note that the first ants for NC were not used in the study (first ant of sequence enters a clean arena).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

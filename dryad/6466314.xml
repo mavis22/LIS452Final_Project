@@ -1,0 +1,110 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466314</identifier><datestamp>2015-07-23T14:46:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QJ177/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Aust, Shelly K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ahrendsen, Dakota L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kellar, P. Roxanne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>asterids-matK</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>asterids</subject>
+      <subject>community ecology</subject>
+      <subject>conservation</subject>
+      <subject>grasslands</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>phylogenetic diversity</subject>
+      <subject>Nine-Mile Prairie</subject>
+      <subject>Niobrara Valley Preserve</subject>
+      <subject>Nebraska</subject>
+      <subject>United States of America</subject>
+      <subject>Achillea millefolium</subject>
+      <subject>Androsace occidentalis</subject>
+      <subject>Antennaria howellii subsp. neodioica</subject>
+      <subject>Antennaria negleta</subject>
+      <subject>Asclepias syriaca</subject>
+      <subject>Asclepias verticillata</subject>
+      <subject>Campanula rotundifolia</subject>
+      <subject>Carduus nutans</subject>
+      <subject>Cicuta maculata</subject>
+      <subject>Cirsium canescens</subject>
+      <subject>Cirsium undulatum</subject>
+      <subject>Comandra umbellata</subject>
+      <subject>Conium maculatum</subject>
+      <subject>Convolvulus arvensis</subject>
+      <subject>Echinacea angustifolia</subject>
+      <subject>Ellisia nyctelea</subject>
+      <subject>Erigeron bellidiastrum</subject>
+      <subject>Erigeron philadelphicus</subject>
+      <subject>Erigeron strigosus</subject>
+      <subject>Evolvulus nuttallianus</subject>
+      <subject>Galium aparine</subject>
+      <subject>Grindelia squarrosa var. squarrosa</subject>
+      <subject>Gutierrezia sarothrae</subject>
+      <subject>Helianthus annuus</subject>
+      <subject>Helianthus pauciflorus subsp. subrhomboideus</subject>
+      <subject>Helianthus petiolaris</subject>
+      <subject>Helianthus tuberosus</subject>
+      <subject>Heliopsis helianthoides var. occidentalis</subject>
+      <subject>Heterotheca stenophylla var. stenophylla</subject>
+      <subject>Heterotheca villosa</subject>
+      <subject>Hymenopappus tenuifolius</subject>
+      <subject>Impatiens capensis</subject>
+      <subject>Ipomoea leptophylla</subject>
+      <subject>Lactuca ludoviciana</subject>
+      <subject>Liatris glabrata</subject>
+      <subject>Lygodesmia juncea</subject>
+      <subject>Monarda fistulosa var. mollis</subject>
+      <subject>Nepeta cataria</subject>
+      <subject>Penstemon angustifolius</subject>
+      <subject>Penstemon gracilis</subject>
+      <subject>Physalis heterophylla</subject>
+      <subject>Physalis virginiana</subject>
+      <subject>Plantago patagonica</subject>
+      <subject>Ratibida columnifera</subject>
+      <subject>Rudbeckia hirta var. pulcherrima</subject>
+      <subject>Salvia nemorosa</subject>
+      <subject>Senecio integerrimus</subject>
+      <subject>Silene antirrhina</subject>
+      <subject>Silene vulgaris</subject>
+      <subject>Silphium integrifolum var. laeve</subject>
+      <subject>Solanum carolinense</subject>
+      <subject>Solanum rostratum</subject>
+      <subject>Solanum triflorum</subject>
+      <subject>Solidago gigantea</subject>
+      <subject>Solidago missouriensis</subject>
+      <subject>Symphoricarpos occidentalis</subject>
+      <subject>Teucrium canadense</subject>
+      <subject>Thelesperma filifolium</subject>
+      <subject>Tragopogon dubius</subject>
+      <subject>Verbascum thapsus</subject>
+      <subject>Verbena hastata</subject>
+      <subject>Vernonia baldwinii</subject>
+      <subject>Veronica americana</subject>
+      <subject>Xanthisma spinulosum</subject>
+      <subject>Zizia aurea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QJ177</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>116051 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sequence alignment of the plastid matK gene for 62 asterid taxa plus 3 outgroups</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

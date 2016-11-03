@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6699055</identifier><datestamp>2015-08-26T14:34:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BP7J7/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Christopher M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papanicolaou, Alexie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mironidis, George K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vontas, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Yihua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lim, Ka S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Kumar S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeshott, John G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bass, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapman, Jason W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RNA-seq analysis of flight phenotypes of H. armigera - DEseq2 full output</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insect migration</subject>
+      <subject>transcriptomics</subject>
+      <subject>tethered flight</subject>
+      <subject>migratory genomics</subject>
+      <subject>China</subject>
+      <subject>Northern Greece</subject>
+      <subject>Helicoverpa armigera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BP7J7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2308635 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Output from R package DEseq2 for China and Greece H. armigera RNAseq experiments analysing differential expression between flight phenotypes. Gene ID = gene identification number. baseMean = average of the normalised count values. log2FoldChange = estimated log fold change between sample groups (for China the estimate is measured against AY; for Greece the estimate is measured against GR_S). lfcSE = standard error estimate for logFC. p-value = evidence for an effect of treatment on expression. padj = multiple testing correction for p-value. 'NA' in the p-value or padj column indicates that the gene was excluded from the analysis due to no count data or an extreme outlier.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

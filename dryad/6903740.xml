@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6903740</identifier><datestamp>2015-10-23T15:58:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8M2G3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rousselet, Guillaume A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ince, Robin A. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Rijsbergen, Nicola J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schyns, Philippe G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>EEG responses to bubbled face and noise images</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eeg</subject>
+      <subject>bubbles</subject>
+      <subject>face processing</subject>
+      <subject>n170</subject>
+      <subject>erp</subject>
+      <subject>single-trial</subject>
+      <subject>reaction time</subject>
+      <subject>reverse correlation</subject>
+      <subject>mutual information</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8M2G3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3474 bytes</size>
+      <size>9522158974 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data package provides EEG data recorded from 15 subjects during a face detection task. Stimuli were face images or noise textures, presented sampled with a bubble mask (gaussian apertures). Data include current source density sensor EEG data (trials x time x sensors), full bubble masks, reaction times and categorical responses for each trial. The 7zip archive contains a Matlab .mat file (v7.3, HDF5) for each subject, metadata Matlab file, readme.txt and example script showing calculation of ERPs.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

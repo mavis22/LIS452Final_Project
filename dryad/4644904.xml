@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4644904</identifier><datestamp>2015-03-13T19:19:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P6678/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gorsich, Erin E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ezenwa, Vanessa O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cross, Paul C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bengis, Roy G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jolles, Anna E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Host fitness and infection data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>African buffalo</subject>
+      <subject>bacteria</subject>
+      <subject>chronic disease</subject>
+      <subject>conservation biology</subject>
+      <subject>disease ecology</subject>
+      <subject>population growth</subject>
+      <subject>Kruger National Park</subject>
+      <subject>South Africa</subject>
+      <subject>Syncerus caffer</subject>
+      <subject>Brucella abortus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P6678</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>58444 bytes</size>
+      <size>52331 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the data used in analyses of host fitness. It contains columns that identify the animal (animal_ID), when and how often the animal was captured (month, year, capture_number), host condition (condition), host condition at the previous capture (previous_condition) and infection status (brucellosis). Because the file contains the data used for analyses of host pregnancy and calving, we include an indicator column (use_in_calf_anlaysis, use_in_pregnancy_analysis) to show which rows were used for each analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

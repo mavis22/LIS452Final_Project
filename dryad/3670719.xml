@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3670719</identifier><datestamp>2015-06-09T06:30:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B7SP7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>D&#8217;Souza, Glen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waschina, Silvio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pande, Samay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bohl, Katrin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaleta, Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kost, Christian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Selective_benefits_auxotrophy_raw_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Coevolution</subject>
+      <subject>Evolutionary Genomics</subject>
+      <subject>Fitness</subject>
+      <subject>Physiology</subject>
+      <subject>Symbiosis</subject>
+      <subject>Escherichia coli</subject>
+      <subject>Acinetobacter baylyi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B7SP7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>89293 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains data containing fitness (Mathusian parameters) and productivity (Max optical density at 600nm) of different auxotrophic mutants of Escherichia coli and Acinetobacter baylyi when growing in minimal medium supplemented with either amino acids, vitamins or nucleobases.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

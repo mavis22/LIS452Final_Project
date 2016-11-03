@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239241</identifier><datestamp>2014-11-29T18:36:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T64S0/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Su, Jian-Qiang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ding, Long-Jun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xue, Kai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yao, Huai-Ying</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quensen, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bai, Shi-Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wei, Wen-Xue</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Jin-Shui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Jizhong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tiedje, James M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhu, Yong-Guan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>geochip data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>long-term fertilization</subject>
+      <subject>chemical fertilizer</subject>
+      <subject>GeoChip</subject>
+      <subject>16S rRNA gene pyrosequencing</subject>
+      <subject>soil microbial community</subject>
+      <subject>China</subject>
+      <subject>Taoyuan</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T64S0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3279550 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">geochip data, chemical properties and biological properties of soil samples, R script for analysis of geochip data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

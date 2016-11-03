@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2838104</identifier><datestamp>2014-05-30T08:35:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7GG47/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Taylor, Scott A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Thomas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hochachka, Wesley M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferretti, Valentina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Curry, Robert L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lovette, Irby</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Chickadee SNP data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>GBS</subject>
+      <subject>SNP</subject>
+      <subject>chickadee hybridization</subject>
+      <subject>eastern North America</subject>
+      <subject>Poecile atricapillus</subject>
+      <subject>Poecile carolinensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-03-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7GG47</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

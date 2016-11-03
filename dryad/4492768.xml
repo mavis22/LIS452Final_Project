@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492768</identifier><datestamp>2015-01-29T19:55:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D3MR7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Weston, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russell, Richard A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Batty, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Kirsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stephens, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Niall M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freemont, Paul S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: New quantitative approaches reveal the spatial preference of nuclear compartments in mammalian fibroblasts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spatial point pattern analysis</subject>
+      <subject>nuclear compartments</subject>
+      <subject>spatial preference</subject>
+      <subject>thin plate spline</subject>
+      <subject>intensity estimation</subject>
+      <subject>mammalian fibroblasts</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Weston DJ, Russell RA, Batty E, Jensen K, Stephens DA, Adams NM, Freemont PS (2015) New quantitative approaches reveal the spatial preference of nuclear compartments in mammalian fibroblasts. Journal of the Royal Society Interface 12(104): 20140894.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D3MR7/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSIF.2014.0894</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

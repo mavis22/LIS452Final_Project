@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6827338</identifier><datestamp>2015-10-20T17:11:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QG8DT/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bajanca, Fernanda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonzalez-Perez, Vinicio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gillespie, Sean J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beley, Cyriaque</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garcia, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Theveneau, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sear, Richard P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hughes, Simon M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Datasets and FRAP analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Dystrophin</subject>
+      <subject>muscle</subject>
+      <subject>zebrafish</subject>
+      <subject>FRAP</subject>
+      <subject>diffusion</subject>
+      <subject>binding</subject>
+      <subject>software</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QG8DT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>540209369 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Here we provide the complete Dystrophin FRAP datasets used in Bajanca et al., 2015 eLife, together with the main FRAP analysis files and plots, and also instructions for free access to the software used to analyse cytoplasmic diffusion.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

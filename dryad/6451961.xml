@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6451961</identifier><datestamp>2015-07-08T14:01:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G7641/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hargreaves, Anna L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bailey, Susan F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Laird, Robert A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig 2 (heatmap) data files and R code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Life history evolution</subject>
+      <subject>Simulation</subject>
+      <subject>Dispersal</subject>
+      <subject>Range limits</subject>
+      <subject>Range shift</subject>
+      <subject>Climate change</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G7641</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27548433 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data and R code needed to create Fig 2 in Hargreaves et al (2015) J Evol Biol.  One data file for each of the 6 figure panels.  Each file contains evolved D across the range in each of 500 generations of stable climate followed by 1000 generations of climate change.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

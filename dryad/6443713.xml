@@ -1,0 +1,74 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6443713</identifier><datestamp>2015-07-07T15:11:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P2PN8/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stein, R. Will</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stein et al 2015 - BEAST xml file for taxon-complete analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Galliformes</subject>
+      <subject>Bayesian</subject>
+      <subject>phylogeny</subject>
+      <subject>fossil calibration</subject>
+      <subject>diversification analysis</subject>
+      <subject>mass extinction</subject>
+      <subject>Africa</subject>
+      <subject>Australia</subject>
+      <subject>Eurasia</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+      <subject>Cretaceous</subject>
+      <subject>Paleogene</subject>
+      <subject>Paleocene</subject>
+      <subject>Eocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Neogene</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Quaternary</subject>
+      <subject>Galliformes</subject>
+      <subject>Megapodiidae</subject>
+      <subject>Cracidae</subject>
+      <subject>Numididae</subject>
+      <subject>Odontophoridae</subject>
+      <subject>Anseriformes</subject>
+      <subject>Anatidae</subject>
+      <subject>Anhimidae</subject>
+      <subject>Anseranatidae</subject>
+      <subject>Phasianidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P2PN8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4817732 bytes</size>
+      <size>91849 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This xml file includes the alignments, specifications and additional taxonomic constraints used in the taxon-complete analyses. &#13;
+&#13;
+Additionally, this file includes the code that helped to resolve the convergence problems (low ESS values) stemming from a sparse molecular data matrix. The approach was developed&#13;
+by Dr. Joseph W. Brown and involves the following:&#13;
+&#13;
+1. Create a new compoundParameter to update mean clock rates as a set&#13;
+    see lines:   19329 - 19339&#13;
+&#13;
+2. Comment out the upDownOperators for each mean clock rate&#13;
+     see lines:  20378 - 20483&#13;
+&#13;
+3. Create a new upDownOperator for the new compound parameter&#13;
+     see lines:  20495 - 20504&#13;
+&#13;
+Searching for &#8220;compoundParameterSetUp&#8221; (omitting the &#8220;&#8221;) within the .xml file will locate each of the edits associated with setting up the new compoundParameter for mean clock rates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

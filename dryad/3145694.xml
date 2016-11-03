@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3145694</identifier><datestamp>2014-06-24T17:49:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1P888</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yeaman, Sam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodgins, Kathryn A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suren, Haktan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nurkowski, Kristin A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holliday, Jason A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rieseberg, Loren H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aitken, Sally N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Conservation and divergence of gene expression plasticity following c. 140 million years of evolution in lodgepole pine (Pinus contorta) and interior spruce (Picea glauca &#215; Picea engelmannii)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>lodgepole pine</subject>
+      <subject>white spruce</subject>
+      <subject>Engelmann spruce</subject>
+      <subject>gene expression</subject>
+      <subject>plasticity</subject>
+      <subject>RNAseq</subject>
+      <subject>divergence</subject>
+      <subject>climate</subject>
+      <subject>British Columbia</subject>
+      <subject>Present day</subject>
+      <subject>Pinus contorta</subject>
+      <subject>Picea glauca</subject>
+      <subject>Picea engelmannii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Yeaman S, Hodgins KA, Suren H, Nurkowski KA, Rieseberg LH, Holliday JA, Aitken SN (2014) Conservation and divergence of gene expression plasticity following c. 140 million years of evolution in lodgepole pine (Pinus contorta) and interior spruce (Picea glauca &#215; Picea engelmannii). New Phytologist 203(2): 578-591.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1P888/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/NPH.12819</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

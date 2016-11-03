@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4586197</identifier><datestamp>2015-01-29T19:53:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NF2H5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Luza, Andr&#233; L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gon&#231;alves, Gislene L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hartz, Sandra M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DRYAD_Luza_et_al.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Coexistence</subject>
+      <subject>environmental filters</subject>
+      <subject>niche overlap</subject>
+      <subject>similarity limitation.</subject>
+      <subject>Southern Brazil</subject>
+      <subject>Holocene</subject>
+      <subject>Rodentia</subject>
+      <subject>Didelphimorphia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NF2H5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>57537 bytes</size>
+      <size>88794 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data is organized in dynamic spreadsheets. Basic trapping unity was a sampling point composed by two traps (See Sampling of non-volant small mammals on Material and methods). Sampling unities used in data analysis were transects composed by eight trapping points. The file &#8220;Data_bank_Luza_et_al.&#8221; is composed by two spreadsheets: Occurrence_data and Individual_traits. Species traits and information about phylogenetic reconstruction will be available with the manuscript and appendices.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

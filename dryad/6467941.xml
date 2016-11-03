@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6467941</identifier><datestamp>2015-07-20T16:40:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.373MG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kumordzi, Bright B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Bello, Francesco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freschet, Gr&#233;goire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Bagousse-Pinguet, Yoann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lep&#353;, Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wardle, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kumordzi et al. 2015_dataF</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>community assembly</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>functional diversity</subject>
+      <subject>niche packing</subject>
+      <subject>plant competition</subject>
+      <subject>spatial heterogeneity</subject>
+      <subject>trait overlap</subject>
+      <subject>variance partitioning</subject>
+      <subject>within - and between - species variability</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.373MG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20596 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Entered publication blackout by Miralee Schulte(mschulte@datadryad.org) on 2015-07-13T17:58:34Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

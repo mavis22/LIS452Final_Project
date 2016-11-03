@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727033</identifier><datestamp>2015-06-03T20:16:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MP238</identifier>
+  <creators>
+      <creator>
+         <creatorName>Buckley, Lauren B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nufio, C&#233;sar R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kirk, Evan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kingsolver, Joel G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Elevational differences in developmental plasticity determine phenological responses of grasshoppers to recent climate warming</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>development</subject>
+      <subject>physiology</subject>
+      <subject>resurvey</subject>
+      <subject>temperature-size rule</subject>
+      <subject>Colorado</subject>
+      <subject>Holocene</subject>
+      <subject>Melanoplus sanguinipes</subject>
+      <subject>Camnula pellucida</subject>
+      <subject>Melanoplus boulderensis</subject>
+      <subject>Melanoplus dawsoni</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Buckley LB, Nufio CR, Kirk EM, Kingsolver JG (2015) Elevational differences in developmental plasticity determine phenological responses of grasshoppers to recent climate warming. Proceedings of the Royal Society B 282(1809): 20150441.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MP238/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MP238/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.MP238/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2015.0441</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

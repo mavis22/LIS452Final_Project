@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3664820</identifier><datestamp>2015-07-24T16:07:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.541V5/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Perez, Guillermo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slippers, Bernard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wingfield, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wingfield, Brenda D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carnegie, Angus J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burgess, Treena I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>clon_corrected_dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Contemporary Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Invasive Species</subject>
+      <subject>Speciation</subject>
+      <subject>Fungi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-08-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Perez G, Slippers B, Wingfield MJ, Wingfield BD, Carnegie AJ, Burgess TI (2012) Data from: Cryptic species, native populations and biological invasions by a eucalypt forest pathogen. Molecular Ecology 21(18): 4452-4471.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.541V5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>14836 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the 112 MLHs (clone corrected) used for population analyses</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

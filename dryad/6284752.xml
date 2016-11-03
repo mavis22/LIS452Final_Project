@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6284752</identifier><datestamp>2015-06-10T14:39:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q044D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stenz, Noah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larget, Bret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baum, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>An&#233;, C&#233;cile</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stratified Subsample Concordance Factors</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gene tree discordance</subject>
+      <subject>concordance</subject>
+      <subject>quartet</subject>
+      <subject>species concept</subject>
+      <subject>TICR</subject>
+      <subject>Arabidopsis thaliana</subject>
+      <subject>Arabidopsis lyrata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q044D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2118698 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Concordance factors as well as their 95% confidence intervals for all 27,405 possible 4-taxon sets of the stratified subsample.  Note: if a 4-taxon set had a concordance factor greater than 0.95, the concordance factors of the minor resolutions were approximated to evenly divide the remaining proportion (i.e. (1 - majorCF) / 2).  Since these values are approximate, the upper and lower 95% confidence intervals for these splits are listed as "NA".  In newer versions of the pipeline, this issue is avoided by having BUCKy output all concordance factors regardless of how small they are.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

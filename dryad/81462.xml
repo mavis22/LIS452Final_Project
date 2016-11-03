@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81462</identifier><datestamp>2014-05-29T18:12:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.537</identifier>
+  <creators>
+      <creator>
+         <creatorName>Steppan, Scott J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Akhverdyan, Mikhail R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lyapunova, Elena A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fraser, Darrilyn G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vorontsov, Nikolai N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffmann, Robert S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Braun, Michael J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Molecular phylogeny of the marmots (Rodentia: Sciuridae): tests of evolutionary and biogeographic hypotheses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+      <subject>cyt b</subject>
+      <subject>phylogenetics</subject>
+      <subject>hypothesis testing</subject>
+      <subject>Beringia</subject>
+      <subject>Holarctic</subject>
+      <subject>Marmota</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Steppan SJ, Akhverdyan MR, Lyapunova EA, Fraser DG, Vorontsov KN, Hoffmann RS, Braun MJ (1999) Molecular phylogeny of the marmots (Rodentia: Sciuridae): tests of evolutionary and biogeographic hypotheses. Systematic Biology 48: 715-734.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.537/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1080/106351599259988</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282236</identifier><datestamp>2015-01-27T15:50:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K14BQ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Baute, Gregory J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kane, Nolan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grassa, Christopher J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lai, Zhao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rieseberg, Loren H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.RHA280xRHA801.gMap2.sort</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Domestication</subject>
+      <subject>Genomics</subject>
+      <subject>Sunflower</subject>
+      <subject>Breeding</subject>
+      <subject>Introgression</subject>
+      <subject>North America</subject>
+      <subject>Quaternary Period</subject>
+      <subject>Helianthus annuus</subject>
+      <subject>Helianthus petiolaris</subject>
+      <subject>Helianthus argophyllus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K14BQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>23534282 bytes</size>
+      <size>2039 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment of manuscript reference transcriptome sequence to &#13;
+reference genome with genetic map positions.&#13;
+&#13;
+bwa mem -t 6 -a -M \&#13;
+    HA412.v0.2.cabog.20111122.RHA280xRHA801.g&#13;
+    Map2.fasta \&#13;
+    TranscriptomeRef_mar30.fa \&#13;
+| samtools view -Sub - \&#13;
+| samtools sort -@ 2 -m 2G -l 9 - \&#13;
+    TranscriptomeRef_mar30.TO.HA412.v0.2.cabog.20111122.&#13;
+    RHA280xRHA801.gMap2.sort</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

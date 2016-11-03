@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5522251</identifier><datestamp>2015-03-24T21:21:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J631F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Delmore, Kira E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>H&#252;bner, Sariel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kane, Nolan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schuster, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andrew, Rose L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#226;mara, Francisco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guigo, Roderic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Irwin, Darren E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Catharus_ustulatus_draft_assembly_annotation_Feb13_2015.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genome assembly</subject>
+      <subject>genome annotation</subject>
+      <subject>Swainson's thrush</subject>
+      <subject>British Columbia</subject>
+      <subject>Catharus ustulatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-23</date>
+      <date dateType="Accepted">2015-03-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J631F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>658375324 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-23</rights>
+  <descriptions>
+      <description descriptionType="Other">Folder containing draft genome assembly and annotation. Assembly generated using a reference-based approach and three paired-end 100bp Illumina libraries (one fragment, two mate pair). Annotation generated using the MAKER pipeline.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915661</identifier><datestamp>2015-10-28T15:09:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JC203/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lesur, Isabelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohler, Annegret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Francis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kremer, Antoine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plomion, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Provost, Gr&#233;goire</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>C. avellana root and ECM-root sequences with T. melanosporum similarity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Hazelnut</subject>
+      <subject>Transcriptome</subject>
+      <subject>Assembly</subject>
+      <subject>RNAseq</subject>
+      <subject>France</subject>
+      <subject>Corylus avellana</subject>
+      <subject>Betulaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JC203</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1762108 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Root ("Root_" prefix) and ECM-roots ("ECM_Roots_" prefix) sequences (col 1) showing similarities with the Tuber melanosporum genome are listed in this file. Each Corylus read is associated with at least one T. melanosporum scaffold (col2).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

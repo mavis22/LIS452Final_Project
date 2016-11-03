@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4631195</identifier><datestamp>2015-03-03T16:29:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6F576/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mitchell, Sara N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kakani, Evdoxia G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>South, Adam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Howell, Paul I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waterhouse, Robert M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Catteruccia, Flaminia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig 4 Phylogenetic analysis of MISO and AGAP002621_protein sequence alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mosquito</subject>
+      <subject>anopheline</subject>
+      <subject>malaria</subject>
+      <subject>evolution</subject>
+      <subject>vectorial capacity</subject>
+      <subject>reproduction</subject>
+      <subject>20-hydroxyecdysone</subject>
+      <subject>Africa</subject>
+      <subject>India</subject>
+      <subject>East Asia</subject>
+      <subject>South-East Asia</subject>
+      <subject>Europe</subject>
+      <subject>New World</subject>
+      <subject>Anopheles gambiae</subject>
+      <subject>Anopheles arabiensis</subject>
+      <subject>Anopheles funestus</subject>
+      <subject>Anopheles stephensi</subject>
+      <subject>Anopheles farauti</subject>
+      <subject>Anopheles dirus</subject>
+      <subject>Anopheles sinensis</subject>
+      <subject>Anopheles atroparvus</subject>
+      <subject>Anopheles albimanus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6F576</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5783 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">MISO and AGAP002621 alignment of orthologous protein sequences from nine anopheline and two outgroup dipteran species retrieved from VectorBase (https://www.vectorbase.org). For each species, MISO andAGAP002621 orthologs were identified via BLAST/Translated blat search in VectorBase. However in some instances the gene models of MISO and AGAP002621 were fused and as a result were manually resolved using Apollo Genome Annotation and Curation Tool, Version 1.11.8. Gene identifiers for MISO and 2621 orthologs respectively are listed below with single identifiers corresponding to fused gene models: A. arabiensis (AARA004231); A. stephensi (ASTE005249); A. funestus (AFUN011077); A. dirus (ADIR010237); A. farauti (AFAF007180, AFAF018121); A. sinensis (ASIS013552, ASIS009594); A. atroparvus (AATE003240, AATE008584); A. albimanus (AALB003668); A. aegypti (AAEL003936, AAEL017464); D. melanogaster (FBgn0003065, no AGAP002621 ortholog present).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6696681</identifier><datestamp>2015-08-25T17:39:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T897Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lessard, Jean-Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weinstein, Ben</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Borregaard, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marske, Katharine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rojas, Danny</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGuire, Jimmy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parra, Juan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rahbek, Carsten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graham, Catherine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>hummer_tree_Lessard</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biogeography</subject>
+      <subject>Community: structure</subject>
+      <subject>Ecology: community</subject>
+      <subject>Macroecology</subject>
+      <subject>gradient diversity</subject>
+      <subject>Morphology</subject>
+      <subject>Phylogeny</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T897Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13084 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">We used a phylogenetic tree (fig. S2) constructed from DNA sequences covering six genetic loci (four nuclear and two mitochondrial) representing 284 hummingbird species, and 15 out-group species spanning four avian orders (McGuire et al. 2014). We then pruned the tree to include only the 281 species included in our global hummingbird distribution data. Sampling includes 101 of 105 currently recognized trochilid genera (lacking only three monotypic genera: Anopetia, Hylonympha, and Sternoclyta, and the bitypic genus Augastes, all with very restricted ranges). Time-calibrated Bayesian phylogenetic analyses were performed using BEAST v1.7.1 (Drummond and Rambaut 2007) with calibrations for divergence dating analyses using substitution rate priors (rather than fossil calibrations) based on rate estimates generated for Hawaiian honeycreepers (Lerner et al. 2011).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

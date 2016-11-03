@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6730381</identifier><datestamp>2015-09-18T14:59:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.98C7S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Heath, Julie A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ak_carots_ES2012_proofed</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>caroteonid</subject>
+      <subject>color</subject>
+      <subject>American kestrel</subject>
+      <subject>Southern Idaho</subject>
+      <subject>Holocene</subject>
+      <subject>Falco sparverius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.98C7S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9352 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains data on American kestrel carotenoid concentrations &#13;
+and associated information collected from kestrels in the field during the breeding seasons 2008-2012. &#13;
+All information was collected from adult kestrels that were in incubating &#13;
+eggs in nest boxes in southern Idaho.&#13;
+Columns are variables, and each row represents 1 bird.  &#13;
+&#13;
+Variable: "record" : unique line identifier; &#13;
+Variable: "ID" : individual identifier for each bird;&#13;
+Variable: "sex" : sex of the bird determined from plumage; &#13;
+Variable: "carotenoid con" : plasma carotenoid concentrations of kestrels (see Sassani et al. for methods);&#13;
+Variable: "Year" : year the bird was captured and sample collected;&#13;
+Variable: "Jcap" : Julian date of capture.  Jan 1 = 1;&#13;
+Variable: "Box" : Nest box identifier used to represent territory identity;&#13;
+Variable: "Mass" : Mass of the bird in grams (digital scale) Note: some birds are missing data on mass;&#13;
+Variable: "nevent" : individual identifier for the pair of birds or nest event;&#13;
+Variable: "Box" : Nest box identifier used to represent territory identity &#13;
+Variable: "Mass" : Mass of the bird in grams (digital scale) Note: some birds are missing data on mass.&#13;
+Variable: "nevent" : individual identifier for the pair of birds or nest event</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

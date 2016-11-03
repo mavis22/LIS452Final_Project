@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4283645</identifier><datestamp>2015-01-27T16:11:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.66V1C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Green, Peter T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harms, Kyle E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Connell, Joseph H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Survivorship of 7977 trees in six size classes over 42 years</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>diversity</subject>
+      <subject>early life-cycle stages</subject>
+      <subject>nonrandom</subject>
+      <subject>tropical forest</subject>
+      <subject>Davies Creek</subject>
+      <subject>north Queensland</subject>
+      <subject>Australia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.66V1C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>260866 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were collected from a permanent forest dynamics plot in rain forest at Davies Creek, 25 km southwest of Cairns in Queensland, Australia.  Large trees are mapped and tagged over the entire plot, smaller trees, saplings and seedlings are mapped and tagged along nested transects through the plot.  The dataset describes the fate of 7977 individuals that were alive on the plot in 1971, and whose fates were recorded through 13 mortality censuses to 2013.  Each row is data for a single stem.  Column 1 'SPEC' gives the species code for the stem (Latin binomials available from the authors upon request).  Column 2 'MAP' indicates the year in which the stem was first mapped.  The earliest map dates are 1963.  Column 3 'DEAD' indicates the survey year in which the stem was recorded dead.  A '0' indicates the stem was still alive at the last survey in 2013.  Column 4 'SCLASS' indicates the size class (1-6) to which the stem was assigned for the purposes of the randomization analyses described in the text.  Column 5 'HG' indicates whether stems in that size class were measured for height or girth on the map date.  Column 'Ht1' indicates height (decimal feet) at the map date.  Column 'Gr1' indicates girth (decimal inches) on the map date.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

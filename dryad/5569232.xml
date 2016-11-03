@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5569232</identifier><datestamp>2015-04-28T18:44:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JF35G/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Altman, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Minozzo, Fabio C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rassier, Dilson E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Relaxed Fiber Before Treatment 2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>myosin</subject>
+      <subject>actin</subject>
+      <subject>force-dependent kinetics</subject>
+      <subject>blebbistatin</subject>
+      <subject>muscle fiber</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JF35G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>332777146 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is data from the 600A Digital Controller (Aurora Scientific Inc.) for a relaxed muscle fiber experiencing sinusoidal oscillations</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

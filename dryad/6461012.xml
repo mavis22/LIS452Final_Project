@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6461012</identifier><datestamp>2015-10-27T21:55:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D8F84</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zhong, Nanbert</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome-wide differential expression of synaptic long non-coding RNAs in autism spectrum disorder</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Neurodevelopmental disease</subject>
+      <subject>autism spectrum disorders</subject>
+      <subject>epigenetic mechanism</subject>
+      <subject>long non-coding RNA (lncRNA)</subject>
+      <subject>mRNA</subject>
+      <subject>HOXAIR</subject>
+      <subject>synaptic vesicle</subject>
+      <subject>blood</subject>
+      <subject>peripheral leukocytes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Wang Y, Zhao X, Ju W, Flory M, Zhong J, Jiang S, Wang P, Dong X, Tao X, Chen Q, Shen C, Zhong M, Yu Y, Brown WT, Zhong N (2015) Genome-wide differential expression of synaptic long noncoding RNAs in autism spectrum disorder. Translational Psychiatry 5: e660.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D8F84/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/TP.2015.144</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

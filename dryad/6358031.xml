@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6358031</identifier><datestamp>2015-08-06T17:03:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.608D7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Riesch, R&#252;diger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Easter, Tara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Layman, Craig A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Langerhans, R. Brian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tidal Creek Gambusia: Life Histories and Environmental Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>anthropogenic habitat modification</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>biodiversity</subject>
+      <subject>competition</subject>
+      <subject>predation</subject>
+      <subject>conservation</subject>
+      <subject>population density</subject>
+      <subject>The Bahamas</subject>
+      <subject>Gambusia hubbsi</subject>
+      <subject>Gambusia manni</subject>
+      <subject>Gambusia</subject>
+      <subject>Poeciliidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.608D7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>65820 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Life-history data for all three species of Gambusia and all six Bahamian islands, as well as environmental variables (Gambusia density, piscivore density, #competitors, salinity, pH, and dissolved oxygen) that characterize the 42 sample sites.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

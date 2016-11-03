@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466837</identifier><datestamp>2015-08-10T20:39:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5HQ6R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van den Berg, Pieter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weissing, Franz J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Simulation data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social behaviour</subject>
+      <subject>simulation model</subject>
+      <subject>Prisoners&#8217; Dilemma</subject>
+      <subject>Snowdrift game</subject>
+      <subject>neural network</subject>
+      <subject>non-equilibrium dynamics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5HQ6R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>95045041 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the output of 100 replicate simulations for each parameter setting of our study (both of the results presented in the main text and in the SI). The folders are named as follows: game_mutationrate_payoffconfiguration_behaviouralimplementation_mutationregime. The abbreviations stand for the following: IPD = Iterated Prioner's Dilemma game, ISD = Iterated Snowdrift game, NN = neural network, TM = 1:1 mapping, GM = entire-genome muation, LM  = per-locus mutation. Each folder contains 100 .txt files with simulation output. Time is on the rows (top row is the first generation), the frequencies of the different strategies (in the same order as in table 2 of the main text) are on the columns.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

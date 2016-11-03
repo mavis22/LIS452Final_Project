@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5544515</identifier><datestamp>2015-04-09T18:56:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B02TF/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dantec, C&#233;cile F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ducasse, Hugo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Capdevielle, Xavier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fabreguettes, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delzon, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Desprez-Loustau, Marie-Laure</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>dantec_jecol_2015_data_all</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>abiotic and biotic hazards</subject>
+      <subject>flushing</subject>
+      <subject>phenology</subject>
+      <subject>powdery mildew</subject>
+      <subject>resistance</subject>
+      <subject>synchrony</subject>
+      <subject>avoidance</subject>
+      <subject>frost</subject>
+      <subject>disease</subject>
+      <subject>France</subject>
+      <subject>Pyrenees</subject>
+      <subject>Quercus petraea</subject>
+      <subject>Erysiphe alphitoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B02TF</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>191568 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data file contains all data used in the article, especially as described in the figures (including supplementary information).Each individual file contains a readme sheet.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

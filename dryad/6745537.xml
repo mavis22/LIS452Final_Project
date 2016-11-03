@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6745537</identifier><datestamp>2015-09-14T14:19:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G9049.2/1.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>L&#252;pold, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simmons, Leigh W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tomkins, Joseph L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fitzpatrick, John L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phylogenies of the Primates, Ungluates, Pheasants, Stalk-eyed flies and Onthophagine dung beetles</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Comparative studies</subject>
+      <subject>Sexual selection &amp; conflicts</subject>
+      <subject>Trade-offs</subject>
+      <subject>Constraints</subject>
+      <subject>Adaptation</subject>
+      <subject>Primates</subject>
+      <subject>Artiodactyla</subject>
+      <subject>Phasianidae</subject>
+      <subject>Onthophagini</subject>
+      <subject>Diopsidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G9049.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4134 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phylogenies in NEXUS format of all species of Primates, Ungluates, Pheasants, Stalk-eyed flies and Onthophagine dung beetles used in this study. All phylogenies are based on published molecular phylogenies. Since no branch lengths were available for most phylogenies, all branch lengths are set to 1 for consistency.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

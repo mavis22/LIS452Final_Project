@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1987729</identifier><datestamp>2014-05-30T05:39:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6VK48</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miller, Joshua M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Malenfant, Ren&#233; M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>David, Patrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Corey S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poissant, Jocelyn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hogg, John T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Festa-Bianchet, Marco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Estimating genome-wide heterozygosity: effects of demographic history and marker type</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>SNP</subject>
+      <subject>microsatellite</subject>
+      <subject>standardized multilocus heterozygosity</subject>
+      <subject>identity disequilibrium</subject>
+      <subject>bighorn sheep</subject>
+      <subject>Ovis canadensis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Miller JM, Malenfant RM, David P, Davis CS, Poissant J, Hogg JT, Festa-Bianchet M, Coltman DW (2014) Estimating genome-wide heterozygosity: effects of demographic history and marker type. Heredity 112(3): 240-247.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6VK48/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6VK48/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6VK48/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6VK48/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2013.99</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

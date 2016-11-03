@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5490593</identifier><datestamp>2015-07-13T20:17:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4DJ10/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duthie, Alexander Bradley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abbott, Karen C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nason, John D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ficus petiolaris wasp wing loadings</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Community: dynamics</subject>
+      <subject>Competition</subject>
+      <subject>Dispersal</subject>
+      <subject>Ecology: community</subject>
+      <subject>Ecology: spatial</subject>
+      <subject>Interactions: coexistence</subject>
+      <subject>Interactions: niche relationships</subject>
+      <subject>Trade offs</subject>
+      <subject>wasps</subject>
+      <subject>Baja</subject>
+      <subject>Idarnes</subject>
+      <subject>Heterandrium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-05-06</date>
+      <date dateType="Accepted">2015-02-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4DJ10</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7039 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-05-06</rights>
+  <descriptions>
+      <description descriptionType="Other">This file includes measurements to estimate wing loading for 83 wasps (rows) of the species of interest in Duthie et al. (2015): LO1 (unnamed Idarnes), SO1 (unnamed Idarnes), SO2 (unnamed Idarnes), Het1 (unnamed Heterandrium), and Het2 (unnamed Heterandrium). Each row is a single wasp, and columns show the site, tree, and fruit from which the wasp was sampled. Lengths and widths of wasp heads, thoraxes, and abdomens are included as measured at their widest points (e.g., for the wasp abdomen, the whole length of the segment is reported, along with an estimate of its width at the widest point). Wing areas were calculated using wing images and ImageJ software.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

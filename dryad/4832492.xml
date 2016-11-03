@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4832492</identifier><datestamp>2015-02-10T15:45:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4VT08/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Leach&#233;, Adam D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chavez, Andreas S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Leonard N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grummer, Jared A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gottscho, Andrew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linkem, Charles W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ddRADseq data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ddRADseq</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>coalescence</subject>
+      <subject>RADseq</subject>
+      <subject>species tree</subject>
+      <subject>SNP</subject>
+      <subject>ultraconserved element</subject>
+      <subject>UCE</subject>
+      <subject>Phrynosomatidae</subject>
+      <subject>Phrynosoma</subject>
+      <subject>Cophosaurus</subject>
+      <subject>Callisaurus</subject>
+      <subject>Holbrookia</subject>
+      <subject>Uta</subject>
+      <subject>Uma</subject>
+      <subject>Urosaurus</subject>
+      <subject>Sceloporus</subject>
+      <subject>Petrosaurus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4VT08</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1152741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Compressed folder containing all of the ddRADseq data assemblies in phylip format. Each *.phy file contains one concatenated alignment of the ddRADseq data. The folders are organized at three levels: 1) homology filter (80 or 90 or 95), 2) paralog filter (1 or 3), 3) minimum individuals (3, 4, 5, 6, 7, 8, 9, or 10).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

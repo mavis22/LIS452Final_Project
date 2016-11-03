@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:783789</identifier><datestamp>2014-05-29T20:20:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.143H7B99</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cooper, Brandon S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hammad, Loubna A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fisher, Nicholas P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karty, Jonathan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montooth, Kristi L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: In a variable thermal environment selection favors greater plasticity of cell membranes in Drosophila melanogaster</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>acclimation</subject>
+      <subject>cellular membranes</subject>
+      <subject>developmental plasticity</subject>
+      <subject>experimental evolution</subject>
+      <subject>thermal adaptation</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cooper BS, Hammad LA, Fisher NP, Karty JA, Montooth KL (2012) In a variable thermal environment selection favors greater plasticity of cell membranes in Drosophila melanogaster. Evolution 66(6): 1976-1984.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.143H7B99/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2011.01566.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

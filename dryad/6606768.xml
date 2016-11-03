@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6606768</identifier><datestamp>2015-08-28T01:24:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6RH3P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smith, Brittany N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ghazanfari, Arash M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bohm, Rudolf A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, William P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Bing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Masly, John P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Imaginal disc Flp-induced expression patterns</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>enhancer-trap Flippase</subject>
+      <subject>imaginal discs</subject>
+      <subject>genetic manipulation</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6RH3P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>370 bytes</size>
+      <size>746158426 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This compressed file contains images from each of the ET-FLPx2 lines that show imaginal disc expression.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

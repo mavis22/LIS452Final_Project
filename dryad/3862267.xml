@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3862267</identifier><datestamp>2014-12-11T19:58:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.60630/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schielzeth, Holger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streitner, Corinna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lampe, Ulrike</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franzke, Alexandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reinhold, Klaus</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Photometric genome size scoring</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Chromosomal Evolution</subject>
+      <subject>Selection - Sexual</subject>
+      <subject>Signaling/Courtship</subject>
+      <subject>Evolutionary Genomics</subject>
+      <subject>Central Europe</subject>
+      <subject>Holocene</subject>
+      <subject>Chorthippus biguttulus</subject>
+      <subject>Gomphocerinae</subject>
+      <subject>Acrididae</subject>
+      <subject>Orthoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.60630</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1872 bytes</size>
+      <size>709 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-09-01T15:54:12Z (GMT). No. of bitstreams: 2
+PhotometricGenomeSizeScoring.txt: 1872 bytes, checksum: ec4160e4ce28a99c2f709718baf404fe (MD5)
+README.txt: 709 bytes, checksum: 1ed47074165efe0a3e443ca6bb6e3986 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

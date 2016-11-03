@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4294291</identifier><datestamp>2014-12-05T15:39:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0MV56/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Arthofer, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cicconardi, Francesco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palmieri, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nolte, Viola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schl&#246;tterer, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schlick-Steiner, Birgit C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steiner, Florian M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dnig annotated transcripts v2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Transcriptome</subject>
+      <subject>de novo assembly</subject>
+      <subject>Illumina</subject>
+      <subject>Alpine main ridge</subject>
+      <subject>Drosophila nigrosparsa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0MV56</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60329103 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-05T15:34:40Z (GMT). No. of bitstreams: 1
+Dnig annotated transcripts v2.fasta: 60329103 bytes, checksum: 9619d23355f38de86f54017f96026950 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

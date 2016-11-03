@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3857859</identifier><datestamp>2015-09-22T06:30:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VG313/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Londo&#241;o, Gustavo A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chappell, Mark A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Casta&#241;eda, Mar&#237;a del Rosario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jankowski, Jill E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robinson, Scott K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MCC_base on_5000_trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>allometry</subject>
+      <subject>body size</subject>
+      <subject>elevation</subject>
+      <subject>energy metabolism</subject>
+      <subject>life-history</subject>
+      <subject>temperature</subject>
+      <subject>birds</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VG313</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>320719 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This tree is the summary of 5000 trees downloaded from http://birdtree.org. The birdtree.org website accompanies the following study: Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO (2012) The global diversity of birds in space and time. Nature 491: 444-448. http://dx.doi.org/10.1038/nature11631, and the Jetz et al. article in Nature should be cited in the primary reference list of any publication that uses data culled from birdtree.org</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

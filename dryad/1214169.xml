@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1214169</identifier><datestamp>2015-09-25T15:49:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.78VR9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grinsted, Lena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pedersen, J&#248;rgen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Jens</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bilde, Trine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Cooperation</subject>
+      <subject>Society</subject>
+      <subject>Kin selection</subject>
+      <subject>Relatedness</subject>
+      <subject>Task allocation</subject>
+      <subject>Evolution of co-operation</subject>
+      <subject>Southern India</subject>
+      <subject>Ecuador</subject>
+      <subject>Anelosimus eximius</subject>
+      <subject>Stegodyphus sarasinorum</subject>
+      <subject>Theridiidae</subject>
+      <subject>Eresidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-09-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.78VR9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>190250 bytes</size>
+      <size>1939 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-09-27T17:01:14Z (GMT). No. of bitstreams: 2
+Raw data.zip: 190250 bytes, checksum: a5b669d1964e8fedf939f65e4deac5e1 (MD5)
+README.txt: 1939 bytes, checksum: bf8ea631dc17a56d87b5c15d8b14668d (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

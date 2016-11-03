@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5563317</identifier><datestamp>2015-05-22T20:09:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.222H3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Urban, Mark C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Jonathan L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Population and Environmental Characteristics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>optimal foraging</subject>
+      <subject>local adaptation</subject>
+      <subject>trophic interactions</subject>
+      <subject>common garden experiments</subject>
+      <subject>geographic gradients</subject>
+      <subject>New England</subject>
+      <subject>USA</subject>
+      <subject>Ambystoma maculatum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.222H3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16863 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains two spreadsheets. The first provides the full dataset of environmental characteristics for all study ponds. The second spreadsheet provides the same data but for the subset of populations included in the common garden experiment. This file also includes the foraging rate of spotted salamanders in the common garden experiment as biomass of zooplankton eaten per day.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,31 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3664424</identifier><datestamp>2015-08-20T20:46:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M27QQ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>The Heliconius Genome Consortium</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>heliconius_genome_scaffolding_scripts.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2012-05-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M27QQ.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28776 bytes</size>
+      <size>1663 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-08-20T20:46:04Z (GMT). No. of bitstreams: 2
+heliconius_genome_scaffolding_scripts.tar.gz: 28776 bytes, checksum: 6b2048c51764ad85e045fc0dfa1c4a76 (MD5)
+README.txt: 1663 bytes, checksum: 2042e713bd0666d28bb10ca6f9e32fc0 (MD5)
+  Previous issue date: 2012-05-18</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

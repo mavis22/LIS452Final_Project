@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6345254</identifier><datestamp>2015-07-24T16:14:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NJ957/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fronhofer, Emanuel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klecka, Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meli&#225;n, Carlos J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altermatt, Florian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fronhofer_2015_ELE_dryad_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>inter-specific competition</subject>
+      <subject>plasticity</subject>
+      <subject>reaction norm</subject>
+      <subject>density-dependent dispersal</subject>
+      <subject>density-dependent movement</subject>
+      <subject>Allee effect</subject>
+      <subject>microcosms</subject>
+      <subject>protists</subject>
+      <subject>Tetrahymena pyriformis</subject>
+      <subject>Colpidium sp.</subject>
+      <subject>Paramecium aurelia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NJ957</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>302820 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data for &#13;
+Fronhofer, Klecka, Melian &amp; Altermatt (2015): Condition-dependent movement and dispersal in experimental metacommunities, Ecology Letters.&#13;
+&#13;
+Data files:&#13;
+&#13;
+1) dispersal_data.txt: This file contains the dispersal data recored as manual counts at the end of the experiment. "treatment" refers to the experimental community composition. "density" is reported in individuals/ml. patch: "S" (starting conditions, i.e., at the beginning of the experiment), "P1" (start/origin patch), "P2" (target patch)&#13;
+&#13;
+2) movement_data.txt: contains the individual-level movement and morphology data from the video analysis. The file contains information on: velocity ("velocity_metric") measured in mm/s, turning angle distribution width ("sd_turning") measured as the standard devidation, the net distance travelled ("euclidean_metric") measured in mm, as well as morphological parameters, specifically the length along the major axis in &#181;m and the aspect ratio (major/minor).&#13;
+&#13;
+3) growthCurves_data.txt: Sample-level density data from video analysis for determining r0 and K of all three species (see Fig. S1). "time" is reported in hours and captures the time since the beginning of the growth experiment.&#13;
+&#13;
+4) communityDynamics_data_interactionCoefficients.txt: Sample-level data from video analysis of all 2-species communities used to determine interaction coefficients (see Fig. S3).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

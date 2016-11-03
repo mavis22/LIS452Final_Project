@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330048</identifier><datestamp>2015-06-16T13:47:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.906FT/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tepley, Alan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Veblen, Thomas Thorstein</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tepley&amp;Veblen2015_transect_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mixed-severity fire regime</subject>
+      <subject>fire history</subject>
+      <subject>mixed-conifer forest</subject>
+      <subject>dendro-ecology</subject>
+      <subject>fire reconstruction</subject>
+      <subject>fire severity</subject>
+      <subject>tree recruitment</subject>
+      <subject>quaking aspen</subject>
+      <subject>Rocky Mountains</subject>
+      <subject>southwestern Colorado</subject>
+      <subject>San Juan Mountains</subject>
+      <subject>Late 17th century to present</subject>
+      <subject>Abies concolor</subject>
+      <subject>Populus tremuloides</subject>
+      <subject>Pseudotsuga menziesii</subject>
+      <subject>Pinus ponderosa</subject>
+      <subject>Picea engelmannii</subject>
+      <subject>Picea pungens</subject>
+      <subject>Abies lasiocarpa</subject>
+      <subject>Quercus gambelii</subject>
+      <subject>Pinus flexilis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.906FT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>514062 bytes</size>
+      <size>26357 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Forest stand- and age-structure-data were collected across two ca. 1,340-ha study areas (Squaretop Mountain and Williams Creek) located within the San Juan National Forest of southwestern Colorado as part of a study to evaluate historical fire regimes and fire-driven forest dynamics across the moisture gradient of mixed-conifer and aspen forest. Within the data file, a separate sheet is provided for each of the following datasets: (1) transect locations, (2) overstory (&gt; 15 cm dbh) species composition and size structure, (3) ages of overstory trees, (4) sapling (1.5&#8211;15.0 cm dbh) density, (5) the forest type for each transect, and (6) codes for species used in the other datasheets.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

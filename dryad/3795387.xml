@@ -1,0 +1,78 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3795387</identifier><datestamp>2014-10-03T13:35:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NN952/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Faria, Nuno R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rambaut, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suchard, Marc A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baele, Guy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bedford, Trevor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ward, Melissa J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tatem, Andrew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sousa, Jo&#227;o D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arinaminpathy, Nimalan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;pin, Jacques</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Posada, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peeters, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peeters, Martine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pybus, Oliver P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemey, Philippe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Exponential-logistic coalescent model, robust counting and randomisation procedure</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Phylodynamics</subject>
+      <subject>Phylogeography</subject>
+      <subject>Population Dynamics</subject>
+      <subject>Human Immunodeficiency Virus Type 1</subject>
+      <subject>Central Africa</subject>
+      <subject>Southern Africa and USA</subject>
+      <subject>20th century</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NN952</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>168386 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains (1) the BEAST XML input file for the exponential-logistic coalescent model used to estimate the epidemiological transition time, (2) the BEAST XML input file for the robust counting analysis (Fig. 3 and Figs. S5-S6), and (3) the BEAST XML input file corresponding to the randomisation procedure shown in Fig. S4.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

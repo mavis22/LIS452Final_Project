@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5689379</identifier><datestamp>2015-05-12T18:10:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8S459/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Renaut, Sebastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rieseberg, Loren H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>new_provean_results_all</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Deleterious mutation</subject>
+      <subject>adaptation</subject>
+      <subject>genetic load</subject>
+      <subject>recombination rate</subject>
+      <subject>crop improvement</subject>
+      <subject>domestication</subject>
+      <subject>Helianthus annuus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8S459</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5672268 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Results of PROVEAN analyses identifying deleterious non-synonymous mutations. First column identifies the non-synonymous AA changes and their position (e.g. P113A). The correspondence between this AA change and the SNPs identified in the dataset can be found in this file (new_snp_table_effect). Second column is the Provean score.  Third column are the name of the genes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6452960</identifier><datestamp>2015-08-10T20:57:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6DH6G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Quirk, Joe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leake, Jonathan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, Lyla L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saccone, Loredana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beerling, David J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Quirk_early_land_plant_weathering_PRSB_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Early land plants</subject>
+      <subject>arbuscular mycorrhiza</subject>
+      <subject>Palaeozoic climate</subject>
+      <subject>biological weathering</subject>
+      <subject>land plant evolution</subject>
+      <subject>Palaeozoic</subject>
+      <subject>Marchantia paleacea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6DH6G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>92622 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data file is an Excel document consisting of 11 worksheets numbered (1) &#8211; (11).  The data supporting the paper are brought together from two separate controlled-environment experiments and from various literature sources.  The experimental data come from the new experiments with liverworts conducted for this study, and from an earlier experiment with trees under comparable environmental and experimental conditions reported previously by Quirk et al. 2014 (Biology letters, 10, DOI: 10.1098/rsbl.2014.0375).  The data are also drawn from literature sources used to calculate and compare rates of weathering by lichens and mosses.  The worksheets are ordered to correspond with the order that results are presented in the elements of each figure of the main paper.  The underpinning data and calculations or conversions used to obtain and compare the results are presented in the relevant worksheets, with calculation steps clearly shown.  Numbers in parenthesis in the column headings of worksheet (3), which corresponds to figure 3a, refer to the corresponding numbered worksheets containing the separate datasets (individual box-plot bars) used to construct the figure panel.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

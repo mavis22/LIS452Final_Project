@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5726999</identifier><datestamp>2015-06-08T16:07:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.76TR0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kangassalo, Katariina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valtonen, Terhi M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roff, Derek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#246;lkki, Mari</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dubovskiy, Ivan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sorvari, Jouni</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rantala, Markus J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>The whole data from our study on intra- and transgenerational effects of larval diet on susceptibility to a fungus in Galleria mellonella</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Immunity</subject>
+      <subject>Insect</subject>
+      <subject>Maternal effect</subject>
+      <subject>Nutrition</subject>
+      <subject>Parental effect</subject>
+      <subject>Survival</subject>
+      <subject>Galleria mellonella</subject>
+      <subject>Beauveria bassiana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.76TR0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>133453 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the whole data, collected in a laboratory, from our study on intra- and trans-generational effects of larval diet on susceptibility to an entomopathogenic fungus, Beauveria bassiana, in the greater wax moth, Galleria mellonella. The data file was created with Excel. Please note that as our study consisted of two experiments, data from these two experiments are in separate sheets in the data file. For description of the meaning of the variables in the data and of the codes used to describe values of each variable, please read the attached comments that are found at the column headings of each variable.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

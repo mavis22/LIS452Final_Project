@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7000733</identifier><datestamp>2015-11-11T18:16:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0882G</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nord, Andreas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lehmann, Marina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macloed, Ross</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCafferty, Dominic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nager, Ruedi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nilsson, Jan-&#197;ke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helm, Barbara</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evaluation of two methods for minimally invasive peripheral body temperature measurement in birds</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>heterothermy</subject>
+      <subject>PIT tag</subject>
+      <subject>radio telemetry</subject>
+      <subject>Northern Europe</subject>
+      <subject>Holocene</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.0882G/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/JAV.00845</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

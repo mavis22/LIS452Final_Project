@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5747891</identifier><datestamp>2015-06-17T18:29:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SC14N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Koyama, Satoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matsui, Shingo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Satoh, Toshiyuki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sasaki, Ken</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>original data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biogenic amine</subject>
+      <subject>cooperation</subject>
+      <subject>social behaviour</subject>
+      <subject>pleometrosis</subject>
+      <subject>octopamine</subject>
+      <subject>Izu Peninsula</subject>
+      <subject>Japan</subject>
+      <subject>Polyrhachis moesta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SC14N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19984 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">From Table S2-4: Table S2. Data of the brain amine levels (pmol/brain) in founding and colony queens, Table S3. Data of the behavioural observation in control and OA-fed queens, Table S4. Data of the brain amine levels (pmol/brain) in control and OA-fed queens.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

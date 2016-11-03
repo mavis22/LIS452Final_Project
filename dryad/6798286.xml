@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6798286</identifier><datestamp>2015-10-14T18:37:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1S5RH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Culina, Antica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Camilla, Hinde A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Great tit divorce-fidelity data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Divorce</subject>
+      <subject>Great tit</subject>
+      <subject>Monogamy</subject>
+      <subject>Social environment</subject>
+      <subject>Parus major</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1S5RH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22685 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used to analyse the influence of the social environment of males and females on their future (i.e. to the next breeding season) divorce probability. F- female ID (ring number);	M- male ID;	status_t+1 - if a pair has divorced or stayed faithful to the next year;	F_degree	- number of associates a female had in winter; F_between_degree	- number of male associates female had in winter; partner_strength- association strength between pair members; F_partner_rank; 	M_degree - number of associates a male had in winter;	M_between_degree	;M_partner_rank;	new_old_pair	- is a pair newly formed or previously formed; f_experience	- had a female bred before; m_experience;	ever_seen_together- was a pair seen to associate in winter; Stand_laydate;	n_eggs;	winter</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

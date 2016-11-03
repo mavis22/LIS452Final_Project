@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5520513</identifier><datestamp>2015-05-11T17:50:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B0551/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Carpenter, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Falcon-Lang, Howard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benton, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grey, Melissa</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Appendix S1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Coal Measures</subject>
+      <subject>euryhaline</subject>
+      <subject>rhizodont</subject>
+      <subject>palaeosalinity</subject>
+      <subject>Joggins</subject>
+      <subject>Nova Scotia</subject>
+      <subject>Canada</subject>
+      <subject>Carboniferous</subject>
+      <subject>Pennsylvanian</subject>
+      <subject>Langsettian</subject>
+      <subject>Ageleodus</subject>
+      <subject>Sagenodus</subject>
+      <subject>Megalichthys</subject>
+      <subject>Strepsodus</subject>
+      <subject>Rhizodus</subject>
+      <subject>Rhizodopsis</subject>
+      <subject>Gyracanthides</subject>
+      <subject>Parahaplolepis</subject>
+      <subject>Gyracanthus duplicatus</subject>
+      <subject>Ctenoptychius cristatus</subject>
+      <subject>Conchodus plicatus</subject>
+      <subject>Orthacanthus</subject>
+      <subject>Xenacanthus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B0551.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27170 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing a complete list of all known fossil fish specimens from Joggins accessioned in museum collections, with revised identification where appropriate. Abbreviations in 'specimen examined?' column: Y = yes; N = no; P = only photograph(s) of specimen examined.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

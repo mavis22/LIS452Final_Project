@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3664299</identifier><datestamp>2015-04-02T10:38:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R606D128/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lemmon, Alan R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Emme, Sandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemmon, Emily Moriarty</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lemmon-etal2012_Alignments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>anchored enrichment</subject>
+      <subject>sequence capture</subject>
+      <subject>hybrid enrichment</subject>
+      <subject>highly-conserved regions</subject>
+      <subject>ultraconserved elements</subject>
+      <subject>anchor regions</subject>
+      <subject>phylogenetics</subject>
+      <subject>phylogeography</subject>
+      <subject>Homo sapiens</subject>
+      <subject>Mus musculus</subject>
+      <subject>Xenopus tropicalis</subject>
+      <subject>Pseudacris feriarum</subject>
+      <subject>Gallus gallus</subject>
+      <subject>Chiroxiphia lancelota</subject>
+      <subject>Danio rerio</subject>
+      <subject>Heterandria formosa</subject>
+      <subject>Anolis carolinensis</subject>
+      <subject>Crotalus adamanteus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R606D128</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>211351 bytes</size>
+      <size>299 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-05-08T18:54:01Z (GMT). No. of bitstreams: 2&#13;
+Lemmon-etal2012_Alignments.zip: 211351 bytes, checksum: adb9780f83b363ac3ef51378d12b4859 (MD5)&#13;
+README.txt: 299 bytes, checksum: 48e27ac0118f0dcc4d9f5bcdf12cdbc6 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

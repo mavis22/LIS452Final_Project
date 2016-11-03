@@ -1,0 +1,30 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6706214</identifier><datestamp>2015-08-28T14:21:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K8HR0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bianchi, Matteo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bianchi, Dahlgren et al., Canine Hypothyroidism data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-08-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K8HR0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1106 bytes</size>
+      <size>39338726 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-08-28T14:21:21Z (GMT). No. of bitstreams: 2
+README.txt: 1106 bytes, checksum: 1327f431bd82df17ddb0c52ca9c0a3d1 (MD5)
+Bianchi, Dahlgren et al., Canine Hypothyroidism data.zip: 39338726 bytes, checksum: a0b9f7b22d1d9114b1eb1c8cd5b9dac3 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

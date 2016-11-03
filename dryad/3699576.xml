@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3699576</identifier><datestamp>2015-02-15T20:07:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.57F48/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gowen, Fiona C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maley, James M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cicero, Carla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterson, A. Townsend</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Faircloth, Brant C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Warr, T. Caleb</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCormack, John E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bayesian phylogeny of Aphelocoma from cytochrome b gene</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>birds</subject>
+      <subject>speciation</subject>
+      <subject>phylogeography</subject>
+      <subject>post-zygotic reproductive barriers</subject>
+      <subject>gene flow</subject>
+      <subject>Mexico</subject>
+      <subject>United States</subject>
+      <subject>North America</subject>
+      <subject>Pleistocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Holocene</subject>
+      <subject>Neogene</subject>
+      <subject>Aphelocoma</subject>
+      <subject>Aphelocoma californica</subject>
+      <subject>Corvidae</subject>
+      <subject>Aves</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.57F48</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8889 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a phylogeny generated in BEAST of the entire genus Aphelocoma (and outgroups) based on cytochrome b sequences from GenBank and those generated for Western Scrub-Jays for this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

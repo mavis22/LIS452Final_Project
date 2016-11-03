@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3607518</identifier><datestamp>2014-06-17T18:36:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DH63P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cheng, Ellen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodges, Karen E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melo-Ferreira, Jos&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alves, Paulo C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mills, L. Scott</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Conservation implications of the evolutionary history and genetic diversity hotspots of the snowshoe hare</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>core-periphery</subject>
+      <subject>Climate Change</subject>
+      <subject>evolutionarily significant units</subject>
+      <subject>North America</subject>
+      <subject>Quaternary</subject>
+      <subject>Lepus americanus</subject>
+      <subject>Lepus californicus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cheng E, Hodges KE, Melo-Ferreira J, Alves PC, Mills LS (2014) Conservation implications of the evolutionary history and genetic diversity hotspots of the snowshoe hare. Molecular Ecology 23(12): 2929-2942.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DH63P/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DH63P/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DH63P/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DH63P/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DH63P/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12790</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

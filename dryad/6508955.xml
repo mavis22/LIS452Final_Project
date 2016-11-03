@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6508955</identifier><datestamp>2015-07-28T17:17:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GQ883/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hawkins, Melissa T. R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hofman, Courtney A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Callicrate, Taylor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDonough, Molly M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsuchiya, Mirian T. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gutierrez, Eli&#233;cer E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helgen, Kristofer M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maldonado, Jes&#250;s E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad_ModernSquirrelDemux</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mitogenome</subject>
+      <subject>targeted sequence capture</subject>
+      <subject>high throughput sequencing</subject>
+      <subject>museomics</subject>
+      <subject>Approximately 1800-2015</subject>
+      <subject>Mammalia</subject>
+      <subject>Rodentia</subject>
+      <subject>Artiodactyla</subject>
+      <subject>Carnivora</subject>
+      <subject>Sorciomorpha</subject>
+      <subject>Scandentia</subject>
+      <subject>Chiroptera</subject>
+      <subject>Monotremata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GQ883</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>508 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the 454 barcode information to demultiplex the samples from the two 454 sff files.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

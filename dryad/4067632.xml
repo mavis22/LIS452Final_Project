@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4067632</identifier><datestamp>2014-12-09T21:39:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H8J92/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Connelley, Timothy K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Degnan, Kathryn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Longhi, Cassandra W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrison, W. Ivan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Functional TRAV_TRDV genes phylogenetic tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Cattle</subject>
+      <subject>Bovine</subject>
+      <subject>TCR</subject>
+      <subject>Phylogenetics</subject>
+      <subject>TRA/TRD locus</subject>
+      <subject>Bos taurus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H8J92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1254296 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phylogenetic analysis of the repertoires of functional TRAV/TRDV genes in mice, humans and cattle. A - Neighbour-joining phylogenetic tree of all functional murine, human and bovine (from the UMD3.1 assembly) TRAV/TRDV genes. Analysis of the nucleotide sequence of the V-REGION (IMGT nomenclature) following pairwise deletion to remove gaps in the alignment. The final dataset included 340 positions. The sequence of bTRBV3a was used to root the tree. Based on 1000 boot strap replicates support for Groups 1 (purple), 3 (green) and 4 (red) was high with PB &gt;97%. Support for Group 2 (blue) was low (PB= 13%) but examination of the data using UPMGA and minimum evolution models generated the same phylogenic groups, suggesting it was reliable (data not shown). h = human, b = bovine and m = murine. Percentage of the functional (B) and total (C) TRAV/TRDV genes in humans, mice and cattle in the 4 phylogenetic Groups defined from neighbour-joining analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

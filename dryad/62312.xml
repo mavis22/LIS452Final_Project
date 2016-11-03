@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:62312</identifier><datestamp>2015-08-20T18:59:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PB0DN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nikula, Raisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spencer, Hamish G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waters, Jonathan M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotype file_Nikula et al 2011</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Connectivity</subject>
+      <subject>Diloma</subject>
+      <subject>Habitat</subject>
+      <subject>Macroalga</subject>
+      <subject>Microsatellites</subject>
+      <subject>New Zealand</subject>
+      <subject>Holocene</subject>
+      <subject>Diloma arida</subject>
+      <subject>Diloma durvillaea</subject>
+      <subject>Durvillaea antarctica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-10-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PB0DN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60928 bytes</size>
+      <size>24064 bytes</size>
+      <size>1071 bytes</size>
+      <size>31146 bytes</size>
+      <size>1060 bytes</size>
+      <size>31118 bytes</size>
+      <size>31548 bytes</size>
+      <size>1094 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2011-10-17T16:18:36Z (GMT). No. of bitstreams: 4
+README.txt: 1071 bytes, checksum: 526d731ba0d5fccae7d5e85072f7b81d (MD5)
+Genotype file_Nikula et al 2011.txt: 31146 bytes, checksum: edd4848e5134e24cafad47d177106c62 (MD5)
+Genotype file_Nikula et al 2011.doc: 60928 bytes, checksum: 460705849a0699f77197e0e141402bf7 (MD5)
+README.doc: 24064 bytes, checksum: 44e33d3d095dfac0b4024e1f9af15540 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

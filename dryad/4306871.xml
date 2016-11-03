@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4306871</identifier><datestamp>2015-01-28T21:51:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S4DV0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Satterfield, Dara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maerz, John C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altizer, Sonia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Virulence for parasite isolates collected from migratory vs. non-migratory monarchs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>long-distance migration</subject>
+      <subject>infectious disease</subject>
+      <subject>movement ecology</subject>
+      <subject>virulence evolution</subject>
+      <subject>neogregarine</subject>
+      <subject>North America</subject>
+      <subject>2011-2013</subject>
+      <subject>Danaus plexippus</subject>
+      <subject>Ophryocystis elektroscirrha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S4DV0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>81899 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data show results of an experiment to compare the virulence of Ophryocystis elektroscirrha (OE) parasites from migratory vs. non-migratory monarch butterflies. In the laboratory, monarch larvae (2nd instars) were inoculated with 10 parasite spores from one of 57 parasite isolates (indicated by parasite ID) and then reared to adulthood. The source population of each wild-collected parasite isolate is listed. Details on parasite origins are available in the Electronic Supplementary Material. Experimental monarchs originated from one of five monarch lineages (or families), which were randomly assigned to treatments. We inoculated 10 larvae for each isolate and also reared 80 additional control larvae which were not inoculated. Larvae were given fresh, uncontaminated milkweed following inoculation. Key dates, including date of inoculation, monarch pupation, monarch eclosion and monarch death are listed. When monarchs were in the pupa stage, we weighed each pupa (pupal weight in grams) and also noted signs of OE disease (dark patches on the pupa), ranking the pupal infection on a scale from 0 to 5. A pupal score of 0 indicates no dark patches due to OE on the pupa, a score of 1 indicates minimal patching, 2 indicates about 25% of the pupa shows dark patches, 3 indicates about 50%, 4 indicates about 75%, and 5 indicates about 100% of the pupa showing darkening due to OE spores under the cuticle. We pupal-scored each monarch starting on day 6 of pupation and repeated this daily until eclosion. Monarchs with a maximum pupal score of 0 or 1 were tested for the parasite after eclosion using the tape method described in the manuscript -- in order to verify absence of infection. All monarchs were classified as either uninfected or infected (infected = having a pupal score of 2 or higher, or an adult infection tape-score of 4 or higher). All adult monarchs were kept at 12C and day of death was noted. Adult longevity (days until death) was calculated and used as a proxy of parasite virulence (shorter adult longevity indicates higher parasite virulence). After death, we quantified the parasite load on each infected monarch's abdomen, as described in the manuscript. Parasite load was log-transformed. Monarch sex is also indicated.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

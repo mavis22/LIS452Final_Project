@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5596493</identifier><datestamp>2015-06-04T19:52:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R5J90/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liu, Yong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kostakos, Vassilis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Hongxiu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Climate and website visit data for multiple cities</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate</subject>
+      <subject>coordination</subject>
+      <subject>planning</subject>
+      <subject>China</subject>
+      <subject>Global</subject>
+      <subject>2008-2013</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R5J90</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1375975 bytes</size>
+      <size>840 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The archive contains the following files:&#13;
+-analysis_government_sites.R: code for our analysis of visits to government websites &#13;
+-analysis_lashou.R: code for our analysis of the lash shopping dataset&#13;
+-analysis_transport_sites.R: code for our analysis of visits to public transport websites&#13;
+-data_government_sites (directory): contains number of daily visits to various government websites, as reported by Alexa.&#13;
+-data_transport_sites  (directory): contains number of daily visits to various public transport websites, as reported by Alexa&#13;
+-data_weather.csv: daily weather data, analysed in conjunction with the shopping dataset&#13;
+-results_government_sites.csv: table summarising the results of analysing visits to government websites&#13;
+-results_transport_sites.csv: table summarising the results of analysing visits to public transport websites</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597978</identifier><datestamp>2015-02-23T23:43:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GM2SM/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Walsh, Patrick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaufman, Darrell</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McDaniel, Tess</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chowdhry Beeman, Jai</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mapping confidence of Ahklun Mountain glacier files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Glaciers</subject>
+      <subject>Recession</subject>
+      <subject>Ahklun Mountains</subject>
+      <subject>southwestern Alaska</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GM2SM</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>107008 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mapping confidence at three time steps for 76 Ahklun Mountain glaciers, southwestern Alaska.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

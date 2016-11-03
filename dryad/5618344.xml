@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5618344</identifier><datestamp>2015-07-08T16:44:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23835/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Johnson, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saenz, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Cory K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hibbitts, Toby J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>L. clamitans predator regime, morphology and swimming performance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Anuran larvae</subject>
+      <subject>tadpole</subject>
+      <subject>fast-start velocity</subject>
+      <subject>morphology</subject>
+      <subject>predation</subject>
+      <subject>phenotypic integration</subject>
+      <subject>South East US</subject>
+      <subject>East Texas</subject>
+      <subject>Holocene</subject>
+      <subject>Lithobates clamitans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.23835</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>138783 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">ID = individuals tadpole identifier; Pond = Pond the tadpole originated from; Predator Community = The major predator type found the pond; Gosner Stage = Tadpoles developmental stage scored by Gosners (1960) method; Burst speed (cm/s) = Tadpole burst speed in cm per second; Columns L1X-LUniY = Tadpole morphometric scores (partial warps and uniform components, i.e. the weight matrix) for the lateral view of the tadpole; Columns D1X-DUniY = Tadpole morphometric scores (partial warps and uniform components, i.e. the weight matrix) for the dorsal view of the tadpole; log total CS = Tadpole size, i.e. log transformed total (summed) centroid size for the lateral and dorsal morphometric data;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

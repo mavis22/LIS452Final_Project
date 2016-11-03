@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:62323</identifier><datestamp>2015-10-21T18:49:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D403S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lozier, Jeffrey D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strange, James P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart, Isaac J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cameron, Sydney A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Patterns of range-wide genetic variation in six North American bumble bee (Apidae: Bombus) species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Ecosystem Services</subject>
+      <subject>Insects</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>North America</subject>
+      <subject>Bombus</subject>
+      <subject>Bombus occidentalis</subject>
+      <subject>Bombus pensylvanicus</subject>
+      <subject>Bombus bifarius</subject>
+      <subject>Bombus vosnesenskii</subject>
+      <subject>Bombus impatiens</subject>
+      <subject>Bombus bimaculatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lozier JD, Strange JP, Stewart IJ, Cameron SA (2011) Patterns of range-wide genetic variation in six North American bumble bee (Apidae: Bombus) species. Molecular Ecology 20(23): 4870-4888.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D403S/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05314.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

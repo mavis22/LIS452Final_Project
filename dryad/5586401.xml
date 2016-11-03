@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586401</identifier><datestamp>2015-06-09T17:01:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT87N/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brogan III, William R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Relyea, Rick A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SnailAbundance&amp;AvgMass_PLOSOne</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecotoxicology</subject>
+      <subject>Insecticide mitigation</subject>
+      <subject>Pesticides</subject>
+      <subject>Phytoremediation</subject>
+      <subject>Submerged aquatic vegetation</subject>
+      <subject>Northwestern Pennsylvania</subject>
+      <subject>Elodea canadensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT87N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>60107 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Metadata for pond snail and rams horn snail abundance and average mass.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

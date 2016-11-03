@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6455082</identifier><datestamp>2015-08-14T20:54:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1J3T3/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garcia-Lazaro, Jose A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shepard, Kathryn N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miranda, Jason A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Robert C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lesica, Nicholas A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cochlear nucleus data file 1 (file 1 out of 8)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Auditory nerve</subject>
+      <subject>Cochlear nucleus</subject>
+      <subject>Inferior colliculus</subject>
+      <subject>Mouse vocalizations</subject>
+      <subject>Auditory pathway</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1J3T3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>101851528 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These Matlab MAT files (8 in total) contain multiunit activity electrophysiological data recorded from the mouse dorsal cochlear nucleus. The data were collected using silicon electrode arrays (with recording sites arranged in 4 shanks with 8 sites per shank) from a population of 8 animals. There is one file for each animal and the file name represents the date the experiment was performed. Each file contains the &#8220;data&#8221; structured array whose size depends on the number of electrode penetrations performed in each experiment (at least five per animal). For further information contact Dr. Jose A. Garcia Lazaro (jose.garcia-lazaro@ucl.ac.uk).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

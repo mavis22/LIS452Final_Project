@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4306870</identifier><datestamp>2015-01-28T21:50:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S4DV0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Satterfield, Dara A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maerz, John C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Altizer, Sonia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Protozoan infection prevalence data from migratory and non-migratory monarchs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>long-distance migration</subject>
+      <subject>infectious disease</subject>
+      <subject>movement ecology</subject>
+      <subject>virulence evolution</subject>
+      <subject>neogregarine</subject>
+      <subject>North America</subject>
+      <subject>2011-2013</subject>
+      <subject>Danaus plexippus</subject>
+      <subject>Ophryocystis elektroscirrha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S4DV0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27973 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data show the number of infected (and total) monarchs found per site when citizen scientists or the authors tested monarch butterflies for the protozoan parasite Ophryocystis elektroscirrha (OE). We were interested in differences in infection prevalence for migratory vs. sedentary (non-migratory) monarchs. Sites were located in one of several source populations: the monarchs' summer-breeding range (migratory monarchs), Mexico overwintering areas (migratory monarchs), winter-breeding areas (non-migratory monarchs), or at coastal overwintering areas. One line of data shows results from one site for one year of the study (year 1 = 2011-2012 and year 2= 2012-2013). For each site and year, geographic coordinates, observer initials, city, state, number of total samples, and number of infected samples are listed. We calculated prevalence for sites with 8 or more total samples per year. Prevalence is the proportion of total samples that were heavily infected with OE. Prevalence was arc-sine-square-root-transformed. Each site was also assigned to a sub-region, as detailed in the Electronic Supplementary Material.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

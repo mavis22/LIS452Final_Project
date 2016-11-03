@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3604981</identifier><datestamp>2014-07-22T16:05:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S584C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Teske, Peter R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sandoval-Castillo, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waters, Jonathan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beheregaray, Luciano B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Can novel genetic analyses help to identify low-dispersal marine invasive species?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>coalescent</subject>
+      <subject>cunjevoi</subject>
+      <subject>founder effect</subject>
+      <subject>genetic bottleneck</subject>
+      <subject>invasion biology</subject>
+      <subject>marine biology</subject>
+      <subject>molecular dating</subject>
+      <subject>Tasmania</subject>
+      <subject>New Zealand</subject>
+      <subject>Victoria</subject>
+      <subject>South Australia</subject>
+      <subject>Holocene</subject>
+      <subject>Pyura doppelgangera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Teske PR, Sandoval-Castillo J, Waters JM, Beheregaray LB (2014) Can novel genetic analyses help to identify low-dispersal marine invasive species? Ecology and Evolution 4(14): 2848-2866.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S584C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S584C/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S584C/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S584C/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1129</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

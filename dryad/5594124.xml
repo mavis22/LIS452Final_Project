@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5594124</identifier><datestamp>2015-04-29T19:53:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7VS0V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Clavero, Miguel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hermoso, Virgilio</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data MADOZ-RELACIONES</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Conservation targets</subject>
+      <subject>Dams</subject>
+      <subject>Distribution changes</subject>
+      <subject>Historical ecology</subject>
+      <subject>Reference conditions</subject>
+      <subject>River fragmentation</subject>
+      <subject>Spain</subject>
+      <subject>Portugal</subject>
+      <subject>Iberian Peninsula</subject>
+      <subject>Anguilla anguilla</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7VS0V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>291517 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">MS Excel file with two sheets, one for the 19th century Madoz Dictonary (MADOZ) and the other for the 16th century Relaciones Topogr&#225;ficas. Both sheets give the geographical position (in decimal degrees) of localities with information on freshwater fish included in the two historical sources. A "1" is given to localities citing the eel, while "0" is assigned to localities in which freshwater fish were identified by specific or genus-level names, but the eel was not cited</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

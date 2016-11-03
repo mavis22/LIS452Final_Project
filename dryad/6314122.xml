@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6314122</identifier><datestamp>2015-08-26T20:25:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.884HV/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Foster, Susan A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wund, Matthew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graham, Melissa A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Earley, Ryan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gardiner, Ravin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kearns, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baker, John A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Foster_etal_2015_heredity_eggcortisol_Figure4</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>behavioral plasticity</subject>
+      <subject>life history plasticity</subject>
+      <subject>morphological plasticity</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>threespine stickleback</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>cortisol</subject>
+      <subject>stress</subject>
+      <subject>Alaska</subject>
+      <subject>British Columbia</subject>
+      <subject>Gasterosteus aculeatus</subject>
+      <subject>Gasterosteidae</subject>
+      <subject>Teleostei</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.884HV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13914 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8220;Foster_etal_2015_heredity_eggcortisol_Figure4&#8221; contains the data portrayed in Figure 4. This figure shows cortisol concentrations of 4 successive clutches extruded from female threespine stickleback.  Females were either stripped of their clutches at the time of ovulation (short retention treatment) or 24 hours post-ovulation (prolonged egg retention). This file has the following 5 columns of data:&#13;
+&#13;
+clutchnumber &#8211; this indicates the sequence number of the clutch extruded from the fish&#13;
+&#13;
+retentiontreatment &#8211; this indicates whether the clutch was stripped from the female at the time of ovulation (short egg retention) or 24 hours post ovulation (prolonged egg retention). &#13;
+&#13;
+population &#8211; female stickleback from two Alaskan populations were studied, both are freshwater lakes &#8211; Lynne Lake and Willow Lake. &#13;
+&#13;
+clutchmass &#8211; clutch mass in grams&#13;
+&#13;
+cortisol (ln pg per g clutch mass) &#8211; this indicated the natural log transformed cortisol concentration of each clutch, given is picogram per gram of clutch mass</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

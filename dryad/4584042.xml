@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4584042</identifier><datestamp>2015-01-21T18:57:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.23D30/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jeanray, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mar&#233;e, Rapha&#235;l</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pruvot, Benoist</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stern, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geurts, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wehenkel, Louis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muller, Marc</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>JeanrayEtAl-Data-PlosOne</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>images</subject>
+      <subject>zebrafish embryo</subject>
+      <subject>phenotypes</subject>
+      <subject>supervised learning</subject>
+      <subject>dichloroanilin</subject>
+      <subject>theophyllin</subject>
+      <subject>caffeine</subject>
+      <subject>classification</subject>
+      <subject>chorion</subject>
+      <subject>dead</subject>
+      <subject>up curved tail</subject>
+      <subject>up curved fish</subject>
+      <subject>edema</subject>
+      <subject>hemostasis</subject>
+      <subject>down curved tail</subject>
+      <subject>normal</subject>
+      <subject>necrosed yolk sac</subject>
+      <subject>short tail</subject>
+      <subject>Danio rerio</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.23D30</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>696 bytes</size>
+      <size>17572087647 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Images used in PLOS ONE article "Phenotype Classification of Zebrafish Embryos by Supervised Learning" in TIFF format (orginal images without any preprocessing). A readme file is added to describe all the subdirectories.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

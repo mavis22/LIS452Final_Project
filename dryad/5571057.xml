@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5571057</identifier><datestamp>2015-03-28T21:11:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q1GB0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Culina, Antica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lachish, Shelly</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Capture histories used to model pair fidelity and survival in E_surge</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>mulitevent modelling</subject>
+      <subject>pair fidelity</subject>
+      <subject>survival</subject>
+      <subject>Parus major</subject>
+      <subject>Cyanistes caeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q1GB0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>269605 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data include capture histories (column 'H:') for a) female blue and great tits of Wytham woods; b) male blue and great tits of Wytham woods; c) female great tits of Wytham and Bagley woods; d) male great tits of Wytham and Bagley woods. For each dataset, the capture history is followed by the column 'S:' (denotes number of individuals with the capture history), the column '$COV:Mgp' (covariate coding for age, either Juvenile or Adult), and the column '$COV:Sp; or ;$COV:Pop; (coding for Species: G - great tit, B -Blue tit; or population Bag - Bagley wood, Wyth =  Wytham woods). These capture histories were used to model pair fidelity and survival in program E_Surge as described in the Supplementary material of the Culina et al. 2015. Capture histories consist of 6 different codes that describe the 'event' that happen for a particular bird in a particular season. The original data on breeding pairs come from the long-term monitored populations in these woods.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

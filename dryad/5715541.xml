@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5715541</identifier><datestamp>2015-06-04T14:59:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S6F0P/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dehnhard, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eens, Marcel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Demongin, Laurent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quillfeldt, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poisbleau, Maud</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dehnhard_2015_PLoS_ONE_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>body mass</subject>
+      <subject>body condition</subject>
+      <subject>egg mass</subject>
+      <subject>global climate change</subject>
+      <subject>repeatability</subject>
+      <subject>Falkland / Malvinas Islands</subject>
+      <subject>Eudyptes chrysocome</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S6F0P</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53762 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Body mass, body condition and egg mass data of individually marked male and female southern rockhopper penguins breeding on New Island, Falkland / Malvinas Islands. Analyses in Dehnhard et al. 2015 PLoS ONE were based on this dataset.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

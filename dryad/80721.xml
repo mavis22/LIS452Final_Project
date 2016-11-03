@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80721</identifier><datestamp>2014-05-29T18:00:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1261</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jaffe, Rodolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dietemann, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crewe, Robin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Robin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Temporal variation in the genetic structure of a drone congregation area: An insight into the population dynamics of wild African honeybees (Apis mellifera scutellata)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>Animal Mating/Breeding Systems</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Inbreeding</subject>
+      <subject>Insects</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Ezemvelo Nature Reserve</subject>
+      <subject>South Africa</subject>
+      <subject>Apis mellifera scutellata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Jaff&#233; R, Dietemann V, Crewe RM, Moritz RFA (2009) Temporal variation in the genetic structure of a drone congregation area: An insight into the population dynamics of wild African honeybees (Apis mellifera scutellata). Molecular Ecology 18: 1511-1522.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1261/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1261/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1261/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2009.04143.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6797777</identifier><datestamp>2015-09-29T15:35:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.16NT8.1/2.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Quintero, Ignacio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keil, Petr</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jetz, Walter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Crawford, Forrest W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Online Appendix about Monte Carlo Error</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>continuous trait evolution</subject>
+      <subject>phylogeography</subject>
+      <subject>Bayesian inference</subject>
+      <subject>diversification</subject>
+      <subject>species distributions</subject>
+      <subject>historical biogeography</subject>
+      <subject>South America</subject>
+      <subject>Cinclodes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.16NT8.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>479427 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mathematical derivations for the Monte Carlo sampling routine used and analyses of Monte Carlo error for approximating the likelihood of a domain.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

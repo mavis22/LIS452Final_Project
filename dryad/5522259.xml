@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5522259</identifier><datestamp>2015-03-10T19:35:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VM11C/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Richards, Miriam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Onuferko, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rehan, Sandra</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad Nest bee dissection data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>social evolution</subject>
+      <subject>geographic variation</subject>
+      <subject>pan trap</subject>
+      <subject>worker reproduction</subject>
+      <subject>Niagara Region</subject>
+      <subject>St. Catharines</subject>
+      <subject>Ontario</subject>
+      <subject>Canada</subject>
+      <subject>Halictidae</subject>
+      <subject>Halictinae</subject>
+      <subject>Halictus ligatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VM11C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17023 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All measurement and dissection observations for females collected during nest excavations</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

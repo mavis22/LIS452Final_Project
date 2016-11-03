@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4047582</identifier><datestamp>2014-11-28T16:54:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SR687/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Svensson, Erik I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Runemark, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verzijden, Machteld N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wellenreuther, Maren</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Microsatellite data to estimate molecular population divergence in Calopteryx splendens (Figure 2)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>canalization</subject>
+      <subject>community ecology</subject>
+      <subject>developmental plasticity</subject>
+      <subject>evolutionary rescue</subject>
+      <subject>gene flow</subject>
+      <subject>learning</subject>
+      <subject>mate preferences</subject>
+      <subject>speciation</subject>
+      <subject>Damselfly</subject>
+      <subject>insects</subject>
+      <subject>Europe</subject>
+      <subject>Sweden</subject>
+      <subject>Scania</subject>
+      <subject>Klingav&#228;ls&#229;ns Naturreservat</subject>
+      <subject>H&#246;je &#197;</subject>
+      <subject>Lund</subject>
+      <subject>Anthroprocene</subject>
+      <subject>Calopterygidae</subject>
+      <subject>Calopteryx splendens</subject>
+      <subject>Calopteryx virgo</subject>
+      <subject>Insecta</subject>
+      <subject>Odonata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SR687</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26268 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Microsatellite data for &#8220;Sex differences in developmental plasticity and canalization shape population divergence in mate preferences&#8221;. BayesAss results (presented in Figure 2 in Svensson et al. (2014), as well as FST-analyses, Structure analyses and Microchecker analyses are based on these microsatellite data. The file contains genetic data from 133 individuals from seven study populations and one outgroup consisting of 90 individuals inhabiting populations along the River Loire, France. The genotypes of all damselflies were assayed at 13 microsatellite loci previously isolated for this species (see e.g. J. D. Austin et al., 2011, Mol. Ecol. Resour. 11, 757). Information on population ecology (sympatry or allopatry) is presented in Supporting Table 1 in the Supporting Material (Svensson et al. 2014).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766252</identifier><datestamp>2015-05-27T14:56:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1BM5T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Berzins, Lisha L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilchrist, H. Grant</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burness, Gary</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Black guillemot discriminant function analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>discriminant function analysis</subject>
+      <subject>Black guillemot</subject>
+      <subject>East Bay Island</subject>
+      <subject>Southampton Island</subject>
+      <subject>Nunavut</subject>
+      <subject>64&#176;01&#8217;N</subject>
+      <subject>81&#176;47&#8217;W</subject>
+      <subject>Cepphus grylle</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1BM5T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2831 bytes</size>
+      <size>922 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the data file used for the discriminant function analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4629486</identifier><datestamp>2015-03-12T21:25:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NB675/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>P&#233;labon, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hennet, Lauriane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Strimbeck, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Hansen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Armbruster, William Scott</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Measurements of gas exchange in Dalechampia scandens</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>floral colour change</subject>
+      <subject>photosynthetic rate</subject>
+      <subject>floral photosynthesis</subject>
+      <subject>plant &#8211;pollinator interaction</subject>
+      <subject>seed mass</subject>
+      <subject>costs of reproduction</subject>
+      <subject>Neotropics</subject>
+      <subject>Dalechampia scandens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NB675</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4821 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Plant_ID: Identity of the plants&#13;
+Color: green = blossom with green bracts; white = blossom with white bract; leaf = leaf &#13;
+Replicate: replicate identity. Together with the plant_ID this provides a single ID number for each blossom analyzed. &#13;
+Bract: No_Bract = measurements with bracts removed; Bract = measurement with blossom intact; leaf = measurements on leaf.&#13;
+AN: gas exchange in the light (carbon assimilation)&#13;
+Area_Leaf: area of the structure from which gaze exchange is measured. For the blossom with bract removed this is a rough measurement of the fruits area (not used in the analysis). &#13;
+R: gas exchange in the dark (respiration &#8211; negative value) = R&#13;
+GPP: Gross photosynthetic rate =  AN &#8211; R&#13;
+GPPnett: Gross photosynthetic rate: this correspond to the GPP of the blossom with the bracts minus the GPP of the blossom with the bract removed. This is why this value is given only for the rows where the value for the bract column is &#8220;Bract&#8221; or &#8220;Leaf&#8221;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

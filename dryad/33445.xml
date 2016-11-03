@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:33445</identifier><datestamp>2014-05-29T18:25:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5QM51</identifier>
+  <creators>
+      <creator>
+         <creatorName>Reumer, Barbara M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Alphen, Jacques J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraaijeveld, Ken</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Occasional males in parthenogenetic populations of Asobara japonica (Hymenoptera: Braconidae): low Wolbachia titer or incomplete co-adaptation?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>parthenogenesis</subject>
+      <subject>sex ratio</subject>
+      <subject>quantitative PCR</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>Sapporo (Japan)</subject>
+      <subject>Hirosaki (Japan)</subject>
+      <subject>Sendai (Japan)</subject>
+      <subject>Tokyo (Japan)</subject>
+      <subject>Kagoshima (Japan)</subject>
+      <subject>Asobara japonica</subject>
+      <subject>Wolbachia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Reumer BM, van Alphen JJM, Kraaijeveld K (2011) Occasional males in parthenogenetic populations of Asobara japonica (Hymenoptera: Braconidae): low Wolbachia titer or incomplete co-adaptation? Heredity 108: 341&#8211;346.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5QM51/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5QM51/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/HDY.2011.82</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

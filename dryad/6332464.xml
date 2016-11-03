@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6332464</identifier><datestamp>2015-08-06T15:29:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6CR82/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Russo, Laura A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Park, Mia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gibbs, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Danforth, Bryan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DataforDryad_netmaludome</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agroecosystem</subject>
+      <subject>apple orchard</subject>
+      <subject>bee diversity</subject>
+      <subject>biodiversity</subject>
+      <subject>ecosystem function</subject>
+      <subject>pollination services</subject>
+      <subject>sampling</subject>
+      <subject>New York</subject>
+      <subject>Apoidea</subject>
+      <subject>Malus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6CR82</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>21286 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Matrix of taxa (bee species) by apple orchard localities in New York (coded alphabetically by size).  Cells in the matrix include the abundance of the bee species collected at each orchard over a period of six years, from 2008-2013.  Bees were net collected on and between apple blossoms.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

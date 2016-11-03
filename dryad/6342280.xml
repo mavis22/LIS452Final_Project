@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6342280</identifier><datestamp>2015-07-22T20:22:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N6428/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Emily A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reineking, Bj&#246;rn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seo, Bumsuk</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Steffan-Dewenter, Ingolf</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MartinetalPeerJ2015_rawdata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecology</subject>
+      <subject>Biodiversity</subject>
+      <subject>Agriculture</subject>
+      <subject>South Korea</subject>
+      <subject>Brevicoryne brassicae</subject>
+      <subject>Myzus persicae</subject>
+      <subject>Lipaphis erysimi</subject>
+      <subject>Brassica oleracea var. capitata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N6428</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2942464 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in a field experiment on cabbage plants in South Korea. Column headings are described in file sheet "Metadata". See the referenced paper (Martin et al 2015 PeerJ) for details on data collection methods and the experiment.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

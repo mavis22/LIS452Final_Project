@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3756514</identifier><datestamp>2015-01-28T18:17:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1R7M0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Richmond, Jonathan Q.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacobs, David K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Backlin, Adam R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swift, Camm C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dellith, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fisher, Robert N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ephemeral stream reaches preserve the evolutionary and distributional history of threespine stickleback in the Santa Clara and Ventura River Watersheds of southern California</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>threespine stickleback</subject>
+      <subject>cytochrome b</subject>
+      <subject>control region</subject>
+      <subject>Santa Clara River</subject>
+      <subject>Ventura River</subject>
+      <subject>Ventura County</subject>
+      <subject>California</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Richmond JQ, Jacobs DK, Backlin AR, Swift CC, Dellith C, Fisher RN (2015) Ephemeral stream reaches preserve the evolutionary and distributional history of threespine stickleback in the Santa Clara and Ventura River Watersheds of southern California. Conservation Genetics 16(1): 85-101.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1R7M0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1007/S10592-014-0643-7</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6732948</identifier><datestamp>2015-10-20T16:56:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT69S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gill, Lisa F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goymann, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maat, Andries Ter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gahr, Manfred</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Correlation values from vocal interaction matrices</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>call communication</subject>
+      <subject>vocal interactions</subject>
+      <subject>social group</subject>
+      <subject>breeding stages</subject>
+      <subject>Taeniopygia guttata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT69S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2031770 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Calling interactions in group-housed zebra finches: correlation values from vocal interaction matrices for call-type and bird combinations, calculated from PSTHs. Matrices were transposed to columns (focal bird) and rows (non-focal bird), and supplemented with information on: Trial; day; identity, sex and call type of focal and non-focal bird; whether interacting birds were pair members (Pairmembers(y/no)); whether vocal interactions were positive, non-significant or negative (Interaction(pos/0/neg); how call types were combined (combination.type); whether focal bird was in a pair that produced a clutch of eggs (focal.eggslaid); reproductive stage of the focal bird (nest.stage = summary, breeding.stage = more detailed).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

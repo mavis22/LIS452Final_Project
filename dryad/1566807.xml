@@ -1,0 +1,33 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <header>
+                <identifier>oai:oai.datacite.org:1566807</identifier>
+                <datestamp>2013-02-20T09:43:15Z</datestamp>
+                <setSpec>CDL</setSpec>
+                <setSpec>CDL.DRYAD</setSpec>
+            </header>
+            <metadata>
+                <oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd">
+                    <isReferenceQuality>false</isReferenceQuality>
+                    <schemaVersion>2.2</schemaVersion>
+                    <datacentreSymbol>CDL.DRYAD</datacentreSymbol>
+                    <payload>
+                        <resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2     http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+                            <identifier identifierType="DOI">10.5061/DRYAD.46422</identifier>
+                            <creators>
+                                <creator>
+                                    <creatorName>Hickerson, Michael J.</creatorName>
+                                </creator>
+                            </creators>
+                            <titles>
+                                <title>Data from: Recommendations for using msBayes and selecting an
+                                    ABC model prior: A response to Oaks et al.</title>
+                            </titles>
+                            <publisher>Dryad Digital Repository</publisher>
+                            <publicationYear>2013</publicationYear>
+                            <resourceType resourceTypeGeneral="Dataset"/>
+                        </resource>
+                    </payload>
+                </oai_datacite>
+            </metadata>
+        </record>
+        

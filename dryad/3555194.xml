@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3555194</identifier><datestamp>2014-06-16T19:13:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VF210</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jousimo, Jussi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tack, Ayco J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ovaskainen, Otso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mononen, Tommi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Susi, Hanna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tollenaere, Charlotte</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Laine, Anna-Liisa</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ecological and evolutionary effects of fragmentation on infectious disease</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Eco-evolutionary dynamics</subject>
+      <subject>epidemiology</subject>
+      <subject>infectious disease</subject>
+      <subject>metapopulation</subject>
+      <subject>Finland</subject>
+      <subject>Plantago lanceolata</subject>
+      <subject>Podosphaera plantaginis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Jousimo J, Tack AJM, Ovaskainen O, Mononen T, Susi H, Tollenaere C, Laine A (2014) Ecological and evolutionary effects of fragmentation on infectious disease. Science 344(6189): 1289-1293.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VF210/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1126/SCIENCE.1253621</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

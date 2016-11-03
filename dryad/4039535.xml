@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4039535</identifier><datestamp>2014-12-17T19:47:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JD1CQ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Manser, Andri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>K&#246;nig, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lindholm, Anna K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>mate_choice_experiment_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Sexual selection &amp; conflicts</subject>
+      <subject>Mate choice</subject>
+      <subject>Genetic compatibility</subject>
+      <subject>Selfish genetic elements</subject>
+      <subject>Polyandry</subject>
+      <subject>Mammals</subject>
+      <subject>t haplotype</subject>
+      <subject>Mus musculus domesticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JD1CQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>946 bytes</size>
+      <size>3195 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-10-09T18:20:34Z (GMT). No. of bitstreams: 2
+README.txt: 946 bytes, checksum: e904f436af0a6fd9ac332727f5bcc916 (MD5)
+mate_choice_experiment_data.txt: 3195 bytes, checksum: 766214ebb61075e82824aad108816f93 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

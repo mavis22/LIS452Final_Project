@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6330087</identifier><datestamp>2015-09-16T20:34:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G830H</identifier>
+  <creators>
+      <creator>
+         <creatorName>Good, Jeffrey M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vanderpool, Dan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keeble, Sara Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bi, Ke</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Negligible nuclear introgression despite complete mitochondrial capture between two species of chipmunks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Hybridization</subject>
+      <subject>Introgression</subject>
+      <subject>Speciation</subject>
+      <subject>Targeted capture</subject>
+      <subject>Western North America</subject>
+      <subject>Tamias ruficaudus</subject>
+      <subject>Tamias amoenus</subject>
+      <subject>Tamias striatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Good JM, Vanderpool D, Keeble SM, Bi K (2015) Negligible nuclear introgression despite complete mitochondrial capture between two species of chipmunks. Evolution 69(8): 1961&#8211;1972.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G830H/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12712</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

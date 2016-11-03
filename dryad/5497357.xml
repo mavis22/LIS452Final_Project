@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5497357</identifier><datestamp>2015-04-14T18:24:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3QN55/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bennett, Joseph R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maloney, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Possingham, Hugh P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>NZ PPP database and code for Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>threatened species</subject>
+      <subject>flagship species</subject>
+      <subject>flagship fleet</subject>
+      <subject>private sponsorship</subject>
+      <subject>prioritization protocol</subject>
+      <subject>biodiversity conservation</subject>
+      <subject>New Zealand</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-25</date>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3QN55</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>406528 bytes</size>
+      <size>11649043 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-25</rights>
+  <descriptions>
+      <description descriptionType="Other">Data and code for NZ prioritization protocol. Data are embargoed for one year because of ongoing projects. However, dataset authors are happy to discuss possibilities of earlier use, if proposed work does not overlap.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4605870</identifier><datestamp>2015-03-03T21:11:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2P00V/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Matula, Radim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Damborsk&#225;, Lenka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ne&#269;asov&#225;, Monika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ger&#353;l, Milan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>&#352;r&#225;mek, Martin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data_biomass, carbon and enery in sprouts with averagege sprout parameters of 10 largest sprouts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>resprouting</subject>
+      <subject>sprout biomass</subject>
+      <subject>carbon stock</subject>
+      <subject>allometric equations</subject>
+      <subject>coppice</subject>
+      <subject>Quercus petraea</subject>
+      <subject>Tilia cordata</subject>
+      <subject>Carpinus betulus</subject>
+      <subject>Corylus avellana</subject>
+      <subject>Acer campestre</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2P00V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33408 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data for whole resprouting woody plants. They include sprout biomass weight, carbon content, average sprout parameters for 1-10 largest sprouts - basal diameter (BD), diameter at breast height (DBH) and height (H).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6368669</identifier><datestamp>2015-07-02T20:24:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5G8C5/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>McGee, Matthew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reustle, Joseph W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oufiero, Christopher E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wainwright, Peter C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kinematic R code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Biomechanics</subject>
+      <subject>Hybridization</subject>
+      <subject>Morphology</subject>
+      <subject>Speciation: ecological</subject>
+      <subject>Fish</subject>
+      <subject>Lepomis cyanellus</subject>
+      <subject>Lepomis macrochirus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5G8C5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2917 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-07-02T20:23:10Z (GMT). No. of bitstreams: 1
+kinematic_code.r: 2917 bytes, checksum: 9e0438e30ffc9ada6c335057af977e0c (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

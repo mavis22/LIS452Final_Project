@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4619103</identifier><datestamp>2015-02-10T20:44:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QT4NF/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schrader, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jarrett, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kilner, Rebecca</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experiment 2: The effect of larval density on the ability of larvae to enter the carcass and carcass decomposition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behavior</subject>
+      <subject>Maternal Effect</subject>
+      <subject>Trade-Offs</subject>
+      <subject>Competition</subject>
+      <subject>Cooperation</subject>
+      <subject>United Kingdom</subject>
+      <subject>Nicrophorus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QT4NF</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1818 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data are form experiment 2: The effect of larval density on the ability of larvae to enter the carcass and carcass decomposition.  The columns are as follow: 1.  pair: a unique identifier for the breeding pair.  2.  carc_wt: the mass of the breeding carcass in grams.  3.  manipulated_brood_size: the experimentally manipulated number of larvae on the carcass.  4.  density:  the density of larvae on the breeding carcass at manipulation (manipulated_brood_size / carc_wt).  5.  hole_at_manipulation: whether larvae were feeding within the carcass at the time of brood manipulation, 0 = no, 1 = yes.  6.  in_carcass: whether larvae were feeding within the carcass 90 hours after pairing, 0 = no, 1 = yes.  7.  mold_at_90_hrs: whether there was mold growing in the carcass 90 hours after pairing, 0 = no, 1 = yes.  8.  mold_at_114_hours: whether there was mold growing in the carcass 114 hours after pairing, 0 = no, 1 = yes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

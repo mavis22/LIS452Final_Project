@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5152601</identifier><datestamp>2015-02-18T16:01:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9GK52/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Payen, Thibaut</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murat, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gigant, Anais</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morin, Emmanuelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Mita, St&#233;phane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martin, Francis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tuber_melanosporum_60507SNPs_resource</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>SNP resource</subject>
+      <subject>next generation sequencing</subject>
+      <subject>geographic accessions resequencing</subject>
+      <subject>black truffle</subject>
+      <subject>selection signature</subject>
+      <subject>France</subject>
+      <subject>Italy</subject>
+      <subject>Spain</subject>
+      <subject>Tuber melanosporum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9GK52</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5068818 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file in gff format corresponds to the list of the 60,507 SNPs in genomic region putatively free of selection. These SNPs were used for BEAST and maximum likelihood phylogenies. These SNPs originated from the initial 442,326 SNPs resource. SNPs in repeated sequences, gene models and genomic regions putatively under selection were not included in this file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

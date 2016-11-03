@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6710889</identifier><datestamp>2015-08-31T16:40:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TC967/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sheth, Seema Nayan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angert, Amy Lauren</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mimulus cardinalis selected and unselected lines from artificial selection experiment based on a subset of C1 individuals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Biogeography</subject>
+      <subject>Climate change</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Genetics: quantitative</subject>
+      <subject>Geographic ranges</subject>
+      <subject>Selection: artificial</subject>
+      <subject>western North America</subject>
+      <subject>Mimulus cardinalis</subject>
+      <subject>Erythranthe cardinalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TC967</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1187 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file includes unique IDs for the Mimulus cardinalis individuals selected for early flowering, late flowering, and unselected control lines in the 2012 and 2013 generations. Data are derived from artificial selection experiment based on a subset of individuals from the C1 population (see publication for further details).&#13;
+&#13;
+Column names are as follows:&#13;
+&#13;
+Generation: year in which artificial selection was performed; parental generation (2012); 1 generation of selection (2013); 2 generations of selection (2014)&#13;
+&#13;
+Line: artificial selection line; early flowering (early); unselected (control); late flowering (late)&#13;
+ &#13;
+ID: full-sibling seed family (in the case of data from the 2012 generation) or replicate nested within full-sibling seed family (in the case of data from the 2013 generation)&#13;
+&#13;
+FloweringTime: number of days from germination to first flower</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

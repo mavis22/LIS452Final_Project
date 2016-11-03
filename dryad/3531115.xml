@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3531115</identifier><datestamp>2015-07-07T16:30:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SP70N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Breugel, Floris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Suver, Marie P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dickinson, Michael H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>vanBreugel_Suver_Dickinson_JEB_2014_Octopamine_Acceleration</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>free flight</subject>
+      <subject>octopamine</subject>
+      <subject>flight</subject>
+      <subject>drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SP70N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>425165161 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset, a text file, contains all of the trajectories used in the following paper: van Breugel, F; Suver, M; and Dickinson, M (2014). Octopaminergic modulation of the visual flight speed regulator of Drosophila. J Exp Biol 217, 1-8. Each row describes one frame of data, trajectories can be parsed by selecting rows with the same object id number (the first column). The column values are described in the second line of the data file. The data was collected using an automated 10-camera 3D tracking system, and smoothed with a constant velocity kalman smoother. See the Methods section of the paper for more details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

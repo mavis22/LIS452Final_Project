@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738610</identifier><datestamp>2015-09-14T17:01:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M0JK7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Laurent, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pfeifer, Susanne P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Settles, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunter, Samuel S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hardwick, Kayla M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ormond, Louise</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sousa, Vitor C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Jeffrey D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rosenblum, Erica Bree</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>NimbleGen Capture Probe Sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>White Sands National Monument Otero County New Mexico</subject>
+      <subject>Jornada Long-term Ecological Research Station</subject>
+      <subject>BLM Lincoln County New Mexico</subject>
+      <subject>Sceloporus cowlesi</subject>
+      <subject>Aspidoscelis inornata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M0JK7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>75901552 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">NimbleGen capture probe sequences designed against assemblies obtained from sequencing fosmids created from Aspidoscelis inornata and Sceloporus cowlesi DNA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

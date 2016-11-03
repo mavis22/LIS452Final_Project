@@ -1,0 +1,70 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6348416</identifier><datestamp>2015-07-09T20:01:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DQ87D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kail, Jochem</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guse, Bj&#246;rn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Radinger, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schr&#246;der, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kiesel, Jens</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kleinhans, Maarten</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schuurman, Filip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fohrer, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hering, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolter, Christian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kail_etal_2015_PlosOne_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>modelling</subject>
+      <subject>ecology</subject>
+      <subject>river restoration</subject>
+      <subject>fish</subject>
+      <subject>macroinvertebrates</subject>
+      <subject>hydrology</subject>
+      <subject>hydraulics</subject>
+      <subject>fluvial morphology</subject>
+      <subject>habitat suitability</subject>
+      <subject>dispersal</subject>
+      <subject>Central Europe</subject>
+      <subject>northern Germany</subject>
+      <subject>Schleswig-Holstein</subject>
+      <subject>Treene river</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DQ87D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>187628596 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Zip-file containing all data provided for the publication. It includes (i) a read-me file (Word document) with a detailed description of the data files, and (ii) five folders with input data and result data of the different models. TIFF files included in this archive are GeoTIFF files and may be viewed in GIS software such as ESRI ArcGIS or GRASS-GIS.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4224539</identifier><datestamp>2015-04-16T20:20:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J5BN2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mutegi, Evans</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Snow, Allison A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mathu, Rajkumar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pasquest, Remy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ponniah, Hopeland</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daunay, Marie-Christine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davidar, Priya</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mutegi et al eggplant SSR data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eggplant</subject>
+      <subject>brinjal</subject>
+      <subject>genetic diversity</subject>
+      <subject>microsatellite</subject>
+      <subject>outcrossing rates</subject>
+      <subject>population structure</subject>
+      <subject>wild/weedy relatives</subject>
+      <subject>Southern India</subject>
+      <subject>Solanum melongena</subject>
+      <subject>Solanum insanum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J5BN2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42496 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">An excel file with microsatellite data for the 10 natural populations of wild/weedy eggplant (S. insanum) and the 3 cultivar populations studied. A sheet with metadata to describe the fields is included.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

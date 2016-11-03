@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2589584</identifier><datestamp>2014-05-30T09:01:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72P7K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Beck, James B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Semple, John C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brull, Justin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lance, Stacey L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phillips, Mai M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoot, Sara B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Gretchen A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genus-wide microsatellite primers for the goldenrods (Solidago; Asteraceae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Illumina sequencing</subject>
+      <subject>polyploidy</subject>
+      <subject>simple sequence repeat (SSR) markers</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+      <subject>Solidago</subject>
+      <subject>Asteraceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Beck JB, Semple JC, Brull JM, Lance SL, Phillips MM, Hoot SB, Meyer GA (2014) Genus-wide microsatellite primers for the goldenrods (Solidago; Asteraceae). Applications in Plant Sciences 2(4): 1300093.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.72P7K/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/APPS.1300093</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

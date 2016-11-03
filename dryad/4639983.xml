@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4639983</identifier><datestamp>2015-03-02T16:33:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QR20N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nguyen, Linh-Phuong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galtier, Nicolas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nabholz, Benoit</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table_S1 - Datasets</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>X chromosome</subject>
+      <subject>Non-synonymous substitutions</subject>
+      <subject>Synonymous substitutions</subject>
+      <subject>Fast-X</subject>
+      <subject>Hemizygosity</subject>
+      <subject>Gene expression</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QR20N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1610233 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Datasets used in the main statistical analyses of the study. Details of column headings : gene : Ensembl accession number (human); Species; labs :  Species+Chromosome; chrMark : X or Autosomes; chr : Chromosome number; dN :  Number of nonsynonymous substitutions; dS:  Number of synonymous substitutions , dNdS : ratio of dN/dS; RPKM : Expression level in Reads Per Kilobase per Million sequenced Reads; Tau : Expression specificity, GC3 : GC content of the third codon position</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

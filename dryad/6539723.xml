@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6539723</identifier><datestamp>2015-07-30T15:43:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P25F8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martinez-Bakker, Micaela E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sell, Stephanie K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swanson, Bradley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelly, Brendan P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tallmon, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Combined genetic and telemetry data reveal high rates of gene flow, migration, and long-distance dispersal potential in Arctic ringed seals (Pusa hispida)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ringed seal</subject>
+      <subject>population genetics</subject>
+      <subject>Arctic</subject>
+      <subject>United States</subject>
+      <subject>Canada</subject>
+      <subject>Finland</subject>
+      <subject>Baltic Sea</subject>
+      <subject>Pusa hispida</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Martinez-Bakker ME, Sell SK, Swanson BJ, Kelly BP, Tallmon DA (2013) Combined genetic and telemetry data reveal high rates of gene flow, migration, and long-distance dispersal potential in Arctic ringed seals (Pusa hispida). PLoS ONE 8(10): e77125.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P25F8/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P25F8/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P25F8/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0077125</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

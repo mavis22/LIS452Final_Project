@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6837453</identifier><datestamp>2015-10-08T15:00:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2M6S2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hollis, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Houle, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawecki, Tadeusz J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Gene expression for 6 evolved populations x 2 sexes x 2 mating statuses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sexual selection</subject>
+      <subject>sexual conflict</subject>
+      <subject>female post-mating response</subject>
+      <subject>experimental evolution</subject>
+      <subject>gene expression</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2M6S2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2336198 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This text file contains the expression levels of 13995 genes from NimbleGen 12x135k arrays run for 6 experimentally-evolved populations. Males (virgin) and females (virgin and females) from each of the 6 populations were profiled, for 18 total transcriptional profiles.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

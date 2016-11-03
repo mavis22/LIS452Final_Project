@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1955152</identifier><datestamp>2014-05-29T18:43:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S3443</identifier>
+  <creators>
+      <creator>
+         <creatorName>Black, Kevin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koller, Jonathan M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Bradley D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Rapid quantitative pharmacodynamic imaging by a novel method: theory, simulation testing and proof of principle</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>pharmacodynamics</subject>
+      <subject>neuroimaging</subject>
+      <subject>fMRI</subject>
+      <subject>pharmacokinetic-pharmacodynamic modeling</subject>
+      <subject>drug development</subject>
+      <subject>dose-finding</subject>
+      <subject>EC50</subject>
+      <subject>phMRI</subject>
+      <subject>pharmacological fMRI</subject>
+      <subject>ED50</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Black KJ, Koller JM, Miller BD (2013) Rapid quantitative pharmacodynamic imaging by a novel method: theory, simulation testing and proof of principle. PeerJ 1:e117.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S3443/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.7717/PEERJ.117</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

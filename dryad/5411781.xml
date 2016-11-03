@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5411781</identifier><datestamp>2015-04-01T18:25:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TD742</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sagova-Mareckova, Marketa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ulanova, Dana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanderova, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Omelka, Marek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kamenik, Zdenek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olsovska, Jana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kopecky, Jan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenetic relatedness determined between antibiotic resistance and 16S rRNA genes in actinobacteria</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>actinobacteria</subject>
+      <subject>16S rRNA diversity</subject>
+      <subject>resistance genes</subject>
+      <subject>thin layer chromatography</subject>
+      <subject>sequenced genome database</subject>
+      <subject>phylogeny</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sagova-Mareckova M, Ulanova D, Sanderova P, Omelka M, Kamenik Z, Olsovska J, Kopecky J (2015) Phylogenetic relatedness determined between antibiotic resistance and 16S rRNA genes in actinobacteria. BMC Microbiology 15:81.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TD742/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TD742/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TD742/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.TD742/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S12866-015-0416-6</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

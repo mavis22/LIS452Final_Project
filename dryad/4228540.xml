@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4228540</identifier><datestamp>2015-01-03T21:48:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6QS53/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Joosten, Hanneke</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Visser, Sipke T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Eersel, Marlise E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gansevoort, Ron T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bilo, Henk J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slaets, Joris P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Izaks, Gerbrand J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Cognition statin use Groningen the Netherlands</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Cognition</subject>
+      <subject>Cognitive function</subject>
+      <subject>Cohort study</subject>
+      <subject>Fluency</subject>
+      <subject>Population-based study</subject>
+      <subject>Prospective study</subject>
+      <subject>Statin use</subject>
+      <subject>HMG-CoA reductase inhibitors</subject>
+      <subject>Groningen</subject>
+      <subject>the Netherlands</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6QS53</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>555835 bytes</size>
+      <size>27857 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV file that includes the data on cognitive function (performance on the Ruff Figural Fluency Test and the Visual Association Test) and statin use of 4,095 community-dwelling persons aged 35-82 years in the city of Groningen, the Netherlands.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

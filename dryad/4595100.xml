@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4595100</identifier><datestamp>2015-01-26T18:02:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PD827/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lemay, Matthew A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Russello, Michael A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data S1. All SNPs</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Life history evolution</subject>
+      <subject>RAD sequencing</subject>
+      <subject>Okanagan Lake</subject>
+      <subject>British Columbia</subject>
+      <subject>Holocene</subject>
+      <subject>Oncorhynchus nerka</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-08</date>
+      <date dateType="Accepted">2015-01-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PD827</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2525591 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-08</rights>
+  <descriptions>
+      <description descriptionType="Other">Multi-locus SNP data for all individuals of known ecotype (stream-spawning and shore-spawning) at 6,145 SNP loci identified in this study. Data are presented in two-row Structure format; the first column contains sample names, the second column contains a number indicating the ecotype of origin (1=stream, 2=shore), the remaining columns contain genotypes with &#8220;-9&#8221; used to indicate missing data.&#13;
+Sample names use the following convention:&#13;
+-The first two characters indicate either the Stream (St) or Shore (Sh) ecotype.&#13;
+-The second two characters indicate the sample location: Mission Creek (MK), Peachland Creek (PA), Powers Creek (PW), Penticton Creek (PN), Northeast shore (NE), Northwest shore (NW), Southeast shore (SE).&#13;
+-The four characters following the underscore indicate the year that samples were collected (either 2007 or 2010).&#13;
+-The final characters following the hyphen indicate the unique sample ID number for the ecotype, location, and year.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

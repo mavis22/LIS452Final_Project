@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7031276</identifier><datestamp>2015-11-18T17:31:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4S61T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rubenstein, Dustin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Skolnik, Hannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berrio, Alejandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Champagne, Frances</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phelps, Steven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Solomon, Joseph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw Data: DNA methylation, behavior and rainfall</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Animal Mating/Breeding Systems</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Adaptation</subject>
+      <subject>Birds</subject>
+      <subject>Climate Change</subject>
+      <subject>Kenya</subject>
+      <subject>Lamprotornis superbus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4S61T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>74786 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">(1) Whole Region DNA Methyl: DNA methylation of the coding and regulatory region for 11 birds.  (2) Regulatory region DNA Methyl: DNA methylation in the regulatory region for 96 birds, including behavior and rainfall data.  (3) Recapture DNA Methyl: DNA methylation in a portion of the regulatory region for 12 birds recaptured after initial sampling.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4634058</identifier><datestamp>2015-05-01T16:44:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T6859/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Baasch, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tyre, Andrew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blankenship, Erin E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>whooping crane data with all covariates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>detection</subject>
+      <subject>expert elicitation</subject>
+      <subject>Platte River Recovery Implementation Program</subject>
+      <subject>sampling bias</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T6859</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11651104 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file &#8216;whooping crane data with all covariates.csv&#8217; includes information and predictors for 407 whooping crane group locations in Nebraska from 1988&#8210;2012. The file also contains 10,000 Monte Carlo integration points with predictors calculated from the 1992, 2001, and 2006 National Land Cover Database (NLCD) for a total of 30,000 points. The column &#8216;ID&#8217; is the United States Fish and Wildlife Service unique identifier for the whooping crane group. The column &#8216;y&#8217; indicates if the row is a record of a whooping crane group (y = 1) or a Monte Carlo integration point (y = 0). The column &#8216;group.size&#8217; is the number of whooping cranes in each group. The column &#8216;sample&#8217; indicates if the whooping crane group location was used in the training (75%) or test (25%) partition of the data. The column &#8216;water.500&#8217; is the percentage of water within a 500 m radius buffer around whooping crane group locations and Monte Carlo integration points. Names for other covariates of similar form to &#8216;water.500&#8217; indicate the type of habitat and the buffer size (water, development, barren, forest, grassland, pasture, crop, woodywetland, and emergentwetland (see Appendix S4 for details); 500 m, 1,000 m, 2,500 m, 5,000 m, and 10,000 m). The columns &#8216;day&#8217;, &#8216;month&#8217; and &#8216;year&#8217; identify the date the group was first observed on or a date associated with the Monte Carlo integration point. The column &#8216;population&#8217; is the estimated number of whooping cranes in the Aransas-Wood Buffalo population. The columns &#8216;lat&#8217; and &#8216;long&#8217; refer to the latitude and longitude of where the whooping crane group or Monte Carlo integration point was located. The column &#8216;accuracy&#8217; is the accuracy of the whooping crane group location (2 = &#8216;1/2-Section&#8217;, 3  = &#8216;1/4-Section&#8217;, 5 = &#8216;section&#8217;, 7 = &#8216;GPS&#8217;, and 10 = &#8216;Landmark&#8217;; see Appendix S1 of manuscript for more information and Hefley et al. (2014) citation in manuscript). The column &#8216;NLCDclass&#8217; refers to the NLCD that was used to calculate the predictors (e.g., 1992).  Note that Monte Carlo integration points (y=0) will have NA recorded in the columns &#8216;ID&#8217;, &#8216;group.size&#8217;, &#8216;sample&#8217;, and &#8216;accuracy&#8217;.&#13;
+&#13;
+To obtain the original whooping crane group location records and associated information for Nebraska please contact the author (Trevor Hefley) or the Nebraska Field Office of the United States Fish and Wildlife Service (http://www.fws.gov/nebraskaes/).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

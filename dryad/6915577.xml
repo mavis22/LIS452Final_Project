@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915577</identifier><datestamp>2015-11-23T16:48:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6S6RB</identifier>
+  <creators>
+      <creator>
+         <creatorName>Diffendorfer, Jay E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kramer, Louisa A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ancona, Zach H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garrity, Chris P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Onshore industrial wind turbine locations for the United States up to March 2014</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>turbine</subject>
+      <subject>wind</subject>
+      <subject>shapefile</subject>
+      <subject>dataset</subject>
+      <subject>data set</subject>
+      <subject>wind farm</subject>
+      <subject>windfarm</subject>
+      <subject>wind facility</subject>
+      <subject>wind turbine</subject>
+      <subject>geospatial datasets</subject>
+      <subject>energy</subject>
+      <subject>renewable</subject>
+      <subject>GIS</subject>
+      <subject>On Shore United States</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6S6RB/1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

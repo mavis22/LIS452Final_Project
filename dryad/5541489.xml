@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5541489</identifier><datestamp>2015-10-13T19:24:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FK2NH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fattebert, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robinson, Hugh S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Balme, Guy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Slotow, Rob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunter, Luke</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>External validation data for leopard resource selection function, South Africa, 2002-2012</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-01-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FK2NH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46154 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">For each of the 10 external validation sets, a Spearman's rank correlation is run between the observed number of locations and the ordinal rank of the corresponding RSF bins, and a linear regression between observed and expected number of locations in each bin is run to assess the predictive ability of the RSF.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

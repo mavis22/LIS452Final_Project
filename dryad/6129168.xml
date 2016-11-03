@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6129168</identifier><datestamp>2015-07-16T18:28:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.77Q9R/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Van Horn, Russell C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zug, Becky</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Appleton, Robyn D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Velez-Liendo, Ximena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paisley, Susanna L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>LaCombe, Corrin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>The nose color of known-age captive Andean bears</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Andean bear</subject>
+      <subject>Spectacled bear</subject>
+      <subject>Age estimation</subject>
+      <subject>Camera traps</subject>
+      <subject>Natural markings</subject>
+      <subject>Kinship</subject>
+      <subject>Noninvasive</subject>
+      <subject>Tremarctos ornatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.77Q9R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2855 bytes</size>
+      <size>1464 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This csv file contains data from photos of captive Andean bears that were used to build and test a method for estimating the bears' ages from their nose color.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

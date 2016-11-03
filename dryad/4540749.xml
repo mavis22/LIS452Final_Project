@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4540749</identifier><datestamp>2015-01-23T17:55:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V31MS/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gonz&#225;lez, Vanessa L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andrade, S&#243;nia C. S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bieler, R&#252;diger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collins, Timothy M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunn, Casey W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mikkelsen, Paula M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taylor, John D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giribet, Gonzalo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supermatrices [3 files], individual loci alignments [1377 files], and SuperQ input tree files [3 files].</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>phylogenomics</subject>
+      <subject>bivalves</subject>
+      <subject>phylogenetics</subject>
+      <subject>Mollusca</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V31MS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>988 bytes</size>
+      <size>8951551 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data files for: Gonzalez V, Andrade S, Bieler R, Collins T, Dunn C, Mikkelsen P, Taylor J, Giribet G. A phylogenetic backbone for Bivalvia: an RNA-seq approach. There are 1383 files in 3 directories: Supermatrices [3 files], individual loci alignments [1377 files], and SuperQ input tree files [3 files]. Directory1 "Supermatrices" contains: - Supermatrices 1, 2 and 3 for OMA (3 files in total).  Directory2 "Loci_alignments" contains:&#13;
+ - Individual loci alignments used to construct supermatrices (1377 files in total). Directory3 "SuperQ" contains:&#13;
+ - Tree sets used for SuperQ analyses for each loci per supermatrix (3 files in total).&#13;
+Files are named as follows:&#13;
+* Supermatrices: Supermatrix[1/2/3].nex&#13;
+* Tree sets used for SuperQ analyses: Supermatrix[1/2/3]_all_loci.trees&#13;
+* Individual loci alignments used to construct supermatrices: "Loci_identifier".aligned&#13;
+Title:	Supermatrices [3 files], individual loci alignments [1377 files], and SuperQ input tree files [3 files].</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

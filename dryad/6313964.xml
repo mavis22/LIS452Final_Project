@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6313964</identifier><datestamp>2015-07-24T15:36:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.54V2Q.2/1.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Miya, Masaki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sato, Yukuto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fukunaga, Tsukasa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sado, Tetsuya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Poulsen, Jan Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sato, Keiichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Minamoto, Toshifumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yamamoto, Satoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yamanaka, Hiroki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Araki, Hitoshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kondoh, Michio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iwasaki, Wataru</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Script for extracting DNA sequences flanked by MiFish primer-match regions.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eDNA</subject>
+      <subject>MiSeq</subject>
+      <subject>fish metabarcoding</subject>
+      <subject>resource management</subject>
+      <subject>community ecology</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.54V2Q.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>800 bytes</size>
+      <size>1153 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">For each of the primer pair, the region with the smallest hamming distance is found in each DNA sequence. If the smallest hamming distance is larger than 3, such sequences are ignored because existence of indels or many mutations is assumed in primer-match regions. For those ignored sequences, manual extraction needs to be conducted afterwards.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

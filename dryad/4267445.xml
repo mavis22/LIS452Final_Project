@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4267445</identifier><datestamp>2014-12-09T18:05:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F8426/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dey, Cody J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valcu, Mihai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kempenaers, Bart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dale, James</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bill Colour in Passerines</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>colour</subject>
+      <subject>color</subject>
+      <subject>beak</subject>
+      <subject>bird</subject>
+      <subject>sexual selection</subject>
+      <subject>social selection</subject>
+      <subject>communication</subject>
+      <subject>Africa</subject>
+      <subject>Australia</subject>
+      <subject>New Zealand</subject>
+      <subject>Aves</subject>
+      <subject>Passeriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F8426</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>162050 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bill colour and life history variables for 1605 species of Passerine birds, from Africa, Australia and New Zealand. This data set includes red-chromaticity values for the upper and lower mandible of male and female specimens for each species, as measured from plates in bird handbooks (see text of article for details). Additionally we include data on non-breeding sociality, breeding dispersion, sexual size dimorphism, sexual dichromatism and body size, collected from bird handbooks and from Dale et al. 2007. Proc R Soc B 274:2971-2979 (see text for details).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

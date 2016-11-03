@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6531461</identifier><datestamp>2015-08-06T11:58:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.40GD6/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Secco, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Chuang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shou, Huixia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schultz, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chiarenza, Serge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nussaume, Laurent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ecker, Joseph R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whelan, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lister, Ryan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 4-source data 3</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>epigenome</subject>
+      <subject>transcriptome</subject>
+      <subject>DNA methylation</subject>
+      <subject>phosphate starvation</subject>
+      <subject>nutrient stress</subject>
+      <subject>rice</subject>
+      <subject>Arabidopsis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.40GD6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>61388 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Figure 4-source data 3: Average methylation levels observed in the roots of the progeny of stressed- and non-stressed plants in all contexts and methylation levels for each replicate in CNN in the 175 root PSI DMRs.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

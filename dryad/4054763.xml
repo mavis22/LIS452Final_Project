@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4054763</identifier><datestamp>2014-11-28T19:15:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V82B7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Caughlin, Timothy Trevor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferguson, Jake M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lichstein, Jeremy W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zuidema, Pieter A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunyavejchewin, Sarayudh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Levey, Douglas J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seedling growth and survival</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Seedlings</subject>
+      <subject>tropical forest dynamics</subject>
+      <subject>Neighborhood</subject>
+      <subject>Negative density dependence</subject>
+      <subject>Tree demography</subject>
+      <subject>Seedling demography</subject>
+      <subject>Southeast Asia</subject>
+      <subject>Thailand</subject>
+      <subject>Tropical forests</subject>
+      <subject>Huai Kha Khaeng Wildlife Sanctuary</subject>
+      <subject>Anthropocene</subject>
+      <subject>Miliusa</subject>
+      <subject>Saccopetalum</subject>
+      <subject>Annonaceae</subject>
+      <subject>Miliusa horsfieldii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V82B7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>170105 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file describes the growth and survival of individual Miliusa horsfieldii (Annonaceae) seedlings censused annually in 3 m x 3 m plots from 2009-2011. Column 1 (PLOT_ID) is the unique identifier of each 3 m x 3 m plot, Column 2 (TAG) is the unique identifier of each seedling, Column 3 (HEIGHT_1) is the height (in cm) of each seedling during the first census, Column 4 (HEIGHT_2) is the height (in cm) of each seedling during the second census, Column 5 (SURVIVAL) is the survival of seedlings from the first to the second census (1=alive, 0=dead), and CONSPECIFIC_seedlings is the count of conspecific seedlings in 1 m x 1 m quadrats containing the focal seedling. The 11 columns titled "DBH_1" to "DBH_11" are the DBH (in cm) of neighboring conspecific trees in a 20 m radius. The 11 columns titled "DIS_1" to "DIS_11" are the distance (in m) of neighboring conspecific trees in a 20 m radius.  "NA" values in the neighborhood matrices indicate 0 trees were present.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

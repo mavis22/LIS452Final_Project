@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5531355</identifier><datestamp>2015-05-21T19:14:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DT7MH</identifier>
+  <creators>
+      <creator>
+         <creatorName>Forrest, Jessica R. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thorp, Robbin W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kremen, Claire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Neal M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Contrasting patterns in species and functional-trait diversity of bees in an agricultural landscape</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agroecosystems</subject>
+      <subject>bees</subject>
+      <subject>biodiversity</subject>
+      <subject>ecosystem function</subject>
+      <subject>environmental filtering</subject>
+      <subject>functional traits</subject>
+      <subject>life history</subject>
+      <subject>organic farms</subject>
+      <subject>pollinators</subject>
+      <subject>species composition</subject>
+      <subject>California</subject>
+      <subject>USA</subject>
+      <subject>Apoidea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Forrest JRK, Thorp RW, Kremen C, Williams NM (2015) Contrasting patterns in species and functional-trait diversity of bees in an agricultural landscape. Journal of Applied Ecology 52(3): 706&#8211;715.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DT7MH/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DT7MH/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DT7MH/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2664.12433</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

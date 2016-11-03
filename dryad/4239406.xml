@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239406</identifier><datestamp>2014-11-22T21:24:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7SG58/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sun, Miao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Douglas E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Pamela S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhu, Xinyu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burleigh, J. Gordon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Zhiduan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Analysis of multi-gene matrices from chloroplast, mitochondrial, and nuclear sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Hybridization</subject>
+      <subject>introgression</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>COM clade</subject>
+      <subject>incongruence</subject>
+      <subject>phylogenomics</subject>
+      <subject>Rosidae</subject>
+      <subject>Fabidae</subject>
+      <subject>Malvidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7SG58</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2103 bytes</size>
+      <size>19177527 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">1. Files from the 82-taxon, 78-gene cpDNA analysis. This compressed file includes: 82-taxon, 78-gene cpDNA nucleotide, AA, and RY-coding , and 1st &amp; 2nd condon only alignments; associated AA tree, RY-coding tree,78 individual gene trees, and tree of 78-gene 1st &amp; 2nd condon positions only; trees and sorted matrices from method to remove highly variable sites.&#13;
+2. Files from the 79-taxon, 4-gene mtDNA analysis. This compressed file includes: 79-taxon, 4-gene mtDNA nucleotide, AA, RY-coding and 1st &amp; 2nd condon only alignments; associated AA tree, RY-coding tree, 4 individual gene trees, and tree of 4-gene 1st &amp; 2nd condon positions only; trees and sorting matrices method to remove highly variable sites.&#13;
+3. Files from the 92-taxon, 5-gene nuDNA analysis. This compressed file includes: 92-taxon, 5-gene nuDNA nucleotide, AA, RY-coding, and 1st &amp; 2nd condon only alignments; associated AA tree, RY-coding tree, 5 individual gene trees, and tree of 5-gene 1st &amp; 2nd condon positions only; sorting matrices and trees from method to remove highly variable sites.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

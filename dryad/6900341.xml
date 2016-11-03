@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6900341</identifier><datestamp>2015-10-22T16:38:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PD7R6/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Eves-van den Akker, Sebastian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lilley, Catherine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reid, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pickup, Jon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cock, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blaxter, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Urwin, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blok, Vivian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>top_50_midrr</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Potato cyst nematode</subject>
+      <subject>metagenetics</subject>
+      <subject>mitotype</subject>
+      <subject>diversity</subject>
+      <subject>distribution</subject>
+      <subject>United Kingdom</subject>
+      <subject>Scotland</subject>
+      <subject>2011-2014</subject>
+      <subject>Globodera pallida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PD7R6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>954 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Mid point re-routed bayesian phylogeny of top 50 most common amplicons with 2 million iterations</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4601809</identifier><datestamp>2015-01-13T19:50:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.067QG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harrison, Luke B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsson, Hans C. E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>HarrisonLarsson_AmongCharacterRates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>discrete morphological characters</subject>
+      <subject>rate heterogeneity</subject>
+      <subject>phylogenetics</subject>
+      <subject>Bayesian model selection</subject>
+      <subject>morphological phylogenetics</subject>
+      <subject>evolutionary rates</subject>
+      <subject>among-character rate variation</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.067QG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1944466 bytes</size>
+      <size>1849 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This archive contains supporting materials for Harrison and Larsson (201X) Among-Character Rate Variation Distributions in Phylogenetic Analysis of Discrete Morphological Characters.&#13;
+SuppTable1.xlsx: Supplementary Table 1. List of data sets and TreeBase Accession Numbers&#13;
+SuppTable2.xlsx: Supplementary Table 2. Results of the main Bayesian analysis for ACRV model selection&#13;
+SupplementaryReferences.docx: Full references for the studies included in Supp. Table 1.&#13;
+&#13;
+MainAnalysis_MBControlFiles: MB Control files for the main analysis described in the text.&#13;
+NumberofRateCategoriesAnalysis_MBControlFiles: MB control files for the discrete rate category analysis.&#13;
+&#13;
+In the preceding two folders, all control files are indexed by Tree Base Accession number and by among-character rate variation model (and prior type).&#13;
+&#13;
+RScripts: folder containing R scripts (further explanation inside the .R files)&#13;
+ 1. CombineLogExtractMCMC.R: script to process the output of MrBayes stepping-stone analysis to extract the initial MCMC portion (i.e. from the posterior) and summarize the posterior of these samples using MrBayes.&#13;
+ 2. mb_to_beast_trees.sh: short BASH shell script to convert MrBayes formatted trees to BEAST-readable tree (used by #1, above).&#13;
+ 3. PAUPOutputProcessor.R: R script to call PAUP* 4b10 (using Wine on Linux) and calculate per character change counts automatically given a data block (in special R format, please see the script file for details) and tree&#13;
+ 4. PAUPLogProcessor.R: Simpler version of #3 to extract change counts from PAUP* log text file (but not call PAUP* directly).&#13;
+ 5. S2128.rDa: the S2128 (TreeBaseID) data set in the correct R format for #3&#13;
+ 6. S2128_Example.tree: a tree corresponding to the S2128 data set to test #3</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

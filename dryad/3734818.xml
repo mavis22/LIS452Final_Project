@@ -1,0 +1,72 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3734818</identifier><datestamp>2014-10-10T17:06:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F3B77/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Simons, Nadja K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gossner, Martin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lange, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>T&#252;rke, Manfred</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weisser, Wolfgang W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>01_Arthropods_2009</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>insects</subject>
+      <subject>Agroecosystems</subject>
+      <subject>tritrophic interaction</subject>
+      <subject>Biodiversity Exploratories</subject>
+      <subject>Carnivores</subject>
+      <subject>cutting</subject>
+      <subject>food-chain</subject>
+      <subject>phytophages</subject>
+      <subject>Germany</subject>
+      <subject>Schorfheide-Chorin</subject>
+      <subject>Hainich-D&#252;n</subject>
+      <subject>Schw&#228;bische Alb</subject>
+      <subject>Araneae</subject>
+      <subject>Heteroptera</subject>
+      <subject>Coleoptera</subject>
+      <subject>Cicadina</subject>
+      <subject>Auchennorrhyncha</subject>
+      <subject>Orthoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F3B77</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>242565 bytes</size>
+      <size>2105 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The files 01_Arthropods_2008 and 01_Arthropods_2009 include abundance data on adult arthropods per plot and year.&#13;
+&#13;
+SpeciesCode --&gt; Species' identifier, identical across years&#13;
+Author	--&gt; Author of species' name&#13;
+Order --&gt; Taxonomic oder&#13;
+Suborder --&gt; Taxonomic suborder&#13;
+Family --&gt; Taxonomic family&#13;
+&#13;
+Body_length_mm --&gt; mean body length [mm] for the species as described in literature&#13;
+Biomass_mg --&gt; estimated species' biomass [mg] which was calculated from Body_length_mm&#13;
+Feeding --&gt; species' feeding guild (predator or herbivor)&#13;
+&#13;
+AEG01 etc. --&gt; plot-specific ID</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

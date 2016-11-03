@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5560680</identifier><datestamp>2015-04-01T20:00:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T4T1Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liefting, Maartje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Grunsven, Roy H. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Michael B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Timmermans, Martijn J. T. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ellers, Jacintha</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fecundity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>temperature</subject>
+      <subject>ecotype-specific</subject>
+      <subject>life history theory</subject>
+      <subject>Netherlands</subject>
+      <subject>Orchesella cincta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T4T1Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7846 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">fecundity of female springtails measured as number of eggs in first egg batch. Column headings: familie = family of sibs from same egg batch, location = origin of original population, either Kampina nature reserve (k) or Hilversumse heide nature reserve (h), ecotype = forest (f) or heath (h), temp = temperature at which mother developed (12 or 22 C), eggnumber = number of eggs in first laid batch, mass_mother = mass of the mother when first egg batch was produced, lnmass_mother = natural logarithm of mass_mother used in linear mixed model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

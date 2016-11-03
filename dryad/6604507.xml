@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6604507</identifier><datestamp>2015-09-09T19:23:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.80476</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schwiedrzik, Caspar M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zarco, Wilbert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Everling, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freiwald, Winrich A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Face patch resting state networks link face processing to social cognition</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>face processing</subject>
+      <subject>macaque</subject>
+      <subject>resting state</subject>
+      <subject>fMRI</subject>
+      <subject>default mode network</subject>
+      <subject>social cognition</subject>
+      <subject>functional connectivity</subject>
+      <subject>temporoparietal junction</subject>
+      <subject>dorsomedial prefrontal cortex</subject>
+      <subject>Macaca</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Schwiedrzik CM, Zarco W, Everling S, Freiwald WA (2015) Face patch resting state networks link face processing to social cognition. PLOS Biology 13(9): e1002245.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.80476/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.80476/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PBIO.1002245</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

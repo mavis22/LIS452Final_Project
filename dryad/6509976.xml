@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6509976</identifier><datestamp>2015-07-21T23:49:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BV3GM/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fields, Peter D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reisser, Ce&#769;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duki&#263;, Marinela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haag, Christoph R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ebert, Dieter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>variant_calling.txt</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>PCA</subject>
+      <subject>Procrustes analysis</subject>
+      <subject>Isolation-by-distance</subject>
+      <subject>Population Genetic Structure</subject>
+      <subject>Europe</subject>
+      <subject>Eurasia</subject>
+      <subject>Asia</subject>
+      <subject>Daphnia</subject>
+      <subject>Daphnia magna</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BV3GM</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5776 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Description of the GATK pipeline used for generating .vcf file for 24 D. magna individuals.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

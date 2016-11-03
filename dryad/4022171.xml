@@ -1,0 +1,82 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4022171</identifier><datestamp>2014-11-20T18:20:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SQ72D/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Perdue, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reeves, Mari K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dolph, Christine L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holyoak, Marcel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trust, Kimberly A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hagedorn, Birgit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rinella, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bogan, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Munk, LeeAnn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Battaglin, William</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Conductivity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>amphibian</subject>
+      <subject>temperature</subject>
+      <subject>DOC</subject>
+      <subject>invertebrate</subject>
+      <subject>abnormality</subject>
+      <subject>malformation</subject>
+      <subject>disease</subject>
+      <subject>frog</subject>
+      <subject>Lithobates sylvaticus</subject>
+      <subject>Odonata</subject>
+      <subject>Coleoptera</subject>
+      <subject>Ephemeroptera</subject>
+      <subject>Trichoptera</subject>
+      <subject>Hemiptera</subject>
+      <subject>Collembola</subject>
+      <subject>Diptera</subject>
+      <subject>Arachnida</subject>
+      <subject>Amphipoda</subject>
+      <subject>Branchiopoda</subject>
+      <subject>Mollusca</subject>
+      <subject>Annelida</subject>
+      <subject>Nematoda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SQ72D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1262784 bytes</size>
+      <size>866 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File provides information from 6 wetlands instrumented with continuous specific conductance loggers. Wetland position can be obtained in the "SiteLocation" file and road traffic and distance are in the "RoadsInfo" file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6873115</identifier><datestamp>2015-11-06T15:59:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2306T</identifier>
+  <creators>
+      <creator>
+         <creatorName>Barry, Michael T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rusconi, Roberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guasto, Jeffrey S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stocker, Roman</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Shear-induced orientational dynamics and spatial heterogeneity  in suspensions of motile phytoplankton</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phytoplankton suspensions</subject>
+      <subject>Jeffery orbits</subject>
+      <subject>elongation</subject>
+      <subject>motility</subject>
+      <subject>patchiness</subject>
+      <subject>hydrodynamics</subject>
+      <subject>ocean</subject>
+      <subject>Heterosigma akashiwo</subject>
+      <subject>Amphidinium carterae</subject>
+      <subject>Dunaliella tertiolecta</subject>
+      <subject>Chlamydomonas reinhardtii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Barry MT, Rusconi R, Guasto JS, Stocker R (2015) Shear-induced orientational dynamics and spatial heterogeneity in suspensions of motile phytoplankton. Journal of the Royal Society Interface 12(112): 20150791.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2306T/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2306T/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2306T/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2306T/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSIF.2015.0791</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

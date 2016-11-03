@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5488841</identifier><datestamp>2015-03-18T13:42:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P9H8G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garcia-Gonzalez, Francisco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dowling, Damian K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>All data for Transgenerational Effects manuscript</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Indirect genetic effects</subject>
+      <subject>interacting phenotypes</subject>
+      <subject>sexual selection</subject>
+      <subject>sexual conflict</subject>
+      <subject>parental effects</subject>
+      <subject>transgenerational effects</subject>
+      <subject>fecundity</subject>
+      <subject>sexual interactions</subject>
+      <subject>ejaculate-mediated effects</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P9H8G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>551603 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All data for the manuscript in an Excel file. Details can be found in the first spreadsheet and ESM.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

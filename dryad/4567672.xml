@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4567672</identifier><datestamp>2014-12-23T16:07:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T2Q91/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gennatas, Spyridon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noble, Jillian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stanway, Susannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gunapala, Ranga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chowdhury, Mahfuja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wotherspoon, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benepal, Taqdir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Popat, Sanjay</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 1: Kaplan&#8211;Meier plot for progression-free survival (PFS) for all patients.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>carcinoma</subject>
+      <subject>extrapulmonary</subject>
+      <subject>neuroendocrine</subject>
+      <subject>relapse</subject>
+      <subject>small cell carcinoma</subject>
+      <subject>survival</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.T2Q91</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>88524 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Kaplan&#8211;Meier plot for progression-free survival (PFS) for all patients.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

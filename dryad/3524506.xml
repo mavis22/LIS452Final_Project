@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3524506</identifier><datestamp>2014-10-14T18:39:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J248Q/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wultsch, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waits, Lisette P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kelly, Marcella J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>16S_BZ_Felids</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>noninvasive genetic sampling</subject>
+      <subject>individual identification</subject>
+      <subject>cross-species microsatellites</subject>
+      <subject>molecular scatology</subject>
+      <subject>scat detector dogs</subject>
+      <subject>Belize</subject>
+      <subject>Panthera onca</subject>
+      <subject>Puma concolor</subject>
+      <subject>Leopardus pardalis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J248Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3119 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Alignment of 16S (L2513, H2714, Kitano et al. 2007) sequence data in nexus format. Sample ID is tied to selected specimen (fecal DNA samples) of three Neotropical felids (jaguar, Panthera onca; puma, Puma concolor; ocelot, Leopardus pardalis) collected in Belize, Central America.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

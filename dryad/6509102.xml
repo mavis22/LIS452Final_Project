@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6509102</identifier><datestamp>2015-07-23T17:22:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q86Q0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dean, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lemos, Bernardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dowling, Damian K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Context-dependent effects of Y chromosome and mitochondrial haplotype on male locomotive activity in Drosophila melanogaster</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Sexual selection &amp; conflicts</subject>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Mother's Curse</subject>
+      <subject>Mito-nuclear</subject>
+      <subject>Genomic conflict</subject>
+      <subject>GxE</subject>
+      <subject>Evolutionary conflict</subject>
+      <subject>Dietary restriction</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q86Q0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>100621 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">ID: Identifies Mito_Y_Dup_Diet where C=yeast and S=agar. Sample and Run: ID is split up into Sample and Run. Plate: Two different plates were used in the experiment. Hour: Broadly defines the time the assay was run. MinsAftLight: More specifically defines the time the assay was run. SocialEnviro: Describes the two different social contexts the assays were run under. Block: Describes the different sets of grandparental flies which the focal males descended from. ParentalAge: Describes the age of the parents when laying the eggs that grew into the focal males. Distmm: Distance travelled by flies in the 30 mins assay, in mm. emptyTime: Time when the software did not track the movement of the flies (checking the video images manually suggested this was because the flies were stationary). Mt = Mitochondrial haplotype, D = Dahomey, M = Madang.&#13;
+Y = Y chromosome genotype. Dup: The lines were maintained as two duplicates of each Mt and Y substitution. Diet: Focal males were assigned to one of two diets after emergence as adults - standard yeast diet (nutrient-rich) and a diet of just agar with no added nutrients (nutrient-deprived). Block.ParentalAge: Parental age nested within block. MtYDup: Identifies the MitoYDuplicate combination.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

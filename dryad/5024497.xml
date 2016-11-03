@@ -1,0 +1,451 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5024497</identifier><datestamp>2015-04-28T18:45:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.52HJ2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sadd, Ben M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barribeau, Seth M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bloch, Guy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Graaf, Dirk C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dearden, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Elsik, Christine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gadau, Jurgen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grimmelikhuijzen, Cornelius</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hasselmann, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lozier, Jeffrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robertson, Hugh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smagghe, Guy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stolle, Eckart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Vaerenbergh, Matthias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waterhouse, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bornberg-Bauer, Erich</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klasberg, Steffan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bennett, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Camara, Francisco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guigo, Roderic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoff, Katharina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mariotti, Marco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Munos-Torres, Monica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Murphy, Terence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santesmasses, Didac</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amdam, Gro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beckers, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beye, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Biewer, Matthias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bitondi, Marcia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blaxter, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bourke, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buechel, Severine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cameron, Rossanah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cappelle, Kaat</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carolan, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Christiaeans, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ciborowski, Kate</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clarke, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colgan, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collins, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cridge, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dalmay, Tamas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dreier, Stephanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>du Plessis, Louis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duncan, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Erler, Silvio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Evans, Jay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Falcon, Tiago</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flores, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freitas, Flavia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuchikawa, Taro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gempe, Tanja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harfelder, Klaus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hauser, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helbing, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Humaan, Fernanda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Irvine, Franco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jermiin, Lars</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Claire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Reed</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kadowaki, Tatsuhiko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kidner, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koch, Vasco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohler, Arian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kraus, Bernhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lattorff, H. Michael G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leask, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lockett, Gabrielle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mallon, Eamonn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marco Antonio, David S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marxer, Monica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meeus, Ivan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Robin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nair, Ajay</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Napflin, Kathrin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nissen, Inga</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Niu, Jinzhi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nunes, Francis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeshott, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Osborne, Amy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Otte, Marianne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pinheiro, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rossie, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rueppell, Olav</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santos, Carolina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmid-Hempel, Regula</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmitt, Bjorn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schulte, Christina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simoes, Zila L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soares, Michelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swevers, Luc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winnebeck, Eva</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wolschin, Florian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yu, Na</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zdobnov, Evgeny</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aqrawi, Peshtewani</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blankenburg, Kerstin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coyle, Marcus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Francisco, Liezl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hernandez, Alvaro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holder, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hudson, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jackson, LaRonda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jayaseelan, Joy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joshi, Vandita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kovar, Christie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, Sandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mata, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mathew, Tittu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newsham, Irene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ngo, Robin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okwuonu, Geoffrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pham, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pu, Ling-ling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saada, Nehad</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santibanez, Jireh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simmons, DeNard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thornton, Rebecca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Venkat, Aarti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walden, Kimberly</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Yuan-Qing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Debsyer, Griet</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Devreese, Bart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Asher, Claire</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blommaert, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chipman, Ariel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chittka, Lars</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fouks, Bertrand</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Jisheng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>O'Neill, Meaghan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sumner, Seirian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puiu, Daniela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Qu, Jiaxin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Salzberg, Steven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gibbs, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muzny, Donna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robinson, Gene E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scherer, Stevan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmid-Hempel, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Worley, Kim C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The genomes of two key bumblebee species with primitive eusocial organisation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sadd BM, Barribeau SM (2015) The genomes of two key bumblebee species with primitive eusocial organisation. Genome Biology 16: 76.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.52HJ2/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/S13059-015-0623-3</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

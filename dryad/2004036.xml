@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2004036</identifier><datestamp>2014-10-13T06:32:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TB50M/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bryson, Robert W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaves, Jaime</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Brian Tilston</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winker, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perez-Eman, Jorge L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klicka, John</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>blue cardinalid ND2 data set used in *BEAST analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Ancestral area</subject>
+      <subject>birds</subject>
+      <subject>dispersal</subject>
+      <subject>diversification rates</subject>
+      <subject>migration</subject>
+      <subject>Neotropics</subject>
+      <subject>phylogeography</subject>
+      <subject>North America</subject>
+      <subject>South America</subject>
+      <subject>Mexico</subject>
+      <subject>Central America</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Cyanocompsa</subject>
+      <subject>Cyanoloxia</subject>
+      <subject>Passerina</subject>
+      <subject>Amaurospiza</subject>
+      <subject>Spiza americana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-10-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TB50M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>42682 bytes</size>
+      <size>494241 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nexus file with subset of ND2 sequences used in *BEAST analyses. See ReadMe file to match sample names with species and voucher specimens.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

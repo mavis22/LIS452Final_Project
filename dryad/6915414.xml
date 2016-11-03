@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6915414</identifier><datestamp>2015-10-28T13:57:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0BQ15/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McCarthy, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carins, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hannigan, Yolanda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bardien, Nadia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shub, Alexis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walker, Susan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Maternal medicine</subject>
+      <subject>Hypertension</subject>
+      <subject>Organisation of health services</subject>
+      <subject>Protocols &amp; guidelines</subject>
+      <subject>Health &amp; safety</subject>
+      <subject>Clinical audit</subject>
+      <subject>Melbourne</subject>
+      <subject>Australia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0BQ15</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>152659 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">475 Pregnancy Day Assessment Attendances (PDAC) for assessment of hypertension in pregnancy and related conditions.Maternal date of birth, date of PDAC attendance and estimated date of confinement (EDC) have been modified by adding a random number of days between -7 and +7 in order to preserve anonymity.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

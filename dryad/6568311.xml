@@ -1,0 +1,75 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6568311</identifier><datestamp>2015-08-07T11:01:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B5837/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Acker, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gr&#233;goire, Arnaud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rat, Margaux</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spottiswoode, Claire N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Dijk, Ren&#233; E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paquet, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kaden, Jennifer C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pradel, Roger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hatchwell, Ben J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Covas, Rita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doutrelant, Claire</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for capture-recapture analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>badge of status</subject>
+      <subject>fitness</subject>
+      <subject>fluctuating selection</subject>
+      <subject>social selection</subject>
+      <subject>individual variation</subject>
+      <subject>longitudinal study</subject>
+      <subject>melnanin</subject>
+      <subject>capture-recapture</subject>
+      <subject>mixed models</subject>
+      <subject>28&#176;52'S</subject>
+      <subject>24&#176;51'E</subject>
+      <subject>Benfontein Nature Reserve</subject>
+      <subject>Northern Cape Province</subject>
+      <subject>South Africa</subject>
+      <subject>Philetairus socius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B5837</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>127295 bytes</size>
+      <size>4975 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This dataset contains individual encounter histories (2002-2012) starting the year of first photography, with covariates: sex, raw bib size measurements and their squared values (taken the year of first photography), standardized bib size measurements and their squared values (taken the year of first photography, and standardized within this year), mean adjusted bib sizes and their squared values, and individual identities (band numbers). The file format is "headed" (i.e. containing explicit label for each column) with "txt" extension, which is compatible with E-SURGE and easily convertible with EXCEL (or equivalent) or R for any other use.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

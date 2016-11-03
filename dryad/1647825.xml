@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1647825</identifier><datestamp>2014-05-30T02:01:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9DD42</identifier>
+  <creators>
+      <creator>
+         <creatorName>Blackburn, David C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duellman, William E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Brazilian marsupial frogs are diphyletic (Anura: Hemiphractidae: Gastrotheca)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>phylogeny</subject>
+      <subject>biogeography</subject>
+      <subject>vicariance</subject>
+      <subject>South America</subject>
+      <subject>Brazil</subject>
+      <subject>Atlantic Coastal Forest</subject>
+      <subject>Andes</subject>
+      <subject>Recent</subject>
+      <subject>Amphibia</subject>
+      <subject>Anura</subject>
+      <subject>Hemiphractidae</subject>
+      <subject>Gastrotheca</subject>
+      <subject>Fritziana</subject>
+      <subject>Flectonotus</subject>
+      <subject>Stefania</subject>
+      <subject>Hemiphractus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Blackburn DC, Duellman WE (2013) Brazilian marsupial frogs are diphyletic (Anura: Hemiphractidae: Gastrotheca). Molecular Phylogenetics and Evolution 68(3): 709&#8211;714.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9DD42/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.YMPEV.2013.04.021</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

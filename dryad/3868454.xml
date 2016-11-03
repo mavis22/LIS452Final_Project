@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3868454</identifier><datestamp>2015-09-03T06:31:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B35TD/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Malenfant, Ren&#233; M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coltman, David W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Corey S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNP and microsatellite data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>population genetics</subject>
+      <subject>single-nucleotide polymorphism</subject>
+      <subject>Infinium BeadChip</subject>
+      <subject>next-generation sequencing</subject>
+      <subject>polar bear</subject>
+      <subject>Canada</subject>
+      <subject>Arctic</subject>
+      <subject>Holocene</subject>
+      <subject>Ursus maritimus</subject>
+      <subject>Ursidae</subject>
+      <subject>Ursus</subject>
+      <subject>Carnivora</subject>
+      <subject>Mammalia</subject>
+      <subject>Chordata</subject>
+      <subject>Animalia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B35TD</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>80705363 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">RAD, transcriptomic, and microsatellite data used in the manuscript, as well as inputs/outputs of analyses. This archive contains the complete RAD .vcf file. For the complete transcriptomic .vcf file, see doi:10.5061/dryad.606j6, which is described in doi:10.1111/1755-0998.12190.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

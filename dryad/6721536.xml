@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721536</identifier><datestamp>2015-09-03T14:22:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.364MB</identifier>
+  <creators>
+      <creator>
+         <creatorName>Michel, Nicole L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Adam C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Robert G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrissey, Christy A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hobson, Keith A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Differences in spatial synchrony and interspecific concordance inform guild-level population trends for aerial insectivorous birds</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>aerial insectivorous birds</subject>
+      <subject>population synchrony</subject>
+      <subject>spatial concordance</subject>
+      <subject>North American Breeding Bird Survey</subject>
+      <subject>North America</subject>
+      <subject>Chaetura pelagica</subject>
+      <subject>Progne subis</subject>
+      <subject>Hirundo rustica</subject>
+      <subject>Tachycineta bicolor</subject>
+      <subject>Stelgidopteryx serripennis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Michel NL, Smith AC, Clark RG, Morrissey CA, Hobson KA (2015) Differences in spatial synchrony and interspecific concordance inform guild-level population trends for aerial insectivorous birds. Ecography, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.364MB/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.364MB/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.364MB/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/ECOG.01798</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

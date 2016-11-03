@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1680103</identifier><datestamp>2014-05-30T04:54:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T3Q8B</identifier>
+  <creators>
+      <creator>
+         <creatorName>McMahan, Caleb D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chakrabarty, Prosanta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sparks, John S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Wm. Leo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Matthew P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Temporal patterns of diversification across global cichlid biodiversity (Acanthomorpha: Cichlidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>evolution</subject>
+      <subject>cichlids</subject>
+      <subject>diversification</subject>
+      <subject>fossils</subject>
+      <subject>divergence times</subject>
+      <subject>Neotropics</subject>
+      <subject>Africa</subject>
+      <subject>Madagascar</subject>
+      <subject>India</subject>
+      <subject>Sri Lanka</subject>
+      <subject>Cretaceous</subject>
+      <subject>Miocene</subject>
+      <subject>Paleocene</subject>
+      <subject>Eocene</subject>
+      <subject>Oligocene</subject>
+      <subject>Cichlidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">McMahan CD, Chakrabarty P, Sparks JS, Smith WL, Davis MP (2013) Data from: Temporal patterns of diversification across global cichlid biodiversity (Acanthomorpha: Cichlidae). PLoS ONE 8(8): e71162.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T3Q8B/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T3Q8B/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0071162</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

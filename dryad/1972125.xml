@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1972125</identifier><datestamp>2014-05-30T03:23:38Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SM41S/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bastide, H&#233;lo&#239;se</creatorName>
+      </creator>
+      <creator>
+         <creatorName>G&#233;rard, Pierre R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ogereau, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cazemajor, Michel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montchamp-Moreau, Catherine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Algt_CG33181</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Molecular Evolution</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Insects</subject>
+      <subject>La Saline La Reunion</subject>
+      <subject>Dzaoudzi Mayotte</subject>
+      <subject>Antananarivo Madagascar</subject>
+      <subject>Andasibe Madagascar</subject>
+      <subject>Petra Jordan</subject>
+      <subject>Mt. Kupe Cameroon</subject>
+      <subject>Eilat Israel</subject>
+      <subject>Alexandria Egypt</subject>
+      <subject>Kibale Uganda</subject>
+      <subject>Bom Successo Sao Tome</subject>
+      <subject>Nairobi Kenya</subject>
+      <subject>Chimoio Mozambique</subject>
+      <subject>Drosophila simulans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-08-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SM41S</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

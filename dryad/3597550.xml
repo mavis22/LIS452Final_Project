@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3597550</identifier><datestamp>2015-06-03T06:30:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K0V17/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ingleby, Fiona C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Innocenti, Paolo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rundle, Howard D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Morrow, E. H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>D mel CHC B matrix data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>genetic constraints</subject>
+      <subject>Ecological genetics</subject>
+      <subject>Insects</subject>
+      <subject>sexual dimorphism</subject>
+      <subject>intralocus sexual conflict</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-05-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K0V17</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>544977 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used in analyses as described in the manuscript. Fitness data and CHC phenotype data used in selection analyses, and CHC phenotype and line data used to determine full G matrix (with B) and calculate genetic constraints. Notes within file describe the data in detail.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

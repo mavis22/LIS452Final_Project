@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6449395</identifier><datestamp>2015-07-14T17:29:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GR7P0/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Dijk, Ren&#233; E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypes sex and colony coordinates 2010</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Dispersal</subject>
+      <subject>Fine-scale Population Genetics</subject>
+      <subject>Kin Selection</subject>
+      <subject>Cooperation</subject>
+      <subject>Sociable Weaver</subject>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Birds</subject>
+      <subject>Inbreeding</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Southern Africa</subject>
+      <subject>Philetairus socius</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GR7P0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>90595 bytes</size>
+      <size>2682 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This tab-delimited text file contains the same information as the file 'Genotypes and sex of all &#13;
+individuals and their colony UTM coordinates.txt', but only for individuals captured and genotyped in &#13;
+2010.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4607415</identifier><datestamp>2015-01-29T18:39:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G611T/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roux, Camille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pannell, John R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Simulation of polyploid scenarios</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Polyploidization</subject>
+      <subject>Approximate Bayesian Computation</subject>
+      <subject>Disomic inheritance</subject>
+      <subject>Capsella</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G611T</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8652 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">priorgenWGD.py is a python script to generate prior distribution for the nine described models (a detailed help-menu is available typing ./priorgenWGD.py --help), bpfile_test.txt is an example file used by priorgenWGD.py, and text_S1.docx contains the used command-lines.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

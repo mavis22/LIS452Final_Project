@@ -1,0 +1,75 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3866308</identifier><datestamp>2014-10-21T18:14:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.515SG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grovenburg, Troy W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monteith, Kevin L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jacques, Christopher N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klaver, Robert W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DePerno, Christopher S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brinkman, Todd J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monteith, Kyle B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilbert, Sophie L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Joshua B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bleich, Vernon C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swanson, Christopher C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenks, Jonathan A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Grovenburg_PLOSONE__Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>fawns</subject>
+      <subject>hoof growth</subject>
+      <subject>mule deer</subject>
+      <subject>pronghorn</subject>
+      <subject>survival</subject>
+      <subject>white-tailed deer</subject>
+      <subject>North America</subject>
+      <subject>California</subject>
+      <subject>Minnesota</subject>
+      <subject>South Dakota</subject>
+      <subject>Odocoileus virginianus</subject>
+      <subject>Odocoileus hemionus</subject>
+      <subject>Antilocapra americana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.515SG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22781 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Newborn fawn data collected in the field broken out by species, study area, capture date, date of mortality or censor, and age estimates using published hoof-growth equations.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

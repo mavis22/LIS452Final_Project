@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4203575</identifier><datestamp>2015-01-26T14:57:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BB460.2/4.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kohyama, Takashi S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Potts, Matthew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohyama, Tetsuo I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kassim, Abd Rahman</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ashton, Peter S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R code for growth and mortality models</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Demography</subject>
+      <subject>Ecology: community</subject>
+      <subject>Interactions: coexistence</subject>
+      <subject>Species diversity</subject>
+      <subject>Tropical forest</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BB460.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4305 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R code for parameter estimation of of size-growth function and mortality function, applied to the Bayesian analysis of tree dynamics in the Pasoh 50-ha plot.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

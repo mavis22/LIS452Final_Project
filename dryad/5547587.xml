@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5547587</identifier><datestamp>2015-04-29T18:40:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8GR58</identifier>
+  <creators>
+      <creator>
+         <creatorName>Faassen, Elisabeth J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Veraart, Annelies J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Nes, Egbert H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dakos, Vasilis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>L&#252;rling, Miquel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheffer, Marten</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Hysteresis in an experimental phytoplankton population</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>photoinhibition</subject>
+      <subject>adaptation</subject>
+      <subject>Allee effect</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Faassen EJ, Veraart AJ, Van Nes EH, Dakos V, L&#252;rling M, Scheffer M (2015) Hysteresis in an experimental phytoplankton population. Oikos, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8GR58/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/OIK.02006</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

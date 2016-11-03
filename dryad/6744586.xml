@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6744586</identifier><datestamp>2015-11-20T13:25:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MK609/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garc&#237;a-Baquero, Gonzalo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Silvertown, Jonathan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gowing, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valle, Cipriano J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Urbi&#243;nPeaks dataset</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>alpine meadow</subject>
+      <subject>dehesa meadow</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>GAMM regression</subject>
+      <subject>MEM spatial variables</subject>
+      <subject>Pianka&#8217;s index</subject>
+      <subject>plant coexistence</subject>
+      <subject>RDA models</subject>
+      <subject>water table depth</subject>
+      <subject>Iberian Peninsula</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MK609</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>107520 bytes</size>
+      <size>1766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Step: dryadAcceptEditReject - action:dryadAcceptEditRejectAction Entered publication blackout by Edward Krause(ekrause@datadryad.org) on 2015-09-11T18:25:34Z (GMT)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

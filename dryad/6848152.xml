@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848152</identifier><datestamp>2015-10-26T13:42:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DD3PH/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paynter, Quentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buckley, Yvonne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterson, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gourlay, A. Hugh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fowler, Simon V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>beetle size before &amp; after winter</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecoevolutionray dynamics</subject>
+      <subject>seed feeder</subject>
+      <subject>trait change</subject>
+      <subject>population dynamics</subject>
+      <subject>bruchid</subject>
+      <subject>invasive species</subject>
+      <subject>weed</subject>
+      <subject>agent selection</subject>
+      <subject>New Zealand</subject>
+      <subject>Cytisus scoparius</subject>
+      <subject>Bruchidius villosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DD3PH.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>31056 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Variables: site_code: 3 sites, eb (East Block, Lincoln), pn (Palmerston North), po (Poutu). All three sites were visited in 2007-2008 but only pn was visited in 2010-2011. pre_post: pre, post. Factor with two levels pre and post hibernation size. sex: m=male, f=female. elytra_area: size of beetle elytra in mm2. year: 2008, 2011.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

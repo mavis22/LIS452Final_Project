@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4330798</identifier><datestamp>2015-02-23T16:48:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NG64Q/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Satzer, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DiBartolomeo, Christina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritchie, Michael M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Storino, Christine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liimatainen, Timo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hakkarainen, Hanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Idiyatullin, Djaudat</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mangia, Silvia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Michaeli, Shalom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parr, Ann M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Low, Walter C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Histology analysis_for Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>myelin</subject>
+      <subject>dysmyelination</subject>
+      <subject>MRI</subject>
+      <subject>mucopolysaccharidosis</subject>
+      <subject>Mus musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NG64Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>95597 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel spreadsheet containing analyzed histological data. The &#8220;Optical density&#8221; tab contains raw optical density values for each tissue section, normalized values, normalized means for each animal, and normalized means for each genotype. The &#8220;Outliers&#8221; tab contains analysis of each animal for outlying values (see the publication in PLOS ONE for details). The &#8220;cc thickness&#8221; tab contains raw data for corpus callosum thickness, comparison with atlas values for each section, animal means, and genotype means. Mice 13021, 13224, 13255, N3, N4, and N5 are mice with MPS I; mice 13257, 13258, N1, N2, and N6 are heterozygotes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

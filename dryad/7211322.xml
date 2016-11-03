@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7211322</identifier><datestamp>2015-12-07T15:53:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.80F4F/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hasselman, Daniel J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Eric C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Argo, Emily E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bethoney, N. David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gephard, Stephen R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Post, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schondelmeier, Bradley P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schultz, Thomas F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Willis, Theodore V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palkovacs, Eric P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>herring_0.0.1.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fisheries management</subject>
+      <subject>genetic stock identification</subject>
+      <subject>bycatch</subject>
+      <subject>microsatellites</subject>
+      <subject>United States</subject>
+      <subject>Northwest Atlantic Ocean and East coast of the United States</subject>
+      <subject>Holocene</subject>
+      <subject>Alosa pseudoharengus</subject>
+      <subject>Alosa aestivalis</subject>
+      <subject>Alosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.80F4F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>156968 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">'Herring' is an R package that contains all the data and the code required for reproduction of the results in the study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

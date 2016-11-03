@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3828657</identifier><datestamp>2014-12-09T18:52:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CR571</identifier>
+  <creators>
+      <creator>
+         <creatorName>Severns, Paul M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Estep, Laura K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sackett, Kathryn E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mundt, Christopher C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Degree of host susceptibility in the initial disease outbreak influences subsequent epidemic spread</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>disease epidemics</subject>
+      <subject>disease outbreak</subject>
+      <subject>disease spread</subject>
+      <subject>fat-tailed dispersal kernel</subject>
+      <subject>landscape epidemiology</subject>
+      <subject>long-distance dispersal</subject>
+      <subject>wheat stripe rust</subject>
+      <subject>Oregon</subject>
+      <subject>USA</subject>
+      <subject>Holocene</subject>
+      <subject>Puccinia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Severns PM, Estep LK, Sackett KE, Mundt CC (2014) Degree of host susceptibility in the initial disease outbreak influences subsequent epidemic spread. Journal of Applied Ecology 51(6): 1622-1630.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CR571/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2664.12326</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,106 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4649251</identifier><datestamp>2015-02-03T15:27:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1P29/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roitberg, Evgeny S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eplanova, Galina V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kotenko, Tatiana I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Amat, F&#232;lix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carretero, Miguel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuranova, Valentina N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bulakhova, Nina A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zinenko, Oleksandr I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yakovlev, Vladimir A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Roitberg_et_al_svl_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life history evolution</subject>
+      <subject>body size</subject>
+      <subject>geographic variation</subject>
+      <subject>fecundity-advantage hypothesis</subject>
+      <subject>female reproductive output</subject>
+      <subject>lizards</subject>
+      <subject>offspring size</subject>
+      <subject>sexual size dimorphism</subject>
+      <subject>Winkler &amp; Wallin model</subject>
+      <subject>Europe</subject>
+      <subject>Asia</subject>
+      <subject>recent time</subject>
+      <subject>Lacerta agilis agilis</subject>
+      <subject>Lacerta agilis exigua</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-27</date>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P1P29</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>250078 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-27</rights>
+  <descriptions>
+      <description descriptionType="Other">Data for adult body size (snout-vent length, SVL)&#13;
+&#13;
+Abbreviations of characters/columns (if not clear from their designations):&#13;
+&#13;
+No, this column is for technical purposes of the author;&#13;
+&#13;
+No_inv, inventary number (in the museum or in the working protocols of the primary researcher);&#13;
+&#13;
+ssp, subspecies/clade: 1 L. a. agilis, 3 L. a. exigua;&#13;
+&#13;
+reg3, code of the study sample as in Roitberg et al., 2015, Table 1;&#13;
+&#13;
+sta, "stages": ad adult, gr gravid, m junger adult, sub subadult, j (=juv) juvenile;&#13;
+NB: subadults and juveniles, as well as unsexed individuals, were excluded from all analyses in Roitberg et al. 2015; &#13;
+&#13;
+sex: 1 males, 2 females, 3 unsexed;&#13;
+&#13;
+Num , individual (study subject) number in the author's extended data base.&#13;
+&#13;
+filter_adults: 1 individuals considered as "adults" in Roitberg et al. (2015), 2 other individuals.&#13;
+&#13;
+Abbreviations of museums:&#13;
+mkhar, Museum of Nature, Kharkiv National Karazin University;&#13;
+mkiev, National Museum of Natural History Kyiv;&#13;
+mtd, Senckenberg Natural History Collections Dresden;&#13;
+zfmk, Zoological Research Museum A. Koenig Bonn;&#13;
+zmb, Humboldt Natural History Museum Berlin;&#13;
+zmh, Zoological Museum Hamburg;&#13;
+zsm, Zoological State Collections Munich.&#13;
+&#13;
+Comment 1.  The codes &#8220;mkhar&#8221; and &#8220;mkiev&#8221; do not represent established abbreviations of the corresponding museums and used for simplicity.&#13;
+&#13;
+Comment 2. This data table does not include Sample 3 (South Sweden) and Sample 9 (Russia, Ciscaucasia 1) because for these samples we used published mean values (respectively, Olsson, 1988 and Ushkalova, 1976).&#13;
+&#13;
+Comment 3. SVL-values for Sample 4 (Poland) were obtained by extracting log(SVL)-values from published scatterplots (Borczyk &amp; Pa&#347;ko, 2011: Fig. 1, A,B) and subsequent re-calculating the raw values using the exponent function.&#13;
+&#13;
+Comment 4. SVL-values for Sample 10 (Russia, Ciscaucasia 2) and Sample 11 (Russia, Ryazan Region) were obtained from published histograms (respectively, Lukina, 1966: Fig. 22 and Zharkova, 1973: Fig. 4).&#13;
+&#13;
+Comment 5. SVL-values for the other samples are original data of the authors.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

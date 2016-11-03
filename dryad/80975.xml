@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80975</identifier><datestamp>2014-05-29T18:03:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1198</identifier>
+  <creators>
+      <creator>
+         <creatorName>Richter-Boix, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teplitsky, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rogell, Bj&#246;rn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Laurila, Anssi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Local selection modifies phenotypic divergence among Rana temporaria populations in the presence of gene flow</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Rana temporaria</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Richter-Boix A, Teplitsky C, Rogell B, Laurila A (2010) Local selection modifies phenotypic divergence among Rana temporaria populations in the presence of gene flow. Molecular Ecology 19: 716-731.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1198/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2009.04502.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

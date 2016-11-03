@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5619950</identifier><datestamp>2015-09-04T19:01:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VQ74K/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hern&#225;ndez, Carmen Liliana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortega-Lara, Armando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>S&#225;nchez-G&#225;rces, Gian Carlo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alford, Mac H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Rhamdia Parsimony or Maximum Likelihood Nexus File</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>species delimitation</subject>
+      <subject>phylogenetics</subject>
+      <subject>biogeography</subject>
+      <subject>South America</subject>
+      <subject>Central America</subject>
+      <subject>Colombia</subject>
+      <subject>Isthmus of Panama</subject>
+      <subject>Holocene</subject>
+      <subject>Pisces</subject>
+      <subject>Siluriformes</subject>
+      <subject>Heptapteridae</subject>
+      <subject>Rhamdia</subject>
+      <subject>Rhamdia quelen</subject>
+      <subject>Rhamdia guatemalensis</subject>
+      <subject>Rhamdia laticauda</subject>
+      <subject>Rhamdia saijaensis</subject>
+      <subject>Rhamdia cinerascens</subject>
+      <subject>Rhamdia laukidi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VQ74K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>86944 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A nexus (.nxs, .nex) file for use in parsimony and maximum likelihood analyses</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

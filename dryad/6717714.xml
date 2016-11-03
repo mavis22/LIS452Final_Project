@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717714</identifier><datestamp>2015-09-04T18:12:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BQ872/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hu, Zi-Min</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Jing-Jing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Zhong-Min</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oak, Jung-Hyun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fresia, Pablo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grant, W. Stewart</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duan, De-Lin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mec-15-0566 Archiving Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>bottleneck events</subject>
+      <subject>cryptic diversity</subject>
+      <subject>paleoclimate</subject>
+      <subject>Phylogeography</subject>
+      <subject>Asia-Northwest Pacific</subject>
+      <subject>Since the early Pliocene-late Miocene to the present</subject>
+      <subject>Chondrus ocellatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BQ872</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27730 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a compressed file folder which includes five files. Of which three files contain sequences of 16 mtDNA haplotypes in Fasta format,and 33 nrDNA ribotypes in both Fasta and Mega format. The fourth file (table 1) contains the information of geographic locality, coordinates and collector for each sampling population. The fifth file (Table 2) indicates the geographic distribution of each mtDNA haplotype and nrDNA ribotypes in every sampling locality.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239190</identifier><datestamp>2014-11-20T18:13:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3K506/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vinson, Christina C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kanashiro, Milton</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harris, Stephen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boshier, Dave H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Input for paternity software for post-logging Dipteryx odorata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>paternity</subject>
+      <subject>polyploidy</subject>
+      <subject>pollen flow</subject>
+      <subject>Amazon forest</subject>
+      <subject>logging</subject>
+      <subject>Tapajos National Forest</subject>
+      <subject>Amazon Region</subject>
+      <subject>Jacaranda copaia</subject>
+      <subject>Dipteryx odorata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3K506</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>30431 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Source of information: Genotypes from lab experiments. Here is the input for Orchard software for paternity analysis, divide into two parts, first part contains post-logging progenies input and second part contains post-logging candidate father input.  Post-logging progenies input contains first column contains id of progeny, second column onwards contains genotypes of Do03, Do17, Do18, Do25, Do08, Do19 and Do20  loci and last column contains name of known mother. Post-logging candidate father input contains first column contains id of individual, second column onwards contains genotypes of Do03, Do17, Do18, Do25, Do08, Do19 and Do20  loci and last two columns contains X and Y coordinates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

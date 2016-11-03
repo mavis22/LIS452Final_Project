@@ -1,0 +1,76 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721626</identifier><datestamp>2015-09-03T14:55:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KM75S/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Nyman, Tommi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lepp&#228;nen, Sanna A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#225;rkonyi, Gergely</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, Mark R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koivisto, Reijo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barstad, Trond Elling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vikberg, Veli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roininen, Heikki</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Barcode sequences of reared parasitoid reference specimens</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>community barcoding</subject>
+      <subject>enemy-free space</subject>
+      <subject>speciation</subject>
+      <subject>tritrophic food webs</subject>
+      <subject>vertical diversification effects</subject>
+      <subject>Northern Fennoscandia</subject>
+      <subject>Finland</subject>
+      <subject>Sweden</subject>
+      <subject>Norway</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Pontania</subject>
+      <subject>Pteromalus</subject>
+      <subject>Eulonchetron</subject>
+      <subject>Eurytoma</subject>
+      <subject>Bracon</subject>
+      <subject>Shawiana</subject>
+      <subject>Ichneutes</subject>
+      <subject>Scambus</subject>
+      <subject>Adelognathus</subject>
+      <subject>Tenthredinidae</subject>
+      <subject>Ichneumonidae</subject>
+      <subject>Braconidae</subject>
+      <subject>Chalcidoidea</subject>
+      <subject>Salix</subject>
+      <subject>Salicaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KM75S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>53920 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">COI barcode sequences of 72 reared adult parasitoid reference specimens that were used to identify larval parasitoids based on their barcodes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

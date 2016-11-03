@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586428</identifier><datestamp>2015-10-20T13:13:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2D728/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fischer, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reynolds, Herbert</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Human pelvis 3D landmark data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>pelvis</subject>
+      <subject>evolution</subject>
+      <subject>morphometrics</subject>
+      <subject>correlational selection</subject>
+      <subject>obstetric dilemma</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2D728</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>153744 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains fine-resolution 3D landmark data for 99 human pelvises (71 landmarks per pelvis, in columns) as well as information on stature and head circumference of these individuals (99 individuals, in rows). The data stem from a large dataset compiled by Herbert Reynolds and colleagues in 1982 in a study for the Federal Aviation Administration, Washington DC, USA. Original publication: Reynolds HM, Snow CC, Young JW (1982) Spatial Geometry of the Human Pelvis. National Technical Information Service, Washington DC. Memorandum Report prepared for the U.S. Department of Transportation, Federal Aviation Administration, Office of Aviation Medicine. Their original aim was to develop a geometric model of human pelvic morphology to improve crash test devices and vehicle safety. The measured skeletons are part of the Hamann-Todd collection at the Cleveland Museum of Natural History, USA. Before skeletonization of the human bodies, a complete series of anthropometric measurements were taken. Of these measurements this file contains head circumference and stature. The study sample of Reynolds and colleagues was selected to match the body weight and size distribution of the US population. Only adult specimens, 18-55 years old at time of death, were used. The pelvises were reassembled, and 3D landmark coordinates were recorded on each of the articulated pelvises using a Hewlett Packard digitizer. The first row of the data file contains variable names and landmark numbers. The first 5 columns contain information on specimen number (1-99), ID (individual Hamann-Todd collection ID), sex (1=male, 2=female), head circumference (in mm) and stature (in mm). Landmark coordinates start in column 6.The 71 3D points per individual each consist of a x-, y- and z-coordinate, i.e. 71x3 landmark coordinates. Axes scales are in mm. Missing data points are indicated as "X".</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

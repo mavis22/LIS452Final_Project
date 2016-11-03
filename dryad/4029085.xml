@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4029085</identifier><datestamp>2014-12-11T20:05:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.758TV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Segoli, Michal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoffmann, Ary A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lloyd, Jane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Omodei, Gavin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ritchie, Scott A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Results from competitiveness and survival experiments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>dengue fever</subject>
+      <subject>mosquitoes</subject>
+      <subject>endosymbiont</subject>
+      <subject>disease control</subject>
+      <subject>cytoplasmic incompatibility</subject>
+      <subject>Cairns</subject>
+      <subject>Queensland</subject>
+      <subject>Australia</subject>
+      <subject>Aedes aegypti</subject>
+      <subject>Wolbachia pipientis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.758TV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>291328 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Egg and females viability for experiments 1-3. Females were exposed to uninfected males and Wolbachia infected males in tents and semi-field cages. Experiment 1: Wolbachia males infected by srtain wMel. Experiment 2: Wolbachia males infected by strain wMelPop. Experiment 3: Wolbachia males infected by wMel and are larger or smaller than uninfected males. Experiment 4: survival of infected/uninfected, small/large males with or without exposure to females in small insect cages.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2097682</identifier><datestamp>2015-02-12T17:59:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B79V5</identifier>
+  <creators>
+      <creator>
+         <creatorName>McCauley, Shannon J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davis, Christopher J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Werner, Earl E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robeson II, Michael S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Dispersal, niche breadth, and population extinction/colonization ratios predict range size in North American dragonflies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>geographic distribution</subject>
+      <subject>freshwater connectivity</subject>
+      <subject>dispersal limitation</subject>
+      <subject>extinction-colonization</subject>
+      <subject>niche breadth</subject>
+      <subject>range size</subject>
+      <subject>range limits</subject>
+      <subject>Odonata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">McCauley SJ, Davis CJ, Werner EE, Robeson II MS (2014) Dispersal, niche breadth, and population extinction/colonization ratios predict range size in North American dragonflies. Journal of Animal Ecology 83(4), 858-865.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B79V5/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12181</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5574335</identifier><datestamp>2015-06-02T18:55:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H2H08/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Giles, Emily C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saenz-Agudelo, Pablo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hussey, Nigel E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ravasi, Timothy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berumen, Michael L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Multilocus Genotypes for Stylissa carteri</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Isolation by Distance</subject>
+      <subject>Isolation by Environment</subject>
+      <subject>Relatedness</subject>
+      <subject>Seascape Genetics</subject>
+      <subject>environmental gradient</subject>
+      <subject>Red Sea</subject>
+      <subject>Northwest Indian Ocean</subject>
+      <subject>Soccotra</subject>
+      <subject>Sudan</subject>
+      <subject>Stylissa carteri</subject>
+      <subject>Porifera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H2H08</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>187766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file includes the multilocus genotypes for 950 Stylissa carteri individuals.  The file is formatted in the standard codominant data sheet format from Genalex where samples are listed in the first column and site information and loci information is listed in the first few rows.  Multilocus genotypes are composed of 9 independent microsatellite loci.  Information regarding loci can be found in Giles et al. 2013 Marine Biodiversity.  The 950 Stylissa carteri (phylum Porifera) individuals come from 36 sample sites in the Red Sea and northwest Indian Ocean.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

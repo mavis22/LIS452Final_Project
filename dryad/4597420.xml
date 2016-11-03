@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597420</identifier><datestamp>2015-01-20T19:41:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2V8F9/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>metrics data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>habitat fragmentation</subject>
+      <subject>hydropower projects</subject>
+      <subject>island biogeography</subject>
+      <subject>landscape attributes</subject>
+      <subject>life-history traits</subject>
+      <subject>species-area relationship</subject>
+      <subject>tree communities.</subject>
+      <subject>Amazon</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-13</date>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2V8F9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>28160 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-13</rights>
+  <descriptions>
+      <description descriptionType="Other">Plot, patch and landscape metrics of each surveyed forest plot within the Balbina Hydroeletric Dam. Abbreviated headlines are as follows: 'local' = island name; 'plot_ID' = plot number identification; 'area' = island area in hectares; 'slope' = the difference between maximum and minimum plot elevations based on the Shuttle Radar Topography Mission; 'windstorm' = the angular difference (0 - 90&#176;) between the main axis of each rectangular plot and the median angular direction of prevailing strong winds recorded prior to and during convective windstorms; 'edge_mean' = the mean linear distance between the five midpoints of every 50-m section of each plot and the nearest points along the island perimeter; 'fire' = the understorey burn or fire severity measured according to a composite ordinal score (0&#8211;3); 'prox' = modified McGarigal et al. (2012) proximity index by considering both the aggregate area and distance to any land mass within 500 m of each island; 'dist_mainland' = the shortest linear distance from each island to the nearest mainland</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

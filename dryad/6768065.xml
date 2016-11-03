@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6768065</identifier><datestamp>2015-10-08T22:27:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0MV3Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fox, Charles W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burns, C. Sean</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muncy, Anna D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Jennifer A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Main data set, one paper per row</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Authorship</subject>
+      <subject>Gender discrimination</subject>
+      <subject>Gender bias</subject>
+      <subject>Peer review</subject>
+      <subject>Women in science</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0MV3Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>585068 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is an anonymized version of the dataset used for most of the analyses in Fox et al. 2016. Manuscript ID numbers are random and the sort order within years is random. Editor ID is also randomized. Columns that could allow the dataset to be de-anonymized, such as editor seniority and editor years on the editorial board, have been deleted. The dataset includes one line per manuscript. This file allows recreation of most but not all analyses in the published manuscript. This is an anonymized version of the dataset used for the analyses in Fox et al. 2016. Manuscript ID numbers are random and the sort order within years is random.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

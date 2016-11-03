@@ -1,0 +1,124 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6348264</identifier><datestamp>2015-07-22T20:39:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.62F0R/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rothfels, Carl J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Fay-Wei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sigel, Erin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huiet, Layne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsson, Anders</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burge, Dylan O.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruhsam, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deyholos, Michael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soltis, Douglas E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart Jr., C. Neal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, Shane W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pokorny, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Tao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>dePamphilis, Claude</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeGironimo, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Li</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wei, Xiaofeng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, Xiao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Korall, Petra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stevenson, Dennis W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Graham, Sean W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wong, Gane Ka-Shu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pryer, Kathleen M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>alignments_andTrees_v5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>curated phylogenomics</subject>
+      <subject>monilophytes</subject>
+      <subject>transcriptome</subject>
+      <subject>low-copy nuclear gene</subject>
+      <subject>HEMERA</subject>
+      <subject>ApPEFP</subject>
+      <subject>IBR3</subject>
+      <subject>NDUFS6</subject>
+      <subject>GClev</subject>
+      <subject>DUF1077</subject>
+      <subject>Hsp40</subject>
+      <subject>COP9</subject>
+      <subject>Cryptochrome</subject>
+      <subject>IGPD</subject>
+      <subject>MCD1</subject>
+      <subject>SEF</subject>
+      <subject>SQD1</subject>
+      <subject>TPLATE</subject>
+      <subject>gapCp</subject>
+      <subject>DET1</subject>
+      <subject>transducin</subject>
+      <subject>pgiC</subject>
+      <subject>Pteridophyta</subject>
+      <subject>Equisetum</subject>
+      <subject>Polypodiopsida</subject>
+      <subject>Marattiales</subject>
+      <subject>Ophioglossales</subject>
+      <subject>Psilotales</subject>
+      <subject>Polypodiidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.62F0R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>715882 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Nexus files (alignments) for each locus, with their corresponding maximum likelihood tree.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

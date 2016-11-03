@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6686870</identifier><datestamp>2015-09-16T16:32:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D5J06</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paaby, Annalise B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Amelia G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riccardi, David D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gunsalus, Kristin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Piano, Fabio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rockman, Matthew V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Wild worm embryogenesis harbors ubiquitous polygenic modifier variation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cryptic genetic variation</subject>
+      <subject>genetic background</subject>
+      <subject>modifier variation</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Paaby AB, White AG, Riccardi DD, Gunsalus KC, Piano F, Rockman MV (2015) Wild worm embryogenesis harbors ubiquitous polygenic modifier variation. eLife 4: e09178.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D5J06/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.7554/ELIFE.09178</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

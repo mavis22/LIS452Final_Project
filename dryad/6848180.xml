@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848180</identifier><datestamp>2015-11-17T21:03:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.90708</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gough, Leonie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sverdrup-Thygeson, Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milberg, Per</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilskog, Hanne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jansson, Niclas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jonsell, Mats</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Birkemoe, Tone</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Specialists in ancient trees are more affected by climate than generalists</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate gradient</subject>
+      <subject>temperature</subject>
+      <subject>precipitation</subject>
+      <subject>saproxylic</subject>
+      <subject>beetles</subject>
+      <subject>Norway</subject>
+      <subject>Sweden</subject>
+      <subject>Scandinavia</subject>
+      <subject>Coleoptera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Gough LA, Sverdrup-Thygeson A, Milberg P, Pilskog HE, Jansson N, Jonsell M, Birkemoe T (2015) Specialists in ancient trees are more affected by climate than generalists. Ecology and Evolution, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.90708/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1799</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

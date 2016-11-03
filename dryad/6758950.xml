@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6758950</identifier><datestamp>2015-10-19T18:02:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6782R/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Christensen, Louise L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Selman, Colin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blount, Jonathan D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilkington, Jill G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Watt, Kathryn A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pemberton, Josephine M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reid, Jane M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nussey, Daniel H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ECE-2015-07-00379 Dryad Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Available">2016-10-19</date>
+      <date dateType="Accepted">2015-10-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6782R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>40593 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-10-19</rights>
+  <descriptions>
+      <description descriptionType="Other">The data contained in this file come from a much larger database curated by the Soay sheep project. If you are interested in using the data we strongly recommend you contact us, as we most likely have additional data that could be useful to you and can assist with interpretation of results based on the biology of the system. Note that the individual identity codes in this file have been re-coded and will not correspond with those in other data files from the Soay sheep project which you may find in data repositories. Please contact Dan Nussey (dan.nussey@ed.ac.uk) if you think you would be interested in using the data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

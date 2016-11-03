@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6675071</identifier><datestamp>2015-09-08T19:39:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D0G0D/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Franz, Mathias</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for model fitting</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Linear dominance hierarchies</subject>
+      <subject>Self-organization</subject>
+      <subject>Winner and loser effects</subject>
+      <subject>Genetic effects</subject>
+      <subject>Africa</subject>
+      <subject>Papio cynocephalus</subject>
+      <subject>Papio anubis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D0G0D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1073512 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains a table with 11 columns: (1) Date (coded as an integer numbers, for each group the date of the first interaction is set to 0), (2) Group (a unique integer for each group), (3) Winner (individual that won the interaction; note that individuals are coded as an integer numbers that are group-specific), (4) Loser (individual that lost the interaction), (5) hybrid_w (a floating point number that quantifies the estimated degree of anubis ancestry of the winner) , (6) hybrid_l (the estimated degree of anubis ancestry of the loser), (7) Age_w (the winner&#8217;s age in years), (8) Age_l (the loser&#8217;s age in years), (9) Lag_day_w (the number of days since the last observed agonistic encounter of the winner), (10) Lag_day_l (the number of days since the last observed agonistic encounter of the loser), (11) aggr_index (the estimated aggression intensity index). Each row represents an observated interaction.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

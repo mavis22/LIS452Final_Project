@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6735599</identifier><datestamp>2015-09-09T14:41:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8H06D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Stewart, Kathryn A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Austin, James D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zamudio, Kelly R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lougheed, Stephen C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypic_Acoustic_Morphological_Preference_Data_Pseudacris</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>cryptic diversity</subject>
+      <subject>evolutionary lineages</subject>
+      <subject>range fragmentation</subject>
+      <subject>clines</subject>
+      <subject>reproductive isolation</subject>
+      <subject>asymmetrical hybridization</subject>
+      <subject>Eastern North America</subject>
+      <subject>Southwestern Ontario</subject>
+      <subject>Pseudacris crucifer</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8H06D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>117043 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains 5 worksheets: worksheet 1 describes identifiers used throughout data set; worksheet 2 (Genotypes (G)) encompasses 14 columns of microsatellite and mtDNA data; worksheet 3 (Call (C)) encompasses 21 columns of mean acoustic data; worksheet 4 (Morphology (M)) encompasses 11 columns of mean morphological measurements; worksheet 5 (Female Preference (F)) encompasses 6 columns of phonotaxis experimental results. For more detail refer to Methods and Table 1.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

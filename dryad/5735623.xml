@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5735623</identifier><datestamp>2015-10-27T12:08:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PT532</identifier>
+  <creators>
+      <creator>
+         <creatorName>Penacchio, Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lovell, Paul George</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cuthill, Innes C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruxton, Graeme Douglas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harris, Julie M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Three-dimensional camouflage: exploiting photons to conceal form</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>countershading</subject>
+      <subject>background matching</subject>
+      <subject>obliterative shading</subject>
+      <subject>camouflage</subject>
+      <subject>shape-from-shading</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Penacchio O, Lovell PG, Cuthill IC, Ruxton GD, Harris JM (2015) Data from: Three-Dimensional Camouflage: Exploiting Photons to Conceal Form. Dryad Digital Repository. The American Naturalist, Vol. 186, No. 4 (October 2015), pp. 553-563.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.PT532/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/682570</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

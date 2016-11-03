@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1227314</identifier><datestamp>2014-05-29T22:44:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SP6P0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vicente-Serrano, Sergio M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zouber, Aidel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lasanta, Teodoro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pueyo, Yolanda</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Dryness is accelerating degradation of vulnerable shrublands in semiarid Mediterranean environments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>vegetation coverage</subject>
+      <subject>landsat</subject>
+      <subject>land degradation</subject>
+      <subject>desertification</subject>
+      <subject>Mediterranean</subject>
+      <subject>Central Ebro basin</subject>
+      <subject>Spain</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Vicente-Serrano SM, Zouber A, Lasanta T, Pueyo Y (2012) Dryness is accelerating degradation of vulnerable shrublands in semiarid Mediterranean environments. Ecological Monographs 82(4): 407&#8211;428.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SP6P0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1890/11-2164.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

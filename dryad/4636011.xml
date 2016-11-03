@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4636011</identifier><datestamp>2015-02-10T20:55:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3S7R7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hafer, Nina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinski, Manfred</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_experiment1: intraspecific conflict and cooperation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Coevolution</subject>
+      <subject>Parasitism</subject>
+      <subject>Behavior</subject>
+      <subject>Schistocephalus solidus</subject>
+      <subject>Macrocyclops albidus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3S7R7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12556800 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Worksheet 1 ("copepods") contains information on each copepod used in the study including dead or incorrectly infected copepods. Worksheet 2 ("behavior") contains the behavior of only those copepods that survived until their infection status could be determined and that were infected by all parasites they had been exposed to. No behavior was recorded for any of the other copepods. The behavior consists of the position of each copepod every two seconds during one minute after a simulated predation attack and after a recovery period and, resulting from this whether or how far they moved during this time interval. This data was obtained from video recordings of copepod behavior using the manual tracking tool in imageJ and was done blindly as to the infection status of each copepod.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

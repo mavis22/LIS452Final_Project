@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6585147</identifier><datestamp>2015-08-31T12:21:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0H82M/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Derzelle, Sylviane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Girault, Guillaume</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kokotvic, Branko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Angen, &#216;ystein</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig. 1 Position of the eleven Danish strains within the B. anthracis phylogenetic tree based on whole-genome SNP analysis.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>whole-genome single nucleotide polymorphisms discovery</subject>
+      <subject>SNP phylogenetic tree</subject>
+      <subject>minimum spanning tree</subject>
+      <subject>Denmark</subject>
+      <subject>1935-1988</subject>
+      <subject>Bacillus anthracis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0H82M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>156725 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Figure 1. Position of the eleven Danish strains from cattle within the B. anthracis phylogenetic tree based on whole-genome SNP analysis. Minimum spanning tree based on 6596 chromosomal SNPs (A), 222 pXO1 SNPs (B) and 166 pXO2 SNPs (C). The 13 different canSNP groups are color-coded: C.Br.A1055 in white, B.Br.CNEVA in yellow, B.Br.001/002 and B.Br.Kruger in orange, A.Br.011/009 in light blue, A.Br.008/011 in blue, A.Br.WNA in dark blue, A.Br.005/006 in pink, A.Br.003/004 in red, A.Br.001/002 in green, A.Br.WNA in dark green, A.Br.Aust94 in brown and A.Br.Vollum in purple. The position of the 11 Danish isolates (in bold and underligned), the African IEMVT89 and 40 available whole genome-sequenced strains is marked. The length of each branch is proportional (logarithmic scale) to the number of SNPs identified between strains. Indicated in red are the position and name of some new or published SNPs specific to various canSNP groups: A05 (A.Br.005/006 group); A.Br.008 (A.Br.008/009 group); A08/D and A08/D1 (A.Br.008/011); A.Br.011 (A.Br.011/009); A.Br.009 (A.Br.WNA); A.Br.002 and A01 (A.Br.001/002 and A.Br.Ames); A02, A02/A, A02/B, A02/B1 (A.Br.001/002 subgroup A02); A.Br.001 and A01/A-DK (A.Br.Ames); A.Br.013,  A.Br.015a, A.Br.15b, A.Br.026 (A.Br.Aust94). Based on a parsimony approach, the trees sizes are, respectively, 6730 (A), 227 (B) and 168 SNPs (C), i.e. containing approximately 1.9 (A), 2.2 (B) or 1.2 (C) % of homoplasia.The minimum spanning tree was drawn in BioNumerics version 6.6 (Applied Maths) using default settings.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4083719</identifier><datestamp>2014-10-27T18:22:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JN8T1/32</identifier>
+  <creators>
+      <creator>
+         <creatorName>Havird, Justin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Santos, Scott R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Filtered_subset_orthologous_clusters</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Anchialine</subject>
+      <subject>transcriptomics</subject>
+      <subject>crustacean</subject>
+      <subject>ecological genomics</subject>
+      <subject>Hawaii</subject>
+      <subject>Ryukyus Islands (Japan)</subject>
+      <subject>Current</subject>
+      <subject>Antecaridina lauensis</subject>
+      <subject>Caridina rubella</subject>
+      <subject>Halocaridinides trigonophthalma</subject>
+      <subject>Metabetaeus lohena</subject>
+      <subject>Metabetaeus minutus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.JN8T1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1714438 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A compressed file consisting of 1,784 files describing the 892 orthologous clusters that contained a single ortholog from each of the five anchialine shrimp species. For each orthologous cluster there are two files: one file contains unaligned sequence files in fasta format (ending in .fasta) and one file contains sequences that were aligned using ClustalO (ending in .fasta_clustalo). Orthologous clusters were identified using OrthoMCL and the putative ORFs from the five anchialine shrimp species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

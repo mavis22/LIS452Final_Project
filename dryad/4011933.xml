@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4011933</identifier><datestamp>2014-09-22T21:56:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.H738S/9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ai, Bin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gao, Yong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Xiaolong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tao, Junjie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kang, Ming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Huang, Hongwen</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fasta files of single copy genes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>transcriptome</subject>
+      <subject>simple sequence repeats</subject>
+      <subject>single nucleotide polymorphisms</subject>
+      <subject>single-copy nuclear genes</subject>
+      <subject>positive selection</subject>
+      <subject>Primulina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.H738S</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>624872 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

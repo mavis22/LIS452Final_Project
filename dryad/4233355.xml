@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4233355</identifier><datestamp>2015-01-19T15:32:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R9V30/16</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maus, Horst-Moritz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Revzen, Shai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guckenheimer, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ludwig, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reger, Johann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seyfarth, Andre</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experimental data subject 3: 3/6</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>human running</subject>
+      <subject>kinematics</subject>
+      <subject>motion capture</subject>
+      <subject>Germany</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R9V30</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>77624009 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Force and kinematic recordings from subject 3, dataset 3 out of 5  recording sequences.&#13;
+Note: record #5 is missing (corrupted data). We did not relabel record #6, to indicate that there is a lack of data of about 4 minutes duration between #4 and #6.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

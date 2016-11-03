@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6537258</identifier><datestamp>2015-09-02T16:59:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4P6V6/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bonal, Raul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hern&#225;ndez, Marisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Espelta, Josep Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mu&#241;oz, Alberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aparicio, Jos&#233; M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Full_data_set_Bonal_RSOS_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Climate change</subject>
+      <subject>drought</subject>
+      <subject>insects</subject>
+      <subject>sex ratio</subject>
+      <subject>Central Spain</subject>
+      <subject>Europe</subject>
+      <subject>Curculio elephas</subject>
+      <subject>Quercus ilex</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-09-02</date>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4P6V6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>54750 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-09-02</rights>
+  <descriptions>
+      <description descriptionType="Other">The Excel file contains 5 data Sheets. &#13;
+  &#13;
+The first one includes the information of the number of males and females collected in those traps in which at least one individual was captured. It also includes the date of the beginning of late summer rain and the total rainfall recorded all over the weevil emergence period for each year. &#13;
+The second sheet includes the number of males and females collected along the weevil emergence period pooling together the data of the five study years.&#13;
+The third shows the mean emergence date of the males and females collected at each trap and the date of the beginning of late summer rainfall each study year.&#13;
+The fourth and the fifth include the mean elytra length of the females and males collected at each trap along the weevil emergence period pooling together the data of the five study years. The sixth includes the rainfall probability along the weevil emergence period pooling together the date from all the temporal series available at the meteorological station. &#13;
+&#13;
+In all cases the sampling unit is the trap. The study period was divided in 12 weeks: Week 1 (August 4th to 10th ) to Week 12 (October 20th to 26th). Sex is coded as 1 males and 2 females. For the dates Julian dates are used, being January 1st the Day 1. Rainfall was recorded in litres/m2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

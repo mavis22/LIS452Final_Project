@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1861316</identifier><datestamp>2014-05-30T02:51:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CQ70K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rodriguez-Lanetty, Mauricio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Granados-Cifuentes, Camila</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barberan, Albert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bellantuono, Anthony J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bastidas, Carolina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ecological inferences from a deep screening of the Complex Bacterial Consortia associated with the coral, Porites astreoides</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Cnidarians</subject>
+      <subject>Community Ecology</subject>
+      <subject>Metagenomics</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Species Interactions</subject>
+      <subject>Systematics</subject>
+      <subject>Curacao Island</subject>
+      <subject>Porites astreoides</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rodriguez-Lanetty M, Granados-Cifuentes C, Barberan A, Bellantuono AJ, Bastidas C (2013) Ecological inferences from a deep screening of the Complex Bacterial Consortia associated with the coral, Porites astreoides. Molecular Ecology 22(16): 4349-4362.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CQ70K/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CQ70K/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12392</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,141 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:48539</identifier><datestamp>2014-05-29T20:11:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CM7TD</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lai, Zhao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kane, Nolan C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kozik, Alex</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hodgins, Kathryn A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dlugosch, Katrina M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barker, Michael S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matvienko, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yu, Qian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Kathryn G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pearl, Stephanie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Graeme D.M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zou, Yi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grassa, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Guggisberg, Alessia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adams, Keith L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, James V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Horvath, David P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kesseli, Richard V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burke, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Michelmore, Richard W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rieseberg, Loren H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genomics of Compositae weeds: EST libraries, microarrays, and evidence of introgression</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>ESTs</subject>
+      <subject>hybridization</subject>
+      <subject>introgression</subject>
+      <subject>invasive plants</subject>
+      <subject>microarray development</subject>
+      <subject>next generation sequencing</subject>
+      <subject>sequence assemblies</subject>
+      <subject>transcriptome sequencing</subject>
+      <subject>weeds</subject>
+      <subject>Biatorbagy, Hungary</subject>
+      <subject>Russell, MN, USA</subject>
+      <subject>Jilin, Jilin, China</subject>
+      <subject>Dengta, Liaoning, China</subject>
+      <subject>Kampsville, IL, USA</subject>
+      <subject>Bloomington, IN, USA</subject>
+      <subject>Mardin, Turkey</subject>
+      <subject>Kirklarel&#236;, Turkey</subject>
+      <subject>Roosevelt, WA, USA</subject>
+      <subject>Boston, MA, USA</subject>
+      <subject>Walnut Creek, CA, USA</subject>
+      <subject>Santa Rosa, Argentina</subject>
+      <subject>Fargo, ND, USA</subject>
+      <subject>Richmond Hill, ON, Canada</subject>
+      <subject>Lugoj, Romania</subject>
+      <subject>Ma'ayan Tzvi, Israel</subject>
+      <subject>Port Augusta, Australia</subject>
+      <subject>Dona Ana County, NM, USA</subject>
+      <subject>Davis, CA, USA</subject>
+      <subject>Heteren, The Netherlands</subject>
+      <subject>Ambrosia artemisiifolia</subject>
+      <subject>Ambrosia trifida</subject>
+      <subject>Carthamus oxyacanthus</subject>
+      <subject>Centaurea diffusa</subject>
+      <subject>Centaurea stoebe micranthos</subject>
+      <subject>Centaurea solstitialis</subject>
+      <subject>Cirsium arvense</subject>
+      <subject>Helianthus annuus</subject>
+      <subject>Helianthus ciliaris</subject>
+      <subject>Lactuca serriola</subject>
+      <subject>Taraxacum officinale</subject>
+      <subject>Asteraceae</subject>
+      <subject>Compositae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Lai Z, Kane NC, Kozik A, Hodgins KA, Dlugosch KM, Barker MS, Matvienko M, Yu Q, Turner KG, Pearl SA, Bell GDM, Zou Y, Grassa C, Guggisberg A, Adams KL, Anderson JV, Horvath DP, Kesseli RV, Burke JM, Michelmore RW, Rieseberg LH (2011) Genomics of Compositae weeds: EST libraries, microarrays, and evidence of introgression. American Journal of Botany 99(2): 209-218.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/11</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/12</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/13</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/14</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.CM7TD/15</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.3732/AJB.1100313</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

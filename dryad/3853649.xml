@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3853649</identifier><datestamp>2015-09-08T06:31:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.68GM7/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Escribano-Avila, Gema</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Calvi&#241;o-Cancela, Mar&#237;a</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#237;as, Beatriz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Virg&#243;s, Emilio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valladares, Fernando</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Escudero, Adri&#225;n</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Seed dispersal effectiveness stages for sites: Maranch&#243;n and Torremocha and habitats: woodland and old fields</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Seed Dispersal Effectiveness</subject>
+      <subject>Seed Dispersal</subject>
+      <subject>Post-Dispersal seed predation</subject>
+      <subject>Seed germination</subject>
+      <subject>Seedling emergence</subject>
+      <subject>Seedling survival</subject>
+      <subject>woodland</subject>
+      <subject>old fields</subject>
+      <subject>ecosystem recovery</subject>
+      <subject>Torremocha del Pinar</subject>
+      <subject>Maranch&#243;n</subject>
+      <subject>Juniperus thurifera</subject>
+      <subject>Turdus viscivorus</subject>
+      <subject>Turdus philomelos</subject>
+      <subject>Turdus merula</subject>
+      <subject>Turdus iliacus</subject>
+      <subject>Turdus pilaris</subject>
+      <subject>Vulpes vulpes</subject>
+      <subject>Martes foina</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.68GM7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1688 bytes</size>
+      <size>111741 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on seed dispersal, post-dispersal predation, seedling emergence and survival in Maranchon site woodland habitat; Maranch&#243;n site old fields habitat and Torremocha site woodland habitat, Torremocha site old fields habitat. These data were used to estimate seed dispersal effectiveness for each disperser. Seed dispersal is equal to the Quantity component. (QNT) Seedling survival is equal to Seed Dispersal Effectiveness (SDE) and the Quality component (QLT) is obtained by simplicity (SDE/QNT=QLT). SDE landscape graphs were plotted using the mean and SE calculated on these data (Figs. 2 and 3). Additional file on microhabitat cover was used to estimate overall SDE weighting the contribution of each disperser in each microhabitat by the relative cover of the corresponding microhabitat in each habitat type.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

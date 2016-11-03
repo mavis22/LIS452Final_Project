@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5583172</identifier><datestamp>2015-06-11T20:20:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.88B5B/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bolnick, Daniel I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shim, Kum Chuan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmerer, Matthew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brock, Chad D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Bolnick_et_al_PLoS_One_Dryad_Submission</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Condition</subject>
+      <subject>ecoimmunology</subject>
+      <subject>handicap hypothesis</subject>
+      <subject>immunocompetence</subject>
+      <subject>male color</subject>
+      <subject>microhabitat</subject>
+      <subject>perceptual bias</subject>
+      <subject>nuptial signals</subject>
+      <subject>Vancouver Island</subject>
+      <subject>Modern</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.88B5B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>356572 bytes</size>
+      <size>9530 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">A .csv file containing all the data used for analyses and graphics in Bolnick et al 2015 PLoS One. The same data are sufficient to recreate analyses in Bolnick et al Evolution. Raw data files (.jpg photographs, spectrophotometric files, flow cytometry .fcs files) are available upon request.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1228030</identifier><datestamp>2014-05-29T23:02:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VH21C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Crandall, Eric D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Treml, Eric A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barber, Paul H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Coalescent and biophysical models of stepping-stone gene flow in Neritid snails</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>isolation-by-distance</subject>
+      <subject>habitat preference</subject>
+      <subject>model selection</subject>
+      <subject>amphidromy</subject>
+      <subject>Indo-Pacific</subject>
+      <subject>South Pacific</subject>
+      <subject>Indo-Pacific</subject>
+      <subject>Western Pacific</subject>
+      <subject>Central Pacific</subject>
+      <subject>Marquesas</subject>
+      <subject>Society Islands</subject>
+      <subject>Cook Islands</subject>
+      <subject>Samoa</subject>
+      <subject>Fiji</subject>
+      <subject>Vanuatu</subject>
+      <subject>New Caledonia</subject>
+      <subject>Neritina canalis</subject>
+      <subject>Neripteron dilatatum</subject>
+      <subject>Nerita albicilla</subject>
+      <subject>Nerita plicata</subject>
+      <subject>neritidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Crandall ED, Treml EA, Barber PH (2012) Coalescent and biophysical models of stepping-stone gene flow in Neritid snails. Molecular Ecology 21(22): 5579&#8211;5598.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VH21C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VH21C/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VH21C/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VH21C/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VH21C/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12031</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

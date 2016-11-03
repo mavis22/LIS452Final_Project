@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3730378</identifier><datestamp>2014-11-14T19:41:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SD931/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Brekke, Thomas David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Good, Jeffrey M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hamster_database</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Reproductive Isolation</subject>
+      <subject>genetic imprinting</subject>
+      <subject>Haldane's rule</subject>
+      <subject>Speciation</subject>
+      <subject>Phodopus sungorus</subject>
+      <subject>Phodopus campbelli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SD931</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8920 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data concerning crossing dates and number of offspring used to assess sex ratio. Data are in 7 columns: 1. cross number: in the form "BB.BB1" Letters represent species ( B=P. campbelli, S=P. sungorus ). The first two letters are the mother's species, the second two letters are the father's species. Further, each unique litter is given a number. 2. mother.number: mother's unique identification number. 3. father.number: father's unique identification number. 4. birthdate: when the litter was born. 5. female.number: number of female offspring in the litter. 6. male.number: number of male offspring in the litter. 7. total.litter.number: sum of males and females in the litter</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

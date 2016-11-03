@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6516523</identifier><datestamp>2015-07-23T13:48:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.224HJ</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wang, Steve C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Everson, Philip J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Heather J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Park, Dasol</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chudzicki, David J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Adaptive credible intervals on stratigraphic ranges when recovery potential is unknown</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptive Beta method</subject>
+      <subject>confidence interval</subject>
+      <subject>range extension</subject>
+      <subject>Bayesian statistics</subject>
+      <subject>fossil recovery potential</subject>
+      <subject>biostratigraphy</subject>
+      <subject>Siberia</subject>
+      <subject>Mongolia</subject>
+      <subject>Cambrian</subject>
+      <subject>Anabarella</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.224HJ/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.224HJ/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.224HJ/3</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

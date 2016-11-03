@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6837584</identifier><datestamp>2015-10-20T19:04:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.534NG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Borkenhagen, Andrea</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooper, David J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>TD_AllDates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Boreal</subject>
+      <subject>constructed fens</subject>
+      <subject>hydrologic niches</subject>
+      <subject>mineral sediment</subject>
+      <subject>moss establishment</subject>
+      <subject>mulch cover</subject>
+      <subject>fen moss</subject>
+      <subject>vascular plant cover</subject>
+      <subject>water table gradient</subject>
+      <subject>Fort McMurray</subject>
+      <subject>Alberta</subject>
+      <subject>Canada</subject>
+      <subject>Drepanocladus aduncus (Hedw.) Warnst.</subject>
+      <subject>Ptychostomum (Bryum) pseudotriquetrum (Hedw.) D.T.Holyoak et N.Pedersen</subject>
+      <subject>Campylium stellatum (Hedw.) C.Jens.</subject>
+      <subject>Tomentypnum nitens (Hedw.) Loeske</subject>
+      <subject>and Aulacomnium palustre (Hedw.) Schwaegr</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.534NG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>26731 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Abiotic and biotic data from all sampling dates. &#13;
+plotid = Plot ID;&#13;
+date = Sample date;&#13;
+rep = Replicate;&#13;
+trt = Water level treatment (0 cm, -10 cm, -20 cm, -30 cm);&#13;
+cover = Cover treatment (HP = Herbaceous plants, LS = Low shrub, WM = Wood-strand mulch, NC = No-cover control, C = No-moss no-cover control);&#13;
+gwc = Gravimetric water content;&#13;
+l = Percent cover of litter;&#13;
+tdiff = Temperature difference between surface and 5 cm depth in the soil (C o);&#13;
+s2aw = distance between the soil and average water level (cm);&#13;
+som = Percent soil organic matter;&#13;
+tmb = Moss biomass 	(g);&#13;
+om = Percent cover of opportunistic mosses;	&#13;
+tm = Percent cover of total moss;&#13;
+om14 = Percent cover of opportunistic mosses in September 2014;&#13;
+tm14 = Percent cover of total moss in September 2014;&#13;
+ll01 = Percent cover litter transformed using a logit;&#13;
+tdiffsq = Temp difference between surface and 5 cm depth in the soil transformed with a square root;&#13;
+tmbsq = Soil organic matter transformed with a square root;&#13;
+oml01 = Percent cover of opportunistic mosses transformed using a logit;&#13;
+tmsq = Percent cover of total moss transformed with a square root;&#13;
+om14l01 = Percent cover of opportunistic mosses in Sept 2014 transformed using a logit;&#13;
+tm14l01 = Percent cover of total moss in Sept 2014 transformed with a square root;</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

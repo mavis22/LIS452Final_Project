@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4591549</identifier><datestamp>2015-01-29T19:13:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DJ0GR/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>J&#252;rgens, Andreas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Witt, Taina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sciligo, Amber</creatorName>
+      </creator>
+      <creator>
+         <creatorName>El-Sayed, Ashraf M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 6</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Carnivorous plants</subject>
+      <subject>pollinator-prey conflict</subject>
+      <subject>flower-trap distance</subject>
+      <subject>trap colour</subject>
+      <subject>New Zealand</subject>
+      <subject>Drosera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DJ0GR</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>797608 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Generalized linear models showing the effect of trap colour and trap positioning on pollinator capture on model leaves (A) and model flowers (B) respectively (see Figs 2B, C). (A) Effect of trap colour (&#967;21,60 = 10.19; p &lt; 0.01) on pollinator capture of model leaves. (B) Trap positioning (upright vs. on the ground) showed no significant effect on pollinator capture in model traps (&#967;21,60 = 0.245; p &lt; 0.62). (B) Effect of trap positioning (&#967;21,60 = 4.62; p &lt; 0.05) but not trap colour (&#967;21,60 = 1.85; p &lt; 0.174) on pollinator capture of model flowers.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

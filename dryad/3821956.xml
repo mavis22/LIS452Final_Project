@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3821956</identifier><datestamp>2014-12-02T20:27:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4PF25/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chasar, Anthony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrigan, Ryan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holbrook, Kimberly M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dietsch, Thomas V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuller, Trevon L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wikelski, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Thomas B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hornbillmovementsrawdata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>hornbills</subject>
+      <subject>satellite tracking</subject>
+      <subject>seed dispersal</subject>
+      <subject>movements</subject>
+      <subject>rainforest</subject>
+      <subject>Cameroon</subject>
+      <subject>Central Africa</subject>
+      <subject>2009-2011</subject>
+      <subject>Bycanistes albotibialis</subject>
+      <subject>Ceratogymna atrata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4PF25</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>283809 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tab-delimited raw text data file, with data recovered from satellite transmitters, before filtering for quality of satellite read.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

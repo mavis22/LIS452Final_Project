@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6908969</identifier><datestamp>2015-10-26T14:17:04Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B78FB/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duminil, J&#233;r&#244;me</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Da&#239;nou, Kasso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kombi Kaviriri, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gillet, Pauline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loo, Judy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doucet, Jean-Louis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hardy, Olivier J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotypes (9 microsatellites) and coordinates of individuals (adults, seedlings, seeds) used in the study</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>logging</subject>
+      <subject>inbreeding</subject>
+      <subject>pollen-mediated gene flow</subject>
+      <subject>selfing</subject>
+      <subject>timber species</subject>
+      <subject>spatial genetic structure</subject>
+      <subject>microsatellites</subject>
+      <subject>14.34&#176;E-3.28&#176;N</subject>
+      <subject>25.48&#176;E-1.00&#176;N</subject>
+      <subject>13.03&#176;E-0.79&#176;S</subject>
+      <subject>Erythrophleum suaveolens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B78FB</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>163073 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Column A: Individual ID; Colum B: Country of origin; Colum C: cohort of the individual (adult, seedling, seed); Columns D and E: coordinates of the individuals (degree decimals); Colmums F to W: genotypes of the individuals at the 9 nuclear SSR (23, 4, 3, 18, 14, 6, 17, 7 and 1).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

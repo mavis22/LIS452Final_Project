@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1211992</identifier><datestamp>2014-05-30T00:32:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NG93K</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ackerman, Michael W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Templin, William D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, James E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seeb, Lisa W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Landscape heterogeneity and local adaptation define the spatial genetic structure of Pacific salmon in a pristine environment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>sockeye salmon</subject>
+      <subject>landscape genetics</subject>
+      <subject>SNPs</subject>
+      <subject>adaptation</subject>
+      <subject>demography</subject>
+      <subject>Copper River</subject>
+      <subject>Alaska</subject>
+      <subject>Oncorhynchus nerka</subject>
+      <subject>Oncorhynchus tshawytscha</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ackerman MW, Templin WD, Seeb JE, Seeb LW (2012) Landscape heterogeneity and local adaptation define the spatial genetic structure of Pacific salmon in a pristine environment. Conservation Genetics 14(2): 483-498.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.NG93K/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1007/S10592-012-0401-7</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

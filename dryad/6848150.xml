@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848150</identifier><datestamp>2015-10-16T17:49:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DD3PH/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Paynter, Quentin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buckley, Yvonne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peterson, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gourlay, A. Hugh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fowler, Simon V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>seed size and beetle size means all sites</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecoevolutionray dynamics</subject>
+      <subject>seed feeder</subject>
+      <subject>trait change</subject>
+      <subject>population dynamics</subject>
+      <subject>bruchid</subject>
+      <subject>invasive species</subject>
+      <subject>weed</subject>
+      <subject>agent selection</subject>
+      <subject>New Zealand</subject>
+      <subject>Cytisus scoparius</subject>
+      <subject>Bruchidius villosus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DD3PH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1098 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Variables:  site: 13 sites in North and South islands of New Zealand, two records per site as male and female beetles were treated separately. East Block (Lincoln, Canterbury), FF (Frost Flat, Waikato), Hanmer Pasture (Canterbury), Hanmer River (Hanmer Riverbed, Canterbury), Hanmer Forest (Canterbury), Jack&#8217;s Pass (Canterbury), Mangahao River (Manawatu - Wanganui), Masterton (Wellington), PN (Palmerston North, Manawatu &#8211; Wanganui), Poutu (Manawatu &#8211; Wanganui), Taitapu Alt (Canterbury), Waimakariri Forest (Canterbury), Wimakariri River Bed (Canterbury). 14 sites mentioned in main text but one of these had no beetles (Waiouru, Manawatu &#8211; Wanganui). seed_size_mg: mean of seed size from multiple plants per site. log_seed_size: natural log of seed_size_mg. elytra_area: mean of elytra area for beetles on multiple plants per site, mm2. beetle_sex: sex of beetles. Cases: each row represents the mean of one sex of beetles from multiple plants per site. One male and one female beetle per plant were measured. Two seeds (each containing a beetle) were measured per plant.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

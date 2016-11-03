@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717254</identifier><datestamp>2015-09-11T00:50:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QH53F/13</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schutt, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fu, Jianing</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fig4B images</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ibrutinib</subject>
+      <subject>chronic GVHD</subject>
+      <subject>acute GVHD</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QH53F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>37730796 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file is associated with Fig4B of the accompanied publication. Mice treated with BM alone, vehicle, 5mg/kg, or 10mg/kg Ibrutinib were injected with 5 x 10^6 whole splenocytes.  Skin lesions from each recipient were excised after euthanasia and subjected to H&amp;E staining for scoring by a professional pathologist.  Representative microscope images were taken from one mouse from each group.  #199 is from BM alone group, #202 is from vehicle treated group, #205 is from 10mg/kg Ibrutinib treated group, #211 is from 5mg/kg Ibrutinib treated group.   Any other relevant information including experimental conditions and setup are included in the accompanied publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

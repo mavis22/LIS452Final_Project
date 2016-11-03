@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5648955</identifier><datestamp>2015-04-27T16:59:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K5F12/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thomas, Mathieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Th&#233;pot, St&#233;phanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jouanne-Pin, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galic, Nathalie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Remou&#233;, Carine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goldringer, Isabelle</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw genotyping data, pre-analyzed genotyping data, phenotyping data and covariates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>on-farm dynamic management</subject>
+      <subject>on-farm evolutionary experiment</subject>
+      <subject>agrobiodiversity</subject>
+      <subject>local adaptation</subject>
+      <subject>crop metapopulation</subject>
+      <subject>France</subject>
+      <subject>Triticum aestivum</subject>
+      <subject>Triticum turgidum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K5F12</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>560304 bytes</size>
+      <size>2955 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file corresponds to raw genotyping data before imputation of missing data, genotype assignation after classification, phenotype data and covariates. Each line corresponds to one diploid genotype identified by the first column of the file. Details of the column header are provided in the readMe file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

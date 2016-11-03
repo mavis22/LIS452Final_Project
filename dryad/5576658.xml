@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5576658</identifier><datestamp>2015-04-27T17:59:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.54BM8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yuan, Michael L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dean, Samantha H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Longo Berrios, Ana V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rothermel, Betsie B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tuberville, Tracey D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zamudio, Kelly R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Kinship, inbreeding, and fine-scale spatial structure influence gut microbiota in a hindgut-fermenting tortoise</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Gopher tortoise</subject>
+      <subject>microsatellites</subject>
+      <subject>16S rRNA sequencing</subject>
+      <subject>microbial diversity</subject>
+      <subject>fecal microbiota</subject>
+      <subject>Florida</subject>
+      <subject>Gopherus polyphemus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Yuan ML, Dean SH, Longo Berrios AV, Rothermel BB, Tuberville TD, Zamudio KR (2015) Kinship, inbreeding, and fine-scale spatial structure influence gut microbiota in a hindgut-fermenting tortoise. Molecular Ecology 24(10): 2521-2536.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.54BM8/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.54BM8/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.54BM8/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.54BM8/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.54BM8/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13169</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

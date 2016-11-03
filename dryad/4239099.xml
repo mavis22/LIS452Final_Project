@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4239099</identifier><datestamp>2014-12-19T17:38:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.485QQ/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zaman, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meyer, Justin R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Devangam, Suhas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bryson, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lenski, Richard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ofria, Charles</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>coevolving-complexity-matching_phenotype_genetic_landscaping</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>host-parasite coevolution</subject>
+      <subject>evolution of complexity</subject>
+      <subject>evolutionary ecology</subject>
+      <subject>experimental evolution</subject>
+      <subject>digital evolution</subject>
+      <subject>community ecology</subject>
+      <subject>evolvability</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.485QQ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>38289 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data specifically pair genotypes from coevolved and evolved populations performing the same exact set of tasks. These data are used to generate Figure 10. &#13;
+&#13;
+1. ReplicateEvo - The replicate population which the evolved genotype came from&#13;
+2. ReplicateCoevo - The replicate population which the coevolved genotype came from&#13;
+3. MatchingPhenotype - The phenotype that was matched between the evolved and coevolved treatments&#13;
+4. Point_Decrease.Evo - The number of point mutations that decrease the number of tasks this evolved genotype performs &#13;
+5. Point_Increase.Evo - The number of point mutations that increase the number of tasks this evolved genotype performs &#13;
+6. Point_Neutral.Evo- The number of point mutations that change the identity of the tasks performed while keeping the number of tasks the same in the evolved genotype&#13;
+7. Point_Viable.Evo - The number of point mutations that produce a viable genotype regardless of changes to phenotype for the evolved genotype&#13;
+8. Point_Inviable.Evo - The number of point mutations that produce an inviable genotype for the evolved genotype&#13;
+9. NumUniqueReachable.Evo - The number of unique phenotypes reachable by only single point mutations from the evolved genotype&#13;
+10. Point_Decrease.Coevo - The number of point mutations that decrease the number of tasks this coevolved genotype performs &#13;
+11. Point_Increase.Coevo - The number of point mutations that increase the number of tasks this coevolved genotype performs &#13;
+12. Point_Neutral.Coevo - The number of point mutations that change the identity of the tasks performed while keeping the number of tasks the same in the coevolved genotype&#13;
+13. Point_Viable.Coevo - The number of point mutations that produce a viable genotype regardless of changes to phenotype for the coevolved genotype&#13;
+14. Point_Inviable.Coevo - The number of point mutations that produce an inviable genotype for the coevolved genotype&#13;
+15. NumUniqueReachable.Coevo - The number of unique phenotypes reachable by only single point mutations from the coevolved genotype</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

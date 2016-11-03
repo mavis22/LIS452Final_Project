@@ -1,0 +1,97 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6277724</identifier><datestamp>2015-07-13T20:22:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M5PR3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Beijbom, Oscar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edmunds, Peter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roelfsema, Chris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kline, David I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neal, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dunlap, Matthew J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moriarty, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fan, Tung-Yung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tan, Chih-Jui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chan, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Treibitz, Tali</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gamst, Anthony</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell, B. Greg</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kriegman, David</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Towards automated annotation of benthic survey images: variability of human experts and operational modes of automation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral ecology</subject>
+      <subject>coral reefs</subject>
+      <subject>ecological surveys</subject>
+      <subject>data mining</subject>
+      <subject>machine learning</subject>
+      <subject>computer vision</subject>
+      <subject>applied mathematics</subject>
+      <subject>marine monitoring</subject>
+      <subject>biology and life sciences</subject>
+      <subject>community ecology</subject>
+      <subject>active learning</subject>
+      <subject>Pacific Ocean</subject>
+      <subject>2005-2012</subject>
+      <subject>Acropora</subject>
+      <subject>Favia</subject>
+      <subject>Favites</subject>
+      <subject>Montastraea</subject>
+      <subject>Pavona</subject>
+      <subject>Platygyra</subject>
+      <subject>Pocillopora</subject>
+      <subject>Porites</subject>
+      <subject>Millepora</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Beijbom O, Edmunds PJ, Roelfsema C, Smith J, Kline DI, Neal B, Dunlap MJ, Moriarty V, Fan T, Tan C, Chan S, Treibitz T, Gamst A, Mitchell BG, Kriegman D (2015) Towards automated annotation of benthic survey images: variability of human experts and operational modes of automation. PLoS ONE 10(7): e0130312.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/11</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/12</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.M5PR3/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0130312</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

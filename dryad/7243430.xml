@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7243430</identifier><datestamp>2015-12-07T15:38:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2PM6F/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hinrichsen, Hans-Harald</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dewitz, Burkhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dierking, Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haslob, Holger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Makarcuks, Andrejs</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petereit, Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Voss, Rudi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hinrichsen et al_Royal Society Open Science_Bongogrid_Fig1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biophysical modelling</subject>
+      <subject>fish ecology</subject>
+      <subject>climate change</subject>
+      <subject>egg buoyancy</subject>
+      <subject>Bornholm Basin</subject>
+      <subject>Baltic Sea</subject>
+      <subject>Gadus morhua</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2PM6F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12081 bytes</size>
+      <size>14175 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the geographic coordinates of the specific locations where plankton samples (including cod eggs) for analyses in this manuscript were collected (see read me file for details).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

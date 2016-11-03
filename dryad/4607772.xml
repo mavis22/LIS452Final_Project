@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4607772</identifier><datestamp>2015-02-25T15:08:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.416SP/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Farine, Damien R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aplin, Lucy M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sheldon, Ben C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoppitt, William</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Full_Higgins_diffusions</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Diffusion Analysis</subject>
+      <subject>Information use</subject>
+      <subject>Mixed-species flocking</subject>
+      <subject>Network-based diffusion analysis</subject>
+      <subject>Public information</subject>
+      <subject>Social networks</subject>
+      <subject>Wytham Woods</subject>
+      <subject>Oxford</subject>
+      <subject>United Kingdom</subject>
+      <subject>Parus major</subject>
+      <subject>Poecile palustris</subject>
+      <subject>Cyanistes caeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.416SP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6151 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Information on the 3 diffusion experiments run at Higgins Copse</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

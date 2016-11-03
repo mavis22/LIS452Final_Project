@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6740771</identifier><datestamp>2015-10-15T18:57:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7Q830/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cox, Courtney L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doroghazi, James R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell, Douglas A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Maximum likelihood tree with YcaO containing protiens</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Genome mining</subject>
+      <subject>thiazole</subject>
+      <subject>oxazole</subject>
+      <subject>ribosomal peptide</subject>
+      <subject>post-translational modification</subject>
+      <subject>natural products</subject>
+      <subject>secondary metabolites.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7Q830</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63811 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is a Maximum likelihood tree with all the YcaO domain containing (D) proteins used in this study. This tree was used to create Figures S3 and S4, but colored differently depending on the TOMM created.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

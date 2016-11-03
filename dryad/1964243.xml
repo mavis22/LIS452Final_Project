@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1964243</identifier><datestamp>2014-08-08T06:30:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J855B</identifier>
+  <creators>
+      <creator>
+         <creatorName>van Dijk, Jacintha G. B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hoye, Bethany J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verhagen, Josanne H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nolet, Bart A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fouchier, Ron A. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Klaassen, Marcel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Juveniles and migrants as drivers for seasonal epizootics of avian influenza virus</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>age</subject>
+      <subject>CT-value</subject>
+      <subject>infection intensity</subject>
+      <subject>infectious disease</subject>
+      <subject>nucleoprotein</subject>
+      <subject>origin</subject>
+      <subject>subtype</subject>
+      <subject>viral prevalence</subject>
+      <subject>51&#176;52'38"N 4&#176;43'26"E</subject>
+      <subject>Anas platyrhynchos</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">van Dijk JGB, Hoye BJ, Verhagen JH, Nolet BA, Fouchier RAM, Klaassen M (2013) Juveniles and migrants as drivers for seasonal epizootics of avian influenza virus. Journal of Animal Ecology 83(1): 266&#8211;275.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.J855B/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12131</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

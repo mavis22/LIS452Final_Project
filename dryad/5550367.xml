@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5550367</identifier><datestamp>2015-04-01T20:12:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3P147/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Porto, Arthur</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sebasti&#227;o, Harley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pavan, Silvia Eliza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>VandeBerg, John L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marroig, Gabriel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cheverud, James M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Species_and_node_information</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Morphospace</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>Constraints</subject>
+      <subject>Mammals</subject>
+      <subject>Morphometrics</subject>
+      <subject>Monodelphis domestica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-03-26</date>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3P147</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16924 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-03-26</rights>
+  <descriptions>
+      <description descriptionType="Other">Information on species' trait means and branch lengths used when estimating rate of morphological evolution. Branch names correspond to the names reported in the main text.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

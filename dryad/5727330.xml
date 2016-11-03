@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727330</identifier><datestamp>2015-05-19T15:58:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4MT34/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Margres, Mark J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wray, Kenneth P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Seavy, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGivern, James J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanader, Dragana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rokyta, Darin R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table_S3_Raw_Morphological_Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Life history evolution</subject>
+      <subject>Southeast United States</subject>
+      <subject>Crotalus adamanteus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4MT34</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>87657 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This table contains the raw morphological data.  The &#8220;All Data&#8221; sheet contains the raw measurements for each individual.  The columns are the following:  &#8220;Museum ID&#8221; is the unique specimen identifier for the Florida Museum, SVL is snout-vent length in mm, HL is head length in mm, HW is head width in mm, IF is inter-fang distance in mm, and FL is fang length in mm.  The &#8220;PCA_Kruskal_Wallis&#8221; sheet contains the data from the Kruskal-Wallis tests.  The &#8220;Shapiro-Wilk&#8221; sheet contains the Shapiro-Wilk normality test data for each variable.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5685494</identifier><datestamp>2015-05-06T17:35:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MP5S3/11</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rioult-Pedotti, Mengia-Seraina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pekanivic, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Atiemo, Clement Osei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marshall, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Luft, Andreas R&#252;diger</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>results_PLCago_SCH23390</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>motor cortex</subject>
+      <subject>learning</subject>
+      <subject>dopamine</subject>
+      <subject>phospholipase C</subject>
+      <subject>long term potentiation</subject>
+      <subject>synaptic plasticity</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MP5S3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>30898 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Behavior: PLCagonist+D1antag</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

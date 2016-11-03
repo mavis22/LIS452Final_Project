@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4041677</identifier><datestamp>2014-12-03T21:06:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QN474/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marra, Nicholas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>perl_script_for_alignments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>transcriptomics</subject>
+      <subject>spleen</subject>
+      <subject>latitudinal diversity gradient</subject>
+      <subject>differential gene expression</subject>
+      <subject>evolutionary genomics</subject>
+      <subject>Portal Arizona</subject>
+      <subject>La Selva Biological Station Puerto Viejo Costa Rica</subject>
+      <subject>Dipodomys spectabilis</subject>
+      <subject>Heteromys desmarestianus</subject>
+      <subject>Chaetodipus baileyi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QN474</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15204 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the perl script that was used to produce the multiple sequence alignments necessary for the paper associated with this data package.  The script has been uploaded as was used for the analysis and therefore would need to be adapted slightly for custom analyses (this script is designed to take four fasta files and then conduct an msa on a set of 4 sequences, one from each of the four files in order.  This could be adjusted to accomodate additional or fewer taxa.  The script is commented and questions should be directed to Nicholas Marra regarding it.  To replicate the analysis conducted for this paper, the inputs to the script should be four files from a reciprocal best blast analysis that have been trimmed to the start and stop codons of a full cds region.  Alignments from the script were further analyzed in codeml of PAML 4.7 to assess selection and alignments that were significant were then visually inspected.  See paper for details, note in the paper the 4th taxa was Mus musculus and was necessary for obtaining cds information.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5500955</identifier><datestamp>2015-04-02T14:43:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N36N6/21</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hendricks, Jonathan R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure 24, Conus garrisoni</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Cone snails</subject>
+      <subject>Fossils</subject>
+      <subject>Ultraviolet</subject>
+      <subject>Coloration pattern</subject>
+      <subject>Dominican Republic</subject>
+      <subject>Caribbean</subject>
+      <subject>Neogene</subject>
+      <subject>Pliocene</subject>
+      <subject>Miocene</subject>
+      <subject>Conidae</subject>
+      <subject>Conus</subject>
+      <subject>Conasprella</subject>
+      <subject>Profundiconus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N36N6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>202372449 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Unaltered, original digital images of specimens photographed under ultraviolet light and figured in the text. Images provided in uncompressed raw (.CR2 or .NEF) and .JPEG formats. Raw files include information about the camera settings used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

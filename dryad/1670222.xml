@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1670222</identifier><datestamp>2014-05-29T18:13:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1M166</identifier>
+  <creators>
+      <creator>
+         <creatorName>Elnagdy, Sherif</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gardener, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lawson-Handley, Lori-Jayne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The direct effects of male-killer infection on fitness of ladybird hosts (Coleoptera: Coccinellidae)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Host-parasite interaction</subject>
+      <subject>Insects</subject>
+      <subject>Microbes</subject>
+      <subject>Sex-ratio</subject>
+      <subject>male-killing bacteria</subject>
+      <subject>ladybirds</subject>
+      <subject>direct fitness effects</subject>
+      <subject>Coccinellidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Elnagdy S, Majerus MEN, Gardener M, Lawson-Handley L (2013) The direct effects of male-killer infection on fitness of ladybird hosts (Coleoptera: Coccinellidae). Journal of Evolutionary Biology 26(8): 1816-1825.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1M166/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/JEB.12186</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

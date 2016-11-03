@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1960968</identifier><datestamp>2014-05-30T08:43:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FF852</identifier>
+  <creators>
+      <creator>
+         <creatorName>Myers, Edward A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodr&#237;guez-Robles, Javier A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeNardo, Dale F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Staub, Richard E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stropoli, Alyssa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ruane, Sara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burbrink, Frank T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Multilocus phylogeographic assessment of the California Mountain Kingsnake (Lampropeltis zonata) suggests alternative patterns of diversification for the California Floristic Province</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Speciation</subject>
+      <subject>Reptiles</subject>
+      <subject>Phylogeography</subject>
+      <subject>Niche Modelling</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>California</subject>
+      <subject>Lampropeltis zonata</subject>
+      <subject>Lampropeltis multifasciata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Myers EA, Rodr&#237;guez-Robles JA, DeNardo DF, Staub RE, Stropoli A, Ruane S, Burbrink FT (2013) Multilocus phylogeographic assessment of the California Mountain Kingsnake (Lampropeltis zonata) suggests alternative patterns of diversification for the California Floristic Province. Molecular Ecology 22(21): 5418&#8211;5429.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FF852/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FF852/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.FF852/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12478</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

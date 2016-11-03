@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1720827</identifier><datestamp>2014-05-30T05:53:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.298B1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Maia, Rafael</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eliason, Chad M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bitton, Pierre-Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Doucet, St&#233;phanie M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shawkey, Matthew D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: pavo: an R package for the analysis, visualization and organization of spectral data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>animal communication</subject>
+      <subject>colour</subject>
+      <subject>colourspace</subject>
+      <subject>reflectance</subject>
+      <subject>receptor noise</subject>
+      <subject>sensory ecology</subject>
+      <subject>spectrometry</subject>
+      <subject>visual model</subject>
+      <subject>Sturnidae</subject>
+      <subject>Lamprotornis acuticaudus</subject>
+      <subject>Lamprotornis chloropterus</subject>
+      <subject>Lamprotornis elisabeth</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Maia R, Eliason CM, Bitton P, Doucet SM, Shawkey MD (2013) pavo: an R package for the analysis, visualization and organization of spectral data. Methods in Ecology and Evolution 4(10): 906&#8211;913.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.298B1/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/2041-210X.12069</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

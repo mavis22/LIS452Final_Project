@@ -1,0 +1,36 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4597419</identifier><datestamp>2015-01-20T19:41:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2V8F9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>(:unav)</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>tree species data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>hydropower projects</subject>
+      <subject>island biogeography</subject>
+      <subject>landscape attributes</subject>
+      <subject>life-history traits</subject>
+      <subject>species-area relationship</subject>
+      <subject>Amazon</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-13</date>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2V8F9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>238592 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-13</rights>
+  <descriptions>
+      <description descriptionType="Other">Data were collected in 2012 in 87 one-quarter hectare forest plots within the Balbina Hydroeletric Dam. The first column indicates the scientific name of each species recorded on at least one forest plot. The first line indicates forest plot identification. See the 'metrics data' for information of the island name according to each forest plot identification. The matrix contains the presence/absence data of each tree species within each of those 87 forest plots.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

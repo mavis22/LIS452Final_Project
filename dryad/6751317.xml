@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6751317</identifier><datestamp>2015-09-24T20:44:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C555G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Herborn, Katherine A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Daunt, Francis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heidinger, Britt J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Granroth-Wilding, Hanna M. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burthe, Sarah J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Newell, Mark A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Monaghan, Pat</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Age, oxidative stress and fitness in a long lived seabird</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Life history trade-off</subject>
+      <subject>Senescence</subject>
+      <subject>Oxidative stress</subject>
+      <subject>Phalacrocorax aristotelis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C555G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>44853 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset of oxidative stress exposure in European shags. Data were used to examine age-related change in oxidative stress exposure, and it's correlation to resighting of individuals in years subsequent to sampling. Adult data are contained in tab 1 and chick data in tab 2.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

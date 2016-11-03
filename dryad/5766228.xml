@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5766228</identifier><datestamp>2015-05-27T14:32:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6PP3D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jenouvrier, St&#233;phanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;ron, Clara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weimerskirch, Henri</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DATA of the study &#8220;Extreme climate events and individual heterogeneity shape life history traits and population dynamics.&#8221; by St&#233;phanie Jenouvrier, Clara P&#233;ron and Henri Weimerskirch. Ecological Monographs 2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Antarctica</subject>
+      <subject>Fulmarus glacialoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6PP3D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3354478 bytes</size>
+      <size>1291 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This folder contains the data used to draw figure, calculate foraging trips, body conditions and demographic parameters of the study. &#13;
+&#13;
+&#13;
+figure 1 and 2: see folder foraging_data&#13;
+&#13;
+figure 3: VitalRates.xls (raw data in folder demographic_data and files summarizing the statistical model developed with software Esurge {Program E-Surge: A Software Application for Fitting Multievent Models R&#233;mi Choquet, Lauriane Rouan, Roger Pradel 2009})&#13;
+&#13;
+figure 4: lambda_det.xls&#13;
+&#13;
+figure 5 to 7: SADS_sensitivities.xls&#13;
+&#13;
+figure 8: Lambda_sto.xls&#13;
+&#13;
+Table 1: bodyconditions.xls (raw data in folder body conditions)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

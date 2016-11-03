@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6714167</identifier><datestamp>2015-09-17T17:06:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.79GQ3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fiegna, Francesca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheuerl, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moreno-Letelier, Alejandra</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barraclough, Timothy G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FiegnaEvoAssay</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Species diversity</subject>
+      <subject>evolution</subject>
+      <subject>microbial</subject>
+      <subject>life-history</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.79GQ3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>84987 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table of data from assays of the growth of bacterial isolates over 96 hours. Species gives a number for the focal isolate, mix is the community composition, replicate indicates 3 experimental replicates, diversity is the number of species in the starting culture of the community, environment indicates the growth medium, survival indicates whether the focal isolate could be extracted from the final community or not, sp2 to sp63 indicate which other species were present in the final community, T0 to T96 are the number of cells per ml of each isolate during the growth assays, Div.end is the final number of species recovered from each community.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

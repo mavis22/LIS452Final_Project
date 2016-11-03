@@ -1,0 +1,117 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4855246</identifier><datestamp>2015-03-13T17:33:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M0S63/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Morand, Serge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bordes, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blasdell, Kim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilosof, Shai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cornu, Jean-Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaisiri, Kittipong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chaval, Yannick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cosson, Jean-Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Claude, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feyfant, Tristan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herbreteau, Vincent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dupuy, St&#233;phane</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tran, Annelise</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Morand_dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>habitat</subject>
+      <subject>land-cover</subject>
+      <subject>landscape</subject>
+      <subject>fragmentation</subject>
+      <subject>rodents</subject>
+      <subject>rodent-borne diseases</subject>
+      <subject>synanthropy</subject>
+      <subject>Thailand</subject>
+      <subject>Cambodia</subject>
+      <subject>Laos</subject>
+      <subject>South-East Asia</subject>
+      <subject>Holocene</subject>
+      <subject>Bandicota indica</subject>
+      <subject>Bandicota savilei</subject>
+      <subject>Berylmys berdmorei</subject>
+      <subject>Maxomys surifer</subject>
+      <subject>Mus caroli</subject>
+      <subject>Mus cervicolor</subject>
+      <subject>Mus cookii</subject>
+      <subject>Niviventer fulvescens</subject>
+      <subject>Rattus argentiventer</subject>
+      <subject>Rattus exulans</subject>
+      <subject>Rattus sakeratensis</subject>
+      <subject>Rattus norvegicus</subject>
+      <subject>Rattus tanezumi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-02-18</date>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M0S63</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>197428 bytes</size>
+      <size>28573 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-02-18</rights>
+  <descriptions>
+      <description descriptionType="Other">ID: Identification number of rodent individuals&#13;
+species: species name of rodents&#13;
+sex: F (Female), M (Male), unknown (missing information)&#13;
+age: adult, sub adult, young (based on size and development of genital organs)&#13;
+accuracy:  accuracy of trapping point using GPS, 1 = inferior to 10 m, 2 = inferior to 100 m&#13;
+habitat: main habitat of the trapping= lowland, upland (non flooded lands), forest, settlement&#13;
+habitat2: description of habita&#13;
+site: locality in Thailand, Laos and Cambodian&#13;
+longitude: GPS coordinates&#13;
+latitude: GPS coordinates&#13;
+elevation: in meter&#13;
+slope: in %&#13;
+Distance to forest: in meter&#13;
+Distance to agriculture steep: in meter&#13;
+Distance to agriculture flat: in meter&#13;
+Distance to built-up: in meter&#13;
+Distance to water: in meter&#13;
+SHDI: Shannon&#8217;s Diversity Index&#13;
+Patch density: density of patches of the different land cover types&#13;
+Edge density: density of the contours of all patches&#13;
+Total_area: in square meter&#13;
+Water: in % of total area&#13;
+Agriculture steep: in % of total area&#13;
+Agriculture flat: in % of total area&#13;
+Agricultre irrigated: in % of total area&#13;
+Built-up areas	Forest: in % of total area</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

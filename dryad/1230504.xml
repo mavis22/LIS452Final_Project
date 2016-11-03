@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1230504</identifier><datestamp>2015-10-26T19:33:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.62J0Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gubbens, Jacob</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Janus, Marleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Florea, Bogdan I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Overkleeft, Hermen S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Wezel, Gilles P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Quantitative proteomics data set</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>carbon catabolite repression</subject>
+      <subject>glucose kinase</subject>
+      <subject>quantitative proteomics</subject>
+      <subject>secondary metabolites</subject>
+      <subject>Streptomyces coelicolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.62J0Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1018 bytes</size>
+      <size>149322553 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The folder 'Mannitol' contains data from the two mixtures (M1, M2) in the mannitol background. The folder 'Fructose' contains data from the two mixtures (M1, M2) in the fructose background. Mixtures were prepared as shown in Fig. 1a of the main paper: | Label: Strain, Carbon source (X = fructose or mannitol) | M1: | Light (L): M145, G+X | Medium (M): M145, X | Heavy (H): dGlkA, G+X | M2: | Light (L): dGlkA, X | Medium (M): M145, X | Heavy (H): dGlkA, G+X | Normalized ratios as found in proteinGroups.txt were used to create the data tables in the main paper. Descriptions of all tables and column headers can be found in 'tables.pdf'. All tables were created using MaxQuant 1.2.2.5.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

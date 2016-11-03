@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263821</identifier><datestamp>2014-12-29T19:02:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FM278/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Huang, Chun-Lin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Jui-Hung</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsang, Ming-Hsuan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chung, Jeng-Der</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Chung-Te</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hwang, Shih-Ying</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>R.oldhamii_AFLP and MSAP</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>AFLP</subject>
+      <subject>MSAP</subject>
+      <subject>Taiwan</subject>
+      <subject>Holocene</subject>
+      <subject>Rhododendron oldhamii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FM278</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>443471 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Here, we investigated the genetic and epigenetic variations and their ecological correlates in R. oldhamii. Genetic and epigenetic variations were surveyed using amplified fragment length polymorphism (AFLP) and methylation-sensitive amplification polymorphism (MSAP), respectively. For MSAP, we generated two binary matrices for analyses representing two informative patterns of methylation susceptible loci (i.e. MSAP-nonMeth for non-methylation and MSAP-Meth for methylation). In the MSAP-nonMeth dataset, the loci of methylation state (i) were coded with "1" and loci of methylation states (ii) and (iii) were coded with "0". Alternatively, the loci of methylation state (ii) were coded with "1" and loci of methylation states (i) and (iii) were coded with "0" in the MSAP-Meth dataset.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

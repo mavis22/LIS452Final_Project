@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5687898</identifier><datestamp>2015-05-08T21:23:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7P1D3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Incl&#225;n, Diego J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cerretti, Pierfilippo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gabriel, Doreen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benton, Tim G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sait, Steven M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kunin, William E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gillespie, Mark A. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marini, Lorenzo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Tachinid abundance and species richness in organic and conventional farms</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agricultural intensification</subject>
+      <subject>Agri-environment schemes</subject>
+      <subject>Biocontrol</subject>
+      <subject>Natural enemies</subject>
+      <subject>Scale-dependence</subject>
+      <subject>Management</subject>
+      <subject>UK</subject>
+      <subject>Diptera</subject>
+      <subject>Tachinidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7P1D3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20098 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains all data used in the statistical analyses described in the materials and methods section of the article. The dataset includes: &#8220;Region&#8221; (&#8220;S&#8221; = Central South West and &#8220;N&#8221; = North Midlands), &#8220;Cluster&#8221; (the cluster of paired landscapes), &#8220;Landscape&#8221; (&#8220;hotspot&#8221; = landscapes with high proportion of land under organic farming and &#8220;coldspot&#8221; = landscapes with low proportion of land under organic farming), &#8220;Management&#8221; (&#8220;Organic&#8221; and &#8220;Conventional&#8221; farm management), &#8220;Habitat&#8221; (&#8220;arable&#8221; = mainly winter wheat fields and &#8220;grassland&#8221; = mainly grazed permanent pastures), &#8220;Field&#8221; (three replicates A-C), &#8220;Location&#8221; (&#8220;margin&#8221; and &#8220;centre&#8221; trap position within each field), &#8220;Abundance&#8221; and &#8220;Species Richness&#8221; (total per each site).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

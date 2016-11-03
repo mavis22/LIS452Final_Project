@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4599924</identifier><datestamp>2015-03-12T21:20:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.88QT1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jungwirth, Arne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Josi, Dario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Walker, Jonas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taborsky, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>all data underlying the publication</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>anti-predator effort</subject>
+      <subject>colony</subject>
+      <subject>communal defence</subject>
+      <subject>density</subject>
+      <subject>group-living</subject>
+      <subject>predation</subject>
+      <subject>levels of sociality</subject>
+      <subject>Lake Tanganyika</subject>
+      <subject>Neolamprologus pulcher</subject>
+      <subject>Lepidiolamprologus elongatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.88QT1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>36945 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">All data were collected within the same natural colony in Lake Tanganyika. Each column is commented on, explaining what the respective data mean. Names of territories and fish were arbitrarily chosen.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

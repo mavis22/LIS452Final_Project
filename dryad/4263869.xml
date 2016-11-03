@@ -1,0 +1,67 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4263869</identifier><datestamp>2014-12-03T19:42:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1602/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Deng, Jie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gu, Yunfu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xue, Kai</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Qin, Yujia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yuan, Mengting</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yin, Huaqun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>He, Zhili</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wu, Liyou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schuur, Edward</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tiedje, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Jizhong</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>OTU_table_classified_by_RDP.txt</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Bacteria</subject>
+      <subject>Climate Change</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P1602</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>9738841 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-11-26T22:07:26Z (GMT). No. of bitstreams: 1
+OTU_table_classified_by_RDP.txt.txt: 9738841 bytes, checksum: 016f8840ae29a47adfc999729e7b0bbb (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

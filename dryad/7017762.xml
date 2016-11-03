@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7017762</identifier><datestamp>2015-11-13T16:03:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q1R50</identifier>
+  <creators>
+      <creator>
+         <creatorName>Arroyo, Antonio I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pueyo, Yolanda</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saiz, Hugo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alados, Concepci&#243;n L.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Plant&#8211;plant interactions as a mechanism structuring plant diversity in a Mediterranean semi-arid ecosystem</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Plant-plant interactions</subject>
+      <subject>Semi-arid</subject>
+      <subject>Diversity</subject>
+      <subject>Coexistence</subject>
+      <subject>Middle Ebro Valley</subject>
+      <subject>Northeast Spain</subject>
+      <subject>Artemisia herba-alba</subject>
+      <subject>Salsola vermiculata</subject>
+      <subject>Lygeum spartum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Arroyo AI, Pueyo Y, Saiz H, Alados CL (2015) Plant&#8211;plant interactions as a mechanism structuring plant diversity in a Mediterranean semi-arid ecosystem. Ecology and Evolution, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1R50/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1R50/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.Q1R50/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/ECE3.1770</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

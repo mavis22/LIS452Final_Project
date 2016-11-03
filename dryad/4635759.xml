@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4635759</identifier><datestamp>2015-01-23T17:38:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RK384</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jackson, Randall D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herzberger, Anna J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Duncan, David S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Bouncing Back: plant-associated soil microbes respond rapidly to prairie establishment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Arbuscular mycorrhizal fungi</subject>
+      <subject>Phospholipid fatty acids (PLFA)</subject>
+      <subject>Gram-negative bacteria</subject>
+      <subject>Prairie establishment</subject>
+      <subject>Microbial ecology</subject>
+      <subject>Soil microbiology</subject>
+      <subject>Wisconsin</subject>
+      <subject>North central USA</subject>
+      <subject>Great Lakes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Herzberger AJ, Duncan DS, Jackson RD (2014) Bouncing Back: plant-associated soil microbes respond rapidly to prairie establishment. PLOS ONE 9(12): e115775.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.RK384/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0115775</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

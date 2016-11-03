@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5492672</identifier><datestamp>2015-07-28T20:00:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2Q1QV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Oliveira, Rita</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randi, Ettore</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mattucci, Federica</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kurushima, Jennifer</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lyons, Leslie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alves, Paulo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNPs_publication_ATCG</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Admixture</subject>
+      <subject>Hybridization</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Feline</subject>
+      <subject>SNPs</subject>
+      <subject>Central Europe</subject>
+      <subject>Iberia</subject>
+      <subject>Italy</subject>
+      <subject>UK</subject>
+      <subject>Holocene</subject>
+      <subject>Felis silvestris</subject>
+      <subject>Felidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2Q1QV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>695171 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">file 1: 'SNPs_publication_ATCG': this file contains the raw SNPs database in GenAlEx format for two sets of samples (sheets 1 and 2):  sheet 1: SNPs data for all 274 cat samples used in the analyses (139 domestic cats - FCA; 130 putative European wildcats - FSI; 5 known hybrids FCA x FSI), characterised by 158 loci; sheet 2: SNPs data for 226 cat samples (139 domestic cats - FCA; 82 European wildcats - FSI; 5 known hybrids FCA x FSI), characterised by 158 loci. This sample set was created to exclude possible hybrids from the representatives of European wildcats. These files can be converted to other formats using GenAlEx.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

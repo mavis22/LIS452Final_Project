@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6863920</identifier><datestamp>2015-10-13T19:04:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1JC33/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mikheyev, Alexander S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Economo, Evan P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fischer_et al_Carebara phragmotica_alignment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>RAD-seq</subject>
+      <subject>sequence alignment</subject>
+      <subject>Afrotropics</subject>
+      <subject>Africa</subject>
+      <subject>Kenya</subject>
+      <subject>Ivory Coast</subject>
+      <subject>Carebara lilith</subject>
+      <subject>Carebara phragmotica</subject>
+      <subject>Carebara gf05</subject>
+      <subject>Carebara thoracica</subject>
+      <subject>Carebara sylvestrii</subject>
+      <subject>Carebara clm001</subject>
+      <subject>Carebara clm009</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-10-05</date>
+      <date dateType="Accepted">2015-10-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1JC33</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>33734280 bytes</size>
+      <size>3342 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-10-05</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the full alignment used to generate the ML tree.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

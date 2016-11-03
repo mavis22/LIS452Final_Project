@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:80729</identifier><datestamp>2014-05-29T18:00:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N8F38/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tiedemann, Ralph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paulus, Kirsten B</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Havenstein, Katja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thorstensen, Sverrir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Petersen, Aevar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lyngs, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinkovitch, Michel C</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>IBP microsat data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Behavior/Social Evolution</subject>
+      <subject>Birds</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Denmark</subject>
+      <subject>Iceland</subject>
+      <subject>Holocene</subject>
+      <subject>Somateria mollissima</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-05-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N8F38</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

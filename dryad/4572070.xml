@@ -1,0 +1,66 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4572070</identifier><datestamp>2015-01-21T16:36:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8TC13/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Weese, Dylan Jones</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heath, Katy D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dentinger, Bryn T. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lau, Jennifer Ann</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Weese et al Dryad data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>resource mutualism</subject>
+      <subject>nitrogen deposition</subject>
+      <subject>Coevolution</subject>
+      <subject>Symbiosis</subject>
+      <subject>Adaptation</subject>
+      <subject>contemporary evolution</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8TC13</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>626688 bytes</size>
+      <size>15931 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This excel file has two tabs: one of the tabs has the data for the soil inoculation experiment (&#8220;experiment 1, see manuscript), the other tab has the data for the genetic effects experiment (&#8220;experiment 2, see manuscript). Below are descriptions of the variables in this data file. More information is in the manuscript.&#13;
+plantid: randomly assigned plant ID number.&#13;
+shootmass: dry above ground mass of individual experimental plant (units is grams).&#13;
+leafnum: number of leafs counted on an individual experimental plant&#13;
+stolonnum: number of stolons counted on an individual experimental plant&#13;
+nodulenum: number of nodules counted on an individual experimental plant&#13;
+MassofNodules: mass of 1st 100 nodules (approximately, see  &#8220;Nodulesintube&#8221; variable) taken from an individual experimental plant. Units is grams.&#13;
+NodulesinTube: the number of nodules that were weighted in for the &#8220;MassofNodules&#8221; variable&#13;
+meannodulemass: estimated average mass of a nodule sampled from an individual experimental plant, calculated by dividing the &#8220;MassofNodules&#8221; variable by the &#8220;NodulesinTube&#8221; variable&#13;
+totalnodulemass: estimated total mass of all nodules for an individual experimental plant, calculated by multiplying &#8220;meannodulemass&#8221; variable by &#8220;nodulenum&#8221; variable&#13;
+Chlor: measured chlorophyll level for an individual experimental plant (no units)&#13;
+Harvester: initials of individual that harvested an individual experimental plant.&#13;
+Harvestdate: date that an individual exerperimental plant was harvested.&#13;
+Harvestday: number of days that had past since the 1st experimental plant was harvested.&#13;
+strain: identity of rhizobia strain that inoculated that particular experimental plant&#13;
+nitrogen: describes whether the particular rhizobia strain inoculating this experimental plant was originally sampled from a fertilized field plot (1) or a nonfertilized field plot (0)&#13;
+field: LTER T7 experimental field from which the particular rhizobia strain inoculating this experimental plant was originally sampled from&#13;
+plot: label associated with a particular plot within a particular LTER T7 field coded thusly: 1A = the nonfertilized subplot of LTER field 1, 1B = the fertilized subplot of LTER field 1, 2A = the nonfertilized subplot of LTER field 2, 2B = the fertilized subplot of LTER field 2, and so on&#8230;&#13;
+plantspori: Trifolium species from which a particular rhizobia strain was isolated during the soil inoculation experiment&#13;
+plantpopori: particular population (associated with a Trifolium species) from which a particular rhizobia strain was isolated during the soil inoculation experiment&#13;
+plantssprear: Trifolium species of that particular experiment plant&#13;
+plantpoprear: population (associated with a Trifolium species) of that particular experimental plant.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

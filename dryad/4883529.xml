@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4883529</identifier><datestamp>2015-02-12T19:51:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5JC73/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mairal, Mario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pokorny, Lisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alarc&#243;n, Marisa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aldasoro, Juan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanmart&#237;n, Isabel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nested-dating approach analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bayesian biogeography</subject>
+      <subject>climate-driven extinction</subject>
+      <subject>long-distance dispersal</subject>
+      <subject>continental islands</subject>
+      <subject>nested phylogenetic dating</subject>
+      <subject>vicariance</subject>
+      <subject>Asia</subject>
+      <subject>Africa</subject>
+      <subject>Canary Islands</subject>
+      <subject>Miocene</subject>
+      <subject>Pliocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Canarina canariensis</subject>
+      <subject>Canarina eminii</subject>
+      <subject>Canarina abyssinica</subject>
+      <subject>Ostrowskia magnifica</subject>
+      <subject>Cyclocodon lancifolium</subject>
+      <subject>Platycodon grandiflorum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5JC73</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>24930 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Script (.xml) and tre files for the "Nested analyses" of all three linked datasets: Platycodoneae, C. eminii and C. canariensis</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

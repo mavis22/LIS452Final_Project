@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4640132</identifier><datestamp>2015-03-03T19:33:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.24D1B/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Santangelo, James S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turley, Nash E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Marc T. J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Santangelo et al., 2015 Botany_Master R script</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Defensive Mutualism Hypothesis</subject>
+      <subject>Herbivory</subject>
+      <subject>Grassland</subject>
+      <subject>Plants-fungal</subject>
+      <subject>Plant-animal</subject>
+      <subject>Silwood Park Imperial College London</subject>
+      <subject>University of Toronto Mississauga</subject>
+      <subject>Festuca rubra</subject>
+      <subject>Oryctolagus cuniculus</subject>
+      <subject>Epichlo&#235; festucae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.24D1B</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12914 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">R script used in analyzing the attached data files. The script contains 4 sections representing 4 separate analyses, each to be used with one of the four datasheets in the .xls file provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

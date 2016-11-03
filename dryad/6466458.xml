@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6466458</identifier><datestamp>2015-08-01T01:15:59Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3D22K/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Koch, Benjamin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Febria, Catherine M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cooke, Roger M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hosen, Jacob D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baker, Matthew E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colson, Abigail R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Filoso, Solange</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayhoe, Katharine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loperfido, J. V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoner, Anne M. K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Palmer, Margaret A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Realizations for the 11 calibration variables in the SEJ protocol document</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>nitrogen retention</subject>
+      <subject>stormwater management</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3D22K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>333 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This tab-delimited text file contains empirically measured values for the 11 calibration variables in the structured expert judgment (SEJ) protocol document (Appendix S3).  The three columns are defined as follows: &#8220;Qnum&#8221; refers to the number of each question in the SEJ protocol document that corresponds to a calibration variable (Appendix S3); &#8220;Qid&#8221; is a brief coded description of the key variables in each question (codes are arranged as watershed location &#8211; storm event number &#8211; site description &#8211; influent/effluent load &#8211; pre/post restoration condition; see Appendix S3 for the full details of each question); &#8220;TN.load.kg&#8221; is the empirically measured total nitrogen load (units are kg total nitrogen).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

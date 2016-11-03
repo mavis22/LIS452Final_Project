@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6670100</identifier><datestamp>2015-08-20T15:00:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.579KJ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cammen, Kristina M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stacks analysis of common bottlenose dolphin RAD sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>common bottlenose dolphin</subject>
+      <subject>harmful algal bloom</subject>
+      <subject>restriction site-associated DNA sequencing</subject>
+      <subject>Florida</subject>
+      <subject>Gulf of Mexico</subject>
+      <subject>Tursiops truncatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.579KJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>38744283 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Results of Stacks analysis of RAD sequencing data generated from pooled genomic DNA from common bottlenose dolphins sampled along the Florida Gulf of Mexico coastline.  Sample pools include live coastal dolphins from the Florida Panhandle (PLC, N=17) and central-west Florida (CWLC, N=26) and live estuarine dolphins from St. Joseph Bay in the Panhandle (PLE, N=12) and Sarasota Bay in central-west Florida (CWLE, N=25). Additional sample pools include samples from bottlenose dolphin strandings (dead samples) during unusual mortality events (UMEs) associated with harmful algal blooms (HABs) in the Panhandle in 1999 (PU99, N=16) and 2004 (PU04, N=35) and during HABs between 1992 and 2006, including a UME in 2005-2006, in central-west Florida (CWU, N=25).  Two groups of samples (PLC and CWU) were divided for sequencing into pools of excellent and good quality genomic DNA.  PL represents samples from the Florida Panhandle that cannot be definitively attributed to either coastal or estuarine dolphin populations. &#13;
+&#13;
+Stacks parameters are described in the Methods section of Cammen et al. (2015).  Chromosome accession numbers refer to scaffolds in the bottlenose dolphin genome: Ttru_1.4/turTru2 (GCA_000151865.2).  The spreadsheet includes both the alleles detected at each RAD locus as well as the depth of read coverage within the sample pool for the given alleles.  Analyses described in the manuscript were conducted on a subset of these RAD loci that passed additional filters: 1 SNP with a sample-wide minor allele frequency greater than 0.10; present in at least 2 sample pools.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

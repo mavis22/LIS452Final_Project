@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2004030</identifier><datestamp>2014-05-30T06:05:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.19M2K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Roux, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Enault, Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bronner, Gis&#232;le</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vaulot, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Forterre, Patrick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Krupovic, Mart</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Assembled_chimeric_viruses_Gb-files</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>ssDNA viruses</subject>
+      <subject>virus evolution</subject>
+      <subject>viral metagenomics</subject>
+      <subject>Circoviridae</subject>
+      <subject>Nanoviridae</subject>
+      <subject>Geminiviridae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.19M2K</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

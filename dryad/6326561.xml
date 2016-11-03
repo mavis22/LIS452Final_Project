@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6326561</identifier><datestamp>2015-11-09T17:18:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.17331/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harvey, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Macdougall, Andrew</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Harvey_MacDougall_AmNat_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ecology: community</subject>
+      <subject>Fragmentation</subject>
+      <subject>Interactions: trophic</subject>
+      <subject>Metacommunities</subject>
+      <subject>Cambridge</subject>
+      <subject>Ontario</subject>
+      <subject>Canada</subject>
+      <subject>Hemiptera</subject>
+      <subject>Coleoptera</subject>
+      <subject>Orthoptera</subject>
+      <subject>Miridae</subject>
+      <subject>Cicadellidae</subject>
+      <subject>Aphidoidea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.17331</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>201376 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The zip file contains two excel sheets, one for plant, and one for arthropod data. Each excel sheet is a community data matrix where each row represents a sampling plot, and each column a plant or arthropod taxa. Additional information on treatments, and geographical location is provided in the different corresponding columns. For more details on the sampling design in itself, please see the Methods section of the main paper. Please note that this data can be used directly with the R code provided in the Appendix E of the paper to reproduce the results.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

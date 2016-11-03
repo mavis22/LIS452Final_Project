@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5727187</identifier><datestamp>2015-07-01T20:49:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DN7B8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Xenikoudakis, Georgios</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ersmark, Erik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waits, Lisette</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kindberg, Jonas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Swenson, Jon E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dal&#233;n, Love</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Consequences of a demographic bottleneck on genetic structure and variation in the Scandinavian brown bear</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Decline</subject>
+      <subject>microsatellites</subject>
+      <subject>mtDNA</subject>
+      <subject>bottleneck</subject>
+      <subject>Scandinavia</subject>
+      <subject>Holocene</subject>
+      <subject>Ursus arctos</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Xenikoudakis G, Ersmark E, Waits L, Kindberg J, Swenson JE, Dal&#233;n L (2015) Consequences of a demographic bottleneck on genetic structure and variation in the Scandinavian brown bear. Molecular Ecology 24(13): 3441-3454.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DN7B8/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DN7B8/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13239</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

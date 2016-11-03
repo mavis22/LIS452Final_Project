@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3419056</identifier><datestamp>2014-11-13T17:54:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4QS8C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fukaya, Keiichi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okuda, Takehiro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakaoka, Masahiro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Noda, Takashi</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Effects of spatial structure of population size on the population dynamics of barnacles across their elevational range</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>abundant-centre model</subject>
+      <subject>Bayesian inference</subject>
+      <subject>environmental gradients</subject>
+      <subject>intertidal rocky shore</subject>
+      <subject>population regulation</subject>
+      <subject>state-space models</subject>
+      <subject>Taylor&#8217;s power law</subject>
+      <subject>Northeastern Pacific coast of Japan</subject>
+      <subject>Eastern Hokkaido</subject>
+      <subject>Chthamalus dalli</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fukaya K, Okuda T, Nakaoka M, Noda T (2014) Effects of spatial structure of population size on the population dynamics of barnacles across their elevational range. Journal of Animal Ecology 83(6): 1334-1343.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4QS8C/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4QS8C/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2656.12234</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

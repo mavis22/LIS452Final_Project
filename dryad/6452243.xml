@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6452243</identifier><datestamp>2015-07-31T19:53:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.68FF4/13</identifier>
+  <creators>
+      <creator>
+         <creatorName>Inshaw, Jamie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leen, Clifford</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fisher, Martin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gilson, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hawkins, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Collins, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fox, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McLean, Ken</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fidler, Sarah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phillips, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lattimore, Sam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Babiker, Abdel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Porter, Kholoud</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>cd4_data_response_dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2015-07-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.68FF4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>681754 bytes</size>
+      <size>21570 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset containing all CD4 data from individuals included in the analysis investigating CD4 response to cART.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

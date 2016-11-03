@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5588752</identifier><datestamp>2015-04-29T20:55:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4BD12/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Liu, Xingyue</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayashi, Fumio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lavine, Laura Corley</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Ding</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset S1-2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>allometry</subject>
+      <subject>resource allocation</subject>
+      <subject>sexual dimorphism</subject>
+      <subject>sexual selection</subject>
+      <subject>body plan</subject>
+      <subject>worldwide</subject>
+      <subject>Insecta</subject>
+      <subject>Megaloptera</subject>
+      <subject>Corydalidae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4BD12</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>37056 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset S1. Male and female traits by prothorax length (PTL): the log-log relationships between PTL and mandible length (ML) or flange length (FL), and those between PTL and wing length (WL). The male internal accessory gland size in weight is also shown; Dataset S2. Combined dataset for phylogenetic analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

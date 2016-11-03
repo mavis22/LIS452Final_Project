@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1677665</identifier><datestamp>2014-05-30T03:03:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JK12V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Teodoro, Grazielle Sales</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van den Berg, Eduardo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arruda, Rafael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Metapopulation dynamics of the mistletoe and its host in savanna areas with different fire occurrence</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>hemiparasite</subject>
+      <subject>mortality</subject>
+      <subject>burning</subject>
+      <subject>habitat patches</subject>
+      <subject>colonization</subject>
+      <subject>extinction</subject>
+      <subject>Minas Gerais State</subject>
+      <subject>Brazil</subject>
+      <subject>Psitacanthus robustus</subject>
+      <subject>Vochysia thyrsoidea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Teodoro GS, van den Berg E, Arruda R (2013) Metapopulation dynamics of the mistletoe and its host in savanna areas with different fire occurrence. PLoS ONE 8(6): e65836.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JK12V/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0065836</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

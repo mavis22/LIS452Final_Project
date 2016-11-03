@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6492983</identifier><datestamp>2015-08-11T18:49:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F7T25/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bourret, Audrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Garant, Dany</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data for GxE analyses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>CLOCK</subject>
+      <subject>ADCYAP1</subject>
+      <subject>NPAS2</subject>
+      <subject>CREB1</subject>
+      <subject>candidate gene</subject>
+      <subject>GxE</subject>
+      <subject>laying date</subject>
+      <subject>incubation duration</subject>
+      <subject>tree swallow</subject>
+      <subject>Southern Quebec</subject>
+      <subject>Tachycineta bicolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-08-11</date>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.F7T25</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>55701 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-08-11</rights>
+  <descriptions>
+      <description descriptionType="Other">Data used for GxE analyses, where each line represented a  reproductive event within a nest box. Columns included year (YEAR), female identity (ID.F) and its age (AGE.F; SY=second-year, ASY=after second-year), male identity (ID.M), density of breeders	(DENSITY; % of occupied nest boxes), altitude (ALT; meters), latitude and longitude (LAT, LONG; decimal degrees), May temperature (TEMP.LD; Celcius degrees), April temperature (Celcius degree), laying date (LD; julian days), incubation duration (INC; days), and sum of alleles at the four studied loci for females (CLOCK.SUM.F, ADCYAP.SUM.F, CREB.SUM.F, NPAS.SUM.F) and males (CLOCK.SUM.M, ADCYAP.SUM.M, CREB.SUM.M, NPAS.SUM.M).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

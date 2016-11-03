@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3691002</identifier><datestamp>2015-03-10T12:40:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.682NS/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mu&#241;oz, Nicolas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anttila, Katja</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Zhongqi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heath, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farrell, Anthony P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neff, Bryan D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Electronic Supplementary Material (data)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>aerobic capacity</subject>
+      <subject>climate change</subject>
+      <subject>egg size</subject>
+      <subject>evolutionary potential</subject>
+      <subject>heart rate</subject>
+      <subject>maternal effects</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.682NS</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>717856 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The heart rate and CTmax data from all individuals used in this study. These data were collected from 25 different families of chinook salmon (5 females and 5 males mated in all combinations). Heart rates were counted from electrocardiograms and recorded along with the corresponding temperature. These data were then analyzed to find the Arrhenius break temperature of heart rate, which corresponds to a drop in the temperature sensitivity (Q10) of heart rate. The additive genetic, non-additive genetic, and maternal effects contributing to cardiac performance and CTmax were calculated by partitioning the variation in these phenotypes to Sire (i.e. father) and Dam (i.e. mother) ID and their interaction using a two-way ANOVA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

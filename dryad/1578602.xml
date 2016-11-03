@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1578602</identifier><datestamp>2014-05-30T00:56:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GG3RN</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dambach, Johannes</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raupach, Michael J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mayer, Christoph</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwarzer, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leese, Florian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Isolation and characterization of nine polymorphic microsatellite markers for the deep-sea shrimp Nematocarcinus lanceopes (Crustacea: Decapoda: Caridea)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Antarctic</subject>
+      <subject>deep sea</subject>
+      <subject>microsatellites</subject>
+      <subject>Southern Ocean</subject>
+      <subject>Antarctica</subject>
+      <subject>Nematocarcinus lanceopes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Dambach J, Raupach MJ, Mayer C, Schwarzer J, Leese F (2013) Isolation and characterization of nine polymorphic microsatellite markers for the deep-sea shrimp Nematocarcinus lanceopes (Crustacea: Decapoda: Caridea). BMC Research Notes 6: 75.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GG3RN/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1756-0500-6-75</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

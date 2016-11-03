@@ -1,0 +1,69 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4654118</identifier><datestamp>2015-02-13T18:06:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.27QF3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pansu, Johan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>De Danieli, S&#233;bastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Puissant, J&#233;r&#233;my</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonzalez, Jean-Maxime</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gielly, Ludovic</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cordonnier, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zinger, Lucie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brun, Jean-Jacques</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Choler, Philippe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taberlet, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>C&#233;cillon, Lauric</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Pansu_et_al_SBB_ewDE_sequence_data_alternative_sampling</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Environmental DNA</subject>
+      <subject>Landscape</subject>
+      <subject>Land-use</subject>
+      <subject>Metabarcoding</subject>
+      <subject>Soil biodiversity</subject>
+      <subject>Spatial distribution</subject>
+      <subject>Earthworm</subject>
+      <subject>Vercors Massif (Northern French Alps)</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.27QF3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46760924 bytes</size>
+      <size>2168 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This fasta file contains merged reads assigned to their original sample obtained with the alternative soil sampling scheme covering the entire plot surface. Amplicons were amplified using ewDE primers (ewD: 5&#8217;- ATTCGGTTGGGGCGACC-3&#8217; and ewE: 5&#8217;- CTGTTATCCCTAAGGTAGCTT-3&#8217;) (Bienert et al., 2012). Sequences were obtained by a 2 x 100 bp paired-end sequencing on Illumina HiSeq platform. First filtering steps were performed using the OBITOOLS software (http://metabarcoding.org/obitools) following the data filtering description in supplementary material (Pansu et al., 2015 Soil Biology and Biochemistry). Direct and reverse reads corresponding to the same sequence were aligned and merged thanks to the IlluminaPairEnd program. Only merged sequences with a high alignment quality score were retained (&gt;=40). Then, the ngsfilter program assigned each merged sequence to its original sample using the tags information previously added to primers. Only sequences containing both primers (with a maximum of 3 mismatches per primer) and exact tag sequences were selected. Sequences containing ambiguous nucleotides or shorter than 55 bp were discarded. Strictly identical sequences were merged together while keeping information about the origin of sequences. Strict singletons (i.e. sequences occurring only once in the dataset) were removed.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

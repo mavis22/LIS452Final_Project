@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:78820</identifier><datestamp>2014-05-29T23:06:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.T1R37B7V</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mendelson III, Joseph R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mulcahy, Daniel G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Tyler S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sites Jr., Jack W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A phylogeny and evolutionary natural history of Mesoamerican toads (Anura: Bufonidae: Incilius) based on morphology, life history, and molecular data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>natural history</subject>
+      <subject>phylogeny</subject>
+      <subject>taxonomy</subject>
+      <subject>Mesoamerica</subject>
+      <subject>Amphibia</subject>
+      <subject>Crepidophryne</subject>
+      <subject>Incilius</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Mendelson III JR, Mulcahy DG, Williams TS, Sites Jr JW (2011) A phylogeny and evolutionary natural history of Mesoamerican toads (Anura: Bufonidae: Incilius) based on morphology, life history, and molecular data. Zootaxa, 3138: 1&#8211;34.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T1R37B7V/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.T1R37B7V/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

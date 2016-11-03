@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1095816</identifier><datestamp>2014-05-29T22:01:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6331S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Agrawal, Anurag A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hastings, Amy P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, M. T. J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maron, J. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Salminen, Juha-Pekka</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Insect herbivores drive real-time ecological and evolutionary change in plant populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>plant-insect interactions</subject>
+      <subject>experimental evolution</subject>
+      <subject>evolutionary community ecology</subject>
+      <subject>Eastern North America</subject>
+      <subject>current</subject>
+      <subject>Oenothera biennis</subject>
+      <subject>Mompha</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Agrawal AA, Hastings AP, Johnson MTJ, Maron JL, Salminen J (2012) Insect herbivores drive real-time ecological and evolutionary change in plant populations. Science 338(6103): 113-116.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6331S/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1126/SCIENCE.1225977</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

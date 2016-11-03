@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6503752</identifier><datestamp>2015-08-26T15:39:10Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HG3J0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Letchford, Adrian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moat, Helen Susannah</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Preis, Tobias</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Paper citation counts</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>citation analysis</subject>
+      <subject>scientific writing</subject>
+      <subject>computational social science</subject>
+      <subject>science of science</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.HG3J0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20106096 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">We retrieved bibliometric data from Scopus (http://www.scopus.com) between 21 October 2014 and 14 November 2014. We search for any papers that are marked by Scopus as an "Article" with the following search query: "DOCTYPE(ar) AND PUBYEAR = {year}". Where {year} is replaced by each of the years 2007 to 2013. We download the 20,000 most cited papers for each year. In total, we retrieve 140,000 records. For each paper, we list the year of publication, journal's title, paper's title, number of characters in the title and the number of citations that the paper has received to date. This is the raw data before cleaning as described in the main manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

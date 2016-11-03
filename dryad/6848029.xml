@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6848029</identifier><datestamp>2015-11-13T14:54:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GD6FK/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jenkins, Tania</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Christe, Philippe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Malaria infection status and intensity and great tit host morphological data to assess local adaptation between great tit and malaria</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Canton of Vaud</subject>
+      <subject>Switzerland</subject>
+      <subject>Parus major</subject>
+      <subject>Plasmodium relictum</subject>
+      <subject>Plasmodium circumflexum</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GD6FK</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>20525 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were collected from great tits for a reciprocal transplant experiment that took place in the Canton de Vaud, Switzerland in the summer of 2013. Bird:  ring number. Release Cage: the aviary that birds were released in. Treatment: mal = malarone, pbs= control with phosphate buffered saline. Block: which block birds were in. Nest: the nest of origin of each bird. Site_origin: the site that each bird originated from. Release_site: the site where birds were released (in aviaries for the experiment). Wing_end: wing measurement at the end of the experiment. Tars_end: tarsus length at the end of the experiment. Wgt_end: weight at the end of the experiment. Haem_end: haematocrit at the end of the experiment. Temp_end: temperature at the end of the experiment. July_dayinf: the date that birds got infected (number of days since July 1st). July_dayend: the date of the end of the experiment (number of days since July 1st). inf_end: whether birds were infected at the end of the experiment. logr: log parasitaemia at the end of the experiment (for formula see main text). membr_resist_end: oxidative stress measurement as membrane resistance at the end of the experiment. Wing_max: wing length when infection was at its peak. Tarsus_max: tarsus length at the peak	of infection. Wgt_max: the weight at the peak of infection. Haem_max: haematocrit at the peak of infection. Temp_max: the temperature at the peak of infection. membr_resist_max: oxidative stress measurement as membrane resistance at the peak of infection. July_daymax: 	date at which the maximum parasitaemia was recorded (in number of days since July 1st). logr_max: log parasitaemia at the end of the experiment (for formula see main text)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

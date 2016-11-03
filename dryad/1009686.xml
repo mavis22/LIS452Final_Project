@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1009686</identifier><datestamp>2014-05-30T02:10:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.22PQ8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vogwill, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colegrave, Nick</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neve, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lagator, Mato</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The experimental evolution of herbicide-resistance in Chlamydomonas reinhardtii results in a positive correlation between fitness in the presence and absence of herbicides</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Experimental evolution</subject>
+      <subject>Trade-offs</subject>
+      <subject>Microbes</subject>
+      <subject>Herbicide resistance</subject>
+      <subject>Chlamydomonas reinhardtii</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Vogwill T, Colegrave N, Neve P, Lagator M (2012) The experimental evolution of herbicide-resistance in Chlamydomonas reinhardtii results in a positive correlation between fitness in the presence and absence of herbicides. Journal of Evolutionary Biology 25(10): 1955-1964.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.22PQ8/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1420-9101.2012.02558.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

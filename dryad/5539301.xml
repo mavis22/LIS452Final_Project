@@ -1,0 +1,64 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539301</identifier><datestamp>2015-03-18T14:46:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B8D21/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Egge, Elianne Sirn&#230;s</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johannessen, Torill Vik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Andersen, Tom</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eikrem, Wenche</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bittner, Lucie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Larsen, Aud</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sandaa, Ruth-Anne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Edvardsen, Bente</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>RAxML reference tre of 281 haptophyte taxa + 3 outgroups</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Population Dynamics</subject>
+      <subject>Protists</subject>
+      <subject>Environmental DNA</subject>
+      <subject>Metagenomics</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Bioinfomatics/Phyloinfomatics</subject>
+      <subject>haptophytes</subject>
+      <subject>Norway</subject>
+      <subject>Oslo</subject>
+      <subject>Oslofjorden</subject>
+      <subject>Skagerrak</subject>
+      <subject>Haptophyta</subject>
+      <subject>Prymnesiophyceae</subject>
+      <subject>Pavlovophyceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B8D21</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25101 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Maximum likelihood phylogenetic trees of 281 reference haptophyte sequences (all cultured species  + selected environmental sequences) + 3 outgroups (L28811 Chilomonas paramecium, AY919672 Kathablepharis remigera, AJ564771 Telonema subtilis), constructed using RAxML v. 7.3.2 (Stamatakis 2006, Bioinformatics 22:2688-2690), with substitution model GTRCAT and 100 bootstrap runs. RAxML was run on the Lifeportal on the University of Oslo computer cluster (www.lifeportal.uio.no).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

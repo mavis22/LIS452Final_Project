@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6512688</identifier><datestamp>2015-07-22T14:14:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7ND42/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thomaz, Andr&#233;a T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arcila, Dahiana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ort&#237;, Guillermo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Malabarba, Luiz R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Stevardiinae trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>tetras</subject>
+      <subject>multi-locus phylogeny</subject>
+      <subject>insemination</subject>
+      <subject>"clade A"</subject>
+      <subject>Neotropical region</subject>
+      <subject>Stevardiinae</subject>
+      <subject>Glandulocaudinae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7ND42</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>114228 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Stevardiinae phylogenies reconstructed with the software's: RAxML (concatenated and gene trees), Garli, STAR and TNT. Trees were rooted in Serrasalmus sp. and bootstraps support are shown when available.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

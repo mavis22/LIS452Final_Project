@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6721700</identifier><datestamp>2015-09-04T17:29:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.83KD9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McDonough, Molly M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>&#352;umbera, Radim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mazoch, Vladim&#237;r</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferguson, Adam W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Phillips, Caleb D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bryja, Josef</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>G_leucogaster_phylogeography_dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>Speciation</subject>
+      <subject>Niche Modelling</subject>
+      <subject>Mammals</subject>
+      <subject>Climate Change</subject>
+      <subject>southern Africa</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.83KD9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>54614602 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The compressed folder includes the following: a) sequence alignments for all individuals and loci, b) .xml files used for BEAST analyses (divergence time estimates and extended Bayesian skyline plot), c) MAXENT parameter files, d) spatial diffusion analysis parameter files, and D) STUCTURE parameter file.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

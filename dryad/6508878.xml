@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6508878</identifier><datestamp>2015-07-29T20:09:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KC470/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Green, Jonathan M. H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sripanomyom, Siriya</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giam, Xingli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilcove, David S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Aquaculture</subject>
+      <subject>East Asian-Australasian Flyway</subject>
+      <subject>Migration</subject>
+      <subject>Roost Site</subject>
+      <subject>Saltpan</subject>
+      <subject>Stopover</subject>
+      <subject>Wintering</subject>
+      <subject>Artificial Wetlands</subject>
+      <subject>Thailand</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KC470</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>192687 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bird survey data (abundance, foraging rate/success, and activity budgets along with anonymised socioeconomic data for saltpans and aquaculture ponds in the Inner Gulf of Thailand. For further information see Green et al. "The ecology and economics of shorebird conservation in a tropical human-modified landscape". Journal of Applied Ecology.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

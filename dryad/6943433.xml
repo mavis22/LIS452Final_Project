@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6943433</identifier><datestamp>2015-11-05T17:23:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5KS03/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Weber, Alexandra A-T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#233;rigot, Bastien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vali&#232;re, Sophie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chenuil, Anne</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>raw_miseq_data_4</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Echinoderms</subject>
+      <subject>Life History Evolution</subject>
+      <subject>Phylogeography</subject>
+      <subject>DNA Barcoding</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>Mediterranean sea</subject>
+      <subject>Atlantic ocean</subject>
+      <subject>Ophioderma longicauda</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5KS03</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>952830287 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">this folder contains the raw Miseq data for the wells F12 to H12 (two fastq files per well, read 1 and read 2). each well corresponds to 3 individuals, for which 38 markers were amplified</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

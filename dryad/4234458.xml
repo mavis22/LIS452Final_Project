@@ -1,0 +1,97 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4234458</identifier><datestamp>2015-02-23T22:04:44Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P631F/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lowet, Eric</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, Mark</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hadjipapas, Avgis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peter, Alina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van der Eerden, Jan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Weerd, Peter</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>overview</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>gamma oscillation</subject>
+      <subject>neural coding</subject>
+      <subject>clustering</subject>
+      <subject>Arnold tongue</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P631F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2304 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">If any questions arise, please contact e.lowet@fcdonders.ru.nl &#13;
+&#13;
+&#13;
+The sharing folder consists of:&#13;
+&#13;
+&#13;
+1. monkey_LFP_V1_stimulus_contrast_example_data (Fig.1A-B)&#13;
+&#13;
+Example monkey data (one contact of a laminar probe inserted in parafoveal V1 , see Roberts et al.,2013 in Neuron)&#13;
+with 8 different contrast conditons. A square-wave grating is shown with different constrasts that stimulated the V1 receptive field.&#13;
+The monkey is engaged in a passive fixation task.&#13;
+&#13;
+&#13;
+2. PING_HH_increasing_drive&#13;
+&#13;
+Here a single PING- network receive different level of excitatory input. This corresponds to Fig.1 C-F. This simulation to show that a&#13;
+PING network react with increasing gamma frequency with increasing input drive. The relates to the experimental observation in the&#13;
+monkey experiment where it is known that visual contrast increase the input drive to V1.&#13;
+8 input level conditions are inlcuded here. The neuronal spiking data (spikes) as well as different network signals (signals) are&#13;
+included.&#13;
+&#13;
+&#13;
+3. two_interacting_PING_HH_data&#13;
+&#13;
+This relates to Fig.2. Here two interacting PING networks are simulated. The coupling strength as well as the input level difference is manipulated systematically&#13;
+to be able to reconstruct the Arnold tongue. In each folder the spikes, network signals as well the inputs to the both PING networks are included.&#13;
+The coupling values are in the folder names. &#13;
+&#13;
+&#13;
+4.  ring_PING_HH_data&#13;
+&#13;
+Here different simulaiton with the ring-PING network is included. Simulations realted to Fig.3 as well as Suppl.Fig 1-2 are included. Only the relevant spiking data are included.&#13;
+&#13;
+&#13;
+5. phase_oscillator_lattice_data&#13;
+&#13;
+It includes the simulation output data from the lattice phase-oscillator model for each of 80 input natural contrast images used. The natural contrast images&#13;
+were used to set the intrinisc freuqency of the phase-osicllators. This relates to Fig.7-8. &#13;
+&#13;
+&#13;
+&#13;
+6. code_phase_oscillator_ring_network.m (MATLAB code)&#13;
+&#13;
+This simulation code corresponds to Fig.6. The simulation code reproduces the output data of the ring-phase-oscillator model. &#13;
+&#13;
+&#13;
+&#13;
+7. code_izhi_ring_network.m(MATLAB code)&#13;
+&#13;
+This simulation code corresponds to Suppl.Fig.3. The simulation code reproduces the output data of the ring-PING network with Izhikevih-type neurons.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

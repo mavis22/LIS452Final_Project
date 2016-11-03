@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6678907</identifier><datestamp>2015-08-20T17:42:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K8073.1/1.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fuller, Rebecca C</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Claricoates, Kristin M</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>datatodryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Comparative Physiology</subject>
+      <subject>Fish</subject>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Adaptation</subject>
+      <subject>Opsins</subject>
+      <subject>Florida</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K8073.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This Excel file contains the main data from Fuller &amp; Claricoates. We list the population (population), the water treatment (water), and the day on which fish were sampled after being introduced into the lighting treatments (day). Due to low sample sizes, we had to pool these into &#8220;early, middle, and late&#8221; sampling periods which we refer to as (time). We also list the (sample name) and (sex) of the individual. We then list the mean critical threshold cycle for each individual for the following genes: elongation factor 1-alpha (CT-ef 1a), LWS (CT-LWS), RH2-1 (CT-RH2-1), RH2-2 (CT-RH2-2), SWS1 (CT-SWS1), SWS2A (CT-SWS2A), and SWS2B (CT-SWS2B). Based on these data and the efficiencies listed in our manuscript, we calculated the expression of each opsin gene relative to our housekeeping gene, elongation factor 1 alpha. These are listed as (rel-lws_ef), (rel-rh2-1_ef), (rel-rh2-2_ef), (rel-sws1_ef), (rel-sws2a_ef), and (rel-sws2b_ef). We also calculated the natural log of the relative expression of each opsin. These are listed in this file as (log(relsws1-ef)), (log(relsws2b-ef)), (log(relsws2a-ef)), (log(relrh21-ef)), (log(relrh22-ef)), and (log(rellws-ef)). We also calculated the proportional expression of each opsin gene relative to the total opsin pool.  These are listed in this file as (propLWS), (propRH2-1), (propRH2-2), (propSWS1), (propSWS2a), and (propSWS2b). Finally, we also calculated the proportion expression of each opsin gene relative to all of the opsins, but excluding RH2-2. These are listed in this file as (propSWS1(noRH2-2)), (propSWS2b(noRH2-2)), (propSWS2a(noRH2-2)), (propRH2-1(noRH2-2)), and (propLWS(noRH2-2)). For other inquiries about these data, please contact Becky Fuller &#8211; fuller@life.illinois.edu.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

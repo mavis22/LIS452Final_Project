@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6753541</identifier><datestamp>2015-10-08T13:38:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.29FP0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kharzinova, Veronika R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sermyagin, Alexander A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gladyr, Elena A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Okhlopkov, Innokentiy M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brem, Gottfried</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zinovieva, Natalia A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data_file_Russian_Reindeer</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>whole genome analysis</subject>
+      <subject>SNP</subject>
+      <subject>reindeer</subject>
+      <subject>Conservation genetics and biodiversity</subject>
+      <subject>Russia</subject>
+      <subject>Rangifer tarandus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.29FP0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>18845696 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Whole-genome analysis of four female samples of Rangifer tarandus inhabiting Russia (Suppl_Bovine_Russian_Reindeer and Suppl_Ovine_Russian_Reindeer): 1-column -Chromosome; 2 column - SNP; 3- column &#8211;Control;  4 column-Allele1; 5 column &#8211;Allele2; 6 column -Number of homozygous animals1; 7 column -Number of heterozygous animals; 8 column -Number of homozygous animals2; 9 column -Observed heterozygosity; 10 column- Expected heterozygosity; 11-Hardy-Weinberg equilibrium; 12-Number of animals.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

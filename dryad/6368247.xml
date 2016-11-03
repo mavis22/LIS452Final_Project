@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6368247</identifier><datestamp>2015-07-02T16:57:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K528J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Seymoure, Brett M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aiello, Annette</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Anartia Clay Model Attack Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Insects</subject>
+      <subject>Natural selection</subject>
+      <subject>Coloration</subject>
+      <subject>Disruption</subject>
+      <subject>Camouflage</subject>
+      <subject>Survival</subject>
+      <subject>Plasticine Models</subject>
+      <subject>Panama</subject>
+      <subject>Central America</subject>
+      <subject>Anartia fatima</subject>
+      <subject>Nymphalidae</subject>
+      <subject>Lepidoptera</subject>
+      <subject>Insecta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K528J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>34023 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the attack data for all of the models placed in the field. Each model belongs to a group of three different models. This text file lists each model and if it was not attacked (NA), missing (which were censored), and if they were attacked by an avian predator (Avian).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

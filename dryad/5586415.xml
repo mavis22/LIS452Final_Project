@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5586415</identifier><datestamp>2015-06-08T17:09:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.14VT7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Picard, M&#233;lanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papa&#239;x, Julien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gosselin, Fr&#233;d&#233;ric</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Model</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Endozoochory</subject>
+      <subject>Metacommunity dynamics</subject>
+      <subject>retention time</subject>
+      <subject>digestion mode</subject>
+      <subject>ruminants</subject>
+      <subject>Bayesian dynamic model</subject>
+      <subject>Capreolus capreolus</subject>
+      <subject>Cervus elaphus</subject>
+      <subject>Sus scrofa</subject>
+      <subject>Calluna vulgaris</subject>
+      <subject>Juncus effusus</subject>
+      <subject>Plantago media</subject>
+      <subject>Prunella vulgaris</subject>
+      <subject>Rubus fruticosus</subject>
+      <subject>Trifolium pratense</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.14VT7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2540 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Script of the Bayesian model.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

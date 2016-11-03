@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1227316</identifier><datestamp>2015-10-19T21:19:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G416T</identifier>
+  <creators>
+      <creator>
+         <creatorName>Delplancke, Malou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alvarez, Nadir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Benoit, Laure</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Espindola, Maria Anahi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joly, Helene I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neuenschwander, Samuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arrigo, Nils</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evolutionary history of almond tree domestication in the Mediterranean basin</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>domestication</subject>
+      <subject>fruit trees</subject>
+      <subject>Mediterranean basin</subject>
+      <subject>Phylogeography</subject>
+      <subject>genetic diversity</subject>
+      <subject>Mediterranean Basin</subject>
+      <subject>holocene</subject>
+      <subject>Prunus dulcis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Delplancke M, Alvarez N, Benoit L, Espindola MA, Joly HI, Neuenschwander S, Arrigo N (2012)  Evolutionary history of almond tree domestication in the Mediterranean basin. Molecular Ecology 22(4): 1092-1104.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G416T/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G416T/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.G416T/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12129</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

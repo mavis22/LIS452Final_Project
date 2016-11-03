@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7031327</identifier><datestamp>2015-11-18T18:01:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q28B2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Emily S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Long, Tristan A. F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>happy_families</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sexual conflict</subject>
+      <subject>kin selection</subject>
+      <subject>inclusive fitness</subject>
+      <subject>sexual selection</subject>
+      <subject>aggression</subject>
+      <subject>social behaviour</subject>
+      <subject>Drosophila melanogater</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q28B2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>104746 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">Behavioural and fitness data collected from fruit flies placed in the following treatments 1) &#8220;related pair&#8221;, a single male from the same familial lineage as the target female; 2) &#8220;unrelated pair&#8221;, a single male from a different familial lineage than the target female; 3) &#8220;all related&#8221;, three males related to each other (same familial lineage) and to the target female; 4) &#8220;males related&#8221;, three males related to each other but from a different familial lineage than the target female; and 5) &#8220;all unrelated&#8221;, three males unrelated (different familial lineages) to either each other or to the target female.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

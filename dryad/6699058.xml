@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6699058</identifier><datestamp>2015-08-26T14:34:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.BP7J7/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jones, Christopher M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Papanicolaou, Alexie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mironidis, George K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vontas, John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Yihua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lim, Ka S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Singh, Kumar S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oakeshott, John G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bass, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chapman, Jason W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Raw qPCR data for RNA-seq validation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Insect migration</subject>
+      <subject>transcriptomics</subject>
+      <subject>tethered flight</subject>
+      <subject>migratory genomics</subject>
+      <subject>China</subject>
+      <subject>Northern Greece</subject>
+      <subject>Helicoverpa armigera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.BP7J7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>16303 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file consists of two excel sheets. The first sheet labelled 'ct' contains all raw Ct values that informed the qPCR analysis. Column headings are gene IDs for that particular gene. Information on qPCR primers and efficiency can be found in the Supplementary information. 'Treatment' = phenotype tested. 'Biorep' = biological replicate. 'Techrep' = technical replicate. The second sheet ('validation') contains the fold-change comparisons that informed the RNA-seq validation analysis. Validations were performed for each software package - edgeR and DEseq2. Comparisons were made only in instances when the gene was significantly differentially expressed in the RNA-seq.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3689271</identifier><datestamp>2015-10-05T15:50:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R1D6G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hodgson, Jason A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pickrell, Joseph K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pearson, Laurel N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quillen, Ellen E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prista, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rocha, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soodyall, Himla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shriver, Mark D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perry, George H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Hodgson et al Duffy program and data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Duffy blood group</subject>
+      <subject>adaptive evolution</subject>
+      <subject>Malagasy population genetics</subject>
+      <subject>Madagascar</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R1D6G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>455729 bytes</size>
+      <size>2401 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">fastadsim.pl forward simulation computer program and 10k SNP genotype data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

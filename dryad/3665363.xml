@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3665363</identifier><datestamp>2015-08-20T19:33:50Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B6225/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Day, Julia J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peart, Claire R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Katherine J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bills, Roger</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Friel, John P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Timo</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Figure S1 cont.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Diversification rates</subject>
+      <subject>phylogenetics</subject>
+      <subject>biogeography</subject>
+      <subject>molecular dating</subject>
+      <subject>tropical rivers</subject>
+      <subject>Africa</subject>
+      <subject>Cenozoic</subject>
+      <subject>Synodontis</subject>
+      <subject>Mochokidae</subject>
+      <subject>Siluriformes</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-01-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B6225.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>670417 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Individual gene trees of Synodontis relationships inferred from Bayesian analyses for a) mitochondrial Cytochrome oxidase I (COI), b) mitochondrial Cytochrome b (Cyt b + tRNA-pro), c) nuclear S7 ribosomal protein intron 1 and 2 (S7) and d) nuclear recombination activating gene (Rag 2). Taxa are colour coded according to the biogeographical clade they nest within based on Figure 2: purple, Congo Basin; blue, East Africa; green, West Africa (light green WA NS; dark green WA LGF). BPP values include black circle: &gt;85%; black square 70-84%.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

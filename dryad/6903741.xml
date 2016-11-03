@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6903741</identifier><datestamp>2015-10-23T15:57:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8M2G3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rousselet, Guillaume A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ince, Robin A. A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Rijsbergen, Nicola J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schyns, Philippe G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Eye coding mechanisms in early human face event-related potentials</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eeg</subject>
+      <subject>bubbles</subject>
+      <subject>face processing</subject>
+      <subject>n170</subject>
+      <subject>erp</subject>
+      <subject>single-trial</subject>
+      <subject>reaction time</subject>
+      <subject>reverse correlation</subject>
+      <subject>mutual information</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Rousselet GA, Ince RAA, van Rijsbergen NJ, Schyns PG (2014) Eye coding mechanisms in early human face event-related potentials. Journal of Vision 14(7).</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8M2G3/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1167/14.13.7</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

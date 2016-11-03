@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6671815</identifier><datestamp>2015-09-01T15:49:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1G347/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Montiglio, Pierre-Olivier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wey, Tina W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chang, Ann T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fogarty, Sean</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sih, Andrew</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data on mating duration in water striders</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Animal personality</subject>
+      <subject>Mate guarding</subject>
+      <subject>Non-random mating</subject>
+      <subject>Social interactions</subject>
+      <subject>Social selection</subject>
+      <subject>Sexual conflict</subject>
+      <subject>Temperament</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1G347</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>708847 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These data were used to analyze the determinants of mating duration. The data set includes all observations in which a given male and female were observed mating. For each of these observations, we then determined whether they pursued (1) or ceased mating (0) at the next scan observation. Each row corresponds to a single observation on a given pair at a given time. Each column lists the values for a given variable. The description of each variable is given in the readme file. The data files are in a comma separated format.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

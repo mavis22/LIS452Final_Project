@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4647902</identifier><datestamp>2015-04-27T18:22:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.F4V0S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zimmermann, Boris</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tkal&#269;ec, Zdenko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Me&#353;i&#263;, Armin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kohler, Achim</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Characterizing aeroallergens by infrared spectroscopy of fungal spores and pollen</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>spectroscopy</subject>
+      <subject>Fourier transform infrared spectroscopy</subject>
+      <subject>FTIR</subject>
+      <subject>spores</subject>
+      <subject>pollen</subject>
+      <subject>mycology</subject>
+      <subject>plant science</subject>
+      <subject>allergy</subject>
+      <subject>ecology and environmental sciences</subject>
+      <subject>Agaricaceae</subject>
+      <subject>Sclerodermataceae</subject>
+      <subject>Geastraceae</subject>
+      <subject>Cyperaceae</subject>
+      <subject>Poaceae</subject>
+      <subject>Fagaceae</subject>
+      <subject>Betulaceae</subject>
+      <subject>Cupressaceae</subject>
+      <subject>Pinaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Zimmermann B, Tkal&#269;ec Z, Me&#353;i&#263; A, Kohler A (2015) Characterizing aeroallergens by infrared spectroscopy of fungal spores and pollen. PLOS ONE 10(4): e0124240.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F4V0S/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F4V0S/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F4V0S/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F4V0S/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.F4V0S/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0124240</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4643483</identifier><datestamp>2015-03-12T18:55:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.24TT2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Treml, Eric A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, Jason</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Halpin, Patrick N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Possingham, Hugh P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riginos, Cynthia</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The emergent geography of biophysical dispersal barriers across the Indo-West Pacific</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Barriers</subject>
+      <subject>biophysical modelling</subject>
+      <subject>connectivity</subject>
+      <subject>coral reef</subject>
+      <subject>dispersal</subject>
+      <subject>network analysis</subject>
+      <subject>Indo-West Pacific Ocean</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Treml EA, Roberts J, Halpin PN, Possingham HP, Riginos C (2015) The emergent geography of biophysical dispersal barriers across the Indo-West Pacific. Diversity and Distributions 21(4): 465-476.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.24TT2/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.24TT2/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.24TT2/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/DDI.12307</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

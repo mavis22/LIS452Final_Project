@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3107038</identifier><datestamp>2015-05-31T19:27:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D41V4/25</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jorth, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turner, Keith H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gumus, Pinar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nizam, Nejat</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Buduneli, Nurcan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Whiteley, Marvin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Paired healthy sample, patient 2, 16S rRNA gene sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Microbiome</subject>
+      <subject>periodontitis</subject>
+      <subject>RNA-seq</subject>
+      <subject>metagenomics</subject>
+      <subject>infectious disease</subject>
+      <subject>metatranscriptomics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D41V4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29984888 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Bacterial 16S rRNA gene sequences from patient 2 healthy periodontal sites. Sequences are read 1 and read 2 from MiSeq sequencing joined with the script fastq-join. This file has been compressed.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5718181</identifier><datestamp>2015-05-08T18:53:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CS4H8/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wahengbam, Romi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ahmed, Giasuddin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jeyaram, Kumaraswamy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table S3 Molecular grouping and identification of culturable bacteria isolated from the stage-wise collected samples of the indigenous fermentation of S. munroi meristem for production of soidon by ARDRA and rRNA sequencing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bacteria</subject>
+      <subject>Microbial Biology</subject>
+      <subject>Metagenomics</subject>
+      <subject>Population Dynamics</subject>
+      <subject>Bishnupur district (24.616667 N, 93.75 E, 762 msl) of Manipur</subject>
+      <subject>North East India</subject>
+      <subject>Leuconostoc citreum</subject>
+      <subject>Weissella cibaria</subject>
+      <subject>Lactobacillus brevis</subject>
+      <subject>Lactococcus lactis subsp. cremoris</subject>
+      <subject>Lactobacillus plantarum</subject>
+      <subject>Lactococcus lactis subsp. lactis</subject>
+      <subject>Enterobacter asburiae</subject>
+      <subject>Lactococcus raffinolactis</subject>
+      <subject>Weissella oryzae</subject>
+      <subject>Leuconostoc mesenteroides</subject>
+      <subject>Leuconostoc lactis</subject>
+      <subject>Pediococcus pentosaceus</subject>
+      <subject>Vagococcus fluvialis</subject>
+      <subject>Raoultella terrigena</subject>
+      <subject>Erwinia billingiae</subject>
+      <subject>Pseudomonas koreensis</subject>
+      <subject>Candida humilis</subject>
+      <subject>Kazachstania sp.</subject>
+      <subject>Candida oleophila</subject>
+      <subject>Hanseniaspora thailandica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CS4H8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>69126 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The aligned sequences in FASTA file format (.fas)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

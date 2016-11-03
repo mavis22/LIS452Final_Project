@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6732256</identifier><datestamp>2015-09-08T14:29:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B4H75/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mabille, Geraldine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stien, Audun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tveraa, Torkild</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mysterud, Atle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Br&#248;seth, Henrik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linnell, John D. C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data at the municipality level</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>carnivores</subject>
+      <subject>species interaction</subject>
+      <subject>herbivores</subject>
+      <subject>predator-prey interaction</subject>
+      <subject>depredation</subject>
+      <subject>Norway</subject>
+      <subject>Scandinavia</subject>
+      <subject>Holocene</subject>
+      <subject>Ovis aries</subject>
+      <subject>Lynx lynx</subject>
+      <subject>Gulo gulo</subject>
+      <subject>Ursus arctos</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B4H75</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>654888 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The origin of the different variables is given in the article. The column headings refer to the variable names used in the article. See legends in tables 2, 3 and 4 for details on the units used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

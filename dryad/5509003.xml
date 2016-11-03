@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5509003</identifier><datestamp>2015-04-15T19:07:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q2K7K/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Melis, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Herfindal, Ivar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>&#197;hl&#233;n, Per-Arne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dahl, Fredrik</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Habitat characteristics of raccoon dog observations at multiple spatial scales</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Habitat use</subject>
+      <subject>Habitat selection</subject>
+      <subject>Invasion ecology</subject>
+      <subject>Raccoon dog</subject>
+      <subject>telemetry</subject>
+      <subject>Sweden</subject>
+      <subject>Nyctereutes procyonoides</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q2K7K</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1186922 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Habitat characteristics (habitat type, distance to roads and water, elevation, slope, and length of growing season) for raccoon dog GPS-locations (Scale = 0) and paired random points located within a given distance (Scale &gt; 0 m). Data is aggregated per individual trajectory, season, and light period (day, night, twilight). For further details, see the article.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

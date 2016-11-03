@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6943231</identifier><datestamp>2015-12-02T17:21:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QD5GJ/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rutschmann, Alexis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miles, Donald</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Galliard, Jean-Fran&#231;ois</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richard, Murielle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moulh&#233;rat, Sylvain</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sinervo, Barry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clobert, Jean</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Adaptation of Phenology across Populations_dataset_Rutschmann</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Plasticity</subject>
+      <subject>Phenology</subject>
+      <subject>Anthropic gradient</subject>
+      <subject>Reaction Norm</subject>
+      <subject>Common lizard</subject>
+      <subject>Thermal gradient</subject>
+      <subject>MAssif Central</subject>
+      <subject>France</subject>
+      <subject>Mountain areas</subject>
+      <subject>Zootoca vivipara</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-12-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QD5GJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>59861 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The dataset has been used to perform all statistical analyses in the manuscript: Climate and habitat interacts to shape the thermal reaction norms of breeding phenology across lizard populations. Data have been recolted in the Massif Central, France, between 2004 and 2014. #Pop (site of capture) #Id (lizard unique identity)  # R_id (lizard capture code) #alt (elevation, m) #SVL (Snout-ventral length, mm) # W1 (weight at capture, g) #Part_y (year of parturition) #Part_d (parturition date, January-1st = 1) # T_gest (mid-gestation temperatures, &#176;C) #FCI (Forest cover coefficient)  #Region (mountain chain)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

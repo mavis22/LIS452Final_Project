@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6553651</identifier><datestamp>2015-08-12T16:09:52Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J1T67/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Young, Hillary S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirzo, Rodolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helgen, Kristofer M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCauley, Douglas J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nunn, Charles L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Snyder, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Veblen, Kari E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhao, Serena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ezenwa, Vanessa O.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Immune Responses Saccostomus mearnsi</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Defaunation</subject>
+      <subject>eco-immunology</subject>
+      <subject>rodent</subject>
+      <subject>wildlife decline</subject>
+      <subject>Kenya Long-term Exclosure Experiment</subject>
+      <subject>Kenya</subject>
+      <subject>East Africa</subject>
+      <subject>Anthropocene</subject>
+      <subject>Saccostomus mearnsi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J1T67</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>68096 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Immunity parameters from Saccostomus mearnsi collected in Kenya Long Term Exclosure Experiment. Eartag1/Eartag2 = unique eartags applied to each animal.  Species = species ID, always Saccostomus mearnsi (SAME).  Sex = sex (always male, M).  condition = reproductive status (always scrotal, S).  Weight = mass in g.  Number fleas = number of fleas on one side of the animal (data not used in analysis).  CPUE = catch per unit effort (trap success per plot and season).  Site = KLEE site used (North, South or Central represented by N, S, C; Exclosure = 0, Control = MWC).  Capture date = date animal captured.  Rainfall = Rainfall for the period preceding that trapping date.  Trapping period = the period in which that animal was trapped.  Neutrophil, Eosinophil, Basophil, Monocyte, Lymphocyte = number of cells of each type counted out of the "Total Count" column. Pre1_score = HA score prior to antigen exposure, Pre2_score = replicate of HA score prior to antigen exposure.  Post1_score = HA score post antigen exposure.  Post2_score = HA score post antigen exposure. Sheep = HA score for control (sheep). BKA1, BKA2, BKA3 = number of colonies present in BKA for three different plates.  pos1,pos2,pos3 = number of colonies from positive control (no blood) in BKA for three plates.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

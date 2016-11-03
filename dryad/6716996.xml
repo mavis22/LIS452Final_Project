@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6716996</identifier><datestamp>2015-09-16T20:38:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8NP44/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Perea, Ramon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dirzo, Rodolfo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>San Miguel, Alfonso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gil, Luis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Perea_2015_Oikos_Seed_Recovery_rodents</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>seed dispersal</subject>
+      <subject>rodents</subject>
+      <subject>scatter-hoarding</subject>
+      <subject>seed evolution</subject>
+      <subject>masting</subject>
+      <subject>seed traits</subject>
+      <subject>Spain</subject>
+      <subject>Quercus pyrenaica</subject>
+      <subject>Apodemus sylvaticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8NP44</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>62291 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data on the recovery of seeds (acorns of Quercus pyrenaica) by rodents (Apodemus sylvaticus) after having been dispersed by the same rodent species</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

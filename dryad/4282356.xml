@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4282356</identifier><datestamp>2015-01-23T00:48:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5S9R5/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grisanti, Laurel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Repas, Ashley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Talarico, Jennifer A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gold, Jessica I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Carter, Rhonda L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koch, Walter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tilley, Douglas G.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Grisanti et al. 2014 Cardiac Transcript Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>heart</subject>
+      <subject>mouse</subject>
+      <subject>remodeling</subject>
+      <subject>beta adrenergic receptor</subject>
+      <subject>epidermal growth factor receptor</subject>
+      <subject>mus musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5S9R5</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>218140 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains whole transcriptome data generated from the hearts of C57BL6/J mice that received infusion of the beta adrenergic receptor agonist isoproterenol (Iso; 3mg/kg/day) for 1 or 2 weeks.  Sheet 1 contains the 1 week Iso versus vehicle data and sheet 2 contains the 2 week Iso versus vehicle data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

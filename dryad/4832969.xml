@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4832969</identifier><datestamp>2015-06-23T19:56:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.57B80/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adams, Susan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schmetterling, David A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Neely, David A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Table 3 Adams_et_al_2015</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>sculpin</subject>
+      <subject>distribution</subject>
+      <subject>water temperature</subject>
+      <subject>Montana</subject>
+      <subject>Clark Fork River</subject>
+      <subject>Columbia River Basin</subject>
+      <subject>USA</subject>
+      <subject>Uranidea sp. cf bairdii</subject>
+      <subject>Uranidea sp. cf cognatus</subject>
+      <subject>Rocky Mountain Sculpin</subject>
+      <subject>Columbia Slimy Sculpin</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.57B80</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>105901 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Table 3.  Minimum, average, and maximum daily water temperature values for each reach during summer 2007.  Stream names and reach codes are as in Tables 1 and 2.  Sites are organized by sculpin group: no sculpin (none); Rocky Mountain sculpin (RMS) or Columbia slimy sculpin (CSS) only; or both species (syntopic). Daily summary statistics (mean, sample size [N], SD, and SE) by group are given for each temperature metric.  Numbers in blue were estimated based on linear regressions (see text).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

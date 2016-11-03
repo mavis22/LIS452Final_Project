@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2750439</identifier><datestamp>2015-10-01T18:48:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5459N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Rosenheim, Jay A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Neal M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schreiber, Sebastian J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Comparative data on pre-pollination costs of seed production</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Life history: ecology</subject>
+      <subject>Life history: evolution</subject>
+      <subject>Life history: theory</subject>
+      <subject>Life history: trade offs</subject>
+      <subject>Parental care</subject>
+      <subject>Resource allocation</subject>
+      <subject>Plant</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-01-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5459N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>92604 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file summarizes data extracted from the published literature on the fraction of the total costs of seed production that is incurred pre-pollination.  The table includes four columns:  (1) plant species (and flower gender for plants that have both female and bisexual flowers); (2) plant group (gymnosperm vs. wind-pollinated angiosperm vs. animal-pollinated angiosperm; (3) the observed proportion of total investment in seed production associated with pre-pollination costs; and (4) the literature citation. The full references are given below the table.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

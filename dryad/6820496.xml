@@ -1,0 +1,125 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6820496</identifier><datestamp>2015-10-21T19:39:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V9T5H</identifier>
+  <creators>
+      <creator>
+         <creatorName>Shannon, Laura M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyko, Ryan H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castelhano, Marta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Corey, Elizabeth</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hayward, Jessica J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McLean, Corin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Michelle E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abi Said, Mounir</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anita, Baddley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bondjengo Ikombe, Nono</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Calero, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galov, Ana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedimbi, Marius</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Imam, Bulu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Khalap, Rajashree</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lally, Douglas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Masta, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oliveira, Kyle C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>P&#233;rez, Luc&#237;a</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randall, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tam, Nguyen Minh</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trujillo-Cornejo, Francisco J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Valeriano, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sutter, Nathan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Todhunter, Rory J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bustamante, Carlos D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boyko, Adam R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic structure in village dogs reveals a Central Asian domestication origin</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>admixture</subject>
+      <subject>domestication</subject>
+      <subject>village dogs</subject>
+      <subject>linkage disequilibrium</subject>
+      <subject>introgression</subject>
+      <subject>haplotype diversity</subject>
+      <subject>gene flow</subject>
+      <subject>phylogeography</subject>
+      <subject>Canis lupus domesticus</subject>
+      <subject>Canis lupus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Shannon LM, Boyko RH, Castelhano M, Corey E, Hayward JJ, McLean C, White ME, Abi Said M, Anita BA, Bondjengo Ikombe N, Calero J, Galov A, Hedimbi M, Imam B, Khalap R, Lally D, Masta A, Oliveira KC, P&#233;rez L, Randall J, Tam NM, Trujillo-Cornejo FJ, Valeriano C, Sutter NB, Todhunter RJ, Bustamante CD, Boyko AR (2015) Genetic structure in village dogs reveals a Central Asian domestication origin. Proceedings of the National Academy of Sciences of the United States of America, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/6</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/7</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/8</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/9</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/10</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/11</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/12</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/13</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.V9T5H/14</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1073/PNAS.1516215112</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

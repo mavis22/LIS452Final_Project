@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6364824</identifier><datestamp>2015-07-09T17:41:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.C6JH2/5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smadja, Carole M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Loire, Etienne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caminade, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thoma, Marios</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Latour, Yasmin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roux, Camille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thoss, Michaela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Penn, Dustin J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ganem, Gulia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boursot, Pierre</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Genotyping_raw_data_pooling_validation_experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>hybrid zone</subject>
+      <subject>Speciation</subject>
+      <subject>genomics</subject>
+      <subject>selective sweep</subject>
+      <subject>Major Urinary Protein</subject>
+      <subject>vomeronasal receptor</subject>
+      <subject>Mus musculus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.C6JH2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>24100 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file provides all genotyping raw data for the pooling strategy validation experiment. Sheet 1 shows individual raw genotypes (14 individuals typed separately) and sheet 2 shows the pool raw genotypes.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

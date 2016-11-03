@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6714522</identifier><datestamp>2015-09-01T18:03:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VT46N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>McClure, Meredith L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burdett, Christopher L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farnsworth, Matthew L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lutman, Mark W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Theobald, David M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Riggs, Philip D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grear, Daniel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Miller, Ryan S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>U.S. wild pig species distribution model data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>feral hog</subject>
+      <subject>feral swine</subject>
+      <subject>invasive species</subject>
+      <subject>habitat heterogeneity</subject>
+      <subject>physiological constraints</subject>
+      <subject>species distribution model</subject>
+      <subject>logistic discrimination function</subject>
+      <subject>multi-model inference</subject>
+      <subject>Contiguous United States</subject>
+      <subject>1982-2012</subject>
+      <subject>Sus scrofa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VT46N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1393409 bytes</size>
+      <size>4060 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the final dataset used to derive the wild pig distribution model for the contiguous United States presented in the accompanying publication, along with predictive model output values. Please see the ReadMe file for further details.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

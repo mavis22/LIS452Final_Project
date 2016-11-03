@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1727247</identifier><datestamp>2014-05-30T03:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N022P</identifier>
+  <creators>
+      <creator>
+         <creatorName>Benowitz, Kyle M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Head, Megan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Williams, Camellia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Allen J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Royle, Nick J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Male age mediates reproductive investment and response to paternity assurance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>paternal care</subject>
+      <subject>terminal investment</subject>
+      <subject>reproductive effort</subject>
+      <subject>paternity assurance</subject>
+      <subject>Cornwall</subject>
+      <subject>United Kingdom</subject>
+      <subject>Nicrophorus vespilloides</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Benowitz KM, Head ML, Williams CA, Moore AJ, Royle NJ (2013) Male age mediates reproductive investment and response to paternity assurance. Proceedings of the Royal Society B 280(1764): 20131124.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N022P/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2013.1124</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

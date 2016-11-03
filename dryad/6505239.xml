@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6505239</identifier><datestamp>2015-08-07T19:13:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72C92/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ribeiro, Suzy E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Prevedello, Jayme A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delciellos, Ana Cl&#225;udia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vieira, Marcus Vinicius</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Observed and Predicted abundance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>edge avoidance</subject>
+      <subject>edge preference</subject>
+      <subject>geometric edge effect</subject>
+      <subject>habitat fragmentation</subject>
+      <subject>habitat selection</subject>
+      <subject>mid-domain effect</subject>
+      <subject>null model</subject>
+      <subject>small mammals</subject>
+      <subject>Atlantic Forest</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.72C92</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1966 bytes</size>
+      <size>2062 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the observed and predicted abundances for the whole small mammal community (&#8220;Total abundance&#8221;), and for Didelphis aurita and Philander frenatus separately, across 18 forest fragments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

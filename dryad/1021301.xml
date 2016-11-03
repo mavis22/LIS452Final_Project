@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1021301</identifier><datestamp>2014-05-30T00:22:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R13F5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Harney, Ewan Douglas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Dooren, Tom J. M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paterson, Steve</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Plaistow, Stewart J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: How to measure maturation: a comparison of probabilistic methods used to test for genotypic variation and plasticity in the decision to mature</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Phenotypic Plasticity</subject>
+      <subject>Life-History Evolution</subject>
+      <subject>Daphnia</subject>
+      <subject>Age and size at maturity</subject>
+      <subject>Probabilistic maturation reaction norms</subject>
+      <subject>Maturation thresholds</subject>
+      <subject>Daphnia magna</subject>
+      <subject>Daphnia pulex</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Harney ED, Van Dooren TJM, Paterson S, Plaistow SJ (2012) Data from: How to measure maturation: a comparison of probabilistic methods used to test for genotypic variation and plasticity in the decision to mature. Evolution 67(2): 525-538.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R13F5/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.R13F5/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01758.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

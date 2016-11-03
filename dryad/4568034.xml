@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4568034</identifier><datestamp>2015-05-20T05:13:28Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.935HP/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Curry, Meghan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paliulis, Leocadia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welch, Kelton</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harwood, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>White, Jennifer</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dryad Curry et al 2014 R1W1xW2 CI cross experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Endosymbiont</subject>
+      <subject>Reproductive Manipulation</subject>
+      <subject>cytoplasmic incompatibility</subject>
+      <subject>feminization</subject>
+      <subject>multiple infection</subject>
+      <subject>Wolbachia</subject>
+      <subject>Rickettsia</subject>
+      <subject>Mermessus fradeorum</subject>
+      <subject>Araneae</subject>
+      <subject>Cardinium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.935HP</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>319 bytes</size>
+      <size>3168 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw offspring hatching data from experiment used to determine W2 males induce CI when mated with R1W1 females in comparison to cured W2-males.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

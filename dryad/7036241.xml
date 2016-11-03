@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7036241</identifier><datestamp>2015-11-19T16:46:17Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M3685/7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Strader, Marie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aglyamova, Galina V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matz, Mikhail V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>KOGtableDeltaRanks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>coral</subject>
+      <subject>fluorescence</subject>
+      <subject>gene expression</subject>
+      <subject>dispersal</subject>
+      <subject>diapause</subject>
+      <subject>Ningaloo Reef</subject>
+      <subject>Western Australia</subject>
+      <subject>Acropora millepora</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M3685</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1988 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This table includes the delta rank values for each KOG category (rows) in each dataset (columns). Explanations of each dataset (column) is the same as in the Fig. 2 legend.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

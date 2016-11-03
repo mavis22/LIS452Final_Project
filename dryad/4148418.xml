@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4148418</identifier><datestamp>2014-12-03T20:17:01Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MB8H6/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Senden, Mario</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reithler, Joel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gijsen, Sven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goebel, Rainer</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>pRF_Subject_2_Session_2</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Population Receptive Fields</subject>
+      <subject>Estimation Framework</subject>
+      <subject>Consistency</subject>
+      <subject>fMRI</subject>
+      <subject>Simulations</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MB8H6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>651779441 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data set contains all data related to testing subject 2 in session 2. Specifically, the data set contains:&#13;
+-	Anatomical MRI data (nifti format)&#13;
+-	Functional MRI data (dicom format) for 6 functional runs including the stimulation protocol for each (.png image format)&#13;
+o	Wedge stimulus presented orderly&#13;
+o	Wedge stimulus presented randomly&#13;
+o	Ring stimulus presented orderly&#13;
+o	Ring stimulus presented randomly&#13;
+o	Bar stimulus presented orderly&#13;
+o	Bar stimulus presented randomly</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

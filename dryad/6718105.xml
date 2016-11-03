@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6718105</identifier><datestamp>2015-10-14T18:18:55Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4G40G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dubuffet, Aurore</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zanchi, Caroline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boutet, Gwendoline</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moreau, J&#233;r&#244;me</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moret, Yannick</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Test for specificity of antimicrobial activity in eggs of Tenebrio molitor</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>trans-generational immune priming</subject>
+      <subject>ecological immunology</subject>
+      <subject>specificity</subject>
+      <subject>antimicrobial activity</subject>
+      <subject>Europe</subject>
+      <subject>Tenebrio molitor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4G40G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5213 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">For the two data files provided, data were collected from 2 experiments which tested specificity of antimicrobial activity in eggs of Tenebrio molitor females after being immune challenged with inactivated bacteria (PPATHOGENS-D-15-00414_bacteria.csv) or fungi (PPATHOGENS-D-15-00414_fungi.csv). Females were immune challenged (female.treatment) with different inactivated microorganisms (Ag: Arthrobacter globiformis; Bt: Bacillus thuringiensis; Ec: Escherichia coli; Se: Serratia entomophila;Ca: Candida albicans; Ma: Metarizhium anisopliae) and antimicrobial activity of their eggs (egg.assay) were assayed on the same microbes used for the maternal challenge and other bacteria (Bs: Bacillus subtillis; Sm: Serratia marcescens). Presence of antimicrobial activity using a zone of inhibition assay was recorded as presence/absence (binary) and as the diameter of the zone inhibition they produced in millimeter (size.ZI).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

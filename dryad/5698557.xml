@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5698557</identifier><datestamp>2015-08-07T17:18:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QG062/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Artacho, Paulina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saravia, Julia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Decenci&#232;re Ferrandi&#232;re, Beatriz</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perret, Samuel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Le Galliard, Jean-Francois</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phenotypic traits measured before selection</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>natural selection</subject>
+      <subject>thermal biology</subject>
+      <subject>energetics</subject>
+      <subject>thermoregulation</subject>
+      <subject>Europe</subject>
+      <subject>Zootoca vivipara</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QG062</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12766 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Phenotypic traits measured in adult and yearling common lizards before selection including morphology (snout-vent length SVL, total length TTL and body mass), prefered body temperature (mean and variance), resting metabolic rate (RMR) and maximum sprint speed (MSS, intercept and slope). Raw data are provided for all adults (A) and yearlings (Y) released in the 10 enclosures (SR1 to SR10) of this study.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

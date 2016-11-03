@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4038934</identifier><datestamp>2014-11-28T18:04:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VM060</identifier>
+  <creators>
+      <creator>
+         <creatorName>Katsumura, Takafumi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oda, Shoji</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nakagome, Shigeki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanihara, Tsunehiko</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kataoka, Hiroshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitani, Hiroshi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawamura, Shoji</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oota, Hiroki</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Natural allelic variations of xenobiotic metabolizing enzymes affect sexual dimorphism in Oryzias latipes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>sexual dimorphism</subject>
+      <subject>sexual selection</subject>
+      <subject>cytochrome P450</subject>
+      <subject>genetic polymorphisms</subject>
+      <subject>East Asia</subject>
+      <subject>Oryzias latipes</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Katsumura T, Oda S, Nakagome S, Hanihara T, Kataoka H, Mitani H, Kawamura S, Oota H (2014) Natural allelic variations of xenobiotic metabolizing enzymes affect sexual dimorphism in Oryzias latipes. Proceedings of the Royal Society B 281(1797).</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM060/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM060/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VM060/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2014.2259</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6814620</identifier><datestamp>2015-10-12T17:22:30Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.392T9/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Zeng, Yan-Fei</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Wen-Ting</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liao, Wan-Jin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Hong-Fang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhang, Da-Yong</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>nuclear SSR data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Phylogeography</subject>
+      <subject>northern refugia</subject>
+      <subject>Quaternary glaciations</subject>
+      <subject>temperate deciduous Oak</subject>
+      <subject>Northeast China</subject>
+      <subject>Korean Peninsula</subject>
+      <subject>Russian Far East</subject>
+      <subject>East Asia</subject>
+      <subject>Holocene</subject>
+      <subject>Pleistocene</subject>
+      <subject>Quercus mongolica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.392T9</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>122582 bytes</size>
+      <size>764 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-10-01T15:38:52Z (GMT). No. of bitstreams: 2
+nuclear SSR data.txt: 122582 bytes, checksum: 3d81b6f774c3c956ad75c44733d51048 (MD5)
+README.txt: 764 bytes, checksum: dafd8b7e5ffca1f7433f4ab498a46737 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5566665</identifier><datestamp>2015-03-31T18:49:11Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5K927/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>P&#233;rez-Sayas, Consuelo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pina, Tatiana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>G&#243;mez-Mart&#237;nez, Maria Antonia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cama&#241;es, Gemma</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Iba&#241;ez-Gual, Maria</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jaques, Josep A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hurtado, Monica A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FIG_1_PROBIT_DATA</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Agriculture</subject>
+      <subject>Foodwebs</subject>
+      <subject>Genomics/Proteomics</subject>
+      <subject>Predator Prey Interactions</subject>
+      <subject>Invertebrates</subject>
+      <subject>Eastern Spain</subject>
+      <subject>Holocene</subject>
+      <subject>Tetranychus urticae</subject>
+      <subject>Panonychus citri</subject>
+      <subject>Euseius stipulatus</subject>
+      <subject>Phytoseiulus persimilis</subject>
+      <subject>Neoseiulus californicus</subject>
+      <subject>Neoseiulus barkeri</subject>
+      <subject>Typhlodromus phialatus</subject>
+      <subject>Amblyseius swirskii</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-26</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.5K927</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2580 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data corresponding to the probit curves of Figure 1</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

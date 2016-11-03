@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5544329</identifier><datestamp>2015-04-07T20:27:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TC3V2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kharouba, Heather</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vellend, Mark</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phenological data for select plant species in British Columbia, Canada</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>phenological synchrony</subject>
+      <subject>climate change</subject>
+      <subject>herbarium specimens</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>trophic interaction</subject>
+      <subject>mobility</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TC3V2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>714907 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data was compiled from the University of British Columbia Herbarium. Each row represents a specimen that was in flower at the time of collection. 'Accession' is the unique identifier associated with the specimen that is found in the herbarium database. 'Vegetation' is the type of vegetation (tree, shrub, herbaceous). 'Family' is the species' family. 'Day/month/year' is the date associated with the specimen. 'x' is the longitude and 'y' is the latitude associated with the record. These coordinates were either listed directly on the specimen or achieved by georeferencing by the museum or by the authors. Georeferencing was done using locality descriptions on the specimen. 'Uncertainty (in meters)' is the uncertainty associated with the geographic coordinates achieved by georeferencing that was quantified whenever possible.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

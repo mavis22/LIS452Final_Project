@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6667262</identifier><datestamp>2015-09-28T11:55:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RN617/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bonsmann, Anna</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoffel, Michael H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burkhart, Markus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hatt, Jean-Michel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Anatomical measurements on the quail's ear</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>avian</subject>
+      <subject>ear</subject>
+      <subject>microCT</subject>
+      <subject>anatomy</subject>
+      <subject>Coturnix coturnix</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RN617</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>107764 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Measurements were taken on microCT data. Measurements of anatomical structures were taken with the software Amira 5.4, using the measurement-module of &#8216;3D line&#8217;, &#8216;3D angle&#8217; and &#8216;SplineProbe&#8217;. For surface measurements, a picture (&#8216;CreateImage&#8217;) of the appropriate plane was taken and the area was measured with the module &#8216;MaterialStatistics&#8217;.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

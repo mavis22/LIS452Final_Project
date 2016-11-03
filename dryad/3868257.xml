@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3868257</identifier><datestamp>2014-10-30T18:25:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S4H2J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Phuong, Mark A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lim, Marisa C. W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wait, Daniel R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rowe, Kevin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moritz, Craig</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phuongetal_BJLS_Squirrel_species_delimitation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>microsatellites</subject>
+      <subject>nuclear genetic alignments</subject>
+      <subject>mitochondrial genetic alignments</subject>
+      <subject>worldclim environmental data</subject>
+      <subject>mammal skull measurements</subject>
+      <subject>Western United States</subject>
+      <subject>Northern Mexico</subject>
+      <subject>within 1mya</subject>
+      <subject>Otospermophilus variegatus</subject>
+      <subject>Otospermophilus beecheyi douglasii</subject>
+      <subject>Otospermophilus beecheyi</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-04</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S4H2J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>181201 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The following file contains: (1) microsatellite genotyping calls (2) mitochondrial and nuclear sequence data alignments (3) morphological data and (4) environmental data</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

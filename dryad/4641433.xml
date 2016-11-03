@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4641433</identifier><datestamp>2015-01-28T16:28:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q3P64/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Drake, John M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griffen, Blaine D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data-and-code</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>critical slowing down</subject>
+      <subject>early warning signals</subject>
+      <subject>extinction</subject>
+      <subject>microcosm</subject>
+      <subject>Daphnia magna</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q3P64</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>13273254 bytes</size>
+      <size>4848 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-01-28T16:26:57Z (GMT). No. of bitstreams: 2
+data-and-code.zip: 13273254 bytes, checksum: 923e08e6bafae412c43250fef0752ac7 (MD5)
+README.txt: 4848 bytes, checksum: 11770ce4f5a2b5369dce6f6f846340c5 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

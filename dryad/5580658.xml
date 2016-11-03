@@ -1,0 +1,77 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5580658</identifier><datestamp>2015-05-21T14:19:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VN872/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McGaugh, Suzanne E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bronikowski, Anne M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuo, Chih-Horng</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reding, Dawn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Addis, Elizabeth A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flagel, Lex E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Janzen, Fredric J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schwartz, Tonia S.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>ALIGNED_BEST_FIRST_1500_ORTHOLOGS.tar</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>insulin signaling</subject>
+      <subject>insulin growth factor</subject>
+      <subject>molecular evolution</subject>
+      <subject>positive selection</subject>
+      <subject>protein co-evolution</subject>
+      <subject>reptile</subject>
+      <subject>mammal</subject>
+      <subject>bird</subject>
+      <subject>Agkistrodon piscivorus</subject>
+      <subject>Alligator mississippiensis</subject>
+      <subject>Anolis sagrei</subject>
+      <subject>Candoia aspera</subject>
+      <subject>Cheyldra serpentina</subject>
+      <subject>Elgaria multicarinata</subject>
+      <subject>Eublepharis macularius</subject>
+      <subject>Lamprophis fuliginosus</subject>
+      <subject>Pelusios castaneus</subject>
+      <subject>Pogona vitticeps</subject>
+      <subject>Sceloporus undulatus</subject>
+      <subject>Scincella lateralis</subject>
+      <subject>Sternotherus odoratus</subject>
+      <subject>Terrapene ornata</subject>
+      <subject>Thamnophis couchii</subject>
+      <subject>Thamnophis elegans</subject>
+      <subject>Xenopeltis unicolor</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.VN872</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>508655013 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">ALIGNED_BEST_FIRST_15000_ORTHOLOGS folder: &#8220;Best&#8221; ortholog amino acid and nucleotide alignments. The 104,235 putative orthologs described in ALIGNED_ALL-ORTHOLOGS often contained more than two representative sequences per species. For the first 15,000 putative orthologs (those with the most species included in the alignments) we used UCLUST to find the best representative per species per ortholog by taking the sequence that was closest to the centroid for that ortholog. Alignments contain one representative per species per alignment (found by centroid clustering explained in the methods) are given for Orthologs 1-15,000, regardless of how many species are contained in the centroid. After designating one representative sequence per species, alignments were performed as described in the methods (e.g. MSAProbs followed by TranslatorX). Amino acid and nucleotides are given in their respective folders.&#13;
+&#13;
+- Also included in each folder is an ortholog key file (Ortholog_Key_3_20_2014.xlsx) that contains a list of each putative ortholog clustered by OrthoMCL, the best blast hit to uniprot, the number of species that were included in the ortholog, and the centroid IDs of those species (corresponding the the transcriptome assembly .fasta file).  OrthoMCL was ran on 74 total species, and we excluded form our alignments 8 species with very poor representation (for a maximum of 66 species contained within the alignments analyzed for the paper).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

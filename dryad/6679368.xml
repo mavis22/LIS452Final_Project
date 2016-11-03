@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6679368</identifier><datestamp>2015-08-20T19:30:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9R5V7.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bowsher, Julia H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ang, Yuchen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferderer, Tanner</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meier, Rudolf</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Deciphering the evolutionary history and developmental mechanisms of a complex sexual ornament: the abdominal appendages of Sepsidae (Diptera)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Development</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Morphological Evolution</subject>
+      <subject>Signaling/Courtship</subject>
+      <subject>Sepsidae</subject>
+      <subject>Themira biloba</subject>
+      <subject>Meroplius fasciculatus</subject>
+      <subject>Perochaeta dikowi</subject>
+      <subject>Sepsis punctum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Bowsher JH, Ang Y, Ferderer T, Meier R (2012) Deciphering the evolutionary history and developmental mechanisms of a complex sexual ornament: the abdominal appendages of Sepsidae (Diptera). Evolution 67(4): 1069-1080.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9R5V7/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9R5V7/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.9R5V7/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/EVO.12006</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

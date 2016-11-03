@@ -1,0 +1,68 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5641306</identifier><datestamp>2015-05-13T19:44:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8HG32/31</identifier>
+  <creators>
+      <creator>
+         <creatorName>Duitama, Jorge</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Silva, Alexander</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanabria, Yamid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cruz, Daniel F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Quintero, Constanza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ballen, Carolina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lorieux, Mathias</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Scheffler, Brian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Farmer, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Torres, Edgar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Oard, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tohme, Joe</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>WGSOryza_CIAT_LSU_USDA_NCGR_Q40_annotated_Chr12_1.vcf</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Rice</subject>
+      <subject>Genomic variation</subject>
+      <subject>High throughput sequencing</subject>
+      <subject>Copy Number Variation</subject>
+      <subject>Marker assisted selection</subject>
+      <subject>Oryza sativa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.8HG32</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>812259707 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">SNPs and small indels identified for the 104 varieties analyzed in this study. All genotypes have an NGSEP genotyping quality score larger or equal than 40. Genomic coordinates are relative to IRGSP1.0. This file contains chromosome 12 from basepairs 12,000,000 to 24,000,000</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

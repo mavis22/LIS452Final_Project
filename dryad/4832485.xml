@@ -1,0 +1,61 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4832485</identifier><datestamp>2015-03-11T19:20:41Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4VT08</identifier>
+  <creators>
+      <creator>
+         <creatorName>Leach&#233;, Adam D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chavez, Andreas S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jones, Leonard N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grummer, Jared A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gottscho, Andrew D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linkem, Charles W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogenomics of phrynosomatid lizards: conflicting signals from sequence capture versus restriction site associated DNA sequencing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ddRADseq</subject>
+      <subject>incomplete lineage sorting</subject>
+      <subject>coalescence</subject>
+      <subject>RADseq</subject>
+      <subject>species tree</subject>
+      <subject>SNP</subject>
+      <subject>ultraconserved element</subject>
+      <subject>UCE</subject>
+      <subject>Phrynosomatidae</subject>
+      <subject>Phrynosoma</subject>
+      <subject>Cophosaurus</subject>
+      <subject>Callisaurus</subject>
+      <subject>Holbrookia</subject>
+      <subject>Uta</subject>
+      <subject>Uma</subject>
+      <subject>Urosaurus</subject>
+      <subject>Sceloporus</subject>
+      <subject>Petrosaurus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Leach&#233; AD, Chavez AS, Jones LN, Grummer JA, Gottscho AD, Linkem CW (2015) Phylogenomics of phrynosomatid lizards: conflicting signals from sequence capture versus restriction site associated DNA sequencing. Genome Biology and Evolution 7(3): 706-719.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4VT08/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4VT08/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4VT08/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4VT08/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/GBE/EVV026</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

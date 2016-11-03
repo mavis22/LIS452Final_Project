@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4026978</identifier><datestamp>2014-11-11T21:02:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3GG62/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ponce, Francesca V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Breinholt, Jesse W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hossie, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barber, Jesse R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Janzen, Daniel H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hallwachs, Winnie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kawahara, Akito Y.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Ponce_et_al_2014_Dataset1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>eyespots</subject>
+      <subject>Biogeography</subject>
+      <subject>Phylogeny</subject>
+      <subject>Hawkmoth</subject>
+      <subject>North America</subject>
+      <subject>Central America</subject>
+      <subject>South America</subject>
+      <subject>Caribbean</subject>
+      <subject>Eumorpha</subject>
+      <subject>Sphingidae</subject>
+      <subject>Bombycoidea</subject>
+      <subject>Lepidoptera</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3GG62</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>83752 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">DNA data matrix Dataset1 of Ponce et al. 2014 in nexus format  including charsets for each gene.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4089039</identifier><datestamp>2014-11-21T21:02:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.3FR47/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Oplaat, Carla</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Verhoeven, Koen J. F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Oplaat_JECOL_GPGpaper_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecological genetics and ecogenomics</subject>
+      <subject>apomixis</subject>
+      <subject>geographic parthenogenesis</subject>
+      <subject>jack-of-all-trades strategy</subject>
+      <subject>master-of-some strategy</subject>
+      <subject>phenotypic plasticity</subject>
+      <subject>common dandelion</subject>
+      <subject>northern Europe</subject>
+      <subject>Taraxacum officinale</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.3FR47</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27540 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Trait scores of dandelion genotypes that were collected along a transect of historic range expansion in north-western Europe, when grown in a common greenhouse environment under control, drought and shade experimental treatments.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

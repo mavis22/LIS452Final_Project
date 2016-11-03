@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7196898</identifier><datestamp>2015-11-30T16:28:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2C506</identifier>
+  <creators>
+      <creator>
+         <creatorName>Simpson, Kimberley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ripley, Brad S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Christin, Pascal-Antione</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Belcher, Claire M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lehmann, Caroline E. R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Thomas, Gavin H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Osborne, Colin P.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Determinants of flammability in savanna grass species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Biomass moisture content</subject>
+      <subject>Biomass quantity</subject>
+      <subject>Determinants of plant community diversity and structure</subject>
+      <subject>Fire regime</subject>
+      <subject>Functional traits</subject>
+      <subject>Phylogeny</subject>
+      <subject>Poaceae</subject>
+      <subject>Resprouting</subject>
+      <subject>Poaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Simpson KJ, Ripley BS, Christin P, Belcher CM, Lehmann CER, Thomas GH, Osborne CP (2015) Determinants of flammability in savanna grass species. Journal of Ecology, online in advance of print.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C506/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C506/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C506/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.2C506/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2745.12503</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1971683</identifier><datestamp>2014-05-30T05:24:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4JH42</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sampson, Margaret</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cumber, Jordi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pound, Catherine M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fuller, Ann</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrison, Denise M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: A systematic review of methods for studying consumer health YouTube videos, with implications for systematic reviews</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Social Media</subject>
+      <subject>YouTube</subject>
+      <subject>Consumer Health</subject>
+      <subject>Research Methods</subject>
+      <subject>Systematic Reviews</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sampson M, Cumber J, Li C, Pound CM, Fuller A, Harrison DM (2013) A systematic review of methods for studying consumer health YouTube videos, with implications for systematic reviews. PeerJ 1: e147.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.4JH42/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.7717/PEERJ.147</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

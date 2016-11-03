@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3854805</identifier><datestamp>2014-10-30T17:41:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J5BF8/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lu, Lu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lycett, Samantha J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leigh Brown, Andrew</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Maximum likelihood and Bayesian phylogenetic trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Highly pathogenic avian Influenza</subject>
+      <subject>Bayesian phylogenetics</subject>
+      <subject>phylogeographics</subject>
+      <subject>discrete trait models</subject>
+      <subject>North America</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J5BF8</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>888186 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Tree files named as &#8220;RAxML_PB2.tre&#8221; et al. are maximum likelihood (ML) trees of six internal segments (PB2, PB1, PA, NP, M and NS) composed of the same 2343 North America AIV strains, which were reconstructed using RAxML v7.04.  In each ML tree, the Mexico H7N3 strains are colored in red, and the lineage in which H7N3 Mexico fell is colored in blue; Tree files named as &#8220;HA.mcc.tre&#8221; et al. are temporally structured maximum clade credibility (mcc) time-scaled phylogenetic trees of all eight segments, which were generated using Beast V 1.7.3 and annotated with ancestral state changes (A: host order; B: host species; C: flyway; D: state/province; E: subtype) recovered from the discrete trait analyses. In each mcc tree, the branches are colored according to the trait state in the tree nodes. All tree files can be visualized in FigTree V 1.4.0.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

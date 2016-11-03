@@ -1,0 +1,65 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5701598</identifier><datestamp>2015-05-11T15:43:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.52J55/22</identifier>
+  <creators>
+      <creator>
+         <creatorName>Vershinin, Vladimir L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vershinina, Svetlana D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berzin, Dmitry L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zmeeva, Darya V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kinev, Alexander V.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Populations_status_1977_2013_eng</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ecology</subject>
+      <subject>amphibians</subject>
+      <subject>Urals</subject>
+      <subject>urban life</subject>
+      <subject>urbanization</subject>
+      <subject>city</subject>
+      <subject>landscape typification</subject>
+      <subject>longitudinal data</subject>
+      <subject>pollution</subject>
+      <subject>toxicology</subject>
+      <subject>population</subject>
+      <subject>Yekaterinburg</subject>
+      <subject>Russia</subject>
+      <subject>Ural Mountains</subject>
+      <subject>Europe</subject>
+      <subject>Asia</subject>
+      <subject>Southern Urals</subject>
+      <subject>Holocene</subject>
+      <subject>Salamandrella keyserlingii</subject>
+      <subject>Lissotriton vulgaris</subject>
+      <subject>Bufo bufo</subject>
+      <subject>Rana arvalis</subject>
+      <subject>Rana temporaria</subject>
+      <subject>Pelophylax ridibundus.</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.52J55</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>7426 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Populations_status_1977_2013_eng.csv contains information about presence of particular species of amphibians each year from 1977 to 2013. Each species is marked by a number: 1 &#8211; S. keyserlingii, 2 &#8211; L. vulgaris, 3 &#8211; B. bufo, 4 &#8211; R. arvalis, 5 &#8211; R. temporaria, 6 &#8211; P. ridibundus. Column headings: 1.1. Habitat: The identifier for each wetland where amphibian species were mentioned. 1.2. Zone: The identifier of the urbanization degree at the sample collection site based on our landscape typification scheme for each habitat where amphibian species were registered. Columns 1977 up to 2013 show year-by-year information on the species presence (or disappearance and habitat destruction).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

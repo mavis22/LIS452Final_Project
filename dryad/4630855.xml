@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4630855</identifier><datestamp>2015-03-03T21:35:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7G5QH/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Goussen, Benoit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonzom, Jean-Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galas, Simon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>R&#233;ale, Denis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dutilleul, Morgan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Lines_data.csv</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>heritability</subject>
+      <subject>genetic correlation</subject>
+      <subject>genetic structure</subject>
+      <subject>uranium</subject>
+      <subject>pollution</subject>
+      <subject>contemporary</subject>
+      <subject>Caenorhabditis elegans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7G5QH</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15515 bytes</size>
+      <size>1387 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data file from: M. DUTILLEUL, B. GOUSSEN, J.M. BONZOM, S. GALAS, D. REALE. 2014. Pollution breaks down the genetic architecture of life history traits in Caenorhabditis elegans&#13;
+PLOS ONE</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

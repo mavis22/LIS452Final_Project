@@ -1,0 +1,53 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4606571</identifier><datestamp>2015-02-03T15:59:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.39H5M/14</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wang, Jue</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Atolia, Esha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hua, Bo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Savir, Yonatan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Escalante-Chong, Renan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Springer, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset 5</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>flow cytometry</subject>
+      <subject>growth curves</subject>
+      <subject>optical density</subject>
+      <subject>microbial physiology</subject>
+      <subject>gene expression</subject>
+      <subject>fluorescent reporter</subject>
+      <subject>diauxic shift</subject>
+      <subject>Saccharomyces cerevisiae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-02-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.39H5M</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>48986329 bytes</size>
+      <size>4777 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">STEADY-STATE FITNESS OF BC187 AND YJM978 (Figure 5C, S12). Contains .fcs files of raw flow cytometry data.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

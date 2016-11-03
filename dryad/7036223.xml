@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7036223</identifier><datestamp>2015-11-19T16:40:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.G3G65/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lavretsky, Philip</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peters, Jeffrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Winker, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bahn, Volker</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kulikova, Irina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhuravlev, Yuri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilson, Robert</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barger, Christopher</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gurney, Kirsty</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCracken, Kevin</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DADI.INPUT.FILES</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>ddRADseq</subject>
+      <subject>Diving Duck</subject>
+      <subject>Evolution</subject>
+      <subject>Hybridization</subject>
+      <subject>Introgression</subject>
+      <subject>Population Genetics</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.G3G65</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>32009 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Ready-run dadi files for 3 models that includes isolation-with-migration (IM), neutral-no-divergence (neutral.model), and split with secondary contact (Split.Mig) using the folded frequency spectrum of only minor alleles for greater (N = 64) and lesser (N = 47) scaup. The site-frequency spectrum is based on bi-allelic single nucleotide polymorphisms from 3448 autosomal ddRAD-seq markers.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

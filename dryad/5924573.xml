@@ -1,0 +1,134 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5924573</identifier><datestamp>2015-07-07T17:30:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.R7122/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tang, Min</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hardman, Chloe J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ji, Yinqiu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meng, Guanliang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Shanlin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tang, Meihua</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Shenzhou</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moss, Ellen D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wang, Jiaxin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yang, Chenxue</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bruce, Catharine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nevard, Tim</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Potts, Simon G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zhou, Xin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Yu, Douglas W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mitogenome assemblies</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>agri-environment schemes</subject>
+      <subject>biodiversity and ecosystem services</subject>
+      <subject>farmland biodiversity</subject>
+      <subject>genome skimming</subject>
+      <subject>metabarcoding</subject>
+      <subject>metagenomics</subject>
+      <subject>mito-metagenomics</subject>
+      <subject>neonicotinoids</subject>
+      <subject>pollination</subject>
+      <subject>England</subject>
+      <subject>United Kingdom</subject>
+      <subject>contemporary</subject>
+      <subject>anthropocene</subject>
+      <subject>Hymenoptera</subject>
+      <subject>Andrena angustior</subject>
+      <subject>Andrena bicolor</subject>
+      <subject>Andrena chrysosceles</subject>
+      <subject>Andrena cineraria</subject>
+      <subject>Andrena dorsata</subject>
+      <subject>Andrena flavipes</subject>
+      <subject>Andrena fulvago</subject>
+      <subject>Andrena haemorrhoa</subject>
+      <subject>Andrena labiata</subject>
+      <subject>Andrena minutula</subject>
+      <subject>Andrena nigroaenea</subject>
+      <subject>Andrena nitida</subject>
+      <subject>Andrena semilaevis</subject>
+      <subject>Andrena subopaca</subject>
+      <subject>Apis mellifera</subject>
+      <subject>Bombus hortorum</subject>
+      <subject>Bombus lapidarius</subject>
+      <subject>Bombus lucorum</subject>
+      <subject>Bombus pascuorum</subject>
+      <subject>Bombus pratorum</subject>
+      <subject>Bombus sylvestris</subject>
+      <subject>Bombus terrestris</subject>
+      <subject>Halictus rubicundus</subject>
+      <subject>Halictus tumulorum</subject>
+      <subject>Hylaeus confusus</subject>
+      <subject>Hylaeus dilatatus</subject>
+      <subject>Lasioglossum calceatum</subject>
+      <subject>Lasioglossum fulvicorne</subject>
+      <subject>Lasioglossum laevigatum</subject>
+      <subject>Lasioglossum lativentre</subject>
+      <subject>Lasioglossum leucopus</subject>
+      <subject>Lasioglossum leucozonium</subject>
+      <subject>Lasioglossum malachurum</subject>
+      <subject>Lasioglossum minutissimum</subject>
+      <subject>Lasioglossum morio</subject>
+      <subject>Lasioglossum parvulum</subject>
+      <subject>Lasioglossum pauxillum</subject>
+      <subject>Lasioglossum punctatissimum</subject>
+      <subject>Lasioglossum villosulum</subject>
+      <subject>Lasioglossum xanthopus</subject>
+      <subject>Nomada fabriciana</subject>
+      <subject>Nomada flava</subject>
+      <subject>Nomada flavoguttata</subject>
+      <subject>Nomada goodeniana</subject>
+      <subject>Nomada ruficornis</subject>
+      <subject>Osmia bicornis</subject>
+      <subject>Sphecodes ephippius</subject>
+      <subject>Sphecodes miniatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-07</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.R7122</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>12465 bytes</size>
+      <size>473817 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">File 'UKbees_mitogenomes_of_48_species_20150529.gb' (GenBank format) contains the mitochondrial assemblies of the 48 bee species.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

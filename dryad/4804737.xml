@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804737</identifier><datestamp>2015-03-03T20:37:15Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.Q75P2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hume, Benjamin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wiedenmann, Joerg</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Multiple sequence alignment of psba(ncr) DNA sequences from Symbiodinium thermophilum and closely related Symbiodinium spp.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>CORAL REEFS</subject>
+      <subject>MOLECULAR ECOLOGY</subject>
+      <subject>CLASSIFICATION AND TAXONOMY</subject>
+      <subject>PHYLOGENETICS</subject>
+      <subject>Persian/Arabian Gulf</subject>
+      <subject>Gulf of Oman</subject>
+      <subject>Cenozoic</subject>
+      <subject>Symbiodinium thermophilum</subject>
+      <subject>Symbiodinium spp.</subject>
+      <subject>Porites lobata</subject>
+      <subject>Porites lutea</subject>
+      <subject>Porites harrisoni</subject>
+      <subject>Acropora downingi</subject>
+      <subject>Cyphastrea microphthalma</subject>
+      <subject>Favia pallida</subject>
+      <subject>Platygyra daedalea</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.Q75P2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>205702 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file is a multiple sequence alignment of partial chloroplast psbA non coding region genes from Symbiodinium thermophilum and other closely related species of Symbiodinium. It is in a FASTA format. The first 22 Symbiodinium sequences were obtained from algae within Porites spp. corals from the Persian/Arabian gulf. The host identity, specific collection location and host species for each sample are detailed in the supplementary materials of the associated paper. The alignment was implemented using ClustalW but heavily modified manually. Reference sequences are included in the alignment. These are available in Genbank as detailed in the associated paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

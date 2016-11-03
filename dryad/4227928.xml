@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4227928</identifier><datestamp>2015-01-05T20:06:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D8810/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Igic, Branislav</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fecheyr-Lippens, Daphne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Xiao, Ming</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chan, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hanley, Daniel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brennan, Patricia R. L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Grim, Tomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Waterhouse, Geoffrey I. N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hauber, Mark E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shawkey, Matthew D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Contrast gloss</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Eggshell</subject>
+      <subject>gloss</subject>
+      <subject>iridescence</subject>
+      <subject>nanostructure</subject>
+      <subject>structural colour</subject>
+      <subject>Tinamou</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.D8810</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>17060 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data for Hunter's contrast gloss measurements collected using a spectrophotometer. Spreadsheet contains specular and diffuse reflectance measurements for four tinamou species and an Araucana chicken.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

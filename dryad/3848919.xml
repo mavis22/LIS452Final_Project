@@ -1,0 +1,59 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3848919</identifier><datestamp>2015-10-03T06:31:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.M1M50/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Iverson, Aaron L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mar&#237;n, Linda E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ennis, Katherine K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gonthier, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Connor-Barrie, Benjamin T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Remfert, Jane L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cardinale, Bradley J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Perfecto, Ivette</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Log response ratios of observations included in meta-analysis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>additive design</subject>
+      <subject>substitutive design</subject>
+      <subject>agroecosystems</subject>
+      <subject>biological control</subject>
+      <subject>intercropping</subject>
+      <subject>multifunctionality</subject>
+      <subject>yield</subject>
+      <subject>polyculture</subject>
+      <subject>ecosystem services</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.M1M50</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27784 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Log response ratios of biocontrol and primary crop yield for every observation included in meta-analysis.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

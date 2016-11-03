@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1227156</identifier><datestamp>2014-05-30T06:01:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1M2P3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chia, Joanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Goh, Germaine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Racine, Victor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ng, Susanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kumar, Pankaj</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bard, Frederic</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: RNAi screening reveals a large signaling network controlling the Golgi apparatus in human cells</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Golgi</subject>
+      <subject>glycosylation</subject>
+      <subject>signaling</subject>
+      <subject>RNAi screening</subject>
+      <subject>imaging</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Chia J, Goh G, Racine V, Ng S, Kumar P, Bard F (2012) RNAi screening reveals a large signaling network controlling the Golgi apparatus in human cells. Molecular Systems Biology 8: 629.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1M2P3/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1M2P3/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/MSB.2012.59</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

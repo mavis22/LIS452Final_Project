@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6454590</identifier><datestamp>2015-09-18T16:21:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.56F1H/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Moret, Fabrice</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Reiff, Charlotte M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lagr&#232;ze, Wolf A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bach, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Fundus image sequences</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>retina</subject>
+      <subject>fundus</subject>
+      <subject>retinal blood flow</subject>
+      <subject>intracranial pressure</subject>
+      <subject>pulsation</subject>
+      <subject>spontaneous venous pulsation</subject>
+      <subject>spontaneous retinal venous pulsation</subject>
+      <subject>scanning laser opthalmoscope</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.56F1H</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>118581675 bytes</size>
+      <size>1620 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">12 Fundus image sequences recorded in 12 young (age 22-31) healthy subjects with a scanning laser ophthalmoscope under near-infrared illumination. Sequences of 5.0 to 5.5 s length, collected at 9 images/s, resulting in 45 to 50 images trimmed to vertical bands (386 x 768 pixels) centered on optic nerve head. Data provided as zipped uncompressed TIFF stacks files</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

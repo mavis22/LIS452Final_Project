@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82294</identifier><datestamp>2015-10-26T20:07:13Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7881</identifier>
+  <creators>
+      <creator>
+         <creatorName>Burleigh, J. Gordon</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bansal, Mukul S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eulenstein, Oliver</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hartmann, Stefanie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wehe, Andr&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vision, Todd J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome-scale phylogenetics: inferring the plant tree of life from 18,896 gene trees</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>phylogenomics</subject>
+      <subject>gene tree parsimony</subject>
+      <subject>gene tree &#8211; species tree reconciliation</subject>
+      <subject>plant phylogeny</subject>
+      <subject>Plantae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Burleigh JG, Bansal MS, Eulenstein O, Hartmann S, Wehe A, Vision TJ (2010) Genome-scale phylogenetics: inferring the plant tree of life from 18,896 gene trees. Systematic Biology 60(2): 117-125.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7881/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1093/SYSBIO/SYQ072</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

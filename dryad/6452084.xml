@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6452084</identifier><datestamp>2015-09-01T14:12:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.FV6FN/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cherry, Julia A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ramseur Jr., George S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sparks, Eric L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cebrian, Just</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Weeks Bay Water Level Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>coastal wetlands</subject>
+      <subject>experimental manipulation</subject>
+      <subject>flooding</subject>
+      <subject>inundation depth</subject>
+      <subject>inundation time</subject>
+      <subject>mesocosms</subject>
+      <subject>water level</subject>
+      <subject>Weeks Bay</subject>
+      <subject>Alabama</subject>
+      <subject>United States of America</subject>
+      <subject>30.41677N</subject>
+      <subject>87.825193W</subject>
+      <subject>30.416566N</subject>
+      <subject>87.824937W</subject>
+      <subject>30.421562N</subject>
+      <subject>87.828024W</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.FV6FN</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>248458 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The data file includes water levels (m) collected in the field from three restored marshes at Weeks Bay National Estuarine Research Reserve in Baldwin County, Alabama, USA. Data were collected for low, intermediate, and high flooding scenarios using water level recorders (Levelogger &amp; Barologger Model 3001 Edge F15/M5, Solinist Canada Ltd., Ontario, Canada) from which data were exported to MS Excel. A total of 10 water level recorders were deployed, including a control and two weirs for all three flooding scenarios and a weir control from the high flooding scenario. Water levels are relative to the soil surface (0m); NAVD88 elevations (m) for the position of the water level recorders are provided when available (NA = Not Available).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

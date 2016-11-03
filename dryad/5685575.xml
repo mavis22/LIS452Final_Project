@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5685575</identifier><datestamp>2015-05-21T20:14:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.67SJ1/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kropatsch, Regina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Melis, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vik Stronen, Astrid</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jensen, Henrik</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Epplen, Joerg T.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kropatsch et al 2015 Norwegian Lundehund Y mtDNA genetic data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Norwegian Lundehund</subject>
+      <subject>ancestors</subject>
+      <subject>mtDNA</subject>
+      <subject>Y chromosome</subject>
+      <subject>polydactyly</subject>
+      <subject>sex identification Subject area: Genomics and gene mapping</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-05-20</date>
+      <date dateType="Accepted">2015-04-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.67SJ1</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>25683 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-05-20</rights>
+  <descriptions>
+      <description descriptionType="Other">Excel file containing genotypes of three variable mitochondrial DNA (mtDNA) sites in the ATP synthase subunit 6 gene, a 3&#8217;portion of ATP synthase subunit 8 gene and a portion of D-loop sequence as well as of nine Y-chromosomal markers (five single nucleotide polymorphisms (SNPs) and four microsatellites) in 57 Norwegian Lundehund individuals sorted by gender (m: male, f: female). The genotypes of the mtDNA sites and the Y-chromosomal SNPs show the nucleotide identified at the respective position. The genotypes of Y-chromosomal microsatellites are given as fragment lengths. For mtDNA and Y-chromosomal SNPs exchange positions are indicated according to the mtDNA reference sequence or Embl accession numbers, respectively. For Y-chromosomal microsatellites, simple repeat motifs are shown. Missing genetic data is indicated as &#8220;-&#8220;.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

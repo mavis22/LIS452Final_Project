@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1727214</identifier><datestamp>2014-05-30T02:26:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.812T1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hausch, Stephen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shurin, Jonathan B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Matthews, Blake</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Variation in body shape across species and populations in a radiation of Diaptomid copepods</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Variance partitioning</subject>
+      <subject>Interspecific</subject>
+      <subject>interpopulation</subject>
+      <subject>Intraspecific</subject>
+      <subject>Morphometric</subject>
+      <subject>Cryptic niche</subject>
+      <subject>phenotypic diversity</subject>
+      <subject>British Columbia</subject>
+      <subject>Holocene</subject>
+      <subject>Acanthodiaptomus denticornis</subject>
+      <subject>Hesperodiaptomus franciscanus</subject>
+      <subject>Leptodiaptomus ashlandi</subject>
+      <subject>Leptodiaptomus tyrrelli</subject>
+      <subject>Skistodiaptomus oregonensis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hausch S, Shurin JB, Matthews B (2013) Variation in body shape across species and populations in a radiation of Diaptomid copepods. PLoS ONE 8(6): e68272.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.812T1/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0068272</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

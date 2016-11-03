@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3903046</identifier><datestamp>2014-10-24T13:47:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TN0F3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adamski, Marcin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leininger, Sven</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Liu, Jing</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergum, Brith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Adamska, Maja</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sycon ciliatum genome</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <dates>
+      <date dateType="Accepted">2014-10-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TN0F3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>87591870 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Sycon ciliatum genome assembly freeze 02.08.2013. The assembly was generated using two (360bp and 530bp) paired-end libraries and several mate-pair libraries ranging from 2.0 to 9.0 kb. Assembly was performed using SOAPdenovo2 and scaffolding using SSPACE v2.2. Genomic scaffolds of sponge origin (as opposed to those derived from associated organisms) were identified by aligning the resulting assembly to reads from an Illumina sequenced library obtained from laboratory grown, eukaryotic- contamination free juveniles.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

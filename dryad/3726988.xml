@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3726988</identifier><datestamp>2015-01-13T21:10:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RG8D4/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kervinen, Matti</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lebigre, Christophe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alatalo, Rauno V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siitari, Heli</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Soulsbury, Carl D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Kervinen_et_al_age_and_traits_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Ecology: behavioral</subject>
+      <subject>Ecology: evolutionary</subject>
+      <subject>Fitness</subject>
+      <subject>Lekking</subject>
+      <subject>Life history: aging</subject>
+      <subject>Life history: trade offs</subject>
+      <subject>Senescence</subject>
+      <subject>Bird</subject>
+      <subject>long-term data</subject>
+      <subject>Tetrao tetrix</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RG8D4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>339121 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This package contains the data from: Life history differences in age-dependent expressions of multiple ornaments and behaviors in a lekking bird, by Kervinen, Matti, Lebigre, Christophe, Alatalo, Rauno V., Siitari, Heli, and Soulsbury, Carl D. 'Kervinen_et_al_all_data.xlsx' is the complete data set used in all but the senescence analyses, where 'Kervinen_et_al_senescence_data.xlsx' was used instead. Variable descriptions are given in the metafiles 'Kervinen_et_al_all_data_metafile.xlsx' and 'Kervinen_et_al_senescence_data.xlsx', respectively.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

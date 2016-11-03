@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4804748</identifier><datestamp>2015-03-13T20:50:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2Q840/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Thompson, Kenneth A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Husband, Brian C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Maherali, Hafiz</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Competition experiment biomass data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>addition series</subject>
+      <subject>competition</subject>
+      <subject>determinants of plant community diversity and structure</subject>
+      <subject>drought</subject>
+      <subject>fireweed</subject>
+      <subject>polyploidy</subject>
+      <subject>response surface</subject>
+      <subject>water stress</subject>
+      <subject>Rocky Mountains</subject>
+      <subject>Alberta</subject>
+      <subject>British Colombia</subject>
+      <subject>Canada</subject>
+      <subject>Chamerion angustifolium</subject>
+      <subject>Epilobium angustifolium</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2Q840</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>31925 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">These are the data used to analyze the results of the competition experiment. The dataset does not include phenology data analyzed in the supplementary materials. This data can be accessed by contacting the corresponding author directly (Ken Thompson, kthomp1063@gmail.com).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

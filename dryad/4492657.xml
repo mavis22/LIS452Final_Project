@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4492657</identifier><datestamp>2014-12-31T18:17:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.96M2C/6</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sobel, James M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Streisfeld, Matthew A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>hybrid_viability</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Biological Species Concept</subject>
+      <subject>ecogeographic isolation</subject>
+      <subject>pollinator isolation</subject>
+      <subject>premating barriers</subject>
+      <subject>postmating barriers</subject>
+      <subject>San Diego</subject>
+      <subject>CA</subject>
+      <subject>USA</subject>
+      <subject>Mimulus aurantiacus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.96M2C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4547 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">hybrid_viability_readme&#13;
+&#13;
+This file contains data used to calculate intrinsic postzygotic isolation due to relative hybrid viability in "STRONG PREMATING REPRODUCTIVE ISOLATION DRIVES INCIPIENT SPECIATION IN MIMULUS AURANTIACUS" Sobel and Streisfeld, Evolution&#13;
+&#13;
+each row represents a specific cross, and 32 offspring were assayed per cross&#13;
+&#13;
+the columns represent: 1) the combination of populations involved in the cross (see key below), 2) the category of the cross, 3) the number of individuals that germinated out of 32, 4) the frequency of germination, 5) the number of dead individuals out of 32, 6) the frequency of mortality, 7) the frequency that survived&#13;
+&#13;
+key to population_combo&#13;
+&#13;
+1 = red ecotype; ucsd population&#13;
+2 = red ecotype; elf population&#13;
+3 = red ecotype; lh population&#13;
+4 = yellow exotype; lo population&#13;
+5 = yellow ecotype; pct population&#13;
+6 = yellow ecotype; potr population</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

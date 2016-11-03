@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3908559</identifier><datestamp>2014-11-13T19:58:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.37N69/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Davis, Stacy C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Burkle, Laura A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cross, Wyatt F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cutting, Kyle A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Plant data 2011</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>grasslands</subject>
+      <subject>cattle</subject>
+      <subject>arthropods</subject>
+      <subject>habitat management</subject>
+      <subject>soil moisture</subject>
+      <subject>Red Rock Lakes National Wildlife Refuge</subject>
+      <subject>Montana</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.37N69</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>41112 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Aboveground plant biomass data for wet meadows in 2011 that has been scaled up to g/m2. Separated by grass, forbs, rush, iris, and woody vegetation. Graminoid scaled up is rush and grass data added together. Data was collected in the field.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

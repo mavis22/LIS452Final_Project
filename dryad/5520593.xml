@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5520593</identifier><datestamp>2015-03-24T15:09:21Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.0QR3G/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Haddeland, Peter J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Junge, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Serbezov, Dimitar</creatorName>
+      </creator>
+      <creator>
+         <creatorName>V&#248;llestad, Leif A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Haddeland et al._genotypes_and_metadata</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genotypes</subject>
+      <subject>microsatellites</subject>
+      <subject>parentage</subject>
+      <subject>S&#248;re Skott&#229;e</subject>
+      <subject>Lake Lesjaskogsvatnet</subject>
+      <subject>Norway</subject>
+      <subject>Thymallus thymallus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.0QR3G</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>197381 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">the excel file contains 2 sheets: sheet1 contains a description of the data in sheet2, sheet2 contains the microsatellite genotypes, length and sex information for 994 individuals of Thymallus thymallus</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

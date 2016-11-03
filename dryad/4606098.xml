@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4606098</identifier><datestamp>2015-02-27T20:02:19Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7S7S7/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bell, Rayna C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Drewes, Robert C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zamudio, Kelly R.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SNAPP Input File</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Hyperolius</subject>
+      <subject>phylogenomics</subject>
+      <subject>RADseq</subject>
+      <subject>S&#227;o Tom&#233;</subject>
+      <subject>Pr&#237;ncipe</subject>
+      <subject>Gabon</subject>
+      <subject>Hyperolius molleri</subject>
+      <subject>Hyperolius thomensis</subject>
+      <subject>Hyperolius cinnamomeoventris</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.7S7S7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19723 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This xml file contains SNP data at 467 loci for 5 samples of Hyperolius molleri from S&#227;o Tom&#233;,  5 samples of H.  molleri from Pr&#237;ncipe, 5 H. thomensis from S&#227;o Tom&#233;, and  6 samples of the out group H. cinnamomeoventris from Gabon. The dataset includes biallelic SNPs present in at least two individuals in each of the four lineages. Homozygous positions indicated by 0 or 2, heterozygous positions indicated by 1, missing data indicated by &#8220;-&#8220;.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

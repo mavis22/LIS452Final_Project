@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2097771</identifier><datestamp>2014-05-30T05:49:27Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.50003</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tulbure, Mirela G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Broich, Mark</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Spatiotemporal dynamic of surface water bodies using Landsat time-series data from 1999 to 2011</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Surface water body detection time series</subject>
+      <subject>Intra annual variability</subject>
+      <subject>Inter annual variability</subject>
+      <subject>Optical remote sensing</subject>
+      <subject>Large area wetland inventory</subject>
+      <subject>Swan Coastal Plain</subject>
+      <subject>Western Australia</subject>
+      <subject>Long term trends</subject>
+      <subject>Swan Coastal Plain; Western Australia; Australia</subject>
+      <subject>n/a</subject>
+      <subject>n/a</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Tulbure MG, Broich M (2013) Spatiotemporal dynamic of surface water bodies using Landsat time-series data from 1999 to 2011. Dryad Digital Repository. ISPRS Journal of Photogrammetry and Remote Sensing 79: 44-52.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.50003/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1016/J.ISPRSJPRS.2013.01.010</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

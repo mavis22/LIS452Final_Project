@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6797770</identifier><datestamp>2015-10-12T18:58:57Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.13BD2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Unger, Gregor</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heuertz, Myriam</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vendramin, Giuseppe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Robledo-Arnuncio, Juan</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Nuclear and chloroplast microsatellite genotypes of open-pollinated seeds and naturally established seedlings in Pinus pinaster at Fuencaliente (Ciudad Real, Spain)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Ecological Genetics</subject>
+      <subject>Forest Management</subject>
+      <subject>Natural Selection and Contemporary Evolution</subject>
+      <subject>Fuencaliente 38.418549N  4.253346W</subject>
+      <subject>Pinus pinaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.13BD2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>117892 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">One line per combined nuclear-chloroplast individual genotype, comprising 12 nSSR diploid loci and 6 cpSSR haploid regions. For nSSR, the two alleles at each locus are listed in consecutive columns. Missing data coded with zeros.  Samples collected in the field. DNA extracted with Invisorb DNA Plant HTS 96 Kit. Electrophoresis of amplified products with LI-COR 4300 DNA Analyzer for cpSSRs, and 3130xL and 3500 Genetic Analyzers (Applied Biosystems) for nSSRs. Fragment size determination through visual inspection using external size markers and reference samples with known allele size for cpSSR, and internal size standard and GeneMapper software (Applied Biosystems) for nSSR. The reference adult genotypes used in the study are available at http://dx.doi.org/10.5061/dryad.pq6hg.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

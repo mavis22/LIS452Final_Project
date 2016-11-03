@@ -1,0 +1,60 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4146992</identifier><datestamp>2014-12-30T19:19:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DR216</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ghai, Rohit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mizuno, Carolina M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Picazo, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Camacho, Antonio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodriguez-Valera, Francisco</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Key roles for freshwater Actinobacteria revealed by deep metagenomic sequencing</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Metagenomics</subject>
+      <subject>Actinobacteria</subject>
+      <subject>Freshwater reservoir</subject>
+      <subject>Rhodopsins</subject>
+      <subject>Lignin Degradation</subject>
+      <subject>Cyanobacteria</subject>
+      <subject>Flow Cytometry</subject>
+      <subject>Fluorescence in situ hybridization</subject>
+      <subject>Spain</subject>
+      <subject>USA</subject>
+      <subject>Brazil</subject>
+      <subject>Panama</subject>
+      <subject>Sweden</subject>
+      <subject>actinobacterium acAMD-2</subject>
+      <subject>actinobacterium acAMD-5</subject>
+      <subject>actinobacterium acAcidi</subject>
+      <subject>actinobacterium acIB-AMD-6</subject>
+      <subject>actinobacterium acIB-AMD-7</subject>
+      <subject>actinobacterium acMicro-1</subject>
+      <subject>actinobacterium acMicro-4</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ghai R, Mizuno CM, Picazo A, Camacho A, Rodriguez-Valera F (2014) Key roles for freshwater Actinobacteria revealed by deep metagenomic sequencing. Molecular Ecology 23(24): 6073-6090.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DR216/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DR216/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DR216/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.DR216/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12985</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

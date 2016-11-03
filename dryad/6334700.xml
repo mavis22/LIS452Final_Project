@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6334700</identifier><datestamp>2015-06-29T19:10:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.43MD3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Leempoel, Kevin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parisod, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Geiser, C&#233;line</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dapr&#224;, Lucas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vittoz, Pascal</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Joost, St&#233;phane</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from "Very high resolution digital elevation models: are multi-scale derived variables ecologically relevant?"</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Digital Elevation Models</subject>
+      <subject>Multi-scale analysis</subject>
+      <subject>Very High Spatial Resolution</subject>
+      <subject>Temperature and Humidity Loggers</subject>
+      <subject>Landolt&#8217;s Ecological Indicators</subject>
+      <subject>Generalized Linear Models</subject>
+      <subject>Local Scale</subject>
+      <subject>Les Rochers-de-Naye</subject>
+      <subject>Swiss Western Alps</subject>
+      <subject>46&#176;26&#8217;00&#8217;&#8217; N</subject>
+      <subject>6&#176;58&#8217;50&#8217;&#8217; E</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.43MD3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1989343 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This archive contains the original data from the Digital Elevation Model (DEM) and the measurements of Soil Moisture, Direct Temperature, Ambient Temperature, Ambient Humidity and Landolt Factors used in for the paper. The archive also contains the original R script of the multivariate models.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

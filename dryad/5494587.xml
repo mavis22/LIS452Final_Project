@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5494587</identifier><datestamp>2015-06-02T18:43:25Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.PD730/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mommer, Liesje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Padilla, Francisco M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Ruijven, Jasper</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smit-Tiekstra, Annemiek</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Caluwe, Hannie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berendse, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Kroon, Hans</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Mommer et al 2015 FE - Minirhizotron data from biodiversity experiment</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>biodiversity experiment</subject>
+      <subject>minirhizotron</subject>
+      <subject>root mortality</subject>
+      <subject>root turnover</subject>
+      <subject>root decomposition</subject>
+      <subject>belowground overyielding</subject>
+      <subject>grassland species</subject>
+      <subject>Anthoxanthum odoratum; Festuca rubra; Leucanthemum vulgare; Plantago lanceolata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.PD730</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>89383 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on root standing biomass and total root length of four grassland species growing in monocultures and 4 species mixtures in the Nijmegen Phytotron. From minirhizotron images over three years we calculated root length production and root length loss for these plant communities.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

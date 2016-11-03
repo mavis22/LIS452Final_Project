@@ -1,0 +1,50 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4454560</identifier><datestamp>2015-01-13T18:38:42Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QC6NV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Lyly, Mari S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Villers, Alexandre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koivisto, Elina</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Helle, Pekka</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ollila, Tuomo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Korpim&#228;ki, Erkki</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Observed game abundances and estimated eagle densities in Finland, 1989-2011</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>red fox</subject>
+      <subject>pine marten</subject>
+      <subject>grouse</subject>
+      <subject>golden eagle</subject>
+      <subject>Finland</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-01-05</date>
+      <date dateType="Accepted">2015-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QC6NV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2062391 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-01-05</rights>
+  <descriptions>
+      <description descriptionType="Other">File contains data from Finnish wildlife triangle census (winters 1989-2011) and the yearly estimated eagle densities at these census triangle locations. triangleID= the identifier of an individual triangle. mhare= observed tracks of mountain hare. rfox= observed tracks of red fox. pmarten= observed tracks of pine marten. grouse= sightings of grouse (sum of capercaillie, black grouse, willow grouse and hazel grouse). accday= accumulation of snow tracks in days. dnn= distance to nearest active eagle nest. forest= percentage of forest in landscape within 5 km radius (CORILIS). farm= percentage of farmland in landscape within 5 km radius (CORILIS). terrdens= estimated density of active golden eagle territories (number refers to sigma used in the smoothing). fledgedens= estimated density of golden eagle fledglings in the previous year (number refers to sigma used in the smoothing).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

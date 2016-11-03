@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6896932</identifier><datestamp>2015-11-13T15:34:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.RP3D0/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McGhee, Katie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Feng, Sally</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leasure, Sagan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bell, Alison</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>McGhee_etal_paternal_care_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>predator stress</subject>
+      <subject>differential allocation</subject>
+      <subject>maternal effects</subject>
+      <subject>parental care</subject>
+      <subject>transgenerational plasticity</subject>
+      <subject>threespined stickleback</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.RP3D0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2463 bytes</size>
+      <size>1673 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-10-21T17:02:21Z (GMT). No. of bitstreams: 2
+McGhee_etal_paternal_care_data.csv: 2463 bytes, checksum: aa8325cb22ec04b0fd30cb3850df1529 (MD5)
+README.rtf: 1673 bytes, checksum: 1d4fa1bf7c10925541c31e66c82b38a9 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

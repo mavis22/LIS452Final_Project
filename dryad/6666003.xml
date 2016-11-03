@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6666003</identifier><datestamp>2015-08-17T13:56:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.38F3N/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sorensen, Marjorie C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jenni-Eiermann, Susanne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Spottiswoode, Claire N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Zambian great reed warbler field data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>great reed warbler</subject>
+      <subject>Palearctic-African migrants</subject>
+      <subject>winter</subject>
+      <subject>non-breeding</subject>
+      <subject>song function</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.38F3N</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4382 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  <descriptions>
+      <description descriptionType="Other">This file consists of data collected from great reed warblers at a Zambian study site. Information includes individual sex, wing length, weight, spring migration departure dates, whether individuals sang in Zambia or not, average song duration, song interval, song rate, syllable repertoire size, the number of syllable repeats, scaled mass index, testosterone plasma concentration, the average proportion of home range overlap with other individuals, and the number of other individual home ranges they overlapped with.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

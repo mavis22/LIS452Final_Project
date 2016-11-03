@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5541535</identifier><datestamp>2015-03-19T15:07:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B6S6Q/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>B&#233;r&#233;nos, Camillo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ellis, Philip A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pilkington, Jill G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, S. Hong</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gratten, Jake</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pemberton, Josephine M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Annual fitness dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genetic architecture</subject>
+      <subject>genomics</subject>
+      <subject>GWAS</subject>
+      <subject>genome partitioning</subject>
+      <subject>body size</subject>
+      <subject>admixture</subject>
+      <subject>St Kilda</subject>
+      <subject>Scotland</subject>
+      <subject>Ovis aries</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2019-06-11</date>
+      <date dateType="Accepted">2015-03-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.B6S6Q</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>337228 bytes</size>
+      <size>5105 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2019-06-11</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-03-19T15:02:45Z (GMT). No. of bitstreams: 2
+annual fitness dryad.txt: 337228 bytes, checksum: 5ece985c00b67941b0824d715036d747 (MD5)
+README.txt: 5105 bytes, checksum: 8870d251cfb828b8464b62d47210a0da (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

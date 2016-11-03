@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6587412</identifier><datestamp>2015-08-11T15:39:07Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.V7817/4</identifier>
+  <creators>
+      <creator>
+         <creatorName>Dearlove, Bethany L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Frost, Simon D. W.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>treeImbalance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>tree shape</subject>
+      <subject>asymmetry</subject>
+      <subject>tree balance</subject>
+      <subject>RNA viruses</subject>
+      <subject>phylogenetics</subject>
+      <subject>population structure</subject>
+      <subject>contact rates</subject>
+      <subject>phylodynamics</subject>
+      <subject>epidemiology</subject>
+      <subject>HIV</subject>
+      <subject>ebola virus</subject>
+      <subject>influenza H5N1</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.V7817</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>6924 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">An R package containing the functions used for detecting asymmetry as described in the paper.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

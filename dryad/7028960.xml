@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7028960</identifier><datestamp>2015-11-23T17:15:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K9C31/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hoffmann, Ary A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Ailie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Griffin, Philippa C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hangartner, Sandra B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>08 Hoffmann &amp; Shirriffs 2002, Wing traits</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate adaptation</subject>
+      <subject>species distribution</subject>
+      <subject>cline</subject>
+      <subject>Australia</subject>
+      <subject>1924-2012</subject>
+      <subject>Drosophila</subject>
+      <subject>Scaptodrosophila</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-23</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K9C31</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>84628 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file contains x and y coordinates of nine landmarks for wings and different traits related to wing shape for 19 Drosophila serrata populations collected in 2001. Measurements were taken for up to 10 isofemale lines per population. Wing_aspect was defined as wing length (the linear distance between landmarks 3 and 6) divided by the square root of wing area (here taken to be centroid size). Angle (outer-wing aspect) was defined as the angle between the vectors from landmarks 2 and 8 and the vector between landmarks 4 and 8. Wing proportion (outer_wing aspect) was defined as the linear distance between landmarks 2 and 4 divided by wing length (Fig. 2). Note longitudes in data are approximate. When using this data, please cite the original publication:&#13;
+Hoffmann, Ary A. and Shirriffs, Jennifer (2002). Geographic variation for wing shape in Drosophila serrata. Evolution 56: 1068-1073</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

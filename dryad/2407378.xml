@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2407378</identifier><datestamp>2015-03-05T07:30:24Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.DG367/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Merilaita, Sami</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dimitrova, Marina</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Search times for background-matching prey</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>camouflage</subject>
+      <subject>crypsis</subject>
+      <subject>inaccurate background matching</subject>
+      <subject>predation</subject>
+      <subject>prey</subject>
+      <subject>protective coloration</subject>
+      <subject>search image</subject>
+      <subject>Cyanistes caeruleus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-01-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.DG367</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4890 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data on blue tits' (Cyanistes caeruleus) search times for artificial, cryptic prey items on two different backgrounds (a or b). The colour pattern of the prey consisted of 4 black shapes, but the prey differed with respect to how closely they resembled the patterning of the two backgrounds. The number of elements that match backgrounds a and b are used to describe prey appearance. Thus for example 3:1 means that the prey had 3 shapes that were found in background a and 1 shape that was found in background b. Each of the 70 birds received 12 subsequent presentations of one prey type and in one background type only. The data show the 12 search times (in seconds) for each individual (s1, s2,...s12).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

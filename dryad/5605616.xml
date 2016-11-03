@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5605616</identifier><datestamp>2015-05-28T18:37:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6K2QM</identifier>
+  <creators>
+      <creator>
+         <creatorName>Michaelides, Sozos N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>While, Geoffrey M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zajac, Natalia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Uller, Tobias</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Widespread primary, but geographically restricted secondary, human introductions of wall lizards, Podarcis muralis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Colonization pathways</subject>
+      <subject>approximate Bayesian computation</subject>
+      <subject>networks</subject>
+      <subject>microsatellites</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>lizard</subject>
+      <subject>England</subject>
+      <subject>Italy</subject>
+      <subject>France</subject>
+      <subject>Podarcis muralis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Michaelides SN, While GM, Zajac N, Uller T (2015) Widespread primary, but geographically restricted secondary, human introductions of wall lizards, Podarcis muralis. Molecular Ecology 24(11): 2702-2714.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6K2QM/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6K2QM/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13206</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,71 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6351757</identifier><datestamp>2015-07-10T15:29:51Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GF774/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kerr, Jeremy T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pindar, Alana</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Galpern, Paul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Packer, Laurence</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Roberts, Stuart M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rasmont, Pierre</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schweiger, Oliver</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colla, Sheila R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richardson, Leif L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wagner, David L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gall, Lawrence F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sikes, Derek S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pantoja, Alberto</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data and R scripts to reproduce figures and analyses appearing in Kerr, Pindar, Galpern et al., 2015. Science.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>climate change</subject>
+      <subject>pollinators</subject>
+      <subject>bumble bees</subject>
+      <subject>North America</subject>
+      <subject>Europe</subject>
+      <subject>Bombus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.GF774</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5662695 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This ZIP archive contains five files.  These are a documented R script and the necessary data files required to reproduce figures and analyses appearing in this article.  Please see the file analysisScript_KerrPindarGalpern_etal_Science_2015.R for instructions.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

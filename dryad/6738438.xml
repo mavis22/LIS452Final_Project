@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6738438</identifier><datestamp>2015-09-25T14:54:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.75V7C/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Chang-Yang, Chia-Hao</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sun, I-Fang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tsai, Cheng-Han</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lu, Chia-Ling</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hsieh, Chang-Fu</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Monthly climate data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>El Ni&#241;o Southern Oscillation</subject>
+      <subject>Fushan Forest Dynamics Plot</subject>
+      <subject>extreme weather events</subject>
+      <subject>frost</subject>
+      <subject>Taiwan</subject>
+      <subject>Fushan</subject>
+      <subject>24.7614N</subject>
+      <subject>121.555E</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.75V7C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>8103 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the local climate data from the Fushan meteorological station and three ENSO indices. These monthly time series start from January, 2001, and end at December, 2012. The local climate data has five variables: mean temperature, maximum temperature, minimum temperature, precipitation, and irradiance. Three ENSO indices are ENSO4, ENSO34, and SOI. The ENSO indices can also be obtained from the Climate Prediction Center, NOAA.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

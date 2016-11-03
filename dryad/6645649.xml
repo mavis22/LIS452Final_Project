@@ -1,0 +1,55 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6645649</identifier><datestamp>2015-08-28T18:50:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SJ6DV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Jahnke, Marlene</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pag&#232;s, Jordi F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Alcoverro, Teresa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lavery, Paul S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McMahon, Kathryn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Procaccini, Gabriele</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Flower_data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>genetic diversity</subject>
+      <subject>heterozygosity</subject>
+      <subject>relatedness</subject>
+      <subject>kin selection</subject>
+      <subject>internal clock</subject>
+      <subject>resource budget hypothesis</subject>
+      <subject>primary production</subject>
+      <subject>herbivory</subject>
+      <subject>aquatic plant ecology</subject>
+      <subject>North West Mediterranean</subject>
+      <subject>Posidonia oceanica</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SJ6DV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1202 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains information on the ecological data collected at each patch at the three locations. In particular flower and shoot density per 40x40cm quadrat and data on herbivory, production and C and N content are provided.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

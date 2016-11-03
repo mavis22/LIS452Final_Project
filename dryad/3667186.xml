@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3667186</identifier><datestamp>2014-05-30T01:34:54Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.11P01/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Garcia-Robledo, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kuprewicz, Erin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Staines, Charles</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kress, W</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Erwin, Terry</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DNA sequences (COI) of limited quality and not deposited in GenBank (FASTA format).</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>COI</subject>
+      <subject>herbivory</subject>
+      <subject>Costa Rica</subject>
+      <subject>Heredia</subject>
+      <subject>Braulio Carrillo National Park</subject>
+      <subject>Cephaloleia</subject>
+      <subject>Bromeliaceae</subject>
+      <subject>Cephaloleia histrionica</subject>
+      <subject>Pitcairnia arcuata</subject>
+      <subject>Zingiberales</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-04-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.11P01</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

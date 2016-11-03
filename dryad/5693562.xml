@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5693562</identifier><datestamp>2015-07-10T15:44:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N48Q0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mangels, Rachel</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Young, Brent</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Keeble, Sara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ardekani, Reza</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meslin, Camille</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ferreira, Zelia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Clark, Nathan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Good, Jeffrey M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dean, Matthew D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Experimental Matings</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Copulatory Plug</subject>
+      <subject>Sexual Selection</subject>
+      <subject>Genotype</subject>
+      <subject>Phenotype</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-05-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.N48Q0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>57769 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Column headers as follows: Female=Female genotype; Male= Male genotype; Male No= Individual male's ID; Time After Split (hrs)= Time (hrs) between mating and dissection; Plug (Y/N)= Indicating if the plug was still present at time of dissection; Mating (Y/N)= Indicates if a plug was present after experimental cross; Weight of Plug (g)= The absolute mass of the plug (NA indicates non successful mating); Weight of Female (g): Weight of female at dissection; Female DOB: Female's date of birth; Dissection Date= Date female was euthanized</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3712888</identifier><datestamp>2015-09-09T21:30:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NG95T/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Palmieri, Nicola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nolte, Viola</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Chen, Jun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Schl&#246;tterer, Christian</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>SimulansM252Annotation-r1.1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Bioinfomatics</subject>
+      <subject>Genomics</subject>
+      <subject>Transcriptomics</subject>
+      <subject>Proteomics</subject>
+      <subject>Phyloinfomatics</subject>
+      <subject>Insects</subject>
+      <subject>Madagascar</subject>
+      <subject>Drosophila simulans</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-07-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NG95T.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1397 bytes</size>
+      <size>48563680 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Detailed protocol for annotation of the Drosophila simulans M252 assembly including scripts and URLs to access external programs.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

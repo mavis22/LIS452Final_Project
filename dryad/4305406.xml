@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4305406</identifier><datestamp>2014-12-08T20:03:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SB175.2/1.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Botero, Carlos A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dor, Roi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McCain, Christy M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Safran, Rebecca J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data4Dryad</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>latitudinal diversity gradients</subject>
+      <subject>climate and evolution</subject>
+      <subject>subspecies richness</subject>
+      <subject>subspeciation</subject>
+      <subject>raciation</subject>
+      <subject>Comparative Biology</subject>
+      <subject>Global coverage</subject>
+      <subject>Aves</subject>
+      <subject>Mammalia</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-11-27</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.SB175.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2319905 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">CSV file with 1 header line, 26 columns, and 9830 rows of data. Data collated from literature reviews (sources cited in the main text or in column 23). Version 2 of this data set corrects a scaling issue in the original column 18 (that is, ca. 2% of the originally reported values for BREEDING.RANGE.AREA were reported in m2 rather than km2). V2 also provides recomputed values for the composite variables derived from principal components analysis (cols. 19-22). PLEASE NOTE THAT: (i) All original values can still be accessed through v1; and (ii) this minor correction does not affect qualitatively the findings reported in our MEC paper. ABBREVIATIONS and UNITS: DISSECTED.BY.MOUNTAINS = True if breeding range is divided into two or more isolated regions by a mountain chain; LAT.RANGE = Latitudinal range; ENV.SHIELDING = Environmental shielding (1 = migratory bird or hibernating mammal); GLACIATION: 1= 20% or more of current breeding range overlap with areas glaciated in the last 21,000 years; ISLAND.DWELLING: 1 = 20% or more of the breeding range occurs on islands; HABITAT.HETEROGENEITY: number of biomes covering at least 5% of the breeding range; BODY.SIZE: Adult body size in grams; PRECIP = Precipitation (in mm); TEMP = Temperature (in degrees Celsius); NPP = Net Primary Productivity (in log10[ g carbon per yr ] ); BREEDING.RANGE.AREA = Area of the breeding distribution (in km2); ENV.HARSHNESS = Environmental harshness (Raw values for PC1); GEOGRAPHIC.COVERAGE = Raw values for PC2; RAINFALL.UNPREDICTABILITY = Raw values for PC3; RESIDUAL.BODY.SIZE = Raw Values for PC4; N.MOST.LAT = Northernmost latitude in the breeding range; S.MOST.LAT = Southernmost latitude in the breeding range; CENTROID = centroid latitude for the breeding range.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

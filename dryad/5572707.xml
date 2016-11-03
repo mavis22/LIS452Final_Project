@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5572707</identifier><datestamp>2015-04-16T18:42:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.NT18C/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Pollom, Riley A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rose, George A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>LDBS2_All_ST</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fisheries</subject>
+      <subject>hydroacoustics</subject>
+      <subject>limnology</subject>
+      <subject>freshwater ecosystems</subject>
+      <subject>ecology</subject>
+      <subject>abundance</subject>
+      <subject>Lac du Bonnet</subject>
+      <subject>Manitoba</subject>
+      <subject>Canada</subject>
+      <subject>Sander vitreus</subject>
+      <subject>Lota lota</subject>
+      <subject>Sander canadensis</subject>
+      <subject>Notropis</subject>
+      <subject>Coregonus clupeaformis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-16</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.NT18C</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>11862756 bytes</size>
+      <size>10834 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Acoustic survey data (exported single target detections) from Lac du Bonnet, Manitoba, on August 2nd, 2011</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

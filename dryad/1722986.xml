@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1722986</identifier><datestamp>2014-05-30T03:22:56Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.926ND</identifier>
+  <creators>
+      <creator>
+         <creatorName>Limpens, Juul</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Egmond, Emily</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Bingxi</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holmgren, Milena</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Do plant traits explain tree seedling survival in bogs?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>bogs</subject>
+      <subject>drought</subject>
+      <subject>mires</subject>
+      <subject>peatlands</subject>
+      <subject>seedlings</subject>
+      <subject>traits</subject>
+      <subject>trees</subject>
+      <subject>tree encroachment</subject>
+      <subject>Europe</subject>
+      <subject>USA</subject>
+      <subject>CA</subject>
+      <subject>Holocene</subject>
+      <subject>Pinus sylvestris L.</subject>
+      <subject>Picea sitchensis (Bong.) Carri&#232;re</subject>
+      <subject>Picea rubens Sarg.</subject>
+      <subject>Picea glauca (Moench) Voss</subject>
+      <subject>Pinus nigra Arnold</subject>
+      <subject>Pinus banksiana Lamb</subject>
+      <subject>Picea mariana (Mill.) Britton Sterns &amp; Poggenb.</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Limpens J, van Egmond E, Li B, Holmgren M (2014) Do plant traits explain tree seedling survival in bogs? Functional Ecology 28(1): 283-290.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.926ND/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.926ND/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.926ND/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.926ND/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.926ND/5</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/1365-2435.12148</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

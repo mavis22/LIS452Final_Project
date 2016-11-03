@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6706402</identifier><datestamp>2015-09-01T16:10:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.TQ0FT/34</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kr&#252;ger, Manuela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Teste, Fran&#231;ois P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lalibert&#233;, Etienne</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lambers, Hans</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coghlan, Megan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zemunik, Graham</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bunce, Michael</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Dataset Plant-Soil</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>dune chronosequence</subject>
+      <subject>Community Ecology</subject>
+      <subject>ecosystem development</subject>
+      <subject>nutrient limitation</subject>
+      <subject>phosphorus</subject>
+      <subject>Western Australia</subject>
+      <subject>Jurien Bay chronosequence</subject>
+      <subject>7 ka - 2 Ma</subject>
+      <subject>Glomeromycota</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.TQ0FT</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>3407 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Dataset used for the Redundancy analysis (RDA) biplot with fitted plot and forward-selected soil nutrient variables, rarefied richness of arbuscular mycorrhiza (AM) host-plant communities along the Jurien Bay dune chronosequence based on the number of individuals per plot and the relative cover (for details see Material and Method section of the paper).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

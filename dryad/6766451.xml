@@ -1,0 +1,49 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6766451</identifier><datestamp>2015-09-22T01:07:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4M897/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Campos-Navarrete, Mar&#237;a Jos&#233;</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Abdala-Roberts, Luis</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mungu&#237;a-Rosas, Miguel A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Parra-Tabla, V&#237;ctor</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Abundance herbivores of tropical trees, effects of diversity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ants</subject>
+      <subject>diet breadth</subject>
+      <subject>genotypic diversity</subject>
+      <subject>herbivores</subject>
+      <subject>protection mutualism</subject>
+      <subject>species diversity.</subject>
+      <subject>Yucat&#225;n</subject>
+      <subject>M&#233;xico</subject>
+      <subject>Swietenia macrophylla</subject>
+      <subject>Hypsipyla grandella</subject>
+      <subject>Phyllocnistis meliacella</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4M897</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>29291 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data is collected in the field,on the first column Species diversity with two levels monoculture and polyculture. Second column Genotypic diversity with two levels one maternal family and four maternal families. Rest of columns Ants, Sap feeders, leaf chewers (abundance) , H. grandella y P. meliacella (attacks as proxy of abundance)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

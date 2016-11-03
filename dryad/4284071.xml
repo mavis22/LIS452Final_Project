@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4284071</identifier><datestamp>2014-12-17T19:40:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.86GM0/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Prunier, Jerome G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Colyn, Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nimon, Kim F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Legendre, Xavier</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flamand, Marie Christine</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data and R-scripts used to get results presented in the manuscript.</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Commonality analysis</subject>
+      <subject>Multiple Regression on Distance Matrices</subject>
+      <subject>Logistic Regression on Distance Matrices</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.86GM0</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>214996 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data were simulated using CDpop. R-scripts were used in R 3.1.0.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

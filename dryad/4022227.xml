@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4022227</identifier><datestamp>2014-11-06T18:48:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MB180/10</identifier>
+  <creators>
+      <creator>
+         <creatorName>Birn-Jeffery, Aleksandra V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Higham, Timothy E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>FL_medLatDigitPositionTrajectories_U045</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>adhesive system</subject>
+      <subject>gecko</subject>
+      <subject>inclines</subject>
+      <subject>declines</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-09-29</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MB180</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>27047 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-09-29T20:54:22Z (GMT). No. of bitstreams: 1
+FL_medLatDigitPositionTrajectories_U045.csv: 27047 bytes, checksum: ff30ef8f8d515dc33fe9d663c7129842 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

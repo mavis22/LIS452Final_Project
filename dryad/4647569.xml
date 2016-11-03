@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4647569</identifier><datestamp>2015-08-12T20:15:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K1D8C</identifier>
+  <creators>
+      <creator>
+         <creatorName>Cusack, Rhodri</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wild, Conor J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Linke, Annika C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Arichi, Tomoki</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lee, David S. C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Han, Victor K.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Optimizing stimulation and analysis protocols for neonatal fMRI</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>fmri</subject>
+      <subject>neonate</subject>
+      <subject>infant</subject>
+      <subject>hemodynamic response function</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Cusack R, Wild CJ, Linke AC, Arichi T, Lee DSC, Han VK (2015) Optimizing stimulation and analysis protocols for neonatal fMRI. PLOS ONE 10(8): e0120202.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.K1D8C/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0120202</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

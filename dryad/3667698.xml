@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3667698</identifier><datestamp>2015-10-26T20:03:46Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.73G3D/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Tarazi, Roberto</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sebbenn, Alexandre M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kageyama, Paulo Y.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vencovsky, Roland</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>MLTR input for the edge</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>fragmentation</subject>
+      <subject>savannah</subject>
+      <subject>mating system</subject>
+      <subject>TWOGENER analysis</subject>
+      <subject>microsatellite loci</subject>
+      <subject>effective size</subject>
+      <subject>Brazil</subject>
+      <subject>S&#227;o Paulo</subject>
+      <subject>Esta&#231;&#227;o Ecol&#243;gica de Assis</subject>
+      <subject>22&#186;33&#8217;20&#8221; to 22&#186;37&#8217;41&#8221; S</subject>
+      <subject>50&#186;24&#8217;4&#8221; to 50&#186;21&#8217;27&#8221; W</subject>
+      <subject>Holocene</subject>
+      <subject>Copaifera langsdorffii</subject>
+      <subject>Fabaceae</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-01-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.73G3D</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>15449 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This file contains the genotype of eleven mothers and its progeny. The format is ready for MLTR program (Ritland, 2002).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

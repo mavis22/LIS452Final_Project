@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6222209</identifier><datestamp>2015-06-12T18:51:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.06JT7/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Houle, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Marquez, Eladio J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>HouleMarquezF3_PCscores</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>linkage disequilibirum</subject>
+      <subject>inversion</subject>
+      <subject>Drosophila melanogaster</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-06-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.06JT7</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>22622 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Supplemental File S3.  Inversion-typing of DGRP lines for the three common inversions In(2L)t, In(2R)NS, and In(3R)Mo, and heterozygosity of chromosome regions.  For each inversion: the column beginning PC1sc is the score on Principal component 1 for variants between inversion breakpoints and in disequilibrium with large number of distant sites; (see  text for explanation) . Pred is the inversion type predicted based on the PC1 scores (1=homozygous inversion, 0.5 Standard/inversion heterozygote, 0= homozygous Standard).  CDL is the combined assignments of inversion-type from Langley et al. 2012 and Corbett-Detig &amp; Hartl 2012 (1=homozygous inversion, 0= not a homozygote for the inversion, blank=not scored).  Huang indicates the assignements from Huang et al. 2014 (0= homozygous Standard, 0.5= homozygous ST/INV, 1=homozygous inversion), blank= not scored), Heterozygosity columns are the average heterozygosity for chromsome segments defined by inversion breakpoints, plus the X and arm 3L.  Heterozygosities were calculated from sites with no more than 5 missing calls in the 205 lines, and omit regions within 10kb of inversion breakpoints.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

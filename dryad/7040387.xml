@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:7040387</identifier><datestamp>2015-11-20T16:39:58Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.CK32J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Yang, Louie H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ostrovsky, Dmitry M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rogers, Matthew C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Welker, Jeffrey M.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Combined CA Monarchs SIA 2015-09-11</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>hydrogen/deuterium isotopes</subject>
+      <subject>migration</subject>
+      <subject>North America</subject>
+      <subject>Asclepias</subject>
+      <subject>Danaus plexippus</subject>
+      <subject>Ophryocystis elektroscirrha</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-11-20</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.CK32J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>63367 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Morphological wing measurements and isotope data for collected monarch butterflies. Includes basic demography, localities and Ophryocystis elektroscirrha checks. Also includes preliminary (unpublished) spectrophotometric data - these data are incomplete and should not be used.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

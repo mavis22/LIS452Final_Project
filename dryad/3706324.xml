@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3706324</identifier><datestamp>2014-10-30T16:54:39Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.K9M20/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Trisos, Christopher H.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Wayqecha Peru Bird Community Vegetation Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Community: structure</subject>
+      <subject>Competition</subject>
+      <subject>Ecology: community</subject>
+      <subject>Methods: computer simulations</subject>
+      <subject>Phylogeny</subject>
+      <subject>Neotropical bird</subject>
+      <subject>Habitat filtering</subject>
+      <subject>Vegetation</subject>
+      <subject>Andes</subject>
+      <subject>Peru</subject>
+      <subject>Holocene</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-06-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.K9M20</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1899 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Vegetation characteristics within a 20m x 20m square centered on each of the 72, 0.8 ha bird survey points from a cloudforest&#8211;grassland ecotone at Wayqecha Biological Station, Peru. Please refer to publication main text for additional details on vegetation data collection methods. Data are in .csv format. Column headings: Site: 0.8 ha survey point names. X: X coordinate on survey grid. Y: Y coordinate on survey grid. Max.canopy.height: Maximum canopy height in meters, estimated by eye. Percentage.grass.cover: Estimated by eye. Percentage.shrub.cover: Estimated by eye. Percentage.tree.cover: Estimated by eye.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

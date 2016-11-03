@@ -1,0 +1,34 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4231626</identifier><datestamp>2015-01-05T20:00:06Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.78VS2/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Anderson, Annette C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Phylogenetic tree based on the analysis of 16S rRNA gene sequences derived from oral and vaginal isolates</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>MALDI-TOF MS Analysis</subject>
+      <subject>Lactobacilli identification</subject>
+      <subject>16S rDNA sequencing</subject>
+      <subject>Germany</subject>
+      <subject>Lactobacilli</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-01-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.78VS2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1402570 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">16S rDNA sequences were aligned using the SINA plugin (ARB software package) and distances were calculated using the neighbor-joining method with Jukes-Cantor correction. Reference sequences with accession numbers are in regular type, sample sequences of vaginal isolates in bold type and of oral isolates in bold/italics type. Sample strains are named according to their identification by 16S rDNA sequencing results. Bootstrap values (from 1000 replicates) greater than 40% are shown at the branch points. The bar indicates 5% sequence divergence.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

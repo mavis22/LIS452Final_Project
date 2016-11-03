@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:81136</identifier><datestamp>2014-05-29T18:07:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1454</identifier>
+  <creators>
+      <creator>
+         <creatorName>Gonz&#225;lez-Su&#225;rez, Manuela</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Flatz, Ramona</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aurioles-Gamboa, David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hedrick, Philip W</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gerber, Leah</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Isolation by distance among California sea lion populations in Mexico: redefining management stocks</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+      <subject>Gulf of California</subject>
+      <subject>microsatellites</subject>
+      <subject>mitochondrial DNA</subject>
+      <subject>pinniped</subject>
+      <subject>population structure</subject>
+      <subject>Pacific coast Mexico</subject>
+      <subject>Gulf of California Mexico</subject>
+      <subject>Zalophus californianus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Gonz&#225;lez-Su&#225;rez M, Flatz R, Aurioles-Gamboa D, Hedrick PW, Gerber LR (2009) Isolation by distance among California sea lion populations in Mexico: redefining management stocks. Molecular Ecology 18: 1088-1099.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1454/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1454/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2009.04093.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

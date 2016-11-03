@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4027062</identifier><datestamp>2014-10-21T13:30:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J1RM6/8</identifier>
+  <creators>
+      <creator>
+         <creatorName>Martin, Simon H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Davey, John W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Jiggins, Chris D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>run_model_combinations.py</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>ABBA-BABA</subject>
+      <subject>gene flow</subject>
+      <subject>introgression</subject>
+      <subject>population structure</subject>
+      <subject>simulation</subject>
+      <subject>Heliconius melpomene amaryllis</subject>
+      <subject>Heliconius melpomene aglaope</subject>
+      <subject>Heliconius timareta thelxinoe</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-10-21</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J1RM6</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5974 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Script to generate YAML files for use by shared_ancestry_simulator.R. These can be generated as follows: ./run_model_combinations.py -m Model_parameter_list.csv -w 10000 -t 30 -s 0.01 -l 5000 -r 5&#13;
+./run_model_combinations.py -m Model_parameter_list.csv -w 10000 -t 30 -s 0.01 -l 5000 -r 50</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

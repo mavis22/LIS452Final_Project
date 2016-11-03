@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5741811</identifier><datestamp>2015-06-03T20:05:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B20T3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Latzman, Robert D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Taglialatela, Jared P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hopkins, William D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Delay of gratification is associated with white matter connectivity in the dorsal prefrontal cortex: a diffusion tensor imaging study in chimpanzees (Pan troglodytes)</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Delay of gratification</subject>
+      <subject>Diffusion tensor imaging</subject>
+      <subject>Probabilistic tractography</subject>
+      <subject>Prefrontal cortex</subject>
+      <subject>chimpanzees</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Latzman RD, Taglialatela JP, Hopkins WD (2015) Delay of gratification is associated with white matter connectivity in the dorsal prefrontal cortex: a diffusion tensor imaging study in chimpanzees (Pan troglodytes). Proceedings of the Royal Society B 282(1809): 20150764.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B20T3/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2015.0764</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

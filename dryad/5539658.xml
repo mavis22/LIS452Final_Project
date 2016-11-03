@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5539658</identifier><datestamp>2015-03-18T17:49:34Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.390T3/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Mukherjee, Ritwika</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kodandaramaiah, Ullasa</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data Set providing the recordings of time (in seconds) of birds attacking either models in two-choice based experiments</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>eyespots</subject>
+      <subject>conspicuousness</subject>
+      <subject>eye-mimicry</subject>
+      <subject>intimidation</subject>
+      <subject>startle display</subject>
+      <subject>Thiruvananthapuram</subject>
+      <subject>Kerala</subject>
+      <subject>India</subject>
+      <subject>Junonia almana</subject>
+      <subject>Gallus gallus domesticus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-03-18</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.390T3</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>19575 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The excel sheet contains raw data from 5 two-choice experiments as described in the article. The data has been collected from field observations and have been entered manually in the excel sheet. Each trial/test of an experiment describes the time (in seconds) taken by a bird to attack both models. A trial was terminated either after the bird had attacked both models or after the completion of 5 minutes, so the time does not exceed 300s in any trial. The column headings have been described in accordance with the article. Experiment 1: i. 0 vs 1 ii. 1 vs 5 &amp; iii. 0 vs 5 eyespots per hindwing; Experiment 2: Natural-sized eyespots (Area)  vs eyespots with reduced area (Area/2); Experiment 3: A pair of natural eyespots (Eyespot) vs a pair of non-eyelike patterns with the same total area (Fan); Experiment 4: A pair of symmetric eyespots (Sym = OO) vs a pair of asymmetric patterns consisting of an eyespot and a fan (Asym = OF/FO); Experiment 5: A pair of natural eyespots (Paired) vs a single eyespot with twice the area (Unpaired)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

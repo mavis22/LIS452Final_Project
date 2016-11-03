@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3504860</identifier><datestamp>2014-12-04T16:40:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.N525J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sookias, Roland B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sennikov, Andrey G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gower, David J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butler, Richard J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: The monophyly of Euparkeriidae (Reptilia: Archosauriformes) and the origins of Archosauria: a revision of Dorosuchus neoetus from the Mid-Triassic of Russia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Triassic</subject>
+      <subject>Archosauriformes</subject>
+      <subject>Euparkeriidae</subject>
+      <subject>Euparkeria</subject>
+      <subject>evolution</subject>
+      <subject>Archosauria</subject>
+      <subject>Dorosuchus</subject>
+      <subject>Russia</subject>
+      <subject>Mid-Triassic</subject>
+      <subject>Dorosuchus neoetus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sookias RB, Sennikov AG, Gower DJ, Butler RJ (2014) The monophyly of Euparkeriidae (Reptilia: Archosauriformes) and the origins of Archosauria: a revision of Dorosuchus neoetus from the Mid-Triassic of Russia. Palaeontology 57(6): 1177-1202.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N525J/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N525J/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N525J/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.N525J/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/PALA.12110</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

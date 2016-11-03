@@ -1,0 +1,62 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4551366</identifier><datestamp>2014-12-19T16:57:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1K84R/86</identifier>
+  <creators>
+      <creator>
+         <creatorName>Atzori, Manfredo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gijsberts, Arjan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Castellini, Claudio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Caputo, Barbara</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mittaz Hager, Anne-Gabrielle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Elsig, Simone</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Giatsidis, Giorgio</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bassetto, Franco</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;ller, Henning</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>DB1, Subject 1</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>electromyography</subject>
+      <subject>robotic hand control</subject>
+      <subject>hand prosthetics</subject>
+      <subject>rehabilitation robotics</subject>
+      <subject>machine learning</subject>
+      <subject>Homo sapiens</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-12-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1K84R</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2754 bytes</size>
+      <size>20692694 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2014-12-19T16:51:45Z (GMT). No. of bitstreams: 2
+README.txt: 2754 bytes, checksum: d31874d31d1c90b7a42170e8fbc5fc27 (MD5)
+DB1_s1.zip: 20692694 bytes, checksum: 76cfc6a8a6995859df11e3b03f653841 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

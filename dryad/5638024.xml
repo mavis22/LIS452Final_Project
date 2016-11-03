@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5638024</identifier><datestamp>2015-09-10T20:03:37Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P0C02/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Broquet, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barranger, Audrey</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Billard, Emmanuelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bestin, Anastasia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berger, R&#233;my</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Honnaert, Gaelle</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Viard, Fr&#233;d&#233;rique</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>fecundity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Behavior: reproductive</subject>
+      <subject>Life history: evolution</subject>
+      <subject>Mating systems</subject>
+      <subject>Reproduction: strategies</subject>
+      <subject>Sex: allocation</subject>
+      <subject>Social structure</subject>
+      <subject>Crepidula fornicata</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-04-22</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.P0C02</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>617 bytes</size>
+      <size>18030 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2015-04-22T16:23:58Z (GMT). No. of bitstreams: 2
+fecundity.txt: 617 bytes, checksum: b3c8ce8a494709723bf01f164f600516 (MD5)
+README.docx: 18030 bytes, checksum: 315331b77245925583d576023494889f (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

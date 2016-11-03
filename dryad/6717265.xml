@@ -1,0 +1,35 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6717265</identifier><datestamp>2015-09-11T00:18:03Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.QH53F/24</identifier>
+  <creators>
+      <creator>
+         <creatorName>Schutt, Steven D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fu, Jianing</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Supplementary Information</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Ibrutinib</subject>
+      <subject>chronic GVHD</subject>
+      <subject>acute GVHD</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-09-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.QH53F</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>413933 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This data file is associated with all supplementary figures and information of the accompanied publication.  This archive includes data files for S1_Fig, S2_Fig, S3_Fig, S4_Fig, S5_Fig.  Individual data files of graphs or data within each supplementary figure (e.g., A in S1_Fig) are also included.  Any relevant information for these figures, including experimental conditions and setup are included in the methods, results, or discussion section of the accompanied publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

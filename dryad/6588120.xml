@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6588120</identifier><datestamp>2015-08-11T21:39:08Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.94R7J/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bockoven, Alison A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wilder, Shawn M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Eubanks, Micky D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Colony and regional variation in fire ant foraging behavior before and after exposure to different foraging habitats</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Trade-offs</subject>
+      <subject>superorganism</subject>
+      <subject>social insects</subject>
+      <subject>invasive species</subject>
+      <subject>Solenopsis invicta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-08-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.94R7J</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>602149 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Raw data for analysis of regional and colony-level variation in fire ant foraging behavior.  Data includes fire ant foraging behavior before and after five weeks exposure to ground-level vs. elevated foraging habitat types.  Recruitment to ground-level and elevated resources, disovery and trail formation times, extra-nest activity, and exploratory activity are included, as well as weight of food collected and final colony size.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

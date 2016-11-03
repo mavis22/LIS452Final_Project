@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82818</identifier><datestamp>2014-05-30T04:47:09Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.9011/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Epp, Laura S</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stoof-Leichsenring, Kathleen R</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Trauth, Martin H</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tiedemann, Ralph</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Results_Cloning_DHPLC_GenbankAcc</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>environmental DNA</subject>
+      <subject>PCR-DHPLC</subject>
+      <subject>diatoms</subject>
+      <subject>lake sediments</subject>
+      <subject>Lake Naivasha</subject>
+      <subject>Kenya</subject>
+      <subject>Rift Valley</subject>
+      <subject>East Africa</subject>
+      <subject>recent years</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-03-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.9011</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other"/>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4224092</identifier><datestamp>2014-11-17T18:33:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.J5D33/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ruegg, Kristen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Anderson, Eric C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Paxton, Kristina L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Apkenas, Vanessa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lao, Sirena</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Siegel, Rodney B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>DeSante, David F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Frank</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Thomas B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>wibreed_rast</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Conservation Genetics</subject>
+      <subject>Birds</subject>
+      <subject>Landscape Genetics</subject>
+      <subject>Wildlife Management</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-11-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.J5D33</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>50004364 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The files wibreed_rast.nc and wiwinter_rast.nc are raster files of the range of Wilson's Warblers in the Americas. They were generated from shapefiles provided to us by BirdLife International. (BirdLife International and NatureServe (2012) Bird species distribution maps of the world. BirdLife International, Cambridge, UK and NatureServe, Arlington, USA). Persons interested in the range map should contact BirdLife International &lt;http://www.birdlife.org/&gt; or NatureServe &lt;http://www.natureserve.org/&gt; directly.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

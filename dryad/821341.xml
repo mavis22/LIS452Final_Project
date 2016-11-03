@@ -1,0 +1,43 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:821341</identifier><datestamp>2015-10-05T21:05:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1758MF7B</identifier>
+  <creators>
+      <creator>
+         <creatorName>Minckley, Thomas A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shriver, Robert K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shuman, Bryan N.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Resilience and regime change in a southern Rocky Mountain ecosystem during the past 17000 years</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Resilience</subject>
+      <subject>Regime Change</subject>
+      <subject>Pollen</subject>
+      <subject>Lake Level</subject>
+      <subject>Charcoal</subject>
+      <subject>Fire</subject>
+      <subject>Rocky Mountains</subject>
+      <subject>Holocene</subject>
+      <subject>Pinus contorta</subject>
+      <subject>Picea engelmannii</subject>
+      <subject>Abies bifolia</subject>
+      <subject>Artemisia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Minckley TA, Shriver RK, Shuman BN (2011) Resilience and regime change in a southern Rocky Mountain ecosystem during the past 17000 years. Ecological Monographs 82(1): 49-68.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1758MF7B/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1758MF7B/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1890/11-0283.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

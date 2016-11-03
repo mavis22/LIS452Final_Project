@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6345613</identifier><datestamp>2015-07-15T20:37:16Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.91ND2/2</identifier>
+  <creators>
+      <creator>
+         <creatorName>McNickle, Gordon G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Deyholos, Michael K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cahill Jr., James F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Root biomass with neighbours</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>competition</subject>
+      <subject>plant behaviour</subject>
+      <subject>plant-plant competition</subject>
+      <subject>plant foraging</subject>
+      <subject>resource selection function</subject>
+      <subject>root foraging precision</subject>
+      <subject>tragedy of the commons game</subject>
+      <subject>over-proliferation</subject>
+      <subject>Achillea millefolium</subject>
+      <subject>Artemisia ludoviciana</subject>
+      <subject>Koeleria macrantha</subject>
+      <subject>Poa pratensis</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.91ND2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>4432 bytes</size>
+      <size>1047 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This is the root biomass data recorded in patches and background soil for all four species combined when grown with neighbours. It was not possible to seperate the biomass of each species individually. Methodological details are given in the manuscript.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:5750424</identifier><datestamp>2015-07-01T20:56:49Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.74B7H.2</identifier>
+  <creators>
+      <creator>
+         <creatorName>Grbic, Djordje</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Saenko, Suzanne V.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Randriamoria, Toky M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Debry, Adrien</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Raselimanana, Achille P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Milinkovitch, Michel C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Phylogeography and support vector machine classification of colour variation in panther chameleons</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Support Vector Machine classification</subject>
+      <subject>Supervised learning</subject>
+      <subject>panther chameleon</subject>
+      <subject>colour patterns</subject>
+      <subject>Phylogeography</subject>
+      <subject>Furcifer pardalis</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Grbic D, Saenko SV, Randriamoria TM, Debry A, Raselimanana AP, Milinkovitch MC (2015) Phylogeography and support vector machine classification of colour variation in panther chameleons. Molecular Ecology 24(13): 3455-3466.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.74B7H.2/1.2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.13241</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

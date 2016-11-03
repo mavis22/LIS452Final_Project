@@ -1,0 +1,39 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6584808</identifier><datestamp>2015-08-14T14:33:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.72DK5</identifier>
+  <creators>
+      <creator>
+         <creatorName>Robles-Rubio, Carlos Alejandro</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bertolizio, Gianluca</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brown, Karen A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kearney, Robert E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Scoring tools for the analysis of infant respiratory inductive plethysmography signals</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>RIPScore</subject>
+      <subject>Manual Scoring</subject>
+      <subject>Respiratory Behavior</subject>
+      <subject>Infant</subject>
+      <subject>Respiratory Inductive Plethysmography</subject>
+      <subject>Postoperative Apnea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Robles-Rubio CA, Bertolizio G, Brown KA, Kearney RE (2015) Scoring tools for the analysis of infant respiratory inductive plethysmography signals. PLOS ONE 10(7): e0134182.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.72DK5/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0134182</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:2047833</identifier><datestamp>2015-03-17T06:30:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.45157/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fleming, Chris H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Calabrese, Justin M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mueller, Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Olson, Kirk A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Leimgruber, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fagan, William F.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_semiVarianceToIdentifyingMovementModes</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Behavior</subject>
+      <subject>Dispersal</subject>
+      <subject>Ecology: statistical</subject>
+      <subject>Modeling: stochastic spatial</subject>
+      <subject>Statistics: spatial</subject>
+      <subject>Theory</subject>
+      <subject>Grasslands</subject>
+      <subject>ungulates</subject>
+      <subject>Mongolia</subject>
+      <subject>Present</subject>
+      <subject>Procapra gutturosa</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2013-10-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.45157</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>448899 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Description of columns in data set: &#13;
+"gazelle": identifies individual gazelles.&#13;
+&#8220;time&#8221;: time is measured in seconds from the first relocation of every gazelle.&#13;
+&#8220;x&#8221;, &#8220;y&#8221;: coordinates are measured in meters from the individual mean. The projection was azimuthal equidistant centered at the population mean.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

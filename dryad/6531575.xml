@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:6531575</identifier><datestamp>2015-07-28T14:32:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.060TG/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Adams, Andrea J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>LaBonte, John P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ball, Morgan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Richards-Hrdlicka, Kathryn L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Toothman, Mary H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Briggs, Cheryl J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Adams_etal_2015_DNA_extraction_method_qPCR</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>frogs</subject>
+      <subject>amphibians</subject>
+      <subject>amphibian decline</subject>
+      <subject>natural history collections</subject>
+      <subject>disease</subject>
+      <subject>chytridiomycosis</subject>
+      <subject>DNA extraction</subject>
+      <subject>Lithobates catesbeianus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2015-07-28</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.060TG</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>5299 bytes</size>
+      <size>3434 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">The file contains all data used in the statistical analyses described in the materials and methods section &#13;
+of the paper. The dataset includes: &#8220;ZE&#8221; (number of zoospore equivalents detected for each treatment &#13;
+or swab event), &#8220;mass&#8221; (weight in grams of individual animals prior to formalin fixation), &#8220;frogid&#8221; &#13;
+(unique identifiers for each individual frog), and &#8220;SF&#8221; (success or failure of Batrachochytrium &#13;
+dendrobatidis detection for each swab or treatment type; 1= success, 0 = fail).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1983561</identifier><datestamp>2014-05-30T05:35:22Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.B2K47</identifier>
+  <creators>
+      <creator>
+         <creatorName>Fischer, Martin C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rellstab, Christian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tedder, Andrew</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zoller, Stefan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gugerli, Felix</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shimizu, Kentaro K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Holderegger, Rolf</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Widmer, Alex</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Population genomic footprints of selection and associations with climate in natural populations of Arabidopsis halleri from the Alps</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>environmental association</subject>
+      <subject>genome re-sequencing</subject>
+      <subject>Pool-seq</subject>
+      <subject>population genomics</subject>
+      <subject>Switzerland</subject>
+      <subject>Arabidopsis halleri</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Fischer MC, Rellstab C, Tedder A, Zoller S, Gugerli F, Shimizu KK, Holderegger R, Widmer A (2013) Population genomic footprints of selection and associations with climate in natural populations of Arabidopsis halleri from the Alps. Molecular Ecology 22(22): 5594&#8211;5607.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B2K47/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.B2K47/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/MEC.12521</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,63 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:3868712</identifier><datestamp>2014-11-13T18:25:33Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8SM01</identifier>
+  <creators>
+      <creator>
+         <creatorName>Horton, Matthew W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bodenhausen, Natacha</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Beilsmith, Kathleen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meng, Dazhe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Muegge, Brian D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Subramanian, Sathish</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vetter, M. Madlen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Vilhj&#225;lmsson, Bjarni J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nordborg, Magnus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gordon, Jeffrey I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bergelson, Joy</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genome-wide association study of Arabidopsis thaliana leaf microbial community</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>Host-genetics</subject>
+      <subject>Leaf-microbiome</subject>
+      <subject>Genome wide association studies</subject>
+      <subject>Arabidopsis thaliana</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Horton MW, Bodenhausen N, Beilsmith K, Meng D, Muegge BD, Subramanian S, Vetter MM, Vilhj&#225;lmsson BJ, Nordborg M, Gordon JI, Bergelson J (2014) Genome-wide association study of Arabidopsis thaliana leaf microbial community. Nature Communications 5: 5320.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8SM01/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1038/NCOMMS6320</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

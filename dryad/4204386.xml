@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4204386</identifier><datestamp>2014-11-13T23:35:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1T6S5.1/6.1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wagner, Maggie R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lundberg, Derek S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Coleman-Derr, Devin</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tringe, Susannah G.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Dangl, Jeffery L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mitchell-Olds, Thomas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>soil OTU table</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2014</publicationYear>
+  <subjects>
+      <subject>flowering time</subject>
+      <subject>microbiome</subject>
+      <subject>bacteria</subject>
+      <subject>phenology</subject>
+      <subject>selection</subject>
+      <subject>plant-microbe interactions</subject>
+      <subject>soil</subject>
+      <subject>plasticity</subject>
+      <subject>Idaho</subject>
+      <subject>Boechera stricta</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2014-04-17</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.1T6S5.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Unrarefied soil OTU table. This table contains only "reproducible" OTUs that had at least 25 reads in at least 5 samples (note that this thresholding step was performed on a larger dataset that included hundreds of samples, not yet published). First column contains unique identifiers of observed OTUs. Other columns contain the number of reads for each OTU in each soil sample. This file was the input leading to the rarefied dataset ('soil_otu_table_rare40k.txt') used for all downstream analyses in the publication.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

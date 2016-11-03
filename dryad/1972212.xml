@@ -1,0 +1,51 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:1972212</identifier><datestamp>2014-05-30T05:18:12Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.564MS</identifier>
+  <creators>
+      <creator>
+         <creatorName>M&#228;der, Geraldo</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Fregonezi, J&#233;ferson N.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lorenz-Lemke, Aline P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bonatto, Sandro L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Freitas, Loreta B.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Geological and climatic changes in quaternary shaped the evolutionary history of Calibrachoa heterophylla, an endemic South-Atlantic species of petunia</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+      <subject>South-Atlantic Coastal Plain</subject>
+      <subject>phylogeography</subject>
+      <subject>genetic diversity</subject>
+      <subject>climatic changes</subject>
+      <subject>petunia</subject>
+      <subject>South America</subject>
+      <subject>Brazil</subject>
+      <subject>Rio Grande do Sul</subject>
+      <subject>Quaternary</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Calibrachoa Heterophylla</subject>
+      <subject>Petunia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">M&#228;der G, Fregonezi JN, Lorenz-Lemke AP, Bonatto SL, Freitas LB (2013) Geological and climatic changes in quaternary shaped the evolutionary history of Calibrachoa heterophylla, an endemic South-Atlantic species of petunia. BMC Evolutionary Biology 13: 178.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.564MS/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.564MS/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1186/1471-2148-13-178</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

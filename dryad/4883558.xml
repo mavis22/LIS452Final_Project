@@ -1,0 +1,57 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:4883558</identifier><datestamp>2015-02-25T16:50:53Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.4GV50/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Wright, Alison E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Harrison, Peter W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Zimmer, Fabian</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Montgomery, Stephen H.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pointer, Marie A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mank, Judith E.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Sequences of Trinity contigs for each of the six Galloanserae species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <subjects>
+      <subject>Faster-Z evolution</subject>
+      <subject>effective population size</subject>
+      <subject>sexual selection</subject>
+      <subject>genetic drift</subject>
+      <subject>UK</subject>
+      <subject>90 million years</subject>
+      <subject>Anas platyrhynchos</subject>
+      <subject>Anser cygnoides</subject>
+      <subject>Meleagris gallopavo</subject>
+      <subject>Numida meleagris</subject>
+      <subject>Phasianus colchicus</subject>
+      <subject>Pavo cristatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Available">2016-02-16</date>
+      <date dateType="Accepted">2015-02-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.4GV50</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>1386795970 bytes</size>
+  </sizes>
+  <rights>At the request of the author, this item is embargoed until 2016-02-16</rights>
+  <descriptions>
+      <description descriptionType="Other">Contains a fasta file of Trinity assembly contig sequences for each of the six species. APL = Anas platyrhynchos, ACY = Anser cygnoides, MGA = Meleagris gallopavo, NME = Numida meleagris, PCO = Phasianus colchicus, PCR = Pavo cristatus.The left gonad and spleen were dissected separately from five males and five females of each species. The exceptions were P. colchicus, where six male gonad and spleen samples were collected, and M. gallopavo, where four male and two female spleens were collected. Samples were homogenzied and stored in RNAlater until preparation. We used the Animal Tissue RNA Kit (Qiagen) to extract RNA, and the samples were prepared and barcoded at The Wellcome Trust Centre for Human Genetics, University of Oxford using Illumina&#8217;s Multiplexing Sample Preparation Oligonucleotide Kit with an insert size of 280bp. RNA was sequenced on an Illumina HiSeq 2000. The data was quality assessed using FastQC v0.10.1 (www.bioinformatics.babraham.ac.uk/projects/fastqc) and filtered using Trimmomatic v0.22 (Lohse et al. 2012). Specifically, we removed reads containing adaptor sequences and trimmed reads if the sliding window average Phred score over four bases was &lt;15 or if the leading/trailing bases had a Phred score &lt;4. Reads were removed post filtering if either read pair was &lt;25 bases in length. We constructed de novo transcriptome assemblies for each species using Trinity with default parameters (Grabherr et al. 2011).</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>
