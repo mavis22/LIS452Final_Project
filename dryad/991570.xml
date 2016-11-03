@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:991570</identifier><datestamp>2014-05-29T23:46:02Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D73K0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hartig, Gerrit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Peters, Ralph S.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Borner, Janus</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Etzbauer, Claudia</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Misof, Bernhard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Niehuis, Oliver</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Oligonucleotide primers for targeted amplification of single-copy nuclear genes in apocritan Hymenoptera</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>hymenoptera primer PCR phylogenetics</subject>
+      <subject>apocritan Hymenoptera</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hartig G, Peters RS, Borner J, Etzbauer C, Misof B, Niehuis O (2012) Oligonucleotide primers for targeted amplification of single-copy nuclear genes in apocritan Hymenoptera. PLoS ONE 7(6): e39826.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D73K0/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1371/JOURNAL.PONE.0039826</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

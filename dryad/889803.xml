@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:889803</identifier><datestamp>2015-10-21T18:49:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.D7G00</identifier>
+  <creators>
+      <creator>
+         <creatorName>Delcourt, Matthieu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Blows, Mark W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Aguirre, J. David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rundle, Howard D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evolutionary optimum for male sexual traits characterized using the multivariate Robertson&#8211;Price Identity</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>cuticular hydrocarbons</subject>
+      <subject>Robertson-Price</subject>
+      <subject>stabilizing selection</subject>
+      <subject>sexual selection</subject>
+      <subject>evolutionary stasis</subject>
+      <subject>Drosophila serrata</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Delcourt M, Blows MW, Aguirre JD, Rundle HD (2012) Evolutionary optimum for male sexual traits characterized using the multivariate Robertson&#8211;Price Identity. 109(26): 10414&#8211;10419.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.D7G00/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1073/PNAS.1116828109</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:871344</identifier><datestamp>2014-05-29T20:41:20Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.GD856</identifier>
+  <creators>
+      <creator>
+         <creatorName>Woods, Ellen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hastings, Amy P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Turley, Nash E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heard, Stephen B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Agrawal, Anurag A.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Adaptive geographical clines in the growth and defense of a native plant</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>plant-insect interactions</subject>
+      <subject>milkweed</subject>
+      <subject>latitudinal gradient</subject>
+      <subject>Asclepias syriaca</subject>
+      <subject>Danaus plexippus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Woods E, Hastings AP, Turley NE, Heard SB, Agrawal AA (2011) Adaptive geographical clines in the growth and defense of a native plant. Ecological Monographs 82(2): 149&#8211;168.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/4</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/5</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.GD856/6</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1890/11-1446.1</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

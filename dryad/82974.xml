@@ -1,0 +1,37 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82974</identifier><datestamp>2014-05-29T18:54:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.1FH61</identifier>
+  <creators>
+      <creator>
+         <creatorName>Meachen-Samuels, Julie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Van Valkenburgh, Blaire</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Forelimb indicators of prey-size preference in the Felidae</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>morphometrics</subject>
+      <subject>forelimbs</subject>
+      <subject>allometric scaling</subject>
+      <subject>prey size</subject>
+      <subject>global</subject>
+      <subject>recent</subject>
+      <subject>Felidae</subject>
+      <subject>Canidae</subject>
+      <subject>Carnivora</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Meachen-Samuels J, Van Valkenburgh B (2009) Forelimb indicators of prey-size preference in the Felidae. Journal of Morphology 270(6): 729-744.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.1FH61/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1002/JMOR.10712</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:848508</identifier><datestamp>2015-10-26T19:27:43Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.615SC2RV/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>McCairns, R. J. Scott</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bernatchez, Louis</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Geometric morphometrics</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Phenotypic plasticity</subject>
+      <subject>Quantitative genetics</subject>
+      <subject>geometric morphometrics</subject>
+      <subject>sexual dimorphism</subject>
+      <subject>St. Lawrence River estuary</subject>
+      <subject>Quebec</subject>
+      <subject>Canada</subject>
+      <subject>Holocene</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-03-01</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.615SC2RV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>281262 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Morphological data. Geometric morphometric landmark data for wild-caught (wild) and lab-reared (qg) fish combined &#8211; the respective data sets are indicated in the Data.Set column. All missing or irrelevant data points and coding variables are marked NA. Deme indicates the sub-population to which an individual belongs (see McCairns and Bernatchez 2008 Mol. Ecol. 17:3901-3916 for further clarification regarding demes). Site is code corresponding to map locations (see Fig. 1). Sex distinguishes females (F) and males (M). SL corresponds to individual standard length (mm) and Plate.No indicates the total number of lateral plates counted along the left side. Dam &amp; Sire indicate the individuals used as broodstock, and Mat.Deme &amp; Pat.Deme denote their deme of origin, respectively. Cross denotes the maternal x paternal lineage. For lab-reared fish (Data.Set=qg), Env indicates the rearing environment, either FW (&lt; 1 parts-per-thousand salinity), or SW (20 parts-per-thousand); for wild-caught individuals (Data.Set=wild), Env is acoding variable indicating the salinity at the sampling site (FW=freshwater; SW=saltwater); note that BW indicates a site which experiences &#8216;atypical&#8217; salinity fluctuations relative to other sites within the geographic location of a given deme. Columns x1 to y14 contain the raw coordinates of the 14 landmarks (see Methods for details). Cent.Size is the individual&#8217;s centroid size. Shear &amp; Compr are the scores corresponding to affine (i.e. uniform) shape deformations, whereas columns Warp1 to Warp22 are the partial warp scores.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

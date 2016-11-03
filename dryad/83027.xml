@@ -1,0 +1,42 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:83027</identifier><datestamp>2015-10-02T15:40:40Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.VD8B0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Irwin, Darren E</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Irwin, Jessica H</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Smith, Thomas B</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic variation and seasonal migratory connectivity in Wilson&#8217;s warblers (Wilsonia pusilla): species-level differences in nuclear DNA between western and eastern populations</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>AFLP</subject>
+      <subject>cryptic species</subject>
+      <subject>migratory connecitivity</subject>
+      <subject>Speciation</subject>
+      <subject>North America</subject>
+      <subject>Pleistocene</subject>
+      <subject>Holocene</subject>
+      <subject>Wilsonia pusilla</subject>
+      <subject>Aves</subject>
+      <subject>Parulidae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Irwin DE, Irwin JH, Smith TB (2011) Genetic variation and seasonal migratory connectivity in Wilson&#8217;s warblers (Wilsonia pusilla): species-level differences in nuclear DNA between western and eastern populations. Molecular Ecology 20(15): 3102-3115.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VD8B0/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.VD8B0/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05159.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

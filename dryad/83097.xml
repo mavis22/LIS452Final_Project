@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:83097</identifier><datestamp>2015-10-21T20:23:18Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.41PN9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Conner, Jeffrey K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Karoly, Keith</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stewart, Christy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koelling, Vanessa A</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sahli, Heather F</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Shaw, Frank H</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Rapid independent trait evolution despite a strong pleiotropic genetic correlation</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Adaptation</subject>
+      <subject>Evolution: experimental</subject>
+      <subject>Genetics: evolutionary</subject>
+      <subject>Genetics: quantitative</subject>
+      <subject>Selection: artificial</subject>
+      <subject>Plant</subject>
+      <subject>Raphanus raphanistrum</subject>
+      <subject>Brassicaceae</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Conner JK, Karoly K, Stewart C, Koelling VA, Sahli HF, Shaw FH (2011) Rapid independent trait evolution despite a strong pleiotropic genetic correlation. The American Naturalist 178(4): 429-441.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.41PN9/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1086/661907</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

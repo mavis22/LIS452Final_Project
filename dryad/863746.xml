@@ -1,0 +1,48 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:863746</identifier><datestamp>2015-10-07T15:18:00Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P9T061VC</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kennedy, Jonathan David</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Weir, Jason T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hooper, Daniel Marc</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Tietze, D. Thomas</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Martens, Jochen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Price, Trevor Douglas</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Ecological limits on diversification of the Himalayan core Corvoidea</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Adaptive radiation</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Macroevolution</subject>
+      <subject>Diversity-dependence</subject>
+      <subject>Ecological controls</subject>
+      <subject>Himalayas</subject>
+      <subject>Corvoidea</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kennedy JD, Weir JT, Hooper DM, Tietze DT, Martens J, Price TD (2012) Ecological limits on diversification of the Himalayan core Corvoidea. Evolution 66(8): 2599-2613.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P9T061VC/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.P9T061VC/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01618.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

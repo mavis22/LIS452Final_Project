@@ -1,0 +1,58 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:868306</identifier><datestamp>2015-10-26T19:41:29Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6756P3CV/1</identifier>
+  <creators>
+      <creator>
+         <creatorName>Bleu, Josefa</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Heulin, Benoit</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Haussy, Claudy</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Meylan, Sandrine</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Massot, Manuel</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>data_Bleuetal_2012_JEB</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>viviparity</subject>
+      <subject>cost of reproduction</subject>
+      <subject>bimodal reproduction</subject>
+      <subject>squamate reptiles</subject>
+      <subject>trade-off</subject>
+      <subject>immune challenge</subject>
+      <subject>AVT-induced parturition</subject>
+      <subject>France</subject>
+      <subject>Zootoca vivipara</subject>
+      <subject>Lacerta vivipara</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2012-04-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.6756P3CV</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>2552 bytes</size>
+      <size>2703 bytes</size>
+      <size>48128 bytes</size>
+      <size>26112 bytes</size>
+      <size>45183 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Made available in DSpace on 2012-04-05T16:54:03Z (GMT). No. of bitstreams: 3
+README.pdf: 45183 bytes, checksum: 6c5cee4536adfd6afa1085415efc1720 (MD5)
+README.doc: 26112 bytes, checksum: a5a53cf52a9d0d423cc22faab80315ed (MD5)
+data_Bleuetal_2012_JEB.xls: 48128 bytes, checksum: 40a336179da8e6253df0b783b7a0fef9 (MD5)</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

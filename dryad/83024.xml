@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:83024</identifier><datestamp>2014-05-29T18:55:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.778C9</identifier>
+  <creators>
+      <creator>
+         <creatorName>Ozer, Fusun</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Gellerman, Holly</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ashley, Mary V</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Genetic impacts of Anacapa deer mice reintroductions following rat eradication</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Captive Populations</subject>
+      <subject>Conservation Genetics</subject>
+      <subject>Invasive Species</subject>
+      <subject>Mammals</subject>
+      <subject>Population Genetics - Empirical</subject>
+      <subject>California Channel Islands</subject>
+      <subject>Anacapa Island</subject>
+      <subject>Point Mugu</subject>
+      <subject>Peromyscus maniculatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Ozer F, Gellerman H, Ashley MV (2011) Genetic impacts of Anacapa deer mice reintroductions following rat eradication. Molecular Ecology 20(17): 3525-3539.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.778C9/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05165.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

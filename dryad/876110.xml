@@ -1,0 +1,38 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:876110</identifier><datestamp>2014-05-29T21:03:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.5SQ45</identifier>
+  <creators>
+      <creator>
+         <creatorName>Snowberg, Lisa Kathryn</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Bolnick, Daniel I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Partitioning the effects of spatial isolation, nest habitat, and individual diet in causing assortative mating within a population of threespine stickleback</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>habitat choice</subject>
+      <subject>diet variation</subject>
+      <subject>stable isotopes</subject>
+      <subject>spatial cosegregation</subject>
+      <subject>Burntout Lake</subject>
+      <subject>Vancouver Island</subject>
+      <subject>British Columbia</subject>
+      <subject>Canada</subject>
+      <subject>Gasterosteus aculeatus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Snowberg LK, Bolnick DI (2012) Partitioning the effects of spatial isolation, nest habitat, and individual diet in causing assortative mating within a population of threespine stickleback. Evolution 66(11): 3582&#8211;3594</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5SQ45/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.5SQ45/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01701.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

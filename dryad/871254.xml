@@ -1,0 +1,40 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:871254</identifier><datestamp>2014-05-29T20:48:48Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.SK94J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Hersch-Green, Erika I.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Myburg, Henrietta</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Johnson, Marc T. J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Adaptive molecular evolution of a defence gene in sexual but not functionally asexual evening primroses</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>coevolution</subject>
+      <subject>gene expression</subject>
+      <subject>genetic system</subject>
+      <subject>molecular variation</subject>
+      <subject>parthenogenesis</subject>
+      <subject>permanent translocation heterozygote</subject>
+      <subject>Onagraceae</subject>
+      <subject>Oenothera</subject>
+      <subject>Gayophytum</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Hersch-Green EI, Myburg H, Johnson MTJ (2012) Adaptive molecular evolution of a defence gene in sexual but not functionally asexual evening primroses. Journal of Evolutionary Biology 25(8): 1576-1586.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.SK94J/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1420-9101.2012.02542.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

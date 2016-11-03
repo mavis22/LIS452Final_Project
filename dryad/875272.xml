@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:875272</identifier><datestamp>2014-05-29T21:35:35Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.82J66</identifier>
+  <creators>
+      <creator>
+         <creatorName>Sternberg, Eleanore D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>LeF&#232;vre, Thierry</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, James</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Lopez Fernandez de Castillejo, Carlos</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Li, Hui</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Hunter, Mark D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Roode, Jacobus C.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Food plant-derived disease tolerance and resistance in a natural butterfly-plant-parasite interaction</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>host-parasite interactions</subject>
+      <subject>resistance</subject>
+      <subject>tolerance</subject>
+      <subject>monarch butterfly</subject>
+      <subject>milkweed</subject>
+      <subject>Ophryocystis elektroscirrha</subject>
+      <subject>Asclepias sp.</subject>
+      <subject>Danaus plexippus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Sternberg ED, LeF&#232;vre T, Li J, Lopez Fernandez de Castillejo C, Li H, Hunter MD, de Roode JC (2012) Food plant-derived disease tolerance and resistance in a natural butterfly-plant-parasite interaction. Evolution 66(11): 3367&#8211;3376.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.82J66/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.82J66/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01693.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

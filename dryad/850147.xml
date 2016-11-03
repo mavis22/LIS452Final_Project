@@ -1,0 +1,30 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:850147</identifier><datestamp>2015-08-20T18:44:26Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.KR006CF0/11</identifier>
+  <creators>
+      <creator>
+         <creatorName>Klimstra, Jon D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Padding, Paul I.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Distribution and Derivation Data</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2015</publicationYear>
+  <dates>
+      <date dateType="Accepted">2012-03-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.KR006CF0.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>518204 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">This zip file contains the raw data (reported direct recoveries, estimated recoveries, and estimated harvest) for each population for both adults and young. Within each spreadsheet the first tab shows the actual reported direct recoveries for each state and province within each year. Reward bands were used in 2004 and 2005 and are shown in the table. The second tab shows estimated recoveries calculated by adjusting the reported direct recoveries by a reporting rate. For all populations the reporting rate used came from Zimmerman et al. 2009. In the third tab in order to calculate the estimated harvest a weighting factor (the number of birds one banded bird represents) is needed. The weighting factor is calculated as the population estimate divided by the number of banded birds in a particular year. Estimated harvest is then calculated as the estimated recoveries multiplied by the weighting factor.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

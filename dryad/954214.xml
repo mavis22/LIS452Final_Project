@@ -1,0 +1,46 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:954214</identifier><datestamp>2014-05-29T21:09:05Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.JC76F</identifier>
+  <creators>
+      <creator>
+         <creatorName>Marazzi, Brigitte</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ane, Cecile M.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Simon, Marcelo F.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Luckow, Melissa A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Delgado-Salinas, Alfonso</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Sanderson, Michael J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Locating evolutionary precursors on a phylogenetic tree</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Homoplasy</subject>
+      <subject>Deep homology</subject>
+      <subject>Extra-floral nectary</subject>
+      <subject>Trait evolution</subject>
+      <subject>Leguminosae</subject>
+      <subject>Fabales</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Marazzi B, Ane CM, Simon MF,  Delgado-Salinas A, Luckow MA, Sanderson MJ (2012) Locating evolutionary precursors on a phylogenetic tree. Evolution 66(12): 3918&#8211;3930.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.JC76F/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01720.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

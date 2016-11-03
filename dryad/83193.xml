@@ -1,0 +1,47 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:83193</identifier><datestamp>2014-05-29T19:37:47Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S7DJ0</identifier>
+  <creators>
+      <creator>
+         <creatorName>Simpson, Carl</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kiessling, Wolfgang</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Mewis, Heike</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Baron-Szabo, Rosemarie C.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>M&#252;ller, Johannes</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Evolutionary diversification of reef corals: a comparison of the molecular and fossil records</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Macroevolution</subject>
+      <subject>Phylogenetics</subject>
+      <subject>Fossils</subject>
+      <subject>Paleobiology</subject>
+      <subject>Global</subject>
+      <subject>Mesozoic</subject>
+      <subject>Cenozoic</subject>
+      <subject>Recent</subject>
+      <subject>Scleractinia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Simpson C, Kiessling W, Mewis H, Baron-Szabo RC, M&#252;ller J (2011) Evolutionary diversification of reef corals: a comparison of the molecular and fossil records. Evolution 65(11): 3274-3284.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S7DJ0/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.S7DJ0/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2011.01365.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,44 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:861773</identifier><datestamp>2014-05-29T23:45:14Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.6D2PS7S7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Francis, Clinton D.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Kleist, Nathan J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Ortega, Catherine P.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Cruz, Alexander</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Noise pollution alters ecological services: enhanced pollination and disrupted seed dispersal</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Anthropogenic noise</subject>
+      <subject>birds</subject>
+      <subject>ecological service</subject>
+      <subject>human disturbance</subject>
+      <subject>pollination</subject>
+      <subject>seed dispersal</subject>
+      <subject>New Mexico</subject>
+      <subject>Southwestern United States</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Francis CD, Kleist NJ, Ortega CP, Cruz A (2012) Noise pollution alters ecological services: enhanced pollination and disrupted seed dispersal. Proceedings of the Royal Society B 279(1739): 2727-2735.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6D2PS7S7/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6D2PS7S7/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.6D2PS7S7/3</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1098/RSPB.2012.0230</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,56 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82879</identifier><datestamp>2015-10-21T16:32:36Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.2R4GJ/3</identifier>
+  <creators>
+      <creator>
+         <creatorName>Formica, Vincent A.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McGlothlin, Joel W.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Wood, Corlett Wolfe</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Augat, Malcolm E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Butterfield, R. Eileen</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Barnard, Mollie E.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Brodie III, Edmund D.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Social-selection-gradient</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>interacting phenotypes</subject>
+      <subject>sexual selection</subject>
+      <subject>social evolution</subject>
+      <subject>multilevel selection</subject>
+      <subject>contextual analysis</subject>
+      <subject>37.36919</subject>
+      <subject>-80.53448</subject>
+      <subject>Current</subject>
+      <subject>Bolitotherus cornutus</subject>
+  </subjects>
+  <dates>
+      <date dateType="Accepted">2011-04-25</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.2R4GJ</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+      <size>46613 bytes</size>
+  </sizes>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+  <descriptions>
+      <description descriptionType="Other">Data collected in the wild and managed with JMP v7.  Data used in the calculation of Table 3, Table 4, and Table 5.  These are the data used to calculate selection gradients.  Also used to generate Figure 4.</description>
+  </descriptions>
+</resource></payload></oai_datacite></metadata></record>

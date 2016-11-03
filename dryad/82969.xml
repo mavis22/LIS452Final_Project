@@ -1,0 +1,45 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82969</identifier><datestamp>2014-05-29T18:54:31Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.HH1F7</identifier>
+  <creators>
+      <creator>
+         <creatorName>Kraaijeveld, Ken</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Franco, Padu</creatorName>
+      </creator>
+      <creator>
+         <creatorName>de Knijff, Peter</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Stouthamer, Richard</creatorName>
+      </creator>
+      <creator>
+         <creatorName>van Alphen, Jacques J M</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Clonal genetic variation in a Wolbachia-infected asexual wasp: horizontal transmission or historical sex?</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>Evolution of Sex</subject>
+      <subject>Host Parasite Interactions</subject>
+      <subject>Phylogeography</subject>
+      <subject>Bacteria</subject>
+      <subject>Europe</subject>
+      <subject>Holocene</subject>
+      <subject>Leptopilina clavipes</subject>
+      <subject>Wolbachia</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Kraaijeveld K, Franco P, de Knijff P, Stouthamer R, van Alphen JJM (2011) Clonal genetic variation in a Wolbachia-infected asexual wasp: horizontal transmission or historical sex? Molecular Ecology 20(17): 3644-3652.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.HH1F7/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1365-294X.2011.05150.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:863884</identifier><datestamp>2014-05-29T20:43:45Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7FQ7D558</identifier>
+  <creators>
+      <creator>
+         <creatorName>Andersen, Sandra B.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boye, Mette</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nash, David R.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Boomsma, Jacobus J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Dynamic Wolbachia prevalence in Acromyrmex leaf-cutting ants: potential for a nutritional symbiosis</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Microbes</subject>
+      <subject>Host-parasite interaction</subject>
+      <subject>Insects</subject>
+      <subject>Wolbachia</subject>
+      <subject>Acromyrmex</subject>
+      <subject>Acromyrmex octospinosus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Andersen SB, Boye M, Nash DR, Boomsma JJ (2012) Dynamic Wolbachia prevalence in Acromyrmex leaf-cutting ants: potential for a nutritional symbiosis. Journal of Evolutionary Biology 25(7): 1340-1350.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7FQ7D558/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7FQ7D558/2</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1420-9101.2012.02521.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

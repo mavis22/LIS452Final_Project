@@ -1,0 +1,52 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:82869</identifier><datestamp>2015-10-26T20:38:32Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.7PB8S</identifier>
+  <creators>
+      <creator>
+         <creatorName>Smith, Christian T.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Nelson, R. John</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Pollard, Susan</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rubidge, Emily</creatorName>
+      </creator>
+      <creator>
+         <creatorName>McKay, Sheldon J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Rodzen, Jeff</creatorName>
+      </creator>
+      <creator>
+         <creatorName>May, Bernie</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Koop, Ben</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Population genetic analysis of white sturgeon (Acipenser transmontanus) in the Fraser River</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+      <subject>population genetics</subject>
+      <subject>microsatellite</subject>
+      <subject>Fraser River</subject>
+      <subject>Acipenser transmontanus</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Smith CT, Nelson RJ, Pollard S, Rubidge E, McKay SJ, Rodzen J, May B, Koop B (2002) Population genetic analysis of white sturgeon (Acipenser transmontanus) in the Fraser River. Journal of Applied Ichthyology 18(4-6): 307-312.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7PB8S/1</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7PB8S/2</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7PB8S/3</relatedIdentifier>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.7PB8S/4</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1046/J.1439-0426.2002.00418.X</relatedIdentifier>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>

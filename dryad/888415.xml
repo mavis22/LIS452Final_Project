@@ -1,0 +1,41 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:oai.datacite.org:888415</identifier><datestamp>2014-05-29T20:46:23Z</datestamp><setSpec>CDL</setSpec><setSpec>CDL.DRYAD</setSpec></header><metadata><oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.0/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.0/ http://schema.datacite.org/oai/oai-1.0/oai.xsd"><isReferenceQuality>false</isReferenceQuality><schemaVersion>2.2</schemaVersion><datacentreSymbol>CDL.DRYAD</datacentreSymbol><payload><resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadataVersionNumber="1" lastMetadataUpdate="2006-05-04" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.8906J</identifier>
+  <creators>
+      <creator>
+         <creatorName>Head, Megan L.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Berry, Lisa K.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Royle, Nick J.</creatorName>
+      </creator>
+      <creator>
+         <creatorName>Moore, Allen J.</creatorName>
+      </creator>
+  </creators>
+  <titles>
+      <title>Data from: Paternal care: direct and indirect genetic effects of fathers on offspring performance</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+      <subject>Maternal Effect</subject>
+      <subject>Quantitative Genetics</subject>
+      <subject>Paternal care</subject>
+      <subject>Parental effect</subject>
+      <subject>Indirect Genetic Effect</subject>
+      <subject>Cross-fostering</subject>
+      <subject>Nicrophorus vespilloides</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+      <alternateIdentifier alternateIdentifierType="citation">Head ML, Berry LK, Royle NJ, Moore AJ (2012) Paternal care: direct and indirect genetic effects of fathers on offspring performance. Evolution 66(11): 3570&#8211;3581.</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+      <relatedIdentifier relationType="HasPart" relatedIdentifierType="DOI">10.5061/DRYAD.8906J/1</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI">10.1111/J.1558-5646.2012.01699.X</relatedIdentifier>
+      <relatedIdentifier relationType="IsReferencedBy" relatedIdentifierType="DOI"/>
+  </relatedIdentifiers>
+  <rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+</resource></payload></oai_datacite></metadata></record>
